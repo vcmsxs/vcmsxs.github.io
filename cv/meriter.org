@@ -6,7 +6,7 @@
 #+SUBTITLE: Curriculum Vitae (CV)
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
-#+DATE: <2017-11-17 Fri>
+#+DATE: <2018-03-21 Wed>
 #+DESCRIPTION: Meriter - Curriculum vitae
 #+LANGUAGE: sv
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
@@ -16,6 +16,18 @@
 #+STARTUP: hideblocks 
 #+INFOJS_OPT: view:showall toc:nil
 #+LATEX_HEADER: \usepackage[AUTO]{babel}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancyplain}
+#+LATEX_HEADER: \cfoot{Medlemsinformation }
+#+LATEX_HEADER: \rfoot{Gefle Ölsellskap}
+#+LATEX_HEADER: \pagenumbering{arabic}
+
+# #+LATEX_HEADER: \chead{Informationsblad}
+# #+LATEX_HEADER: \rhead{2018}
+# #+LATEX_HEADER: \lhead{Gefle Ölsellskap}
+# #+LATEX_HEADER: \lfoot{2018-02-07}
+
+
 
 #+BEGIN_COMMENT 
 1. Ledarskap
