@@ -32,12 +32,17 @@
 #+END_CENTER
 
 -------
+  
+* Kontakt
 
-* En websida
-  Jag är inte säker på vad den här sidan skall handla om än.
-* Musik
-* Katter
-* Öl
-** Gefle Ölsellskap
-** Föreningen Gävle Finölsfestival - FGFF
-* ...hej och hå
+* CV
+
+* Info
+  
+* Gefle Ölsellskap
+  År 2017 blev jag ordförande i Gefle Ölsellskap. [[http://www.gefleolsellskap.com][Vår hemsida är
+  www.gefleolsellskap.com]]
+
+* Föreningen Gävle Finölsfestival - FGFF
+  Jag är även medlem i [[https://www.facebook.com/finolsfestivalen/][föreningen gävle finölsfestival]]
+  
