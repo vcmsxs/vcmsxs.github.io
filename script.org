@@ -1,0 +1,57 @@
+#+TITLE:     script.org
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE:      <2015-03-08 Sun>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+
+
+* Export
+** Meriter
+#+name: ExportCvOrgToHTML
+#+begin_src elisp :results silent
+(progn 
+  (setq org-publish-project-alist
+        '(
+          ("meriter_html"
+           :publishing-function  org-html-publish-to-html 
+           :base-directory "."
+           :publishing-directory  "."
+           )
+          ("meriter_pdf"
+           :base-directory "."
+           :publishing-directory  "."
+           :publishing-function org-latex-publish-to-pdf
+           )
+          ))
+  (org-publish "meriter_html")
+  (org-publish "meriter_pdf")
+  )
+#+end_src
+
+** Websida
+#+name: HtmlExportWebsida
+#+begin_src elisp 
+(progn 
+(require 'ox-publish)
+
+(setq org-publish-project-alist
+      '(("web"
+	 :makeindex t
+	 :base-extension "org"
+         :base-directory "~/doc/privat/websida"
+	 :publishing-function  org-html-publish-to-html 
+	 :publishing-directory  "~/doc/privat/publish"
+	 )))
+
+
+(org-publish "web")
+)
+#+end_src
+
+#+RESULTS: HtmlExportWebsida
+| web | :makeindex | t | :base-extension | org | :base-directory | ~/doc/privat/websida | :publishing-function | org-html-publish-to-html | :publishing-directory | ~/doc/privat/publish |
+
+
