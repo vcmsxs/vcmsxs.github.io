@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
 <head>
-<!-- 2018-03-21 Wed 10:26 -->
+<!-- 2018-03-21 Wed 14:00 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>script.org</title>
@@ -230,43 +230,38 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 <h1 class="title">script.org</h1>
-<div id="table-of-contents">
-<h2>Inneh&aring;ll</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#org931cb2a">1. Export</a>
-<ul>
-<li><a href="#org2e28fcc">1.1. Meriter</a></li>
-<li><a href="#orgc2b8721">1.2. Websida</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
 
 
-<div id="outline-container-org931cb2a" class="outline-2">
-<h2 id="org931cb2a"><span class="section-number-2">1</span> Export</h2>
+<div id="outline-container-orgfcc808f" class="outline-2">
+<h2 id="orgfcc808f"><span class="section-number-2">1</span> Export</h2>
 <div class="outline-text-2" id="text-1">
-</div>
-<div id="outline-container-org2e28fcc" class="outline-3">
-<h3 id="org2e28fcc"><span class="section-number-3">1.1</span> Meriter</h3>
-<div class="outline-text-3" id="text-1-1">
 <div class="org-src-container">
-<pre class="src src-elisp" id="orgf67a167">(<span style="color: #FBDE2D;">progn</span> 
+<pre class="src src-elisp" id="org512a6af">(<span style="color: #FBDE2D;">progn</span> 
   (<span style="color: #FBDE2D;">setq</span> org-publish-project-alist
         '(
-          (<span style="color: #61CE3C;">"meriter_html"</span>
+          (<span style="color: #61CE3C;">"index_html"</span>
            <span style="color: #FF6400;">:publishing-function</span>  org-html-publish-to-html 
            <span style="color: #FF6400;">:base-directory</span> <span style="color: #61CE3C;">"."</span>
            <span style="color: #FF6400;">:publishing-directory</span>  <span style="color: #61CE3C;">"."</span>
            )
-          (<span style="color: #61CE3C;">"meriter_pdf"</span>
+          (<span style="color: #61CE3C;">"index_pdf"</span>
            <span style="color: #FF6400;">:base-directory</span> <span style="color: #61CE3C;">"."</span>
            <span style="color: #FF6400;">:publishing-directory</span>  <span style="color: #61CE3C;">"."</span>
            <span style="color: #FF6400;">:publishing-function</span> org-latex-publish-to-pdf
            )
+          (<span style="color: #61CE3C;">"meriter_html"</span>
+           <span style="color: #FF6400;">:publishing-function</span>  org-html-publish-to-html 
+           <span style="color: #FF6400;">:base-directory</span> <span style="color: #61CE3C;">"./cv"</span>
+           <span style="color: #FF6400;">:publishing-directory</span>  <span style="color: #61CE3C;">"./cv"</span>
+           )
+          (<span style="color: #61CE3C;">"meriter_pdf"</span>
+           <span style="color: #FF6400;">:base-directory</span> <span style="color: #61CE3C;">"./cv/"</span>
+           <span style="color: #FF6400;">:publishing-directory</span>  <span style="color: #61CE3C;">"./cv/"</span>
+           <span style="color: #FF6400;">:publishing-function</span> org-latex-publish-to-pdf
+           )
           ))
+  (org-publish <span style="color: #61CE3C;">"index_html"</span>)
+  (org-publish <span style="color: #61CE3C;">"index_pdf"</span>)
   (org-publish <span style="color: #61CE3C;">"meriter_html"</span>)
   (org-publish <span style="color: #61CE3C;">"meriter_pdf"</span>)
   )
@@ -274,36 +269,11 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-
-<div id="outline-container-orgc2b8721" class="outline-3">
-<h3 id="orgc2b8721"><span class="section-number-3">1.2</span> Websida</h3>
-<div class="outline-text-3" id="text-1-2">
-<div class="org-src-container">
-<pre class="src src-elisp" id="org0ca1178">(<span style="color: #FBDE2D;">progn</span> 
-(<span style="color: #FBDE2D;">require</span> '<span style="color: #4c83ff;">ox-publish</span>)
-
-(<span style="color: #FBDE2D;">setq</span> org-publish-project-alist
-      '((<span style="color: #61CE3C;">"web"</span>
-     <span style="color: #FF6400;">:makeindex</span> t
-     <span style="color: #FF6400;">:base-extension</span> <span style="color: #61CE3C;">"org"</span>
-         <span style="color: #FF6400;">:base-directory</span> <span style="color: #61CE3C;">"~/doc/privat/websida"</span>
-     <span style="color: #FF6400;">:publishing-function</span>  org-html-publish-to-html 
-     <span style="color: #FF6400;">:publishing-directory</span>  <span style="color: #61CE3C;">"~/doc/privat/publish"</span>
-     )))
-
-
-(org-publish <span style="color: #61CE3C;">"web"</span>)
-)
-</pre>
-</div>
-</div>
-</div>
-</div>
 </div>
 <div id="postamble" class="status">
 <p class="date">Datum: 2015-03-08 Sun 00:00</p>
 <p class="author">F&ouml;rfattare: Johan Sandén</p>
-<p class="date">Created: 2018-03-21 Wed 10:26</p>
+<p class="date">Created: 2018-03-21 Wed 14:00</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

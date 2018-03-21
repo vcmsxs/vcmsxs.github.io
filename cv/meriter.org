@@ -88,7 +88,7 @@ version går att ladda ner från min websida.
    :PROPERTIES:
    :CUSTOM_ID: h:5137991a-5103-44ee-9fc3-f3a048616743
    :END:
-#+INCLUDE: ../websida/kontakt_upg_privat.org
+#+INCLUDE: ../kontakt_upg_privat.org
  #+LaTeX: \pagebreak
 
 ** Vem är Johan?
@@ -125,8 +125,8 @@ och framför andra plattformar och jag jobbar gärna remote.
    :END:
    - Jag söker främst arbete inom teknisk projektledning, arkitekt
      eller it-strateg.
-   - Jag jobbar även gärna med DevOps/Systemutveckling om uppgifterna är det
-     rätta.
+   - Jag jobbar även gärna med DevOps/Systemutveckling om uppgifterna
+     är det rätta.
    
 ** Kompetens och erfarenhet 
    :PROPERTIES:
@@ -150,8 +150,8 @@ Beräkningar på hur länge jag jobbat.
    :END:
    Sedan 2017 är jag ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]]. En förening som
    med drygt 100 medlemmar med främsta syfte att främja öl-kultur. Vi
-   annordnar öl-provningar och studieresor. Delar ut ett årligt
-   stipendium och har väldigt roligt tillsammans.
+   annordnar öl-provningar, studieresor och fester. Vi delar även ut
+   ett årligt stipendium och har väldigt roligt tillsammans.
  #+LaTeX: \pagebreak
    
 ** Nuvarande anställning
@@ -185,7 +185,6 @@ Beräkningar på hur länge jag jobbat.
    |---------------+-----------+-----------+-------------|
    | [[https://www.learningtree.se/][Learning Tree]] | Juni 2017 | Stockholm | [[http://www.hoahoa.se/cv/learningtree_diplom_pm3_itil.pdf][PDF]]         |
  
-
 ** Kurs/Certifiering: [[https://www.prince2.com/eur][PRINCE2®]] 
    :PROPERTIES:
    :CUSTOM_ID: h:567af795-b508-46ee-afe9-d10f3f9f1dfe
