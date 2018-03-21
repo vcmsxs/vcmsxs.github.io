@@ -1,0 +1,88 @@
+#+TITLE: Kompetensmatriser
+#+DATE: <2014-05-09 fre>
+#+AUTHOR: Johan Sandén
+#+EMAIL: johan.sanden@gmail.com
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 24.3.1 (Org mode 8.2.5h)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+
+* Definitioner
+** 
+** Kunskapsnivå
+   0. [@0] Ingen kunskap.
+   1. Små kunskaper.
+      - Namn, definitioner, grundläggande principer.
+   2. Vissa kunskaper.
+      - Kunskap i vissa avgränsade delar.
+      - Kan troligen sätta sig in i ämnet ganska lätt.
+      - Har helt förstått principerna.
+   3. Kunnig.
+      - Kan de vanliga best practice.
+      - De viktigate externa delarna (apier, libbar, program)
+      - Kan undviker vanliga falluckor.
+   4. Goda kunskaper.
+      - Kan flera api:er
+      - Best practice kunskaper
+      - Har djupgående kunskaper i principer
+      - Kan varianter och olika varianters styrkor
+   5. Expert.
+
+* Projek/process 
+| Begrepp        | Nivå |
+|----------------+------|
+| Projektledning |    3 |
+| Scrum          |    3 |
+| Kanban         |    4 |
+|                |      |
+   
+* Programmerinsspråk
+| Språk          | Kunskapsnivå |
+|----------------+--------------|
+| Python         |            4 |
+| ELisp          |            3 |
+| Java           |            4 |
+| Bash           |            3 |
+| c              |            3 |
+| C++            |            3 |
+| Perl           |            2 |
+| SQL            |            3 |
+| Borland Pascal |            3 |
+| Common Lisp    |            2 |
+| Prolog         |            1 |
+  
+* Utecklingsmiljöer
+  
+| Miljö            | Kunskapsnivå |
+|------------------+--------------|
+| Emacs            |            4 |
+| Eclips/STS       |            3 |
+| Visual Studio    |            2 |
+| Borland JBuilder |            2 |
+|                  |              |
+
+* Biblotek
+** Java
+** Python
+** Emacs
+
+* Operativsystem
+| Operativ | Kunskapsnivå |
+|----------+--------------|
+| OS X     |            1 |
+| Windows  |            3 |
+| Linux    |            4 |
+| Unix     |            3 |
+| Android  |            2 |
+| iOS      |            1 |
+|          |              |
+
+  
+

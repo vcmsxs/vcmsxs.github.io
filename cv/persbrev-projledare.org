@@ -1,0 +1,88 @@
+# #+LATEX_HEADER: \usepackage{lmodern}
+# #+LATEX_HEADER: \usepackage{microtype}
+#+TITLE:     Jobbansökan.
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE:      <2015-11-23 Mon 17:33>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:nil toc:nil \n:t @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:nil pri:nil tags:not-in-toc
+
+#+LaTeX: \vspace*{24} 
+
+#+NAME:  Bild på mig.
+[[../cv/jagbild_medium.png]] 
+
+Detta brev kan [[file:persbrev-projledare.pdf][laddas ner som pdf]] eller [[file:persbrev-projledare.prg][läsas i en webläsare.]]
+
+#+LaTeX: \pagebreak
+#+LaTeX: \noindent 
+*Anställningssökande* \\ 
+Johan Sandén \\
+#+INCLUDE:../websida/kontakt_upg.org
+
+* Certifierad agil projektledare söker jobb i Gävleområdet. 
+-------
+Jag söker från och med idag <2015-12-07 Mon> anställning som
+projektledare eller teknisk projektledare.
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent 
+Sedan höstan 2008 har varit anställd på Knowit i Gävle. Anledningen
+till att jag söker nytt jobb är att min nuvarande arbetsgivare har
+svårt att hitta uppdrag som passar min profil och önskemål.
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent 
+Jag är certifierad projektledare med inriktning på ledarskap. Jag har
+deltagit i flera agila projekt med kanban och scrum som processmodell.
+Jag har även certifierat mig till scrummaster och produktägare och jag
+har hållt föredrag i agil utveckling för systemutvecklingsteam.
+#+LaTeX: \indent 
+På Lantmäteriet har jag bland annat varit applikationsansvarig,
+gruppledare/coach och teknisk expert. Jag känner mig ivrig och mer än
+redo för nya utmaningar
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent 
+Från början är systemutvecklare. Främst har jag jobbat med stora
+system skrivet i Java och c/C++. De flesta systemen har haft många
+beroendesystem, databaser och webinterface. De senaste året har det
+handlat om arkiveringssystem merparten har varit skrivet i Python. För
+jobbade vi oftast i Windows men de senate åren har utvecklingen gradiv
+allt mer gått över på till Gnu/Linux på serversidan.
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent 
+Tidigare jobbade jag mycket mot Ericsson i Gävle men de senaste åren
+har Lanmäteriet varit den främsta kunden.
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent 
+Privat lever jag med min fru Anna och våra barn, Dante och Lukas i
+Hille. Vårt hus ligger ungefär en mil norr om Gävle centrum. Vi har
+katter, gamla lador som måste lagas, en stor knölig gräsmatta och
+massor av jobb på huset om jag känner mig uttråkad.
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent 
+Mina personliga intressen kretsar runt kultur med tyngpunkt på musik.
+Jag har en liten studio där jag får kreativt utlopp och jag har spelat
+i flera okända band. Min plan och halvhemliga dröm är att göra mer
+musik när ungarna blivit lite större.
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent 
+Att arbeta som konsult eller fastanställning spelar ingen roll för
+mig. Om Ni tycker att jag och mina erfarenheter verkar lämpliga för
+anställningen så ser mycket fram emot att får träffa Er.
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent
+*Med vänliga hälsningar.*
+
+#+LaTeX: \bigskip
+#+LaTeX: \noindent
+Johan Sandén
+------
+

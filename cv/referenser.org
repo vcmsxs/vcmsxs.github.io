@@ -1,0 +1,57 @@
+#+LATEX_HEADER: \usepackage{lmodern}
+#+LATEX_HEADER: \usepackage{microtype}
+#+LATEX_CLASS: report
+#+TITLE: REFERENSER
+#+AUTHOR: Johan Sandén
+#+EMAIL: johan.sanden@gmail.com
+#+DATE: <2016-11-22 Tue>
+#+DESCRIPTION: REFERENSER - CV - Johan Sandén
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:t toc:nil \n:t @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to email:t 
+#+OPTIONS:   texht:t author:t creator:t
+#+STARTUP: hideblocks 
+#+INFOJS_OPT: view:showall toc:nil
+#+LaTeX: \vspace*{24} 
+
+#+BEGIN_CENTER
+| *Namn*      | *Markus Sköld*   |
+|-------------+------------------|
+| Telefon     | 070 - 5241732    |
+| Epostadress | mskold@gmail.com |
+|-------------+------------------|
+#+END_CENTER
+#+LaTeX: \noindent 
+Markus var min projektledare på Lantmateriet. Han var även
+konsultkolega på Knowit.
+\bigskip
+-------
+\bigskip
+#+BEGIN_CENTER
+
+| *Namn*      | *Alf Mikael Larsson* |
+|-------------+----------------------|
+| Telefon     | 0705870726           |
+| Epostadress | alf.mikael@gmail.com |
+|-------------+----------------------|
+#+END_CENTER
+#+LaTeX: \noindent 
+\skip
+Alf var min projektledare på KenVision, vi var även kollegor på Mind i
+Uppsala. Alf jobbar idag som projektledare/chef på Polisens it.
+\bigskip
+-------
+\bigskip
+#+BEGIN_CENTER
+| *Namn*      | *Peter Jansson*   |
+|-------------+-------------------|
+| Telefon     | 070-2062623       |
+| Epostadress | pejas99@gmail.com |
+|-------------+-------------------|
+#+END_CENTER
+#+LaTeX: \noindent 
+\skip
+Peter och jag har varit kollegor på Syntronic, Mandator och ITG Data.
+Idag är Peter egenföretagare.
+\bigskip
+

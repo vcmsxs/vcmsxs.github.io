@@ -1,0 +1,501 @@
+#+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
+#+LATEX_HEADER: \usepackage{lmodern}
+#+LATEX_HEADER: \usepackage{microtype}
+#+TITLE: Johan Sandén
+# #+TITLE: Meriter och Levandhistoria 
+#+SUBTITLE: Curriculum Vitae (CV)
+#+AUTHOR: Johan Sandén
+#+EMAIL: johan.sanden@gmail.com
+#+DATE: <2017-11-17 Fri>
+#+DESCRIPTION: Meriter - Curriculum vitae
+#+LANGUAGE: sv
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+# #+OPTIONS:   auto-id:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks 
+#+INFOJS_OPT: view:showall toc:nil
+#+LATEX_HEADER: \usepackage[AUTO]{babel}
+
+#+BEGIN_COMMENT 
+1. Ledarskap
+2. Driven
+3. Kreativ
+4. Strategisk
+5. Passionerad
+6. Betydande erfarenhet
+7. Ansvarsfull
+8. Motiverad
+9. Positiv
+10. Bred erfarenhet
+#+END_COMMENT
+
+
+#+BEGIN_CENTER
+#+ATTR_LATEX: :width 4cm 
+[[file:blekjag.jpeg]]
+#+END_CENTER
+
+#+LaTeX: \bigskip
+#+LaTeX: \vspace*{70} 
+
+*Meritlista (Curriculum Vitae).*
+
+Oförändrat får dokumentet kopieras och distribueras. En uppdaterad
+version går att ladda ner från min websida.
+   - För utskrift [[http://hoahoa.se/cv/meriter.pdf][ladda ner den PDF]]
+   - För att [[http://hoahoa.se/cv/meriter.html][läs den online som HTML]] 
+
+# #+begin_latex
+# \pagebreak
+# #+end_latex
+
+# # #+LaTeX: \bigskip
+# #+LaTeX: \vspace*{70} 
+ 
+# [[file:./jagbild_medium.png]]
+
+
+#+LaTeX: \pagebreak
+
+#+begin_latex
+#+toc: headlines 2
+#+end_latex
+
+#+begin_latex
+ \pagebreak
+#+end_latex
+ 
+* Allmänt
+  :PROPERTIES:
+  :CUSTOM_ID: h:ceeeaa24-33d8-4d16-aa22-ae963f98ae3a
+  :END:
+** Information
+   :PROPERTIES:
+   :CUSTOM_ID: h:8792e991-bb6b-4b47-aa97-ccb68b40887a
+   :END:
+ 1. Namn: Sandén, _Johan_ Ragnar
+ 2. Födelsedatum: [1973-04-20 Fri] 
+ 3. Bostadsort: Gävle, Hille
+ 4. Körkort: B
+ 5. Civilstatus: Gift - Anna
+ 6. Förälder:
+    - Dante (-2006)
+    - Lukas (-2012)
+ #+LaTeX: \pagebreak
+
+** Kontaktuppgifter
+   :PROPERTIES:
+   :CUSTOM_ID: h:5137991a-5103-44ee-9fc3-f3a048616743
+   :END:
+#+INCLUDE: ../websida/kontakt_upg_privat.org
+ #+LaTeX: \pagebreak
+
+** Vem är Johan?
+  :PROPERTIES:
+  :CUSTOM_ID: h:a637015d-c14f-432d-a928-cfffd0791804
+  :END:
+Född, uppväxt och bor i Gävle. Jag, min fru och våra två illbattingar bor i ett
+100 år gamalt hus som ständigt rustas och byggs om. 
+
+På min fritid är jag bland annat ordförande i Gefle Ölsellskap. Gefle ölsellskap
+bildades år 2000, jag gick med 2003 och är idag en förening med drygt 100
+medlemmar.
+
+Från sju års ålder hade jag pianolärare upp i gymnasiet. Enligt mina föräldrar
+försöka jag spela ungefär samtidigt som jag lärde mig stå och nådde upp till
+pianotangenterna. I modern tid har jag spelat i flera okända band och men nu har
+jag bara tid att avreagera mig kreativt i min lilla hobbystudio i källaren.
+
+När jag var runt nio tjatade jag till mig en dator i julklapp. På den och andra
+datorer jag kom över programmerade jag upp i gymnasiet och det var det intresset
+som fick mig att välja dataingenjör i högskolan. Programmering jämte musiken
+blev de intressen som följt mig upp i vuxen ålder.
+
+Mina vänner beskriver mig som tankfull och lugn, vilket jag tror stämmer. Jag
+har inga planer på att flytta från Gävle men jag har inga problem med att åka
+till Stockholm eller annan ort ett par gånger i veckan. Jag föredrar Linux/*nix
+och framför andra plattformar och jag jobbar gärna remote.
+
+ #+LaTeX: \pagebreak
+
+** Önskade arbetsuppgifter.
+   :PROPERTIES:
+   :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
+   :END:
+   - Jag söker främst arbete inom teknisk projektledning, arkitekt
+     eller it-strateg.
+   - Jag jobbar även gärna med DevOps/Systemutveckling om uppgifterna är det
+     rätta.
+   
+** Kompetens och erfarenhet 
+   :PROPERTIES:
+   :CUSTOM_ID: h:6899e186-95f8-4ce9-9dbb-0d9ca986fae4
+   :END:
+#+BEGIN_COMMENT
+Beräkningar på hur länge jag jobbat.
+(- 2018 1997) = 21
+(- 2018 1995) = 23
+#+END_COMMENT
+
+  1. Certifierad *Prince2® Projektledare*
+  2. Certifierad *projektledare* med inriktning på *ledarskap*
+  3. Certifierad *produktägare* och *scrum-master* 
+  4. Tjugo års+ erfarenhet i it-branschen främst som it-konsult.
+  6. De senaste åren har jag varit applikationsansvarig, gruppledare och
+     Systemutvecklande konsult på Lantmäteriet i Gävle.
+** Förtroendeuppdrag.
+   :PROPERTIES:
+   :CUSTOM_ID: h:c45ab0b8-4a62-4e3e-9703-036e36a4a806
+   :END:
+   Sedan 2017 är jag ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]]. En förening som
+   med drygt 100 medlemmar med främsta syfte att främja öl-kultur. Vi
+   annordnar öl-provningar och studieresor. Delar ut ett årligt
+   stipendium och har väldigt roligt tillsammans.
+ #+LaTeX: \pagebreak
+   
+** Nuvarande anställning
+   :PROPERTIES:
+   :CUSTOM_ID: h:22921615-ef13-48d3-965a-d74661f16611
+   :END:
+   Sedan 2008 har jag arbetat som It-konsult i Gävle med KnowIT som
+   arbetsgivare. Den senaste tiden har jag främst arbetat inom
+   fastighetsdata mot Lantmäteriet. Rollerna och projekten har
+   varierat.
+   | Gruppledare                    | Applikationsansvarig |
+   | Förvaltare/vidareutvecklare    | Systemutvecklare     |
+   | Teknisk konsult i "testfabrik" | Databasmigrerare    |
+   | Deployer/Integrerare           |                      |
+
+   Under min tiden på [[*Knowit][Knowit]] har jag utbildat mig i [[#lblkurser][agilt]] [[#lblkurser][ledarskap]],
+   [[#h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783][förvaltning]] och [[#lblkurser][projektledning]]
+   
+   Min nuvarande månadslön ligger på drygt 50,000kr inklusive förmåner
+   och arbetstidsförkortning.
+
+* Utbildningar och kurser
+:PROPERTIES:
+:CUSTOM_ID: lblkurser
+:END:
+** Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
+   :PROPERTIES:
+   :CUSTOM_ID: h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783
+   :END:
+   | Regi          | Tid       | Plats     | Diplom      |
+   |---------------+-----------+-----------+-------------|
+   | [[https://www.learningtree.se/][Learning Tree]] | Juni 2017 | Stockholm | [[http://www.hoahoa.se/cv/learningtree_diplom_pm3_itil.pdf][PDF]]         |
+ 
+
+** Kurs/Certifiering: [[https://www.prince2.com/eur][PRINCE2®]] 
+   :PROPERTIES:
+   :CUSTOM_ID: h:567af795-b508-46ee-afe9-d10f3f9f1dfe
+   :END:
+   | Regi   | Tid            | Plats     | Diplom |
+   |--------+----------------+-----------+--------|
+   | [[http://www.metier.se][Metier]] | September 2016 | Stockholm | [[http://www.hoahoa.se/cv/e-Cert-Prince2.pdf][PDF]]    |
+
+** [[http://kurs.citerus.se/kurser/niva-2/certifierad-produktagare-i-scrum][Kurs/Certifiering: Produktägare]]
+   :PROPERTIES:
+   :CUSTOM_ID: h:35953f9e-bc28-4fa8-b7ee-4c8b0dbf3bbc
+   :END:
+   | Regi    | Tid           | Plats     | Diplom |
+   |---------+---------------+-----------+--------|
+   | [[http://www.citerus.se/][Citerus]] | December 2014 | Stockholm | [[http://www.hoahoa.se/cv/johansanden_cspo_cert_a4.pdf][PDF]]    |
+
+** [[http://www.citerus.se/curriculum/193425-certifierad-scrum-master][Kurs/Certifiering: Scrum Master]]
+   :PROPERTIES:
+   :CUSTOM_ID: h:f577cff5-da38-495a-8abe-1d30a461bfed
+   :END:
+   | Regi    | Tid          | Plats   | Diplom |
+   |---------+--------------+---------+--------|
+   | [[http://www.citerus.se/][Citerus]] | Januari 2009 | Uppsala | [[http://www.hoahoa.se/cv/johansanden_csm_cert_a4.pdf][PDF]]    |
+ 
+** [[http://www.learningtree.se/cert/direct/cert1.htm][Kurs/Certifiering: Projekledning]]
+   :PROPERTIES:
+   :CUSTOM_ID: h:fb5ad144-354b-416c-9f76-c0b9e55a3e76
+   :END:
+   | Regi          | Tid      | Plats     | Diplom       |
+   |---------------+----------+-----------+--------------|
+   | [[https://www.learningtree.se/][Learning Tree]] | Maj 2012 | Stockholm | [[http://www.hoahoa.se/cv/learningtree_diplom.pdf][PDF/Diplom]]   |
+ 
+   
+  
+*** Ingående kurser 
+    :PROPERTIES:
+    :CUSTOM_ID: h:0e99fa60-a35a-4253-a393-551257cdabc3
+    :END:
+      | Kurs                                                                | Tid          |
+      |---------------------------------------------------------------------+--------------|
+      | [[http://www.learningtree.se/courses/296.pdf][Projektledning (Kurs 296)]]                                           | Augusti 2011 |
+      | [[http://www.learningtree.se/courses/315.pdf][Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]] | Oktober 2011 |
+      | [[http://www.learningtree.se/courses/346.pdf][Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]]  | Januari 2012 |
+      | [[http://www.learningtree.se/courses/290.pdf][Ledarskap (Kurs 290)]]                                                | Maj 2012     |
+
+** [[http://www.astrakan.se/Kurser/Projektledning/Praktisk-projektledning/?gclid=COrAnJv1orcCFdOXcAodsTcASw][Kurs: Praktisk Projektledning]]
+   :PROPERTIES:
+   :CUSTOM_ID: h:6c74b2d6-c957-4b27-9c4e-021eda04ba14
+   :END:
+   | Regi     | Tid           | Plats     |
+   |----------+---------------+-----------|
+   | [[http://www.astrakan.se/][Astrakan]] | December 2006 | Stockholm |
+
+** Skolor
+   :PROPERTIES:
+   :CUSTOM_ID: h:5da9cad4-e70f-49fd-b65a-7fd32c41f625
+   :END:
+| Nivå       | Skola                                          | Period      |
+|------------+------------------------------------------------+-------------|
+| Högskola   | Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG) | 1992 - 1994 |
+| Gymnasium  | Naturvetenskaplig Linje, Vasaskolan i Gävle    | 1989 - 1992 |
+| Grundskola | Storhags- och Lillhagsskolan i Gävle           | 1980 - 1989 |
+     
+* Kompetenser
+  :PROPERTIES:
+  :CUSTOM_ID: h:8c20cf7d-6eed-4d9a-8ba4-e96e36f3a54a
+  :END:
+** Branscher 
+   :PROPERTIES:
+   :CUSTOM_ID: h:7fccea77-1506-44bb-b513-0e622f059e71
+   :END:
+   1. Konsult : Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och
+       uppdrag][Arbetsgivare]]
+   2. Fastighet : på Lantmäteriet via [[#h:013768a9-9497-4930-b746-b2bc2e683bde][Knowit]] 
+   3. TeleCom (Produktions test) : Ericsson AB via [[#h:c10a20a0-7f9d-43cd-8e38-f06f531315d5][Syntronic]] [[#h:d9c4d75b-24b0-42f5-9a99-04fc71ce1cc5][Mandator]]
+      [[#h:18c092ef-ee3c-4f8a-88f0-a4aca7b3c4e6][ITG]]
+   4. Test : "Testfabrik" på Lantmäteriet via [[#h:99e64ea4-1a05-4a7b-a1e0-e0aaa5f7e0f7][Fujitzu]]
+   5. 3D/Grafik/Realtid : [[#h:8dbe3d15-e290-447e-8cde-53b3d099e216][KenVision]]
+   6. Utbildning : *Agil utveckling* - som konsult mot Korsnäs via
+      [[#h:013768a9-9497-4930-b746-b2bc2e683bde][Knowit]], *Java* - intern utbildning på [[#h:d9c4d75b-24b0-42f5-9a99-04fc71ce1cc5][Mandator]], *IT-handledning*
+      på [[#h:8fc8c7e4-64b5-4e3b-8211-91f6183beee4][Datorteket (Gävle Kommun)]]  
+   7. Smarta Hem : [[#h:9decca1d-d483-4c5c-b83b-4a46173bcb3f][Utilator]]
+
+** COMMENT Metoder
+   :PROPERTIES:
+   :CUSTOM_ID: h:348f6f05-4b92-437a-9a4b-03dc1026e5e9
+   :END:
+   1. Projektstyrning 
+      - Jag har kommit i kontakt med många styrningsmodeller genom
+        åren bl.a. Lupp på Lantmäteriet och Rup/Props mot Ericsson.
+        Jag har certifierat mig i Prince2® och gått två utbildningar
+        sammanlagt 5 veckor mot allmän projektledning.
+   2. Projektprocesser
+      - Jag är certifierad Scrum master och Scrum Produktägare och på
+        Lantmäteriet har vi planerat allt arbetet med hjälp av Kanban
+        sen 2010.
+   3. TDD/BDD/DDD och Continuos Integration
+      - Jag är familjär med alla dessa akronym men har aldrig använt
+        dem hårt och fullt ut, som XP förespråkar. Alla projekt idag
+        testar sina funktioner med unit-tester och följer upp med
+        system/integrations-test oftast kör man testerna en gång varje
+        dag för undvik "code rot" och problem med integration.
+   4. Literate Programming
+      - En teknik som inte utnyttjas så ofta idag. Den går ut på att
+        skriva dokumentation där man förklarar sin kod med exempel.
+        När man sedan kör en "tangel"-funktion på dokument får man ut
+        den körbara koden och woven-funktion för att formatera fram
+        ett enkel läsbart dokument över programmet. Jag använder det
+        ganska ofta privat för mina egna program och när jag testar
+        teorier eller api:er på jobbet.
+   5. Funktionell programmering
+      - Då jag göra nästan allt i Emacs så är det ofrånkomligt att det
+        blir en hel del Lisp. Även i Python utnyttjar jag gärna det
+        sättet att arbeta då det är effektivt och lätt att debugga.
+   6. Objektorientering
+      - OO är en självklarhet idag som jag började jobba med direkt
+        efter högskolan.
+               
+** Programmeringsspråk
+   :PROPERTIES:
+   :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
+   :END:
+   | Python | ELisp  | Java     | c/C++ | PHP                 | PERL | BASH |
+   | SQL    | Pascal | VBscript | REXX  | HTML/CSS/JavaScript |      |      |
+     
+** Utvecklingsmiljöer
+   :PROPERTIES:
+   :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
+   :END:
+   | Emacs[fn:emacs:http://hoahoa.se/websida/EmacsIntro.html] | Org-mode (Emacs)      | Eclips- STS | Netbeans | JBuilder |
+   | Microsoft VisualStudio C++                               | Borlands Turbo Pascal | Ant         | Make     | Maven    |
+
+# [fn:emacs] [[][Vad är Emacs?]
+#+LaTeX: \pagebreak
+* Arbetsgivare och uppdrag 
+  :PROPERTIES:
+  :CUSTOM_ID: h:53cca876-30a7-4b82-bdec-9edfd9c27aa9
+  :END:
+# <<lblArbetsgivare>>
+
+  Större delen av mitt yrkesliv har varit som it-konsult. Främst har
+  jag jobbat mot *Lantmäteriet*, *Ericsson RBS*. Hos dessa kunder har
+  jag jobbat i flera större och mindre projekt.
+
+  Men jag har även gjort inhopp på bland annat.
+  | Gävle Kommun | Sandvik               | Korsnäs |
+  | Digital      | Forsmark (Vattenfall) |         |
+  
+#+LaTeX: \pagebreak
+** Knowit
+   :PROPERTIES:
+   :CUSTOM_ID: h:013768a9-9497-4930-b746-b2bc2e683bde
+   :END:
+   Nordiskt konsultföretag med lokal närvaro.
+
+   1) Period: Oktober 2008 - Nuvarande
+   2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
+      Applikationsansvarig, Lärare, Systemutvecklare, Konsult
+   3) Uppdrag:
+      1. Lantmäteriet - Cobra. Underhåll och vidareutveckling av
+         system runt stordator och leveranssystem.
+      2. Lantmäteriet - Arken. Arkivering (register, akter, historiska
+         kartor och dokument mm)
+      3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
+         Finölsfestivalen
+      4. Lantmäteriet - Leveranssystemet (FinfoLev)
+      5. Korsnäs - Ubildning i scrum och agila metoder
+      6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
+      7. Lantmäteriet - Projekt: Milins (delprojekt/migrering) i
+         Muligan projektet.
+   4) Plattformar: Linux (Ubuntu, Mint), Unix (Solaris), Windows XP
+   5) Teknik: Python (pip/setuptools, flask, bottle, virtualenv,
+      click, tox, pex), Emacs/Org-mode, Docker, Java (Ant/Maven,
+      Eclips/STS/JBuilder,JSF,Spring) ,Oracle ,SVN, CVS, GIT,
+      Hybernate ,Jira, Fitnesse
+
+#+LaTeX: \pagebreak
+** Mandator/Fujitsu
+   :PROPERTIES:
+   :CUSTOM_ID: h:99e64ea4-1a05-4a7b-a1e0-e0aaa5f7e0f7
+   :END:
+   Fujitsu, ett internationellt konsultföretag [fn:cell].
+
+   1) Plattformar: Solaris, Windows XP
+   2) Period: Januari 2003 - September 2008
+   3) Titel: Teknisk rådgivare i test., Arkitekt, Systemutvecklare,
+      Konsult
+   4) Uppdrag:
+      1. Sandvik AB - Div. mindre projekt, REXX, ASP (IIS, SQLServer).
+      2. Lantmäteriet - förvaltning och vidare uteckling av Externt
+         Beställningssytem (EBS)
+      3. Lantmäteriet - Alp projektet. Nationellt system för nytt
+         adress register.
+      4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
+         fastigheter.
+   5) Teknik: Java, Emacs, Org-mode, BEA WLS, Tibco RDV, Fujitzu iFlow.,
+      XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
+      JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
+      Proffessionell),senare HP QC, Tomcat
+
+[fn:cell] Företaget bytte namn 3 gånger under min anställning.
+#+LaTeX: \pagebreak
+** ITG Data
+   :PROPERTIES:
+   :CUSTOM_ID: h:18c092ef-ee3c-4f8a-88f0-a4aca7b3c4e6
+   :END:
+   Dataavdelningen på ett industriteknik företag. 
+
+   1) Period: Februari 2001 - December 2002
+   2) Titel: Systemutvecklare, Konsult.
+   3) Uppdrag: Ericsson AB, WCDMA Radiobas, Utvecklande av
+      systemtester för produktion.
+   4) Plattformar: Windows, Solaris
+   5) Teknik: Microsoft Visual C ++, MFC
+ 
+#+LaTeX: \pagebreak
+** Utilator 
+   :PROPERTIES:
+   :CUSTOM_ID: h:9decca1d-d483-4c5c-b83b-4a46173bcb3f
+   :END:
+   Ett litet it-företag med inriktning mot "smarta hem"[fn:utilator:Anställd 3 månader innan konkurs].
+
+   1) Period: November 2000 - Februari 2001
+   2) Titel: Systemutvecklare.
+   3) Plattform: Linux Redhat
+   4) Uppdrag: "Smarta hem"
+      + Elektroniskt bokningssystem (garage, tvättstuga osv.)
+   5) Tekniker: Java, c
+
+#+LaTeX: \pagebreak
+** Mind 
+   :PROPERTIES:
+   :CUSTOM_ID: h:21421cdd-f98d-4d33-b0b7-1acfd1fedfcf
+   :END:
+   Ett Stockholmsbaserat konsultföretag med inriktning på web.
+
+   1) Period: Maj 2000 - November 2000
+   2) Titel: Java Expert, It-konsult.
+   3) Plattformar: Windows 2000, Solaris
+   4) Uppdrag: Portaler
+      - Affiliate web
+      - Resebyrå
+   5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
+ 
+#+LaTeX: \pagebreak
+** Mandator/CellNetwork
+   :PROPERTIES:
+   :CUSTOM_ID: h:d9c4d75b-24b0-42f5-9a99-04fc71ce1cc5
+   :END:
+   Ett nationellt konsultföretag.
+   
+   1) Period: April 1999 - Maj 2000
+   2) Titel: It-konsult.
+   3) Uppdrag: Ericsson AB
+      - CDMA, Produktionstester av kretskort
+      - CDMA, Utvecklande av Radiobastester.
+   4) Plattform: Windows NT
+   5) Tekniker: C++, MFC, Idefix
+
+#+LaTeX: \pagebreak
+** Syntronic 
+   :PROPERTIES:
+   :CUSTOM_ID: h:c10a20a0-7f9d-43cd-8e38-f06f531315d5
+   :END:
+   Konsultföretag med inriktning på elektronik, radio och telecom.
+
+   1) Period: September 1997 - April 1999
+   2) Titel: It-konsult, Systemutvecklare, kortansvarig.
+   3) Uppdrag:
+      + Interna uppdrag på Syntronic i Java för websidan.
+      + Syntronic - Korttestinterface
+      + Ericsson AB - GSM - nålfixturer/korttester
+      + Ericsson AB - GSM - Radiobas översättning av interna
+        kommunikationsprotokoll.
+   4) Plattform: Windows NT, Windows 3.11, Hårdvarunära programmering
+   5) Tekniker: Borland Pascal, Java, JBuilder, c/C++ Visual Studio,
+      MFC, ASP, Assembler, Idefix
+	
+#+LaTeX: \pagebreak
+** KenVision
+   :PROPERTIES:
+   :CUSTOM_ID: h:8dbe3d15-e290-447e-8cde-53b3d099e216
+   :END:
+   Lösningsföretag med inriktning mot 3D och virtual reality.
+   Dotterbolag till Profildesig, ett företag med inriktning mot
+   mässor, monterdesign och reklam.
+
+   1. Period: Februari 1996 - April 1997
+   2. Titel: Programmerare/Systemutvecklare.
+   3. Plattform: Windows 3.11,  Windows NT
+   4. Uppdrag
+      + Teknikmässa i Älvsjö åt Digital
+      + Gävle kommun - Gävle 550
+   5. Språk/Verktyg:
+      + c/C++ i Visual Studio, Sense8 WorldToolkit
+
+#+LaTeX: \pagebreak
+** Datorteket (Gävle Kommun)
+   :PROPERTIES:
+   :CUSTOM_ID: h:8fc8c7e4-64b5-4e3b-8211-91f6183beee4
+   :END:
+   Kommunalt projekt för att höja den allmänna datorvanan hos
+   ungdomar 
+   och arbetslösas.
+
+   1. Period: Oktober 1995 - Mars 1996
+   2. Titel/Arbetsuppgifter: Mentor, Handledare, Projektledare, Lärare
+   3. Teknik/Produkt: Windows Office-paket, Windows 3.1, Projektarbete
+
+
+
+   
+   
