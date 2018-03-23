@@ -6,7 +6,7 @@
 #+SUBTITLE: Curriculum Vitae (CV)
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
-#+DATE: <2018-03-21 Wed>
+#+DATE: {{{time(%F %T)}}}
 #+DESCRIPTION: Meriter - Curriculum vitae
 #+LANGUAGE: sv
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
@@ -18,13 +18,13 @@
 #+LATEX_HEADER: \usepackage[AUTO]{babel}
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancyplain}
-#+LATEX_HEADER: \cfoot{Medlemsinformation }
-#+LATEX_HEADER: \rfoot{Gefle Ölsellskap}
+#+LATEX_HEADER: \cfoot{Johan Sandén}
+#+LATEX_HEADER: \rfoot{Curriculum Vitae (CV)}
 #+LATEX_HEADER: \pagenumbering{arabic}
 
-# #+LATEX_HEADER: \chead{Informationsblad}
+# #+LATEX_HEADER: \chead{Johan Sandén}
 # #+LATEX_HEADER: \rhead{2018}
-# #+LATEX_HEADER: \lhead{Gefle Ölsellskap}
+# #+LATEX_HEADER: \lhead{Curriculum Vitae (CV)}
 # #+LATEX_HEADER: \lfoot{2018-02-07}
 
 
