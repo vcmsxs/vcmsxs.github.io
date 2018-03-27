@@ -37,12 +37,20 @@
 #+INCLUDE:./kontakt_upg_privat.org
 * CV
 Läs som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
-* Info
-  
-* Gefle Ölsellskap
-  År 2017 blev jag ordförande i Gefle Ölsellskap. [[http://www.gefleolsellskap.com][Vår hemsida är
-  www.gefleolsellskap.com]]
+* Öl
+** Gefle Ölsellskap
+   - Jag har varit medlem i Gefle Ölsellskap sedan 2002
+   - År 2017 blev jag ordförande i Gefle Ölsellskap.
+   - [[http://www.gefleolsellskap.com][Vår hemsida är www.gefleolsellskap.com]]
 
-* Föreningen Gävle Finölsfestival - FGFF
-  Jag är även medlem i [[https://www.facebook.com/finolsfestivalen/][föreningen gävle finölsfestival]]
-  
+** Föreningen Gävle Finölsfestival - FGFF
+   - Jag är medlem i [[https://www.facebook.com/finolsfestivalen/][Föreningen Gävle Finölsfestival]], vars syfte och
+     mål är att arrangera Finölsfestival i Gävle.
+* Emacs
+* Python
+* Musik
+* Social på nätet
+#+BEGIN_CENTER
+| [[https://www.instagram.com/vcmsxs/][Instagram]] |
+| [[https://twitter.com/vcmsxs][Twitter]]   |
+#+END_CENTER
