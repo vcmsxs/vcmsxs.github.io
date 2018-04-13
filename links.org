@@ -1,0 +1,716 @@
+#+TITLE:     Intressanta websidor.
+#+SUBTITLE: Personal webpage.
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+DATE: {{{time(%F %T)}}}
+#+AUTHOR: Johan Sandén
+#+EMAIL: johan.sanden@gmail.com
+#+LANGUAGE: sv
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.3.2 (Org mode 9.1.1)
+
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+DESCRIPTION:
+#+KEYWORDS:
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
+#+HTML_HEAD_EXTRA:
+#+SUBTITLE:
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
+#+LATEX_HEADER:
+
+-----
+
+Mer eller mindre osorterade länkar.
+#+TOC:headlines 1
+
+* Just nu
+  1. https://www.jagarhar.se/
+  2. http://forum.vof.se - forum för vetenskap och folkbildning.
+  3. http://www.textfiles.com/
+  4. http://www.gnuheter.com/ - ???
+  5. Bellmans samlade verk :: http://www.samladeverk.bellman.org/
+  6. https://readthedocs.org/ - READ THE DOCS!
+  7. [[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha:s .emacs]]
+  8. http://www.kulturanalys.se 
+     - ...den roligaste bloggen sen universum uppfanns.
+  9. [[http://hurmånga.se][Hur många]] - blog med svar på frågor.
+  10. [[http://everything2.com][Everything]] - Usersubmit, everything, skrivet 
+  11. http://justsomething.co/the-39-funniest-animal-photobombs-of-all-time/
+  12. http://www.kaloritabell.com/kaloritabell_a_till_o.html - kaloritabell
+  13. http://www.Yacy.net - decentrialiserad  sökning.
+  14. http://www.skapapengar.nu/ - Bankerna spelar bort våra pengar.
+ 
+* Affärer
+** Kläder
+| [[http://www.tailorstore.se/][Tailorstore]]              | Affär - Skjortor             |
+| http://www.hangslen.com/ | Hängslen                     |
+| [[http://agreeordie.com/features/fashion/637-how-to-tie-a-balthus-knot/][Haniballs slipsknut]]      | Teknik                       |
+| [[http://slipsladan.se][Slipsladan]]               | Slipsar på nätet             |
+| [[http://www.brandbynature.se/oljerockar-oljejackor/][Oljerockar-oljejackor]]    | http://www.brandbynature.se/ |
+| http://pinstore.se       |                              |
+
+** Tobak
+   | [[https://www.cubancrafters.com/][Cubans Crafters]]            | "DON KIKI"?          |
+   | [[http://www.lynncigars.net][L.lynn cigars]]              | Kolla in "CONSUEGRA" |
+   | [[http://cigarsofhabanos.com][Cigars of Habanos]]          |                      |
+   | [[http://www.cigarrlagret.nu/][Cigarrlaggret]]              |                      |
+   | [[http://www.chocolat-uppsala.se/][Chocolat Uppsala]]           |                      |
+   | [[http://www.whiskycenter.se/Cigarrbutik/Cigarrbutik_Butik.htm][Whiskycenter/Cigarrbutiken]] |                      |
+   | [[http://www.botlshop.se/][Botlshop]]                   |                      |
+   | http://www.humidorer.se/   |                      |
+   | [[http://www.robusto.se/][Robusto]]                    |                      |
+   | [[http://www.cigarjournal.co/][Cigarjournal]]               |                      |
+   | [[http://kindcigars.com/][KingCigars]]                 |                      |
+   | [[http://www.gandaf.com/][Gandaf]]                     |                      |
+   | [[http://www.humidorguide.se/][humidorguide]]               |                      |
+   | [[http://www.gotteftermaten.se/][Gott Efter Maten]]           |                      |
+   | [[http://www.cigarrprat.se][Cigarrprat]]                 |                      |
+   | [[http://framcigarr.se/][Fram Cigarr]]                |                      |
+   | [[http://www.snusbolaget.se/][Snusbolaget]]                |                      |
+** Literatur
+
+| [[http://www.adlibris.se][Adlibris]]    | Bokaffär               |
+| [[http://www.bokborsen.se/][Bokbörsen]]   | Bokaffär               |
+| [[http://www.redaktionen.se/][Redaktionen]] | Bokaffär, affärsböcker |
+
+** Annat
+   | [[http://www.flagstore.se/][Flagstore]]  | Köp flaggstänger och flaggor                  |
+   | [[http://www.lysman.com/][Lysman]]     | För att köpa lampor (dimbara glob-led lampor) |
+   | [[http://www.cyberphoto.se/][Cyberfotto]] | Köp kamera och läs lite omdömmen.             |
+   | [[https://www.inrego.se][INREGO]]     | Köpa rekonditionerade datorer.                |
+
+* Bilder och konst
+      - http://www.deviantart.com/
+* Kultur
+** Politik
+   - http://www.kulturanalys.se
+** Media
+   - Fria bilder: http://www.everystockphoto.com/
+     
+** Film
+   - http://crazypictures.se/
+   - http://www.traileraddict.com/
+   - http://trailers.apple.com
+
+** Musik
+
+ - http://ardour.org/ 
+ - [[http://www.karaoketv.se/tv.php?krogid=817][Bilagan]]
+
+| [[http://audacity.sourceforge.net/][audacity]]              | Musikredgering |
+| [[http://minicomputer.sourceforge.net/][minicomputer - music]]  | musik, Synth   |
+| [[https://wiki.ubuntu.com/UbuntuStudio][ubuntu studio]]         | Gnu/Linuxt     |
+| [[http://www.jamendo.com/en/][jamendo]]               | Reggställe     |
+| [[http://www.ostmansmusik.se][Musikaffär - näsflöjt]] | Näsflöjt       |
+| [[http://www.snor.nu/][Snor.se]]               | Mer Näsflöjt   |
+| [[http://www.milkytracker.net/][milky tracker]]         | Tracker        |
+| [[http://www.thetube.se][TheTube.se]]            | Reggställe     |
+| http://ardour.org     | OS DAW         |
+| [[http://freevstplugins.blogspot.com/][Free vst plugins]]      | Musikpluggar   |
+|                       |                |
+
+** Humor
+| [[http://sverigesradio.se/sida/avsnitt?programid=2699][Public Service]]           | Radiosatir                        |
+| [[http://rymdslottet.tumblr.com/][Rymdslottet]]              | Daniel och Viktoria pratar rymden |
+| [[http://userfriendly.org/][user friendly]]            | Tecknat och kul                   |
+| [[http://xkcd.com/][xkcd]]                     | nörd humor serier tecknat         |
+| [[http://www.svenskbladet.se/ ][Svenskbladet]]             | Satir att uppnå och sträva efter  |
+| [[http://www.commitstrip.com][commitstrip]]              | Kodnörderi-humor                  |
+| [[http://www.satirarkivet.se][Satirarkivet]]             | Bilder att dö för                 |
+| [[http://nyheternasverige.se/                             ][nyheternasverige]]         | Satir                             |
+| [[http://worldnewsdailyreport.com/                        ][worldnewsdailyreport]]     | Satir                             |
+| [[http://www.dailycurrant.com/                            ][dailycurrant]]             | Satir                             |
+| [[http://mogul.ws/                                        ][mogul]]                    | Satir                             |
+| [[http://www.pakistantoday.com.pk/author/khabaristantoday/][khabaristantoday]]         | Satir                             |
+| [[http://hantisverige.wordpress.com/                      ][hantisverige]]             | Satir                             |
+| [[http://dailybuzzlive.com/                               ][dailybuzzlive]]            | Satir                             |
+| [[http://www.huzlers.com/                                 ][huzlers]]                  | Satir                             |
+| [[http://speisa.com/                                      ][speisa]]                   | Satir                             |
+| [[http://nationalreport.net/                              ][nationalreport]]           | Satir                             |
+| [[http://www.callthecops.net/                             ][callthecops]]              | Satir                             |
+| [[http://carbolicsmoke.com/                               ][carbolicsmoke]]            | Satir                             |
+| [[http://www.theonion.com/                                ][theonion]]                 | Satir                             |
+| [[http://www.gronkoping.nu/                               ][gronkoping]]               | Satir                             |
+| [[http://en.mediamass.net/                                ][mediamass]]                | Satir                             |
+| [[http://www.lightlybraisedturnip.com/                    ][lightlybraisedturnip]]     | Satir                             |
+| [[http://www.thespoof.com/                                ][thespoof]]                 | Satir                             |
+| [[http://www.newyorker.com/online/blogs/borowitzreport    ][newyorker-borowitzreport]] | Satir                             |
+| [[http://mediafetcher.com/                                ][mediafetcher]]             | Satir                             |
+| [[http://www.thedailymash.co.uk/                          ][thedailymash]]             | Satir                             |
+| [[http://www.mrconservative.com/                          ][mrconservative]]           | Satir                             |
+| [[http://www.newsbiscuit.com/                             ][newsbiscuit]]              | Satir                             |
+| [[http://www.sundsvallsbladet.se/                         ][sundsvallsbladet]]         | Satir                             |
+| [[http://waterfordwhispersnews.com/                       ][waterfordwhispersnews]]    | Satir                             |
+| [[http://rokokoposten.dk                                  ][rokokoposten]]             | Satir                             |
+| [[https://twitter.com/VarnamoNuheter                      ][twitter-VarnamoNuheter]]   | Satir                             |
+| [[http://www.storkensnyheter.com/                         ][storkensnyheter]]          | Satir                             |
+| [[http://vesslan.com/][Vesslan]]                  | Tecknad, uttrycksfrihet           |
+| [[http://www.moanmyip.com/][moan my ip]]               | En tant stönar din ip             |
+
+** Poesi
+   - Karin Boyes dikter :: http://www.karinboye.se/verk/dikter/dikter/
+   - Bellmans samlade verk :: http://www.samladeverk.bellman.org/
+* Föreningar
+| [[http://www.gefleolsellskap.com/][Gefle Ölsellskap]]                            | Mumma!                |
+| [[https://www.one.com/admin/advanced.do][one.com - gefle ölsellskap]]                  | host för gos          |
+| [[http://phpmyadmin.gefleolsellskap.com/index.php][phpadmin - gefleolsellskap]]                  | konto för gos databas |
+| [[http://www.gavlegrodorna.se][Gävlegrodorna]]                               | Uv-ruggby             |
+  
+* Richard Stallman
+   | http://stallman.org/                          |
+   | http://en.wikipedia.org/wiki/Richard_Stallman |
+
+* Utbildning
+  | http://www.khanacademy.org | Kurser          |
+  | https://www.edx.org/       | Harward och MIT |
+
+* Uppslag 
+** Nyheter
+
+   1. http://affarer.cc/
+   2. http://www.people-press.org/ - fakta.
+
+   
+   | [[http://www.tidningen-anti.se/][Tidningen anti]] | Poltik, systemkritik |
+   | [[http://www.ted.com/][Ted]]            | Nyheter, filmer      |
+** Djur/Jakt/Rovdjur
+   - Svenska rovdjursföreningen: http://www.rovdjur.se/
+   - Svenska vargar: http://www.svenskavargar.nu/
+   - Jaktkritiker: http://www.jaktkritikerna.se/
+   - Djurskydd: http://www.djurskyddet.se/
+
+** Språk
+| [[http://www.natkurser.se/sprakkurser/][Natkurser.se]]            | Gratis spåkkurser       |
+| [[http://primalatina.klassiska.su.se/][Prima Latin]]             | Gratis kurs i latin     |
+| [[http://www.fritext.se/svenska/gramm.html][Fritext gramatik]]        | Gramatik grunder        |
+| [[http://translate.google.com/translate_t][Google Translate]]        | Översättare             |
+| [[http://www.spraktidningen.se/index.lasso][Språktidningen]]          | Språktidning            |
+| [[http://www.chinalanguage.com][Kinesisk]]                | Språk kinesiska         |
+| [[http://www.chinalanguage.com/][china language]]          | lär dig kinesiska       |
+| [[http://g3.spraakdata.gu.se/saob/index.html][SAOB]]                    | Svenka Akademins Ordbok |
+| [[http://lexin2.nada.kth.se/][Svenka till andra språk]] | KTH Ögersättare         |
+| [[http://www.doidoidoi.se/sok/index.asp][Engelsk ordbok]]          | Online, Nordsteds       |
+| [[http://www.fritext.se][Fritext]]                 | Skrivregler             |
+	 
+* Uttrycksfrihet
+  - https://www.jagarhar.se/
+  - https://riseup.net
+* Vetenskap
+  - Forum för vetenskap och folkbildning.
+    - http://forum.vof.se
+* PU, Filosofi och Psykologi 
+  Personlig utveckling
+  1. [[http://www.dodgemlogic.com/steal][Dogem Logic - Allan More]]
+  2. [[http://www.vivalagames.com/play/multitask/][Träna multitasking]] - Träna multitasking                          
+  3. [[http://zenhabits.net][ZENHABITS]]  - GTD, TDL, Mediation, filosofi   
+
+* Religion
+ 1. [[http://www.godchecker.com/][GodCheckers - Lista på gudar]]
+ 2. [[http://www-user.uni-bremen.de/~wie/Rennes/ ][Knepigheter i/om gamla bibeln]]
+    - Leonardo Davinci?
+ 3. http://www.kvakare.se/
+
+* It och teknik
+** Emacs
+   - Emacs themes :: http://emacsthemes.caisah.info
+   - Emacs - reddit :: https://www.reddit.com/r/emacs/ 
+   - Emacs - StackExchange :: http://emacs.stackexchange.com/ 
+** It/Teknik
+   - Hur istalleras ubuntu/debiab paket :: http://www.howtoinstall.co/en/debian/  
+   - Dela kod med andra :: https://gist.github.com/
+   - Gratis online-repo :: https://bitbucket.org/
+   - html/css :: http://getbootstrap.com/
+   - http://www.panda3d.org/ - Skriv 3dspel i python
+   - Spel för barn :: http://gcompris.net/ 
+     - http://gcompris.net/-sv- 
+   - Ta och läs :: http://en.wikipedia.org/wiki/Unix_philosophy
+   - Ta och skriv ::  [[http://www.docbook.org/][DocBook]]
+   - QUE? :: [[http://www.easierjava.com/][Easy java persistance.]]
+   - Pressentera dig :: IMPRESS 
+     + https://github.com/bartaz/impress.js
+     + http://bartaz.github.com/impress.js
+   - Python cheet sheets :: http://efytimes.com/e1/fullnews.asp?edid=116332
+
+** Hårdvara
+   - Hårdvara som är kompatibel med linux :: https://h-node.org/hardware/catalogue/en
+** Googletjänster
+  | [[http://www.google.com/transparencyreport][Transparency Reports]] | Statistik, Övervakning, Politik |
+  | [[http://www.orkut.com/][Orkut]]                | Socialt nätverk                 |
+  | [[http://www.dataliberation.org][Data liberation]]      | Lämna google                    |
+  | [[http://goo.gl/][Google URL Shortener]] |                                 |
+  |                      |                                 |
+
+** Torrents
+  1. http://extratorrent.com
+  2. http://bitenova.nl
+  3. http://fenopy.com
+  4. http://torrentat.org
+  5. http://fulldls.com
+  6. http://spynova.org
+  7. http://2torrents.com
+  8. http://scrapetorrent.com
+  9. http://litebay.org
+  10.http://torrents.to
+
+** Python
+   - http://wiht.link/python-guide
+   - http://docs.python.org/library/ 
+   - http://love-python.blogspot.com/2008/07/strip-html-tags-using-python.html 
+   - http://pythonsource.com/ 
+   - http://thepythongamebook.com/en:start 
+   - http://www.panda3d.org/ - Skriv 3dspel i python
+   - http://www.poromenos.org/tutorials/python 
+
+** Social/delning
+   - http://www.4chan.org/
+   - http://www.aktwall.com/
+   - http://www.reddit.com
+   - http://imgur.com/
+   - http://9gag.com/
+
+* Invandring, flyting och främlingsfientlighet
+  1) http://invandrardemokraterna.jimdo.com/
+  2) http://www.migrationsinfo.se/
+  3) http://www.migrationsverket.se/Om-Migrationsverket/Statistik.html
+  4) http://www.scb.se/sv_/Hitta-statistik/Artiklar/Invandringen-pa-rekordhog-niva/
+  5) http://www.migrationsinfo.se/framlingsfientlighet/framlingsfientlighet-i-sverige/
+* Politik
+  1) https://www.jagarhar.se/
+  2) [[https://sv.wikipedia.org/wiki/Opinionsm%C3%A4tningar_inf%C3%B6r_riksdagsvalet_i_Sverige_2018][Wikipedia-Opinionsmätningar inför riksdagsvalet i Sverge 2018]]
+  3) http://status.st - Statistik hur det går för SD (tvi fy fan för
+     de jävlarna men man måste hålla kolla på.)
+  4) [[http://www.drorfeiler.se][Dror Feiler]] - ...en cool vänsterpartist.
+  5) [[http://sv.wikipedia.org/wiki/Riksdagsvalet_i_Sverige_2018][Opinionssammanställning wikipedia - 2018]]
+  6) http://www.islam-svarar.se/ 
+  7) http://svenskopinion.nu/
+  8) [[http://stallman.org/][Richard Stallman]] - Head of Gnu church 
+  9) http://ossalla.nu/ - debatt mot rasism.
+  10) http://freedomhacker.net/
+  11) http://freeculture.org/
+  12) http://www.theendofpoverty.com/
+  13) [[http://www.fritankesmedja.se/][Humanistfaschister]]
+  14) http://www.worldometers.info/se/ - En mätare över världen.
+  15) [[http://www.gapminder.org/][Gap Minder]] - Statistik, visuallisering, rättivsare värld
+  16) Moderatförnedring - http://www.fragakent.se/
+  17) [[http://wikileaks.be/wiki/Wikileaks][Wikileaks]] - Free press, rykten, dokument 
+  18) [[http://christianengstrom.wordpress.com/][Christian Engström]] - Upphovsrätt, blogg, piratpariet 
+  19) [[http://www.moorewatch.com/][moorewatch-michel moore]] - michel moore 
+  20) [[http://freenetproject.org/tools.html][free net project]] - free speach 
+  21) [[http://www.flashback.se/][flashback]] - nyheter, yttrandefrihet 
+  22) [[http://rickfalkvinge.se/][Rickard Falkqvinge]] - Blog, Liberalism
+  23) [[http://www.michaelmoore.com/][Michael moorqe]] - The one and only 
+  24) [[http://www.hoover.org/][Hoover institute]] - Free society 
+  25) [[http://www.val.se/val/val2014/slutresultat/R/rike/index.html][Slutresltat valet 2014]]
+* Rollspel
+ | [[http://www.knights-n-knaves.com/osric/index.html][Osrik]] | Gratis AD&D klon |
+
+* Musik
+  - http://komponera.se
+* Nyss
+  1. http://systemsymmetry.com/aom/index.html
+  2. http://www.fetchnotes.com
+  3. http://netflix.se
+  4. http://www.satirarkivet.se/
+  5. http://sv.wikipedia.org/wiki/Koldioxidinf%C3%A5ngande_och_lagring
+  6. http://en.wikipedia.org/wiki/List_of_eponymous_laws
+  7. Trust, Drm, http://youtu.be/XgFbqSYdNK4
+  8. Hit kan jag kanske flytta min hemsida? http://www.binero.se/
+  9. [[http://www.youtube.com/watch?v=pyrKKeMzP9Y][Knyta slipps på 5 sekunder]]
+  10. [[http://www.visuwords.com/][Visualisera ord]]
+  11. [[http://www.filmdelta.se/][Svensk lite primitiv filmsida]]
+  12. [[http://en.wikipedia.org/wiki/List_of_fallacies][Logiska fel.]]
+  13. [[http://www.tinkernut.com][cool hacks]] 
+* 9/11 och foliehattar
+  På med foliehatten nu. Det är den enda hatt inte ljuger så jävla
+  mycket.
+
+  - http://youtu.be/WC9KZ2Yy5g4
+  - http://youtu.be/dXimYWhoWKI
+  - http://youtu.be/bFGhMBUORx8
+  - http://www.youtube.com/watch?v=04LCvk2KYfY
+
+* Osorterat
+
+http://alientrap.org/nexuiz/ 
+http://anlo.net/ 
+http://ardour.org/ 
+http://aria2.sourceforge.net/ 
+http://asciimo.com/ 
+http://bc.tech.coop/blog/070813.html 
+http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html 
+http://beta.nodebox.net/wiki/Welcome 
+http://bit.ly/ 
+http://blekko.com/ 
+http://blog.audiojungle.net/resources/29-music-making-apps-for-linux/ 
+http://blog.kevinhoyt.org/?p=135 
+http://blogs.computerworld.com/16766/how_oracle_sees_open_source_may_not_be_how_you_see_open_source 
+http://blogs.playgroundmusic.com/sweden/contact/a-r 
+http://bluedennis.tumblr.com/post/935996048/texten-som-sitter-fast-i-mitt-huvud-utan-att-jag-stor 
+http://bluefish.openoffice.nl/ 
+http://bluehackers.org/ 
+http://box.matto.nl/emacsgmail.html 
+http://buzzmachines.com/drumkits.php 
+http://cb.vu/unixtoolbox.xhtml 
+http://clonezilla.org/clonezilla-server-edition/ 
+http://code.google.com/p/cult/ 
+http://code.google.com/p/javagems/ 
+http://codingbat.com/ 
+http://commons.apache.org/ 
+http://commons.apache.org/configuration/apidocs/overview-summary.html 
+http://database.ittoolbox.com/documents/inner-and-outer-join-sql-statements-18442 
+http://despair.com/ 
+http://ditaa.sourceforge.net/ 
+http://dmi.smartelectronix.com/ 
+http://docs.google.com/?pli=1#owned-by-me 
+http://dreampie.sourceforge.net/ 
+http://dsc.discovery.com/videos/why-tell-me-why-thirst.html 
+http://easygui.sourceforge.net/ 
+http://effbot.org/tkinterbook/ 
+http://elektrostudio.ovh.org/index2.php?go=4 
+http://en.wikipedia.org/ 
+http://en.wikipedia.org/wiki/Bone_Wars 
+http://en.wikipedia.org/wiki/Category:Latin_logical_phrases 
+http://en.wikipedia.org/wiki/Federal_holiday 
+http://en.wikipedia.org/wiki/Git_(software) 
+http://en.wikipedia.org/wiki/Human 
+http://en.wikipedia.org/wiki/List_of_cryptids 
+http://en.wikipedia.org/wiki/List_of_fallacies 
+http://en.wikipedia.org/wiki/Natalie_Portman 
+http://en.wikipedia.org/wiki/Shinedown 
+http://en.wikipedia.org/wiki/Songbird_(Willie_Nelson_album) 
+http://english.aljazeera.net/ 
+http://enkelriktat.monkeytoys.com/stories/2002/08/07/snabblasningSaGarDetTill.html 
+http://etn.se/ 
+http://eu-es.facebook.com/profile.php?id=1316327389&amp;ref=fs 
+http://freevstplugins.blogspot.com/ 
+http://freshmeat.net/projects/laby 
+http://funlok.com/ 
+http://games.moria.org.uk/kye/ 
+http://gcompris.net/ 
+http://gcompris.net/-sv- 
+http://gd.se/nyheter/gavle/1.1000059 
+http://gd.se/nyheter/gavle/1.1225742 
+http://gethighnow.com/ 
+http://git-scm.com/ 
+http://git.or.cz/course/svn.html 
+http://github.com/ 
+http://gnuwin32.sourceforge.net/ 
+http://go-oo.org/ 
+http://goo.gl/ 
+http://google-styleguide.googlecode.com/svn/trunk/pyguide.html#TODO_Comments 
+http://hamletdarcy.blogspot.com/2009/06/forgotten-refactorings.html 
+http://hginit.com/00.html 
+http://home.arcor.de/mdoege/pysynth/ 
+http://imm.io/ 
+http://improbable.com/ig/ 
+http://issuu.com/ 
+http://jetcarrier.com/ 
+http://jobb.monster.se/Ort/G%C3%A4vle/h%C3%A4mta-jobb-12.aspx 
+http://jobbsok.cs.idg.se/careers/jobsearch 
+http://kahvi.org/ 
+http://kodos.sourceforge.net/ 
+http://krakli.com/krakli-free-synths/ 
+http://listen.grooveshark.com/ 
+http://ljudo.com/default.asp?lang=tSwedish&amp;do=it 
+http://lmms.sourceforge.net/screenshots.php 
+http://lyrics.wikia.com/Main_Page 
+http://mail-archives.apache.org/mod_mbox/logging-log4j-dev/200909.mbox/%3Cbug-47898-31091@https.issues.apache.org/bugzilla/%3E 
+http://manybooks.net/ 
+http://maps.google.com/?cid=14581633814930490589 
+http://maps.google.com/?cid=2249108513750805836 
+http://maps.google.com/?cid=4006691643298205498 
+http://maps.google.com/?cid=5405336589846478841 
+http://maps.google.com/?cid=7802867402646337659 
+http://maps.google.com/?cid=8140710745644816905 
+http://maps.google.com/?cid=9196779386387418943 
+http://maps.google.com/?cid=931541495439115784 
+http://maps.google.com/?cid=9477799269806643325 
+http://maps.google.com/?cid=961344889379856312 
+http://maps.google.com/maps/place?oe=utf-8&amp;um=1&amp;ie=UTF-8&amp;q=fina+bilen+g%C3%A4vle&amp;fb=1&amp;hq=fina+bilen&amp;hnear=g%C3%A4vle&amp;cid=1096580539360445525 
+http://members.chello.nl/w.boeke/amuc/ 
+http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html 
+http://metajack.im/2009/01/01/journaling-with-emacs-orgmode/ 
+http://mugtug.com/sketchpad/ 
+http://nanok.com/wrs/ 
+http://naturesoundsfor.me/Rainy-Day 
+http://nettuts.com/tutorials/html-css-techniques/5-tips-to-writing-better-css/ 
+http://notepad-plus-plus.org/ 
+http://omegle.com/ 
+http://oneswarm.cs.washington.edu/ 
+http://opengameart.org/ 
+http://orgmode.org/worg/org-configs/org-config-examples.php#sec-2.2 
+http://pixlr.com/ 
+http://platsbanken.arbetsformedlingen.se/Standard/SokViaArbetsort/SokViaArbetsort.aspx?o=21&amp;k=0 
+http://pressylta.com/lankvart/SvenskaInvektiv.htm 
+http://progfree.org/ 
+http://pymacs.progiciels-bpi.ca/ 
+http://redplanet.se/ 
+http://rgruet.free.fr/#QuickRef 
+http://rickfalkvinge.se/ 
+http://runeberg.org/ 
+http://scabernestor.blogg.se/ 
+http://signaltheorist.com/?p=444 
+http://sketchory.com/ 
+http://soundcloud.com/ 
+http://soundcloud.com/emi-sweden/dropbox 
+http://su.diva-portal.org/smash/get/diva2:352204/FULLTEXT01 
+http://sv.wikipedia.org/ 
+http://sv.wikipedia.org/wiki/Bob_Hansson 
+http://sv.wikipedia.org/wiki/Elitteori 
+http://sv.wikipedia.org/wiki/Lasse_Lucidor 
+http://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_idiomatiska_uttryck 
+http://sv.wikipedia.org/wiki/Studentikos_stavning 
+http://sv.wikipedia.org/wiki/Wikipedia:Namngivning 
+http://sv.wiktionary.org/wiki/Wiktionary:Huvudsida 
+http://sverigesradio.se/barn/spel/ 
+http://synthgeek.skincontact.com/node/94 
+http://taotechingpasvenska.blogspot.com/search?updated-min=2009-01-01T00%3A00%3A00-08%3A00&amp;updated-max=2010-01-01T00%3A00%3A00-08%3A00&amp;max-results=1 
+http://thedogpaddler.com/RandomUploads/Ball/ball.htm 
+
+http://thisisindexed.com/ 
+http://tiddlywiki.org/wiki/TiddlyWiki_Markup#Examples 
+http://tldp.org/LDP/intro-linux/html/ 
+http://tldp.org/LDP/intro-linux/html/sect_09_04.html 
+http://tputh.com/ 
+http://tribunalen.com/ 
+http://tyda.se/ 
+http://ubuntusatanic.org/ 
+http://unity3d.com/ 
+http://uploads.ungrounded.net/404000/404612_Portal.swf 
+http://uploads.ungrounded.net/525000/525347_scale_of_universe_ng.swf 
+http://valsedlar.piratpartiet.se/ 
+http://vesslan.com/ 
+http://vimeo.com/3261363 
+http://vimeo.com/8189506 
+http://vip.asus.com/forum/view.aspx?board_id=20&amp;model=Eee+Box+B202&amp;id=20081218095303018&amp;page=1&amp;SLanguage=en-us 
+http://weblogic.sys-con.com/node/42678 
+http://www.2storstark.com/afdarhus/sketchpad.html 
+http://www.365saker.se/ 
+http://www.43folders.com/ 
+http://www.abandonia.com/ 
+http://www.addskills.se/Utbildning/Kurs/?CourseID=260 
+http://www.adlibris.com/ 
+http://www.alde.eu/en/details/?no_cache=1&amp;tx_ttnews%5Btt_news%5D=23424 
+http://www.alien-zoo.com/ 
+http://www.alternet.org/ 
+http://www.analogx.com/ 
+http://www.arrak.fi/sv/ag 
+http://www.awaretek.com/tutorials.html 
+http://www.blogcatalog.com/blog/free-vst-instruments 
+http://www.bokborsen.se/ 
+http://www.brainyquote.com/quotes/authors/a/anne_frank.html 
+http://www.brorosyster.se/product.html/blutsaft-500ml?category_id=98 
+http://www.cenedella.com/stone/archives/2010/01/leonardo_da_vincis_resume.html 
+http://www.chinadaily.com.cn/ 
+http://www.cia.hack23.com/ 
+http://www.cnn.com/video/data/2.0/video/bestoftv/2010/10/28/exp.am.unemployed.man.comic.cnn.html 
+http://www.conductive.se/ledare-men-inte-chef/#tid_plats_pris 
+http://www.constitution.org/col/amazing_grace.htm 
+http://www.coolquotescollection.com/ 
+http://www.crossbrowser.net/385/how-to-save-subversion-svn/comment-page-1/#comment-160 
+http://www.cybergrain.com/archives/2004/12/googles_vision.html 
+http://www.dagenskonflikt.se/om-tankesmedjan-konflikt/ 
+http://www.dagensopinion.se/ 
+http://www.dagenssamhalle.se/ 
+http://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know/ 
+http://www.dalailama.com/ 
+http://www.de5stora.com/omrovdjuren/varg/farlig/ 
+http://www.demolatar.se/ 
+http://www.devdaily.com/blog/post/java/simple-log4j-example/ 
+http://www.devx.com/Java/Article/17679/1954 
+http://www.dn.se/insidan/gruppen-skapar-sin-egen-sanning-1.1071029 
+http://www.dn.se/nyheter/varlden/dansk-polis-skot-ihjal-ranare-1.1082936 
+http://www.doe.virginia.gov/Div/Winchester/jhhs/math/facts/symbol.html 
+http://www.domanshop.se/ 
+http://www.dummies.com/how-to/content/creating-web-services-in-weblogic.html 
+http://www.enterprisedt.com/products/edtftpj/doc/api/com/enterprisedt/util/debug/Level.html 
+http://www.facebook.com/ 
+http://www.fastforward.pro/skicka-in-din-demo.html 
+http://www.feedback-records.com/demo.html 
+http://www.feedbooks.com/ 
+http://www.feedbooks.com/news 
+http://www.finabilen.se/ 
+http://www.flickr.com/photos/23874157@N00/3228239459/#comment72157613046488266 
+http://www.forever-young.nu/ 
+http://www.freesound.org/ 
+http://www.freesound.org/packsView.php 
+http://www.freesoundeditor.com/VSTSyntheng.htm 
+http://www.fria.nu/ 
+http://www.fritext.se/ 
+http://www.gapminder.org/ 
+http://www.gavle.se/ 
+http://www.getout.nu/ 
+http://www.gnu.org/software/emacs/ 
+http://www.gnupg.org/ 
+http://www.google.com/governmentrequests/ 
+http://www.google.com/news 
+http://www.grillhouse.se/ 
+http://www.gutenberg.org/ 
+http://www.gutenberg.org/files/3815/3815-8.txt 
+http://www.hitta.se/ViewDetailsPink.aspx?vad=026158050&amp;var=g%E4vle&amp;Vkiid=bLirft9irLIES1itxpE%2BVw%253d%253d&amp;Vkid=1636117&amp;isAlternateNumberResult=False 
+http://www.hoahoa.org/ 
+http://www.hoahoa.se/ 
+http://www.hoover.org/ 
+http://www.hydrogen-music.org/ 
+http://www.idg.se/2.1085/1.227104/sa-optimerar-du-vista--i-5-snabba-steg?utm_source=anp&amp;utm_medium=email 
+http://www.idg.se/2.1085/1.228116/sa-snabbar-du-upp-firefox 
+http://www.idg.se/2.1085/1.383890/mozilla-vagrar-lyda-homeland-security 
+http://www.ilovewavs.com/ 
+http://www.infoq.com/ 
+http://www.infoq.com/presentations/Deliberate-Discovery 
+http://www.inkommande.se/inkommande/pages/leaveWish.php 
+http://www.inmoria.com/index.php?categoryid=9 
+http://www.internetit.konsumentverket.se/mallar/sv/artikel.asp?lngCategoryId=1475&amp;lngArticleId=2659 
+http://www.ircnet.org/ 
+http://www.janssen-cilag.se/?product=adhd&amp;product=none 
+http://www.java2s.com/Code/Java/Language-Basics/Examplelog4jConfigurationFile.htm 
+http://www.java2s.com/Code/Java/Language-Basics/log4jsimplelog.htm 
+http://www.javabeat.net/tips/82-baisc-steps-to-configure-log4j-using-xml-and.html 
+http://www.kapitel1.se/ 
+http://www.kjell.com/ 
+http://www.krabat-music.se/skicka-in-demo/ 
+http://www.lansmuseetgavleborg.se/ 
+http://www.learningtree.se/courses/se931.htm 
+http://www.learningtree.se/ilt/courses/se290.htm 
+http://www.leeenux-linux.com/ 
+http://www.level7.org.uk/chroma/ 
+http://www.limitedwipsociety.org/ 
+http://www.linerider.com/ 
+http://www.linux.com/ 
+http://www.linuxalt.com/ 
+http://www.linuxjournal.com/article/7694 
+http://www.linuxportalen.se/ 
+http://www.liquibase.org/ 
+http://www.lisperati.com/casting-spels-emacs/html/casting-spels-emacs-1.html 
+http://www.livet.se/ord/k%C3%A4lla/Stanislaw_Jerzy_Lec 
+http://www.livsprognos.se/ 
+http://www.lucdebrouwer.nl/choosing-a-license-for-your-next-project/ 
+http://www.makeuseof.com/tag/muo-games-10-open-source-online-games-for-kids/ 
+http://www.makthavare.se/ 
+http://www.mera.se/ 
+http://www.metro.se/ 
+http://www.metro.se/se/article/2009/01/25/18/3521-65/index.xml 
+http://www.misadigital.com/ 
+http://www.morenewmath.com/all/ 
+http://www.motkraft.net/information 
+http://www.mountaingoatsoftware.com/ 
+http://www.myspace.com/ 
+http://www.myspace.com/fenwaybrassartorchestra 
+http://www.myspace.com/theresaanderssonmusic 
+http://www.myspace.com/wovenhand 
+http://www.newartisans.com/blog/2007/08/using-org-mode-as-a-day-planner.html 
+http://www.newsmill.se/ 
+http://www.nixtutor.com/ 
+http://www.nons.se/sve/demo.asp 
+http://www.ohnorobot.com/ 
+http://www.okgo.net/ 
+http://www.old-computers.com/news/default.asp 
+http://www.openoffice.org/ 
+http://www.openprocessing.org/ 
+http://www.pastan.nu/klubb/har-raggar-man-lattast-1.1043974 
+http://www.pidgin.im/ 
+http://www.piratpartiet.se/ 
+http://www.popsci.com/archives 
+http://www.prostatacancer.nu/ 
+http://www.pygame.org/docs/ref/surface.html#Surface.copy 
+http://www.randomimagegenerator.com/ 
+http://www.reco.se/design-produktion-hans-erik-persson 
+http://www.redaktionen.se/af/jackhansen/ 
+http://www.reuters.com/ 
+http://www.rod.se/ 
+http://www.roseindia.net/tutorials/log4j/log4j.shtml 
+http://www.sacredchao.net/~piman/writing/sprite-tutorial.shtml 
+http://www.savetheinternet.com/ 
+http://www.schoolsplay.org/ 
+http://www.scrumalliance.org/ 
+http://www.second-opinion.se/ 
+http://www.secretgeek.net/ 
+http://www.shortcut.nu/ 
+http://www.signalpatterns.com/ 
+http://www.sketchswap.com/ 
+http://www.smashingapps.com/2008/08/28/5-best-free-file-hosting-services-to-store-your-files.html 
+http://www.snigelpost.nu/ 
+http://www.socialdemokraterna.se/Var-politik/featureartiklar/Debattartikel---fildelning-/ 
+http://www.socialstyrelsen.se/nationellariktlinjerfordiabetesvarden/centralarekommendationer/overviktfetma 
+http://www.sounddogs.com/ 
+http://www.speedtest.net/ 
+http://www.speedyvista.com/ 
+http://www.spicehouse.se/produkter/45 
+http://www.spoketlaban.com/ 
+http://www.squidfingers.com/ 
+http://www.squidoo.com/ 
+http://www.squidoo.com/100songs 
+http://www.squidoo.com/freemusiccreationsoftware 
+http://www.sr.se/sida/gruppsida.aspx?programid=438&amp;grupp=9029 
+http://www.sr.se/webbradio/webbradio.asp?type=db&amp;Id=1687066&amp;BroadcastDate=&amp;IsBlock= 
+http://www.sshhtt.com/ 
+http://www.stenudd.se/ 
+http://www.stephenfry.com/ 
+http://www.svd.se/nyheter/idagsidan/halsa/artikel_2381171.svd 
+http://www.svenskaakademien.se/web/Ordlista.aspx 
+http://www.synonymer.se/ 
+http://www.synonymer.se/?query=strunta&amp;btnS=Hitta+synonymer 
+http://www.teamfortress.com/movies.htm 
+http://www.ted.com/ 
+http://www.ted.com/talks/dennis_hong_my_seven_species_of_robot.html 
+http://www.thegeekstuff.com/2010/11/50-linux-commands/ 
+http://www.theinquirer.net/ 
+http://www.thomann.de/se 
+http://www.tidningen-anti.se/ 
+http://www.tokipona.org/ 
+http://www.tubeohm.com/Pure_Pten_V.htm 
+http://www.twingly.com/ 
+http://www.twit.tv/floss 
+http://www.ubetoo.com/ 
+http://www.universalsweden.com/ 
+http://www.vildawebben.se/ 
+http://www.vivalagames.com/play/multitask/ 
+http://www.w3schools.com/ 
+http://www.wahlstromsfiske.se/ 
+http://www.warnermusic.se/companyInfo 
+http://www.web4j.com/ 
+http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/ 
+http://www.wesnoth.org/ 
+http://www.westwingepguide.com/ 
+http://www.westwingtranscripts.com/ 
+http://www.whirled.com/#landing-bluelanding 
+http://www.wikihow.com/Fold-a-Paper-Box 
+http://www.wikihow.com/Make-a-Paper-Boat 
+http://www.wikihow.com/Make-an-Origami-Flying-Bird 
+http://www.wikihow.com/Make-an-Origami-Jumping-Frog 
+http://www.wikihow.com/Produce-and-Write-Dance-Music 
+http://www.wikihow.com/Save-a-Wet-Cell-Phone 
+http://www.wikihow.com/Wolf-Whistle 
+http://www.wikihow.com/Write-a-Cinquain-Poem 
+http://www.wikihow.com/Write-a-Complicated-Microsoft-Office-Macro 
+http://www.wikihow.com/Write-a-Quatrain-Poem 
+http://www.wired.com/listening_post/2008/04/a-scientific-at/ 
+http://www.workingwell.org.au/ 
+http://www.wussu.com/laotzu/ 
+http://www.youbloom.com/ 
+http://www.yr.no/place/Sweden/G%C3%A4vleborg/G%C3%A4vle/ 
+http://www.zanthan.com/itymbi/archives/000789.html 
+http://www.zeitgeistmovie.com/ 
+http://xahlee.org/emacs/elisp.html 
+http://xiph.org/ 
+http://xkcd.com/ 
+http://xkcd.com/388/ 
+http://zenhabits.net/end-of-busy/ 
+http://zope.stackless.com/ 
+https://issues.apache.org/bugzilla/show_bug.cgi?format=multiple&amp;id=17498 
+https://one.ubuntu.com/ 
+https://wetransfer.com/ 
+https://www.minpension.se/Startsida.aspx 
+https://www.steinberg.net/en/mysteinberg/ 
+https://www2.learningtree.se/savingplans/passport.aspx 
+

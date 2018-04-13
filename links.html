@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
+<head>
+<!-- 2018-04-13 Fri 08:55 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Intressanta websidor.</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Johan Sandén" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="./css/style.css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Intressanta websidor.
+<br />
+<span class="subtitle">Personal webpage.</span>
+</h1>
+<hr />
+
+<p>
+Mer eller mindre osorterade länkar.
+</p>
+<div id="table-of-contents">
+<h2>Inneh&aring;ll</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org9d430a1">Just nu</a></li>
+<li><a href="#org87136b6">Affärer</a></li>
+<li><a href="#org65413ef">Bilder och konst</a></li>
+<li><a href="#orgb6a1d5e">Kultur</a></li>
+<li><a href="#org87612ea">Föreningar</a></li>
+<li><a href="#org9763464">Richard Stallman</a></li>
+<li><a href="#org35ac9e6">Utbildning</a></li>
+<li><a href="#orge3b312b">Uppslag</a></li>
+<li><a href="#org1ac3654">Uttrycksfrihet</a></li>
+<li><a href="#org9d588a8">Vetenskap</a></li>
+<li><a href="#orgf586d23">PU, Filosofi och Psykologi</a></li>
+<li><a href="#org4a11bb1">Religion</a></li>
+<li><a href="#org6c69646">It och teknik</a></li>
+<li><a href="#orgbd9d6a9">Invandring, flyting och främlingsfientlighet</a></li>
+<li><a href="#orge759f97">Politik</a></li>
+<li><a href="#orgcbdd15f">Rollspel</a></li>
+<li><a href="#org1dfd48f">Musik</a></li>
+<li><a href="#org649970a">Nyss</a></li>
+<li><a href="#orgb8963b8">9/11 och foliehattar</a></li>
+<li><a href="#org3326b44">Osorterat</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9d430a1" class="outline-2">
+<h2 id="org9d430a1">Just nu</h2>
+<div class="outline-text-2" id="text-org9d430a1">
+<ol class="org-ol">
+<li><a href="https://www.jagarhar.se/">https://www.jagarhar.se/</a></li>
+<li><a href="http://forum.vof.se">http://forum.vof.se</a> - forum för vetenskap och folkbildning.</li>
+<li><a href="http://www.textfiles.com/">http://www.textfiles.com/</a></li>
+<li><a href="http://www.gnuheter.com/">http://www.gnuheter.com/</a> - ???</li>
+<li>Bellmans samlade verk :: <a href="http://www.samladeverk.bellman.org/">http://www.samladeverk.bellman.org/</a></li>
+<li><a href="https://readthedocs.org/">https://readthedocs.org/</a> - READ THE DOCS!</li>
+<li><a href="http://pages.sachachua.com/.emacs.d/Sacha.html">Sacha:s .emacs</a></li>
+<li><a href="http://www.kulturanalys.se">http://www.kulturanalys.se</a> 
+<ul class="org-ul">
+<li>&#x2026;den roligaste bloggen sen universum uppfanns.</li>
+</ul></li>
+<li><a href="http://hurm%C3%A5nga.se">Hur många</a> - blog med svar på frågor.</li>
+<li><a href="http://everything2.com">Everything</a> - Usersubmit, everything, skrivet</li>
+<li><a href="http://justsomething.co/the-39-funniest-animal-photobombs-of-all-time/">http://justsomething.co/the-39-funniest-animal-photobombs-of-all-time/</a></li>
+<li><a href="http://www.kaloritabell.com/kaloritabell_a_till_o.html">http://www.kaloritabell.com/kaloritabell_a_till_o.html</a> - kaloritabell</li>
+<li><a href="http://www.yacy.net">http://www.yacy.net</a> - decentrialiserad  sökning.</li>
+<li><a href="http://www.skapapengar.nu/">http://www.skapapengar.nu/</a> - Bankerna spelar bort våra pengar.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org87136b6" class="outline-2">
+<h2 id="org87136b6">Affärer</h2>
+<div class="outline-text-2" id="text-org87136b6">
+</div>
+<div id="outline-container-org59095e4" class="outline-3">
+<h3 id="org59095e4">Kläder</h3>
+<div class="outline-text-3" id="text-org59095e4">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.tailorstore.se/">Tailorstore</a></td>
+<td class="org-left">Affär - Skjortor</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.hangslen.com/">http://www.hangslen.com/</a></td>
+<td class="org-left">Hängslen</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://agreeordie.com/features/fashion/637-how-to-tie-a-balthus-knot/">Haniballs slipsknut</a></td>
+<td class="org-left">Teknik</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://slipsladan.se">Slipsladan</a></td>
+<td class="org-left">Slipsar på nätet</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.brandbynature.se/oljerockar-oljejackor/">Oljerockar-oljejackor</a></td>
+<td class="org-left"><a href="http://www.brandbynature.se/">http://www.brandbynature.se/</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://pinstore.se">http://pinstore.se</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgee0b31d" class="outline-3">
+<h3 id="orgee0b31d">Tobak</h3>
+<div class="outline-text-3" id="text-orgee0b31d">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="https://www.cubancrafters.com/">Cubans Crafters</a></td>
+<td class="org-left">"DON KIKI"?</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.lynncigars.net">L.lynn cigars</a></td>
+<td class="org-left">Kolla in "CONSUEGRA"</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://cigarsofhabanos.com">Cigars of Habanos</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.cigarrlagret.nu/">Cigarrlaggret</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.chocolat-uppsala.se/">Chocolat Uppsala</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.whiskycenter.se/Cigarrbutik/Cigarrbutik_Butik.htm">Whiskycenter/Cigarrbutiken</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.botlshop.se/">Botlshop</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.humidorer.se/">http://www.humidorer.se/</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.robusto.se/">Robusto</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.cigarjournal.co/">Cigarjournal</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://kindcigars.com/">KingCigars</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.gandaf.com/">Gandaf</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.humidorguide.se/">humidorguide</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.gotteftermaten.se/">Gott Efter Maten</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.cigarrprat.se">Cigarrprat</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://framcigarr.se/">Fram Cigarr</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.snusbolaget.se/">Snusbolaget</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org358ea85" class="outline-3">
+<h3 id="org358ea85">Literatur</h3>
+<div class="outline-text-3" id="text-org358ea85">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.adlibris.se">Adlibris</a></td>
+<td class="org-left">Bokaffär</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.bokborsen.se/">Bokbörsen</a></td>
+<td class="org-left">Bokaffär</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.redaktionen.se/">Redaktionen</a></td>
+<td class="org-left">Bokaffär, affärsböcker</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgec4f8dd" class="outline-3">
+<h3 id="orgec4f8dd">Annat</h3>
+<div class="outline-text-3" id="text-orgec4f8dd">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.flagstore.se/">Flagstore</a></td>
+<td class="org-left">Köp flaggstänger och flaggor</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.lysman.com/">Lysman</a></td>
+<td class="org-left">För att köpa lampor (dimbara glob-led lampor)</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.cyberphoto.se/">Cyberfotto</a></td>
+<td class="org-left">Köp kamera och läs lite omdömmen.</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="https://www.inrego.se">INREGO</a></td>
+<td class="org-left">Köpa rekonditionerade datorer.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org65413ef" class="outline-2">
+<h2 id="org65413ef">Bilder och konst</h2>
+<div class="outline-text-2" id="text-org65413ef">
+<ul class="org-ul">
+<li><a href="http://www.deviantart.com/">http://www.deviantart.com/</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb6a1d5e" class="outline-2">
+<h2 id="orgb6a1d5e">Kultur</h2>
+<div class="outline-text-2" id="text-orgb6a1d5e">
+</div>
+<div id="outline-container-orgd76b0e5" class="outline-3">
+<h3 id="orgd76b0e5">Politik</h3>
+<div class="outline-text-3" id="text-orgd76b0e5">
+<ul class="org-ul">
+<li><a href="http://www.kulturanalys.se">http://www.kulturanalys.se</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org006c1c6" class="outline-3">
+<h3 id="org006c1c6">Media</h3>
+<div class="outline-text-3" id="text-org006c1c6">
+<ul class="org-ul">
+<li>Fria bilder: <a href="http://www.everystockphoto.com/">http://www.everystockphoto.com/</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4548644" class="outline-3">
+<h3 id="org4548644">Film</h3>
+<div class="outline-text-3" id="text-org4548644">
+<ul class="org-ul">
+<li><a href="http://crazypictures.se/">http://crazypictures.se/</a></li>
+<li><a href="http://www.traileraddict.com/">http://www.traileraddict.com/</a></li>
+<li><a href="http://trailers.apple.com">http://trailers.apple.com</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org10c296e" class="outline-3">
+<h3 id="org10c296e">Musik</h3>
+<div class="outline-text-3" id="text-org10c296e">
+<ul class="org-ul">
+<li><a href="http://ardour.org/">http://ardour.org/</a></li>
+<li><a href="http://www.karaoketv.se/tv.php?krogid=817">Bilagan</a></li>
+</ul>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://audacity.sourceforge.net/">audacity</a></td>
+<td class="org-left">Musikredgering</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://minicomputer.sourceforge.net/">minicomputer - music</a></td>
+<td class="org-left">musik, Synth</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="https://wiki.ubuntu.com/UbuntuStudio">ubuntu studio</a></td>
+<td class="org-left">Gnu/Linuxt</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.jamendo.com/en/">jamendo</a></td>
+<td class="org-left">Reggställe</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.ostmansmusik.se">Musikaffär - näsflöjt</a></td>
+<td class="org-left">Näsflöjt</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.snor.nu/">Snor.se</a></td>
+<td class="org-left">Mer Näsflöjt</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.milkytracker.net/">milky tracker</a></td>
+<td class="org-left">Tracker</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.thetube.se">TheTube.se</a></td>
+<td class="org-left">Reggställe</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://ardour.org">http://ardour.org</a></td>
+<td class="org-left">OS DAW</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://freevstplugins.blogspot.com/">Free vst plugins</a></td>
+<td class="org-left">Musikpluggar</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgca4b9bd" class="outline-3">
+<h3 id="orgca4b9bd">Humor</h3>
+<div class="outline-text-3" id="text-orgca4b9bd">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://sverigesradio.se/sida/avsnitt?programid=2699">Public Service</a></td>
+<td class="org-left">Radiosatir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://rymdslottet.tumblr.com/">Rymdslottet</a></td>
+<td class="org-left">Daniel och Viktoria pratar rymden</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://userfriendly.org/">user friendly</a></td>
+<td class="org-left">Tecknat och kul</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://xkcd.com/">xkcd</a></td>
+<td class="org-left">nörd humor serier tecknat</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.svenskbladet.se/%20">Svenskbladet</a></td>
+<td class="org-left">Satir att uppnå och sträva efter</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.commitstrip.com">commitstrip</a></td>
+<td class="org-left">Kodnörderi-humor</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.satirarkivet.se">Satirarkivet</a></td>
+<td class="org-left">Bilder att dö för</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://nyheternasverige.se/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">nyheternasverige</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://worldnewsdailyreport.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">worldnewsdailyreport</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.dailycurrant.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">dailycurrant</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://mogul.ws/%C2%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">mogul</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.pakistantoday.com.pk/author/khabaristantoday/">khabaristantoday</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://hantisverige.wordpress.com/%C2%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">hantisverige</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://dailybuzzlive.com/%C2%A0%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">dailybuzzlive</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.huzlers.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">huzlers</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://speisa.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">speisa</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://nationalreport.net/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">nationalreport</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.callthecops.net/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">callthecops</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://carbolicsmoke.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">carbolicsmoke</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.theonion.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">theonion</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.gronkoping.nu/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">gronkoping</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://en.mediamass.net/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">mediamass</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.lightlybraisedturnip.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">lightlybraisedturnip</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.thespoof.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">thespoof</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.newyorker.com/online/blogs/borowitzreport%20%20%20%20">newyorker-borowitzreport</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://mediafetcher.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">mediafetcher</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.thedailymash.co.uk/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">thedailymash</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.mrconservative.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">mrconservative</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.newsbiscuit.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">newsbiscuit</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.sundsvallsbladet.se/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">sundsvallsbladet</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://waterfordwhispersnews.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">waterfordwhispersnews</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://rokokoposten.dk%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">rokokoposten</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="https://twitter.com/VarnamoNuheter%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">twitter-VarnamoNuheter</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.storkensnyheter.com/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20">storkensnyheter</a></td>
+<td class="org-left">Satir</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://vesslan.com/">Vesslan</a></td>
+<td class="org-left">Tecknad, uttrycksfrihet</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.moanmyip.com/">moan my ip</a></td>
+<td class="org-left">En tant stönar din ip</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org5da4b79" class="outline-3">
+<h3 id="org5da4b79">Poesi</h3>
+<div class="outline-text-3" id="text-org5da4b79">
+<dl class="org-dl">
+<dt>Karin Boyes dikter</dt><dd><a href="http://www.karinboye.se/verk/dikter/dikter/">http://www.karinboye.se/verk/dikter/dikter/</a></dd>
+<dt>Bellmans samlade verk</dt><dd><a href="http://www.samladeverk.bellman.org/">http://www.samladeverk.bellman.org/</a></dd>
+</dl>
+</div>
+</div>
+</div>
+<div id="outline-container-org87612ea" class="outline-2">
+<h2 id="org87612ea">Föreningar</h2>
+<div class="outline-text-2" id="text-org87612ea">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.gefleolsellskap.com/">Gefle Ölsellskap</a></td>
+<td class="org-left">Mumma!</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="https://www.one.com/admin/advanced.do">one.com - gefle ölsellskap</a></td>
+<td class="org-left">host för gos</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://phpmyadmin.gefleolsellskap.com/index.php">phpadmin - gefleolsellskap</a></td>
+<td class="org-left">konto för gos databas</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.gavlegrodorna.se">Gävlegrodorna</a></td>
+<td class="org-left">Uv-ruggby</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org9763464" class="outline-2">
+<h2 id="org9763464">Richard Stallman</h2>
+<div class="outline-text-2" id="text-org9763464">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://stallman.org/">http://stallman.org/</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://en.wikipedia.org/wiki/Richard_Stallman">http://en.wikipedia.org/wiki/Richard_Stallman</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org35ac9e6" class="outline-2">
+<h2 id="org35ac9e6">Utbildning</h2>
+<div class="outline-text-2" id="text-org35ac9e6">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.khanacademy.org">http://www.khanacademy.org</a></td>
+<td class="org-left">Kurser</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="https://www.edx.org/">https://www.edx.org/</a></td>
+<td class="org-left">Harward och MIT</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orge3b312b" class="outline-2">
+<h2 id="orge3b312b">Uppslag</h2>
+<div class="outline-text-2" id="text-orge3b312b">
+</div>
+<div id="outline-container-orgac2a9a7" class="outline-3">
+<h3 id="orgac2a9a7">Nyheter</h3>
+<div class="outline-text-3" id="text-orgac2a9a7">
+<ol class="org-ol">
+<li><a href="http://affarer.cc/">http://affarer.cc/</a></li>
+<li><a href="http://www.people-press.org/">http://www.people-press.org/</a> - fakta.</li>
+</ol>
+
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.tidningen-anti.se/">Tidningen anti</a></td>
+<td class="org-left">Poltik, systemkritik</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.ted.com/">Ted</a></td>
+<td class="org-left">Nyheter, filmer</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org7f7a1a5" class="outline-3">
+<h3 id="org7f7a1a5">Djur/Jakt/Rovdjur</h3>
+<div class="outline-text-3" id="text-org7f7a1a5">
+<ul class="org-ul">
+<li>Svenska rovdjursföreningen: <a href="http://www.rovdjur.se/">http://www.rovdjur.se/</a></li>
+<li>Svenska vargar: <a href="http://www.svenskavargar.nu/">http://www.svenskavargar.nu/</a></li>
+<li>Jaktkritiker: <a href="http://www.jaktkritikerna.se/">http://www.jaktkritikerna.se/</a></li>
+<li>Djurskydd: <a href="http://www.djurskyddet.se/">http://www.djurskyddet.se/</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgf2752ee" class="outline-3">
+<h3 id="orgf2752ee">Språk</h3>
+<div class="outline-text-3" id="text-orgf2752ee">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.natkurser.se/sprakkurser/">Natkurser.se</a></td>
+<td class="org-left">Gratis spåkkurser</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://primalatina.klassiska.su.se/">Prima Latin</a></td>
+<td class="org-left">Gratis kurs i latin</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.fritext.se/svenska/gramm.html">Fritext gramatik</a></td>
+<td class="org-left">Gramatik grunder</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://translate.google.com/translate_t">Google Translate</a></td>
+<td class="org-left">Översättare</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.spraktidningen.se/index.lasso">Språktidningen</a></td>
+<td class="org-left">Språktidning</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.chinalanguage.com">Kinesisk</a></td>
+<td class="org-left">Språk kinesiska</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.chinalanguage.com/">china language</a></td>
+<td class="org-left">lär dig kinesiska</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://g3.spraakdata.gu.se/saob/index.html">SAOB</a></td>
+<td class="org-left">Svenka Akademins Ordbok</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://lexin2.nada.kth.se/">Svenka till andra språk</a></td>
+<td class="org-left">KTH Ögersättare</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.doidoidoi.se/sok/index.asp">Engelsk ordbok</a></td>
+<td class="org-left">Online, Nordsteds</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.fritext.se">Fritext</a></td>
+<td class="org-left">Skrivregler</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org1ac3654" class="outline-2">
+<h2 id="org1ac3654">Uttrycksfrihet</h2>
+<div class="outline-text-2" id="text-org1ac3654">
+<ul class="org-ul">
+<li><a href="https://www.jagarhar.se/">https://www.jagarhar.se/</a></li>
+<li><a href="https://riseup.net">https://riseup.net</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9d588a8" class="outline-2">
+<h2 id="org9d588a8">Vetenskap</h2>
+<div class="outline-text-2" id="text-org9d588a8">
+<ul class="org-ul">
+<li>Forum för vetenskap och folkbildning.
+<ul class="org-ul">
+<li><a href="http://forum.vof.se">http://forum.vof.se</a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf586d23" class="outline-2">
+<h2 id="orgf586d23">PU, Filosofi och Psykologi</h2>
+<div class="outline-text-2" id="text-orgf586d23">
+<p>
+Personlig utveckling
+</p>
+<ol class="org-ol">
+<li><a href="http://www.dodgemlogic.com/steal">Dogem Logic - Allan More</a></li>
+<li><a href="http://www.vivalagames.com/play/multitask/">Träna multitasking</a> - Träna multitasking</li>
+<li><a href="http://zenhabits.net">ZENHABITS</a>  - GTD, TDL, Mediation, filosofi</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org4a11bb1" class="outline-2">
+<h2 id="org4a11bb1">Religion</h2>
+<div class="outline-text-2" id="text-org4a11bb1">
+<ol class="org-ol">
+<li><a href="http://www.godchecker.com/">GodCheckers - Lista på gudar</a></li>
+<li><a href="http://www-user.uni-bremen.de/~wie/Rennes/%20">Knepigheter i/om gamla bibeln</a>
+<ul class="org-ul">
+<li>Leonardo Davinci?</li>
+</ul></li>
+<li><a href="http://www.kvakare.se/">http://www.kvakare.se/</a></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org6c69646" class="outline-2">
+<h2 id="org6c69646">It och teknik</h2>
+<div class="outline-text-2" id="text-org6c69646">
+</div>
+<div id="outline-container-orgd9973f5" class="outline-3">
+<h3 id="orgd9973f5">Emacs</h3>
+<div class="outline-text-3" id="text-orgd9973f5">
+<dl class="org-dl">
+<dt>Emacs themes</dt><dd><a href="http://emacsthemes.caisah.info">http://emacsthemes.caisah.info</a></dd>
+<dt>Emacs - reddit</dt><dd><a href="https://www.reddit.com/r/emacs/">https://www.reddit.com/r/emacs/</a></dd>
+<dt>Emacs - StackExchange</dt><dd><a href="http://emacs.stackexchange.com/">http://emacs.stackexchange.com/</a></dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-org1484ac5" class="outline-3">
+<h3 id="org1484ac5">It/Teknik</h3>
+<div class="outline-text-3" id="text-org1484ac5">
+<dl class="org-dl">
+<dt>Hur istalleras ubuntu/debiab paket</dt><dd><a href="http://www.howtoinstall.co/en/debian/">http://www.howtoinstall.co/en/debian/</a></dd>
+<dt>Dela kod med andra</dt><dd><a href="https://gist.github.com/">https://gist.github.com/</a></dd>
+<dt>Gratis online-repo</dt><dd><a href="https://bitbucket.org/">https://bitbucket.org/</a></dd>
+<dt>html/css</dt><dd><a href="http://getbootstrap.com/">http://getbootstrap.com/</a></dd>
+<dt>(no term)</dt><dd><a href="http://www.panda3d.org/">http://www.panda3d.org/</a> - Skriv 3dspel i python</dd>
+<dt>Spel för barn</dt><dd><a href="http://gcompris.net/">http://gcompris.net/</a> 
+<ul class="org-ul">
+<li><a href="http://gcompris.net/-sv">http://gcompris.net/-sv</a>-</li>
+</ul></dd>
+<dt>Ta och läs</dt><dd><a href="http://en.wikipedia.org/wiki/Unix_philosophy">http://en.wikipedia.org/wiki/Unix_philosophy</a></dd>
+<dt>Ta och skriv</dt><dd><a href="http://www.docbook.org/">DocBook</a></dd>
+<dt>QUE?</dt><dd><a href="http://www.easierjava.com/">Easy java persistance.</a></dd>
+<dt>Pressentera dig</dt><dd>IMPRESS 
+<ul class="org-ul">
+<li><a href="https://github.com/bartaz/impress.js">https://github.com/bartaz/impress.js</a></li>
+<li><a href="http://bartaz.github.com/impress.js">http://bartaz.github.com/impress.js</a></li>
+</ul></dd>
+<dt>Python cheet sheets</dt><dd><a href="http://efytimes.com/e1/fullnews.asp?edid=116332">http://efytimes.com/e1/fullnews.asp?edid=116332</a></dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-orgfc9fe94" class="outline-3">
+<h3 id="orgfc9fe94">Hårdvara</h3>
+<div class="outline-text-3" id="text-orgfc9fe94">
+<dl class="org-dl">
+<dt>Hårdvara som är kompatibel med linux</dt><dd><a href="https://h-node.org/hardware/catalogue/en">https://h-node.org/hardware/catalogue/en</a></dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-org5c7e4a8" class="outline-3">
+<h3 id="org5c7e4a8">Googletjänster</h3>
+<div class="outline-text-3" id="text-org5c7e4a8">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.google.com/transparencyreport">Transparency Reports</a></td>
+<td class="org-left">Statistik, Övervakning, Politik</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.orkut.com/">Orkut</a></td>
+<td class="org-left">Socialt nätverk</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://www.dataliberation.org">Data liberation</a></td>
+<td class="org-left">Lämna google</td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="http://goo.gl/">Google URL Shortener</a></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org9b3aaee" class="outline-3">
+<h3 id="org9b3aaee">Torrents</h3>
+<div class="outline-text-3" id="text-org9b3aaee">
+<ol class="org-ol">
+<li><a href="http://extratorrent.com">http://extratorrent.com</a></li>
+<li><a href="http://bitenova.nl">http://bitenova.nl</a></li>
+<li><a href="http://fenopy.com">http://fenopy.com</a></li>
+<li><a href="http://torrentat.org">http://torrentat.org</a></li>
+<li><a href="http://fulldls.com">http://fulldls.com</a></li>
+<li><a href="http://spynova.org">http://spynova.org</a></li>
+<li><a href="http://2torrents.com">http://2torrents.com</a></li>
+<li><a href="http://scrapetorrent.com">http://scrapetorrent.com</a></li>
+<li><a href="http://litebay.org">http://litebay.org</a></li>
+</ol>
+<p>
+10.<a href="http://torrents.to">http://torrents.to</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf0512fc" class="outline-3">
+<h3 id="orgf0512fc">Python</h3>
+<div class="outline-text-3" id="text-orgf0512fc">
+<ul class="org-ul">
+<li><a href="http://wiht.link/python-guide">http://wiht.link/python-guide</a></li>
+<li><a href="http://docs.python.org/library/">http://docs.python.org/library/</a></li>
+<li><a href="http://love-python.blogspot.com/2008/07/strip-html-tags-using-python.html">http://love-python.blogspot.com/2008/07/strip-html-tags-using-python.html</a></li>
+<li><a href="http://pythonsource.com/">http://pythonsource.com/</a></li>
+<li><a href="http://thepythongamebook.com/en:start">http://thepythongamebook.com/en:start</a></li>
+<li><a href="http://www.panda3d.org/">http://www.panda3d.org/</a> - Skriv 3dspel i python</li>
+<li><a href="http://www.poromenos.org/tutorials/python">http://www.poromenos.org/tutorials/python</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org0b346ae" class="outline-3">
+<h3 id="org0b346ae">Social/delning</h3>
+<div class="outline-text-3" id="text-org0b346ae">
+<ul class="org-ul">
+<li><a href="http://www.4chan.org/">http://www.4chan.org/</a></li>
+<li><a href="http://www.aktwall.com/">http://www.aktwall.com/</a></li>
+<li><a href="http://www.reddit.com">http://www.reddit.com</a></li>
+<li><a href="http://imgur.com/">http://imgur.com/</a></li>
+<li><a href="http://9gag.com/">http://9gag.com/</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbd9d6a9" class="outline-2">
+<h2 id="orgbd9d6a9">Invandring, flyting och främlingsfientlighet</h2>
+<div class="outline-text-2" id="text-orgbd9d6a9">
+<ol class="org-ol">
+<li><a href="http://invandrardemokraterna.jimdo.com/">http://invandrardemokraterna.jimdo.com/</a></li>
+<li><a href="http://www.migrationsinfo.se/">http://www.migrationsinfo.se/</a></li>
+<li><a href="http://www.migrationsverket.se/Om-Migrationsverket/Statistik.html">http://www.migrationsverket.se/Om-Migrationsverket/Statistik.html</a></li>
+<li><a href="http://www.scb.se/sv_/Hitta-statistik/Artiklar/Invandringen-pa-rekordhog-niva/">http://www.scb.se/sv_/Hitta-statistik/Artiklar/Invandringen-pa-rekordhog-niva/</a></li>
+<li><a href="http://www.migrationsinfo.se/framlingsfientlighet/framlingsfientlighet-i-sverige/">http://www.migrationsinfo.se/framlingsfientlighet/framlingsfientlighet-i-sverige/</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orge759f97" class="outline-2">
+<h2 id="orge759f97">Politik</h2>
+<div class="outline-text-2" id="text-orge759f97">
+<ol class="org-ol">
+<li><a href="https://www.jagarhar.se/">https://www.jagarhar.se/</a></li>
+<li><a href="https://sv.wikipedia.org/wiki/Opinionsm%C3%A4tningar_inf%C3%B6r_riksdagsvalet_i_Sverige_2018">Wikipedia-Opinionsmätningar inför riksdagsvalet i Sverge 2018</a></li>
+<li><a href="http://status.st">http://status.st</a> - Statistik hur det går för SD (tvi fy fan för
+de jävlarna men man måste hålla kolla på.)</li>
+<li><a href="http://www.drorfeiler.se">Dror Feiler</a> - &#x2026;en cool vänsterpartist.</li>
+<li><a href="http://sv.wikipedia.org/wiki/Riksdagsvalet_i_Sverige_2018">Opinionssammanställning wikipedia - 2018</a></li>
+<li><a href="http://www.islam-svarar.se/">http://www.islam-svarar.se/</a></li>
+<li><a href="http://svenskopinion.nu/">http://svenskopinion.nu/</a></li>
+<li><a href="http://stallman.org/">Richard Stallman</a> - Head of Gnu church</li>
+<li><a href="http://ossalla.nu/">http://ossalla.nu/</a> - debatt mot rasism.</li>
+<li><a href="http://freedomhacker.net/">http://freedomhacker.net/</a></li>
+<li><a href="http://freeculture.org/">http://freeculture.org/</a></li>
+<li><a href="http://www.theendofpoverty.com/">http://www.theendofpoverty.com/</a></li>
+<li><a href="http://www.fritankesmedja.se/">Humanistfaschister</a></li>
+<li><a href="http://www.worldometers.info/se/">http://www.worldometers.info/se/</a> - En mätare över världen.</li>
+<li><a href="http://www.gapminder.org/">Gap Minder</a> - Statistik, visuallisering, rättivsare värld</li>
+<li>Moderatförnedring - <a href="http://www.fragakent.se/">http://www.fragakent.se/</a></li>
+<li><a href="http://wikileaks.be/wiki/Wikileaks">Wikileaks</a> - Free press, rykten, dokument</li>
+<li><a href="http://christianengstrom.wordpress.com/">Christian Engström</a> - Upphovsrätt, blogg, piratpariet</li>
+<li><a href="http://www.moorewatch.com/">moorewatch-michel moore</a> - michel moore</li>
+<li><a href="http://freenetproject.org/tools.html">free net project</a> - free speach</li>
+<li><a href="http://www.flashback.se/">flashback</a> - nyheter, yttrandefrihet</li>
+<li><a href="http://rickfalkvinge.se/">Rickard Falkqvinge</a> - Blog, Liberalism</li>
+<li><a href="http://www.michaelmoore.com/">Michael moorqe</a> - The one and only</li>
+<li><a href="http://www.hoover.org/">Hoover institute</a> - Free society</li>
+<li><a href="http://www.val.se/val/val2014/slutresultat/R/rike/index.html">Slutresltat valet 2014</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgcbdd15f" class="outline-2">
+<h2 id="orgcbdd15f">Rollspel</h2>
+<div class="outline-text-2" id="text-orgcbdd15f">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><a href="http://www.knights-n-knaves.com/osric/index.html">Osrik</a></td>
+<td class="org-left">Gratis AD&amp;D klon</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org1dfd48f" class="outline-2">
+<h2 id="org1dfd48f">Musik</h2>
+<div class="outline-text-2" id="text-org1dfd48f">
+<ul class="org-ul">
+<li><a href="http://komponera.se">http://komponera.se</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org649970a" class="outline-2">
+<h2 id="org649970a">Nyss</h2>
+<div class="outline-text-2" id="text-org649970a">
+<ol class="org-ol">
+<li><a href="http://systemsymmetry.com/aom/index.html">http://systemsymmetry.com/aom/index.html</a></li>
+<li><a href="http://www.fetchnotes.com">http://www.fetchnotes.com</a></li>
+<li><a href="http://netflix.se">http://netflix.se</a></li>
+<li><a href="http://www.satirarkivet.se/">http://www.satirarkivet.se/</a></li>
+<li><a href="http://sv.wikipedia.org/wiki/Koldioxidinf%C3%A5ngande_och_lagring">http://sv.wikipedia.org/wiki/Koldioxidinfångande_och_lagring</a></li>
+<li><a href="http://en.wikipedia.org/wiki/List_of_eponymous_laws">http://en.wikipedia.org/wiki/List_of_eponymous_laws</a></li>
+<li>Trust, Drm, <a href="http://youtu.be/XgFbqSYdNK4">http://youtu.be/XgFbqSYdNK4</a></li>
+<li>Hit kan jag kanske flytta min hemsida? <a href="http://www.binero.se/">http://www.binero.se/</a></li>
+<li><a href="http://www.youtube.com/watch?v=pyrKKeMzP9Y">Knyta slipps på 5 sekunder</a></li>
+<li><a href="http://www.visuwords.com/">Visualisera ord</a></li>
+<li><a href="http://www.filmdelta.se/">Svensk lite primitiv filmsida</a></li>
+<li><a href="http://en.wikipedia.org/wiki/List_of_fallacies">Logiska fel.</a></li>
+<li><a href="http://www.tinkernut.com">cool hacks</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgb8963b8" class="outline-2">
+<h2 id="orgb8963b8">9/11 och foliehattar</h2>
+<div class="outline-text-2" id="text-orgb8963b8">
+<p>
+På med foliehatten nu. Det är den enda hatt inte ljuger så jävla
+mycket.
+</p>
+
+<ul class="org-ul">
+<li><a href="http://youtu.be/WC9KZ2Yy5g4">http://youtu.be/WC9KZ2Yy5g4</a></li>
+<li><a href="http://youtu.be/dXimYWhoWKI">http://youtu.be/dXimYWhoWKI</a></li>
+<li><a href="http://youtu.be/bFGhMBUORx8">http://youtu.be/bFGhMBUORx8</a></li>
+<li><a href="http://www.youtube.com/watch?v=04LCvk2KYfY">http://www.youtube.com/watch?v=04LCvk2KYfY</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3326b44" class="outline-2">
+<h2 id="org3326b44">Osorterat</h2>
+<div class="outline-text-2" id="text-org3326b44">
+<p>
+<a href="http://alientrap.org/nexuiz/">http://alientrap.org/nexuiz/</a> 
+<a href="http://anlo.net/">http://anlo.net/</a> 
+<a href="http://ardour.org/">http://ardour.org/</a> 
+<a href="http://aria2.sourceforge.net/">http://aria2.sourceforge.net/</a> 
+<a href="http://asciimo.com/">http://asciimo.com/</a> 
+<a href="http://bc.tech.coop/blog/070813.html">http://bc.tech.coop/blog/070813.html</a> 
+<a href="http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html">http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html</a> 
+<a href="http://beta.nodebox.net/wiki/Welcome">http://beta.nodebox.net/wiki/Welcome</a> 
+<a href="http://bit.ly/">http://bit.ly/</a> 
+<a href="http://blekko.com/">http://blekko.com/</a> 
+<a href="http://blog.audiojungle.net/resources/29-music-making-apps-for-linux/">http://blog.audiojungle.net/resources/29-music-making-apps-for-linux/</a> 
+<a href="http://blog.kevinhoyt.org/?p=135">http://blog.kevinhoyt.org/?p=135</a> 
+<a href="http://blogs.computerworld.com/16766/how_oracle_sees_open_source_may_not_be_how_you_see_open_source">http://blogs.computerworld.com/16766/how_oracle_sees_open_source_may_not_be_how_you_see_open_source</a> 
+<a href="http://blogs.playgroundmusic.com/sweden/contact/a-r">http://blogs.playgroundmusic.com/sweden/contact/a-r</a> 
+<a href="http://bluedennis.tumblr.com/post/935996048/texten-som-sitter-fast-i-mitt-huvud-utan-att-jag-stor">http://bluedennis.tumblr.com/post/935996048/texten-som-sitter-fast-i-mitt-huvud-utan-att-jag-stor</a> 
+<a href="http://bluefish.openoffice.nl/">http://bluefish.openoffice.nl/</a> 
+<a href="http://bluehackers.org/">http://bluehackers.org/</a> 
+<a href="http://box.matto.nl/emacsgmail.html">http://box.matto.nl/emacsgmail.html</a> 
+<a href="http://buzzmachines.com/drumkits.php">http://buzzmachines.com/drumkits.php</a> 
+<a href="http://cb.vu/unixtoolbox.xhtml">http://cb.vu/unixtoolbox.xhtml</a> 
+<a href="http://clonezilla.org/clonezilla-server-edition/">http://clonezilla.org/clonezilla-server-edition/</a> 
+<a href="http://code.google.com/p/cult/">http://code.google.com/p/cult/</a> 
+<a href="http://code.google.com/p/javagems/">http://code.google.com/p/javagems/</a> 
+<a href="http://codingbat.com/">http://codingbat.com/</a> 
+<a href="http://commons.apache.org/">http://commons.apache.org/</a> 
+<a href="http://commons.apache.org/configuration/apidocs/overview-summary.html">http://commons.apache.org/configuration/apidocs/overview-summary.html</a> 
+<a href="http://database.ittoolbox.com/documents/inner-and-outer-join-sql-statements-18442">http://database.ittoolbox.com/documents/inner-and-outer-join-sql-statements-18442</a> 
+<a href="http://despair.com/">http://despair.com/</a> 
+<a href="http://ditaa.sourceforge.net/">http://ditaa.sourceforge.net/</a> 
+<a href="http://dmi.smartelectronix.com/">http://dmi.smartelectronix.com/</a> 
+<a href="http://docs.google.com/?pli=1#owned-by-me">http://docs.google.com/?pli=1#owned-by-me</a> 
+<a href="http://dreampie.sourceforge.net/">http://dreampie.sourceforge.net/</a> 
+<a href="http://dsc.discovery.com/videos/why-tell-me-why-thirst.html">http://dsc.discovery.com/videos/why-tell-me-why-thirst.html</a> 
+<a href="http://easygui.sourceforge.net/">http://easygui.sourceforge.net/</a> 
+<a href="http://effbot.org/tkinterbook/">http://effbot.org/tkinterbook/</a> 
+<a href="http://elektrostudio.ovh.org/index2.php?go=4">http://elektrostudio.ovh.org/index2.php?go=4</a> 
+<a href="http://en.wikipedia.org/">http://en.wikipedia.org/</a> 
+<a href="http://en.wikipedia.org/wiki/Bone_Wars">http://en.wikipedia.org/wiki/Bone_Wars</a> 
+<a href="http://en.wikipedia.org/wiki/Category:Latin_logical_phrases">http://en.wikipedia.org/wiki/Category:Latin_logical_phrases</a> 
+<a href="http://en.wikipedia.org/wiki/Federal_holiday">http://en.wikipedia.org/wiki/Federal_holiday</a> 
+<a href="http://en.wikipedia.org/wiki/Git_(software)">http://en.wikipedia.org/wiki/Git_(software)</a> 
+<a href="http://en.wikipedia.org/wiki/Human">http://en.wikipedia.org/wiki/Human</a> 
+<a href="http://en.wikipedia.org/wiki/List_of_cryptids">http://en.wikipedia.org/wiki/List_of_cryptids</a> 
+<a href="http://en.wikipedia.org/wiki/List_of_fallacies">http://en.wikipedia.org/wiki/List_of_fallacies</a> 
+<a href="http://en.wikipedia.org/wiki/Natalie_Portman">http://en.wikipedia.org/wiki/Natalie_Portman</a> 
+<a href="http://en.wikipedia.org/wiki/Shinedown">http://en.wikipedia.org/wiki/Shinedown</a> 
+<a href="http://en.wikipedia.org/wiki/Songbird_(Willie_Nelson_album)">http://en.wikipedia.org/wiki/Songbird_(Willie_Nelson_album)</a> 
+<a href="http://english.aljazeera.net/">http://english.aljazeera.net/</a> 
+<a href="http://enkelriktat.monkeytoys.com/stories/2002/08/07/snabblasningSaGarDetTill.html">http://enkelriktat.monkeytoys.com/stories/2002/08/07/snabblasningSaGarDetTill.html</a> 
+<a href="http://etn.se/">http://etn.se/</a> 
+<a href="http://eu-es.facebook.com/profile.php?id=1316327389&amp;amp;ref=fs">http://eu-es.facebook.com/profile.php?id=1316327389&amp;amp;ref=fs</a> 
+<a href="http://freevstplugins.blogspot.com/">http://freevstplugins.blogspot.com/</a> 
+<a href="http://freshmeat.net/projects/laby">http://freshmeat.net/projects/laby</a> 
+<a href="http://funlok.com/">http://funlok.com/</a> 
+<a href="http://games.moria.org.uk/kye/">http://games.moria.org.uk/kye/</a> 
+<a href="http://gcompris.net/">http://gcompris.net/</a> 
+<a href="http://gcompris.net/-sv">http://gcompris.net/-sv</a>- 
+<a href="http://gd.se/nyheter/gavle/1.1000059">http://gd.se/nyheter/gavle/1.1000059</a> 
+<a href="http://gd.se/nyheter/gavle/1.1225742">http://gd.se/nyheter/gavle/1.1225742</a> 
+<a href="http://gethighnow.com/">http://gethighnow.com/</a> 
+<a href="http://git-scm.com/">http://git-scm.com/</a> 
+<a href="http://git.or.cz/course/svn.html">http://git.or.cz/course/svn.html</a> 
+<a href="http://github.com/">http://github.com/</a> 
+<a href="http://gnuwin32.sourceforge.net/">http://gnuwin32.sourceforge.net/</a> 
+<a href="http://go-oo.org/">http://go-oo.org/</a> 
+<a href="http://goo.gl/">http://goo.gl/</a> 
+<a href="http://google-styleguide.googlecode.com/svn/trunk/pyguide.html#TODO_Comments">http://google-styleguide.googlecode.com/svn/trunk/pyguide.html#TODO_Comments</a> 
+<a href="http://hamletdarcy.blogspot.com/2009/06/forgotten-refactorings.html">http://hamletdarcy.blogspot.com/2009/06/forgotten-refactorings.html</a> 
+<a href="http://hginit.com/00.html">http://hginit.com/00.html</a> 
+<a href="http://home.arcor.de/mdoege/pysynth/">http://home.arcor.de/mdoege/pysynth/</a> 
+<a href="http://imm.io/">http://imm.io/</a> 
+<a href="http://improbable.com/ig/">http://improbable.com/ig/</a> 
+<a href="http://issuu.com/">http://issuu.com/</a> 
+<a href="http://jetcarrier.com/">http://jetcarrier.com/</a> 
+<a href="http://jobb.monster.se/Ort/G%C3%A4vle/h%C3%A4mta-jobb-12.aspx">http://jobb.monster.se/Ort/Gävle/hämta-jobb-12.aspx</a> 
+<a href="http://jobbsok.cs.idg.se/careers/jobsearch">http://jobbsok.cs.idg.se/careers/jobsearch</a> 
+<a href="http://kahvi.org/">http://kahvi.org/</a> 
+<a href="http://kodos.sourceforge.net/">http://kodos.sourceforge.net/</a> 
+<a href="http://krakli.com/krakli-free-synths/">http://krakli.com/krakli-free-synths/</a> 
+<a href="http://listen.grooveshark.com/">http://listen.grooveshark.com/</a> 
+<a href="http://ljudo.com/default.asp?lang=tSwedish&amp;amp;do=it">http://ljudo.com/default.asp?lang=tSwedish&amp;amp;do=it</a> 
+<a href="http://lmms.sourceforge.net/screenshots.php">http://lmms.sourceforge.net/screenshots.php</a> 
+<a href="http://lyrics.wikia.com/Main_Page">http://lyrics.wikia.com/Main_Page</a> 
+<a href="http://mail-archives.apache.org/mod_mbox/logging-log4j-dev/200909.mbox/%3Cbug-47898-31091@https.issues.apache.org/bugzilla/%3E">http://mail-archives.apache.org/mod_mbox/logging-log4j-dev/200909.mbox/<bug-47898-31091@https.issues.apache.org/bugzilla/></a> 
+<a href="http://manybooks.net/">http://manybooks.net/</a> 
+<a href="http://maps.google.com/?cid=14581633814930490589">http://maps.google.com/?cid=14581633814930490589</a> 
+<a href="http://maps.google.com/?cid=2249108513750805836">http://maps.google.com/?cid=2249108513750805836</a> 
+<a href="http://maps.google.com/?cid=4006691643298205498">http://maps.google.com/?cid=4006691643298205498</a> 
+<a href="http://maps.google.com/?cid=5405336589846478841">http://maps.google.com/?cid=5405336589846478841</a> 
+<a href="http://maps.google.com/?cid=7802867402646337659">http://maps.google.com/?cid=7802867402646337659</a> 
+<a href="http://maps.google.com/?cid=8140710745644816905">http://maps.google.com/?cid=8140710745644816905</a> 
+<a href="http://maps.google.com/?cid=9196779386387418943">http://maps.google.com/?cid=9196779386387418943</a> 
+<a href="http://maps.google.com/?cid=931541495439115784">http://maps.google.com/?cid=931541495439115784</a> 
+<a href="http://maps.google.com/?cid=9477799269806643325">http://maps.google.com/?cid=9477799269806643325</a> 
+<a href="http://maps.google.com/?cid=961344889379856312">http://maps.google.com/?cid=961344889379856312</a> 
+<a href="http://maps.google.com/maps/place?oe=utf-8&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;q=fina+bilen+g%C3%A4vle&amp;amp;fb=1&amp;amp;hq=fina+bilen&amp;amp;hnear=g%C3%A4vle&amp;amp;cid=1096580539360445525">http://maps.google.com/maps/place?oe=utf-8&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;q=fina+bilen+gävle&amp;amp;fb=1&amp;amp;hq=fina+bilen&amp;amp;hnear=gävle&amp;amp;cid=1096580539360445525</a> 
+<a href="http://members.chello.nl/w.boeke/amuc/">http://members.chello.nl/w.boeke/amuc/</a> 
+<a href="http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html">http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html</a> 
+<a href="http://metajack.im/2009/01/01/journaling-with-emacs-orgmode/">http://metajack.im/2009/01/01/journaling-with-emacs-orgmode/</a> 
+<a href="http://mugtug.com/sketchpad/">http://mugtug.com/sketchpad/</a> 
+<a href="http://nanok.com/wrs/">http://nanok.com/wrs/</a> 
+<a href="http://naturesoundsfor.me/Rainy-Day">http://naturesoundsfor.me/Rainy-Day</a> 
+<a href="http://nettuts.com/tutorials/html-css-techniques/5-tips-to-writing-better-css/">http://nettuts.com/tutorials/html-css-techniques/5-tips-to-writing-better-css/</a> 
+<a href="http://notepad-plus-plus.org/">http://notepad-plus-plus.org/</a> 
+<a href="http://omegle.com/">http://omegle.com/</a> 
+<a href="http://oneswarm.cs.washington.edu/">http://oneswarm.cs.washington.edu/</a> 
+<a href="http://opengameart.org/">http://opengameart.org/</a> 
+<a href="http://orgmode.org/worg/org-configs/org-config-examples.php#sec-2.2">http://orgmode.org/worg/org-configs/org-config-examples.php#sec-2.2</a> 
+<a href="http://pixlr.com/">http://pixlr.com/</a> 
+<a href="http://platsbanken.arbetsformedlingen.se/Standard/SokViaArbetsort/SokViaArbetsort.aspx?o=21&amp;amp;k=0">http://platsbanken.arbetsformedlingen.se/Standard/SokViaArbetsort/SokViaArbetsort.aspx?o=21&amp;amp;k=0</a> 
+<a href="http://pressylta.com/lankvart/SvenskaInvektiv.htm">http://pressylta.com/lankvart/SvenskaInvektiv.htm</a> 
+<a href="http://progfree.org/">http://progfree.org/</a> 
+<a href="http://pymacs.progiciels-bpi.ca/">http://pymacs.progiciels-bpi.ca/</a> 
+<a href="http://redplanet.se/">http://redplanet.se/</a> 
+<a href="http://rgruet.free.fr/#QuickRef">http://rgruet.free.fr/#QuickRef</a> 
+<a href="http://rickfalkvinge.se/">http://rickfalkvinge.se/</a> 
+<a href="http://runeberg.org/">http://runeberg.org/</a> 
+<a href="http://scabernestor.blogg.se/">http://scabernestor.blogg.se/</a> 
+<a href="http://signaltheorist.com/?p=444">http://signaltheorist.com/?p=444</a> 
+<a href="http://sketchory.com/">http://sketchory.com/</a> 
+<a href="http://soundcloud.com/">http://soundcloud.com/</a> 
+<a href="http://soundcloud.com/emi-sweden/dropbox">http://soundcloud.com/emi-sweden/dropbox</a> 
+<a href="http://su.diva-portal.org/smash/get/diva2:352204/FULLTEXT01">http://su.diva-portal.org/smash/get/diva2:352204/FULLTEXT01</a> 
+<a href="http://sv.wikipedia.org/">http://sv.wikipedia.org/</a> 
+<a href="http://sv.wikipedia.org/wiki/Bob_Hansson">http://sv.wikipedia.org/wiki/Bob_Hansson</a> 
+<a href="http://sv.wikipedia.org/wiki/Elitteori">http://sv.wikipedia.org/wiki/Elitteori</a> 
+<a href="http://sv.wikipedia.org/wiki/Lasse_Lucidor">http://sv.wikipedia.org/wiki/Lasse_Lucidor</a> 
+<a href="http://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_idiomatiska_uttryck">http://sv.wikipedia.org/wiki/Lista_över_svenska_idiomatiska_uttryck</a> 
+<a href="http://sv.wikipedia.org/wiki/Studentikos_stavning">http://sv.wikipedia.org/wiki/Studentikos_stavning</a> 
+<a href="http://sv.wikipedia.org/wiki/Wikipedia:Namngivning">http://sv.wikipedia.org/wiki/Wikipedia:Namngivning</a> 
+<a href="http://sv.wiktionary.org/wiki/Wiktionary:Huvudsida">http://sv.wiktionary.org/wiki/Wiktionary:Huvudsida</a> 
+<a href="http://sverigesradio.se/barn/spel/">http://sverigesradio.se/barn/spel/</a> 
+<a href="http://synthgeek.skincontact.com/node/94">http://synthgeek.skincontact.com/node/94</a> 
+<a href="http://taotechingpasvenska.blogspot.com/search?updated-min=2009-01-01T00:00:00-08:00&amp;amp;updated-max=2010-01-01T00:00:00-08:00&amp;amp;max-results=1">http://taotechingpasvenska.blogspot.com/search?updated-min=2009-01-01T00:00:00-08:00&amp;amp;updated-max=2010-01-01T00:00:00-08:00&amp;amp;max-results=1</a> 
+<a href="http://thedogpaddler.com/RandomUploads/Ball/ball.htm">http://thedogpaddler.com/RandomUploads/Ball/ball.htm</a> 
+</p>
+
+<p>
+<a href="http://thisisindexed.com/">http://thisisindexed.com/</a> 
+<a href="http://tiddlywiki.org/wiki/TiddlyWiki_Markup#Examples">http://tiddlywiki.org/wiki/TiddlyWiki_Markup#Examples</a> 
+<a href="http://tldp.org/LDP/intro-linux/html/">http://tldp.org/LDP/intro-linux/html/</a> 
+<a href="http://tldp.org/LDP/intro-linux/html/sect_09_04.html">http://tldp.org/LDP/intro-linux/html/sect_09_04.html</a> 
+<a href="http://tputh.com/">http://tputh.com/</a> 
+<a href="http://tribunalen.com/">http://tribunalen.com/</a> 
+<a href="http://tyda.se/">http://tyda.se/</a> 
+<a href="http://ubuntusatanic.org/">http://ubuntusatanic.org/</a> 
+<a href="http://unity3d.com/">http://unity3d.com/</a> 
+<a href="http://uploads.ungrounded.net/404000/404612_Portal.swf">http://uploads.ungrounded.net/404000/404612_Portal.swf</a> 
+<a href="http://uploads.ungrounded.net/525000/525347_scale_of_universe_ng.swf">http://uploads.ungrounded.net/525000/525347_scale_of_universe_ng.swf</a> 
+<a href="http://valsedlar.piratpartiet.se/">http://valsedlar.piratpartiet.se/</a> 
+<a href="http://vesslan.com/">http://vesslan.com/</a> 
+<a href="http://vimeo.com/3261363">http://vimeo.com/3261363</a> 
+<a href="http://vimeo.com/8189506">http://vimeo.com/8189506</a> 
+<a href="http://vip.asus.com/forum/view.aspx?board_id=20&amp;amp;model=Eee+Box+B202&amp;amp;id=20081218095303018&amp;amp;page=1&amp;amp;SLanguage=en-us">http://vip.asus.com/forum/view.aspx?board_id=20&amp;amp;model=Eee+Box+B202&amp;amp;id=20081218095303018&amp;amp;page=1&amp;amp;SLanguage=en-us</a> 
+<a href="http://weblogic.sys-con.com/node/42678">http://weblogic.sys-con.com/node/42678</a> 
+<a href="http://www.2storstark.com/afdarhus/sketchpad.html">http://www.2storstark.com/afdarhus/sketchpad.html</a> 
+<a href="http://www.365saker.se/">http://www.365saker.se/</a> 
+<a href="http://www.43folders.com/">http://www.43folders.com/</a> 
+<a href="http://www.abandonia.com/">http://www.abandonia.com/</a> 
+<a href="http://www.addskills.se/Utbildning/Kurs/?CourseID=260">http://www.addskills.se/Utbildning/Kurs/?CourseID=260</a> 
+<a href="http://www.adlibris.com/">http://www.adlibris.com/</a> 
+<a href="http://www.alde.eu/en/details/?no_cache=1&amp;amp;tx_ttnews%5Btt_news%5D=23424">http://www.alde.eu/en/details/?no_cache=1&amp;amp;tx_ttnews[tt_news]=23424</a> 
+<a href="http://www.alien-zoo.com/">http://www.alien-zoo.com/</a> 
+<a href="http://www.alternet.org/">http://www.alternet.org/</a> 
+<a href="http://www.analogx.com/">http://www.analogx.com/</a> 
+<a href="http://www.arrak.fi/sv/ag">http://www.arrak.fi/sv/ag</a> 
+<a href="http://www.awaretek.com/tutorials.html">http://www.awaretek.com/tutorials.html</a> 
+<a href="http://www.blogcatalog.com/blog/free-vst-instruments">http://www.blogcatalog.com/blog/free-vst-instruments</a> 
+<a href="http://www.bokborsen.se/">http://www.bokborsen.se/</a> 
+<a href="http://www.brainyquote.com/quotes/authors/a/anne_frank.html">http://www.brainyquote.com/quotes/authors/a/anne_frank.html</a> 
+<a href="http://www.brorosyster.se/product.html/blutsaft-500ml?category_id=98">http://www.brorosyster.se/product.html/blutsaft-500ml?category_id=98</a> 
+<a href="http://www.cenedella.com/stone/archives/2010/01/leonardo_da_vincis_resume.html">http://www.cenedella.com/stone/archives/2010/01/leonardo_da_vincis_resume.html</a> 
+<a href="http://www.chinadaily.com.cn/">http://www.chinadaily.com.cn/</a> 
+<a href="http://www.cia.hack23.com/">http://www.cia.hack23.com/</a> 
+<a href="http://www.cnn.com/video/data/2.0/video/bestoftv/2010/10/28/exp.am.unemployed.man.comic.cnn.html">http://www.cnn.com/video/data/2.0/video/bestoftv/2010/10/28/exp.am.unemployed.man.comic.cnn.html</a> 
+<a href="http://www.conductive.se/ledare-men-inte-chef/#tid_plats_pris">http://www.conductive.se/ledare-men-inte-chef/#tid_plats_pris</a> 
+<a href="http://www.constitution.org/col/amazing_grace.htm">http://www.constitution.org/col/amazing_grace.htm</a> 
+<a href="http://www.coolquotescollection.com/">http://www.coolquotescollection.com/</a> 
+<a href="http://www.crossbrowser.net/385/how-to-save-subversion-svn/comment-page-1/#comment-160">http://www.crossbrowser.net/385/how-to-save-subversion-svn/comment-page-1/#comment-160</a> 
+<a href="http://www.cybergrain.com/archives/2004/12/googles_vision.html">http://www.cybergrain.com/archives/2004/12/googles_vision.html</a> 
+<a href="http://www.dagenskonflikt.se/om-tankesmedjan-konflikt/">http://www.dagenskonflikt.se/om-tankesmedjan-konflikt/</a> 
+<a href="http://www.dagensopinion.se/">http://www.dagensopinion.se/</a> 
+<a href="http://www.dagenssamhalle.se/">http://www.dagenssamhalle.se/</a> 
+<a href="http://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know/">http://www.dailywritingtips.com/the-yiddish-handbook-40-words-you-should-know/</a> 
+<a href="http://www.dalailama.com/">http://www.dalailama.com/</a> 
+<a href="http://www.de5stora.com/omrovdjuren/varg/farlig/">http://www.de5stora.com/omrovdjuren/varg/farlig/</a> 
+<a href="http://www.demolatar.se/">http://www.demolatar.se/</a> 
+<a href="http://www.devdaily.com/blog/post/java/simple-log4j-example/">http://www.devdaily.com/blog/post/java/simple-log4j-example/</a> 
+<a href="http://www.devx.com/Java/Article/17679/1954">http://www.devx.com/Java/Article/17679/1954</a> 
+<a href="http://www.dn.se/insidan/gruppen-skapar-sin-egen-sanning-1.1071029">http://www.dn.se/insidan/gruppen-skapar-sin-egen-sanning-1.1071029</a> 
+<a href="http://www.dn.se/nyheter/varlden/dansk-polis-skot-ihjal-ranare-1.1082936">http://www.dn.se/nyheter/varlden/dansk-polis-skot-ihjal-ranare-1.1082936</a> 
+<a href="http://www.doe.virginia.gov/Div/Winchester/jhhs/math/facts/symbol.html">http://www.doe.virginia.gov/Div/Winchester/jhhs/math/facts/symbol.html</a> 
+<a href="http://www.domanshop.se/">http://www.domanshop.se/</a> 
+<a href="http://www.dummies.com/how-to/content/creating-web-services-in-weblogic.html">http://www.dummies.com/how-to/content/creating-web-services-in-weblogic.html</a> 
+<a href="http://www.enterprisedt.com/products/edtftpj/doc/api/com/enterprisedt/util/debug/Level.html">http://www.enterprisedt.com/products/edtftpj/doc/api/com/enterprisedt/util/debug/Level.html</a> 
+<a href="http://www.facebook.com/">http://www.facebook.com/</a> 
+<a href="http://www.fastforward.pro/skicka-in-din-demo.html">http://www.fastforward.pro/skicka-in-din-demo.html</a> 
+<a href="http://www.feedback-records.com/demo.html">http://www.feedback-records.com/demo.html</a> 
+<a href="http://www.feedbooks.com/">http://www.feedbooks.com/</a> 
+<a href="http://www.feedbooks.com/news">http://www.feedbooks.com/news</a> 
+<a href="http://www.finabilen.se/">http://www.finabilen.se/</a> 
+<a href="http://www.flickr.com/photos/23874157@N00/3228239459/#comment72157613046488266">http://www.flickr.com/photos/23874157@N00/3228239459/#comment72157613046488266</a> 
+<a href="http://www.forever-young.nu/">http://www.forever-young.nu/</a> 
+<a href="http://www.freesound.org/">http://www.freesound.org/</a> 
+<a href="http://www.freesound.org/packsView.php">http://www.freesound.org/packsView.php</a> 
+<a href="http://www.freesoundeditor.com/VSTSyntheng.htm">http://www.freesoundeditor.com/VSTSyntheng.htm</a> 
+<a href="http://www.fria.nu/">http://www.fria.nu/</a> 
+<a href="http://www.fritext.se/">http://www.fritext.se/</a> 
+<a href="http://www.gapminder.org/">http://www.gapminder.org/</a> 
+<a href="http://www.gavle.se/">http://www.gavle.se/</a> 
+<a href="http://www.getout.nu/">http://www.getout.nu/</a> 
+<a href="http://www.gnu.org/software/emacs/">http://www.gnu.org/software/emacs/</a> 
+<a href="http://www.gnupg.org/">http://www.gnupg.org/</a> 
+<a href="http://www.google.com/governmentrequests/">http://www.google.com/governmentrequests/</a> 
+<a href="http://www.google.com/news">http://www.google.com/news</a> 
+<a href="http://www.grillhouse.se/">http://www.grillhouse.se/</a> 
+<a href="http://www.gutenberg.org/">http://www.gutenberg.org/</a> 
+<a href="http://www.gutenberg.org/files/3815/3815-8.txt">http://www.gutenberg.org/files/3815/3815-8.txt</a> 
+<a href="http://www.hitta.se/ViewDetailsPink.aspx?vad=026158050&amp;amp;var=g%C3%A4vle&amp;amp;Vkiid=bLirft9irLIES1itxpE+Vw%3d%3d&amp;amp;Vkid=1636117&amp;amp;isAlternateNumberResult=False">http://www.hitta.se/ViewDetailsPink.aspx?vad=026158050&amp;amp;var=gävle&amp;amp;Vkiid=bLirft9irLIES1itxpE+Vw==&amp;amp;Vkid=1636117&amp;amp;isAlternateNumberResult=False</a> 
+<a href="http://www.hoahoa.org/">http://www.hoahoa.org/</a> 
+<a href="http://www.hoahoa.se/">http://www.hoahoa.se/</a> 
+<a href="http://www.hoover.org/">http://www.hoover.org/</a> 
+<a href="http://www.hydrogen-music.org/">http://www.hydrogen-music.org/</a> 
+<a href="http://www.idg.se/2.1085/1.227104/sa-optimerar-du-vista--i-5-snabba-steg?utm_source=anp&amp;amp;utm_medium=email">http://www.idg.se/2.1085/1.227104/sa-optimerar-du-vista--i-5-snabba-steg?utm_source=anp&amp;amp;utm_medium=email</a> 
+<a href="http://www.idg.se/2.1085/1.228116/sa-snabbar-du-upp-firefox">http://www.idg.se/2.1085/1.228116/sa-snabbar-du-upp-firefox</a> 
+<a href="http://www.idg.se/2.1085/1.383890/mozilla-vagrar-lyda-homeland-security">http://www.idg.se/2.1085/1.383890/mozilla-vagrar-lyda-homeland-security</a> 
+<a href="http://www.ilovewavs.com/">http://www.ilovewavs.com/</a> 
+<a href="http://www.infoq.com/">http://www.infoq.com/</a> 
+<a href="http://www.infoq.com/presentations/Deliberate-Discovery">http://www.infoq.com/presentations/Deliberate-Discovery</a> 
+<a href="http://www.inkommande.se/inkommande/pages/leaveWish.php">http://www.inkommande.se/inkommande/pages/leaveWish.php</a> 
+<a href="http://www.inmoria.com/index.php?categoryid=9">http://www.inmoria.com/index.php?categoryid=9</a> 
+<a href="http://www.internetit.konsumentverket.se/mallar/sv/artikel.asp?lngCategoryId=1475&amp;amp;lngArticleId=2659">http://www.internetit.konsumentverket.se/mallar/sv/artikel.asp?lngCategoryId=1475&amp;amp;lngArticleId=2659</a> 
+<a href="http://www.ircnet.org/">http://www.ircnet.org/</a> 
+<a href="http://www.janssen-cilag.se/?product=adhd&amp;amp;product=none">http://www.janssen-cilag.se/?product=adhd&amp;amp;product=none</a> 
+<a href="http://www.java2s.com/Code/Java/Language-Basics/Examplelog4jConfigurationFile.htm">http://www.java2s.com/Code/Java/Language-Basics/Examplelog4jConfigurationFile.htm</a> 
+<a href="http://www.java2s.com/Code/Java/Language-Basics/log4jsimplelog.htm">http://www.java2s.com/Code/Java/Language-Basics/log4jsimplelog.htm</a> 
+<a href="http://www.javabeat.net/tips/82-baisc-steps-to-configure-log4j-using-xml-and.html">http://www.javabeat.net/tips/82-baisc-steps-to-configure-log4j-using-xml-and.html</a> 
+<a href="http://www.kapitel1.se/">http://www.kapitel1.se/</a> 
+<a href="http://www.kjell.com/">http://www.kjell.com/</a> 
+<a href="http://www.krabat-music.se/skicka-in-demo/">http://www.krabat-music.se/skicka-in-demo/</a> 
+<a href="http://www.lansmuseetgavleborg.se/">http://www.lansmuseetgavleborg.se/</a> 
+<a href="http://www.learningtree.se/courses/se931.htm">http://www.learningtree.se/courses/se931.htm</a> 
+<a href="http://www.learningtree.se/ilt/courses/se290.htm">http://www.learningtree.se/ilt/courses/se290.htm</a> 
+<a href="http://www.leeenux-linux.com/">http://www.leeenux-linux.com/</a> 
+<a href="http://www.level7.org.uk/chroma/">http://www.level7.org.uk/chroma/</a> 
+<a href="http://www.limitedwipsociety.org/">http://www.limitedwipsociety.org/</a> 
+<a href="http://www.linerider.com/">http://www.linerider.com/</a> 
+<a href="http://www.linux.com/">http://www.linux.com/</a> 
+<a href="http://www.linuxalt.com/">http://www.linuxalt.com/</a> 
+<a href="http://www.linuxjournal.com/article/7694">http://www.linuxjournal.com/article/7694</a> 
+<a href="http://www.linuxportalen.se/">http://www.linuxportalen.se/</a> 
+<a href="http://www.liquibase.org/">http://www.liquibase.org/</a> 
+<a href="http://www.lisperati.com/casting-spels-emacs/html/casting-spels-emacs-1.html">http://www.lisperati.com/casting-spels-emacs/html/casting-spels-emacs-1.html</a> 
+<a href="http://www.livet.se/ord/k%C3%A4lla/Stanislaw_Jerzy_Lec">http://www.livet.se/ord/källa/Stanislaw_Jerzy_Lec</a> 
+<a href="http://www.livsprognos.se/">http://www.livsprognos.se/</a> 
+<a href="http://www.lucdebrouwer.nl/choosing-a-license-for-your-next-project/">http://www.lucdebrouwer.nl/choosing-a-license-for-your-next-project/</a> 
+<a href="http://www.makeuseof.com/tag/muo-games-10-open-source-online-games-for-kids/">http://www.makeuseof.com/tag/muo-games-10-open-source-online-games-for-kids/</a> 
+<a href="http://www.makthavare.se/">http://www.makthavare.se/</a> 
+<a href="http://www.mera.se/">http://www.mera.se/</a> 
+<a href="http://www.metro.se/">http://www.metro.se/</a> 
+<a href="http://www.metro.se/se/article/2009/01/25/18/3521-65/index.xml">http://www.metro.se/se/article/2009/01/25/18/3521-65/index.xml</a> 
+<a href="http://www.misadigital.com/">http://www.misadigital.com/</a> 
+<a href="http://www.morenewmath.com/all/">http://www.morenewmath.com/all/</a> 
+<a href="http://www.motkraft.net/information">http://www.motkraft.net/information</a> 
+<a href="http://www.mountaingoatsoftware.com/">http://www.mountaingoatsoftware.com/</a> 
+<a href="http://www.myspace.com/">http://www.myspace.com/</a> 
+<a href="http://www.myspace.com/fenwaybrassartorchestra">http://www.myspace.com/fenwaybrassartorchestra</a> 
+<a href="http://www.myspace.com/theresaanderssonmusic">http://www.myspace.com/theresaanderssonmusic</a> 
+<a href="http://www.myspace.com/wovenhand">http://www.myspace.com/wovenhand</a> 
+<a href="http://www.newartisans.com/blog/2007/08/using-org-mode-as-a-day-planner.html">http://www.newartisans.com/blog/2007/08/using-org-mode-as-a-day-planner.html</a> 
+<a href="http://www.newsmill.se/">http://www.newsmill.se/</a> 
+<a href="http://www.nixtutor.com/">http://www.nixtutor.com/</a> 
+<a href="http://www.nons.se/sve/demo.asp">http://www.nons.se/sve/demo.asp</a> 
+<a href="http://www.ohnorobot.com/">http://www.ohnorobot.com/</a> 
+<a href="http://www.okgo.net/">http://www.okgo.net/</a> 
+<a href="http://www.old-computers.com/news/default.asp">http://www.old-computers.com/news/default.asp</a> 
+<a href="http://www.openoffice.org/">http://www.openoffice.org/</a> 
+<a href="http://www.openprocessing.org/">http://www.openprocessing.org/</a> 
+<a href="http://www.pastan.nu/klubb/har-raggar-man-lattast-1.1043974">http://www.pastan.nu/klubb/har-raggar-man-lattast-1.1043974</a> 
+<a href="http://www.pidgin.im/">http://www.pidgin.im/</a> 
+<a href="http://www.piratpartiet.se/">http://www.piratpartiet.se/</a> 
+<a href="http://www.popsci.com/archives">http://www.popsci.com/archives</a> 
+<a href="http://www.prostatacancer.nu/">http://www.prostatacancer.nu/</a> 
+<a href="http://www.pygame.org/docs/ref/surface.html#Surface.copy">http://www.pygame.org/docs/ref/surface.html#Surface.copy</a> 
+<a href="http://www.randomimagegenerator.com/">http://www.randomimagegenerator.com/</a> 
+<a href="http://www.reco.se/design-produktion-hans-erik-persson">http://www.reco.se/design-produktion-hans-erik-persson</a> 
+<a href="http://www.redaktionen.se/af/jackhansen/">http://www.redaktionen.se/af/jackhansen/</a> 
+<a href="http://www.reuters.com/">http://www.reuters.com/</a> 
+<a href="http://www.rod.se/">http://www.rod.se/</a> 
+<a href="http://www.roseindia.net/tutorials/log4j/log4j.shtml">http://www.roseindia.net/tutorials/log4j/log4j.shtml</a> 
+<a href="http://www.sacredchao.net/~piman/writing/sprite-tutorial.shtml">http://www.sacredchao.net/~piman/writing/sprite-tutorial.shtml</a> 
+<a href="http://www.savetheinternet.com/">http://www.savetheinternet.com/</a> 
+<a href="http://www.schoolsplay.org/">http://www.schoolsplay.org/</a> 
+<a href="http://www.scrumalliance.org/">http://www.scrumalliance.org/</a> 
+<a href="http://www.second-opinion.se/">http://www.second-opinion.se/</a> 
+<a href="http://www.secretgeek.net/">http://www.secretgeek.net/</a> 
+<a href="http://www.shortcut.nu/">http://www.shortcut.nu/</a> 
+<a href="http://www.signalpatterns.com/">http://www.signalpatterns.com/</a> 
+<a href="http://www.sketchswap.com/">http://www.sketchswap.com/</a> 
+<a href="http://www.smashingapps.com/2008/08/28/5-best-free-file-hosting-services-to-store-your-files.html">http://www.smashingapps.com/2008/08/28/5-best-free-file-hosting-services-to-store-your-files.html</a> 
+<a href="http://www.snigelpost.nu/">http://www.snigelpost.nu/</a> 
+<a href="http://www.socialdemokraterna.se/Var-politik/featureartiklar/Debattartikel---fildelning-/">http://www.socialdemokraterna.se/Var-politik/featureartiklar/Debattartikel---fildelning-/</a> 
+<a href="http://www.socialstyrelsen.se/nationellariktlinjerfordiabetesvarden/centralarekommendationer/overviktfetma">http://www.socialstyrelsen.se/nationellariktlinjerfordiabetesvarden/centralarekommendationer/overviktfetma</a> 
+<a href="http://www.sounddogs.com/">http://www.sounddogs.com/</a> 
+<a href="http://www.speedtest.net/">http://www.speedtest.net/</a> 
+<a href="http://www.speedyvista.com/">http://www.speedyvista.com/</a> 
+<a href="http://www.spicehouse.se/produkter/45">http://www.spicehouse.se/produkter/45</a> 
+<a href="http://www.spoketlaban.com/">http://www.spoketlaban.com/</a> 
+<a href="http://www.squidfingers.com/">http://www.squidfingers.com/</a> 
+<a href="http://www.squidoo.com/">http://www.squidoo.com/</a> 
+<a href="http://www.squidoo.com/100songs">http://www.squidoo.com/100songs</a> 
+<a href="http://www.squidoo.com/freemusiccreationsoftware">http://www.squidoo.com/freemusiccreationsoftware</a> 
+<a href="http://www.sr.se/sida/gruppsida.aspx?programid=438&amp;amp;grupp=9029">http://www.sr.se/sida/gruppsida.aspx?programid=438&amp;amp;grupp=9029</a> 
+<a href="http://www.sr.se/webbradio/webbradio.asp?type=db&amp;amp;Id=1687066&amp;amp;BroadcastDate=&amp;amp;IsBlock">http://www.sr.se/webbradio/webbradio.asp?type=db&amp;amp;Id=1687066&amp;amp;BroadcastDate=&amp;amp;IsBlock</a>= 
+<a href="http://www.sshhtt.com/">http://www.sshhtt.com/</a> 
+<a href="http://www.stenudd.se/">http://www.stenudd.se/</a> 
+<a href="http://www.stephenfry.com/">http://www.stephenfry.com/</a> 
+<a href="http://www.svd.se/nyheter/idagsidan/halsa/artikel_2381171.svd">http://www.svd.se/nyheter/idagsidan/halsa/artikel_2381171.svd</a> 
+<a href="http://www.svenskaakademien.se/web/Ordlista.aspx">http://www.svenskaakademien.se/web/Ordlista.aspx</a> 
+<a href="http://www.synonymer.se/">http://www.synonymer.se/</a> 
+<a href="http://www.synonymer.se/?query=strunta&amp;amp;btnS=Hitta+synonymer">http://www.synonymer.se/?query=strunta&amp;amp;btnS=Hitta+synonymer</a> 
+<a href="http://www.teamfortress.com/movies.htm">http://www.teamfortress.com/movies.htm</a> 
+<a href="http://www.ted.com/">http://www.ted.com/</a> 
+<a href="http://www.ted.com/talks/dennis_hong_my_seven_species_of_robot.html">http://www.ted.com/talks/dennis_hong_my_seven_species_of_robot.html</a> 
+<a href="http://www.thegeekstuff.com/2010/11/50-linux-commands/">http://www.thegeekstuff.com/2010/11/50-linux-commands/</a> 
+<a href="http://www.theinquirer.net/">http://www.theinquirer.net/</a> 
+<a href="http://www.thomann.de/se">http://www.thomann.de/se</a> 
+<a href="http://www.tidningen-anti.se/">http://www.tidningen-anti.se/</a> 
+<a href="http://www.tokipona.org/">http://www.tokipona.org/</a> 
+<a href="http://www.tubeohm.com/Pure_Pten_V.htm">http://www.tubeohm.com/Pure_Pten_V.htm</a> 
+<a href="http://www.twingly.com/">http://www.twingly.com/</a> 
+<a href="http://www.twit.tv/floss">http://www.twit.tv/floss</a> 
+<a href="http://www.ubetoo.com/">http://www.ubetoo.com/</a> 
+<a href="http://www.universalsweden.com/">http://www.universalsweden.com/</a> 
+<a href="http://www.vildawebben.se/">http://www.vildawebben.se/</a> 
+<a href="http://www.vivalagames.com/play/multitask/">http://www.vivalagames.com/play/multitask/</a> 
+<a href="http://www.w3schools.com/">http://www.w3schools.com/</a> 
+<a href="http://www.wahlstromsfiske.se/">http://www.wahlstromsfiske.se/</a> 
+<a href="http://www.warnermusic.se/companyInfo">http://www.warnermusic.se/companyInfo</a> 
+<a href="http://www.web4j.com/">http://www.web4j.com/</a> 
+<a href="http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/">http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/</a> 
+<a href="http://www.wesnoth.org/">http://www.wesnoth.org/</a> 
+<a href="http://www.westwingepguide.com/">http://www.westwingepguide.com/</a> 
+<a href="http://www.westwingtranscripts.com/">http://www.westwingtranscripts.com/</a> 
+<a href="http://www.whirled.com/#landing-bluelanding">http://www.whirled.com/#landing-bluelanding</a> 
+<a href="http://www.wikihow.com/Fold-a-Paper-Box">http://www.wikihow.com/Fold-a-Paper-Box</a> 
+<a href="http://www.wikihow.com/Make-a-Paper-Boat">http://www.wikihow.com/Make-a-Paper-Boat</a> 
+<a href="http://www.wikihow.com/Make-an-Origami-Flying-Bird">http://www.wikihow.com/Make-an-Origami-Flying-Bird</a> 
+<a href="http://www.wikihow.com/Make-an-Origami-Jumping-Frog">http://www.wikihow.com/Make-an-Origami-Jumping-Frog</a> 
+<a href="http://www.wikihow.com/Produce-and-Write-Dance-Music">http://www.wikihow.com/Produce-and-Write-Dance-Music</a> 
+<a href="http://www.wikihow.com/Save-a-Wet-Cell-Phone">http://www.wikihow.com/Save-a-Wet-Cell-Phone</a> 
+<a href="http://www.wikihow.com/Wolf-Whistle">http://www.wikihow.com/Wolf-Whistle</a> 
+<a href="http://www.wikihow.com/Write-a-Cinquain-Poem">http://www.wikihow.com/Write-a-Cinquain-Poem</a> 
+<a href="http://www.wikihow.com/Write-a-Complicated-Microsoft-Office-Macro">http://www.wikihow.com/Write-a-Complicated-Microsoft-Office-Macro</a> 
+<a href="http://www.wikihow.com/Write-a-Quatrain-Poem">http://www.wikihow.com/Write-a-Quatrain-Poem</a> 
+<a href="http://www.wired.com/listening_post/2008/04/a-scientific-at/">http://www.wired.com/listening_post/2008/04/a-scientific-at/</a> 
+<a href="http://www.workingwell.org.au/">http://www.workingwell.org.au/</a> 
+<a href="http://www.wussu.com/laotzu/">http://www.wussu.com/laotzu/</a> 
+<a href="http://www.youbloom.com/">http://www.youbloom.com/</a> 
+<a href="http://www.yr.no/place/Sweden/G%C3%A4vleborg/G%C3%A4vle/">http://www.yr.no/place/Sweden/Gävleborg/Gävle/</a> 
+<a href="http://www.zanthan.com/itymbi/archives/000789.html">http://www.zanthan.com/itymbi/archives/000789.html</a> 
+<a href="http://www.zeitgeistmovie.com/">http://www.zeitgeistmovie.com/</a> 
+<a href="http://xahlee.org/emacs/elisp.html">http://xahlee.org/emacs/elisp.html</a> 
+<a href="http://xiph.org/">http://xiph.org/</a> 
+<a href="http://xkcd.com/">http://xkcd.com/</a> 
+<a href="http://xkcd.com/388/">http://xkcd.com/388/</a> 
+<a href="http://zenhabits.net/end-of-busy/">http://zenhabits.net/end-of-busy/</a> 
+<a href="http://zope.stackless.com/">http://zope.stackless.com/</a> 
+<a href="https://issues.apache.org/bugzilla/show_bug.cgi?format=multiple&amp;amp;id=17498">https://issues.apache.org/bugzilla/show_bug.cgi?format=multiple&amp;amp;id=17498</a> 
+<a href="https://one.ubuntu.com/">https://one.ubuntu.com/</a> 
+<a href="https://wetransfer.com/">https://wetransfer.com/</a> 
+<a href="https://www.minpension.se/Startsida.aspx">https://www.minpension.se/Startsida.aspx</a> 
+<a href="https://www.steinberg.net/en/mysteinberg/">https://www.steinberg.net/en/mysteinberg/</a> 
+<a href="https://www2.learningtree.se/savingplans/passport.aspx">https://www2.learningtree.se/savingplans/passport.aspx</a> 
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Datum: 2018-04-13 08:55:29</p>
+<p class="author">F&ouml;rfattare: Johan Sandén</p>
+<p class="date">Created: 2018-04-13 Fri 08:55</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
