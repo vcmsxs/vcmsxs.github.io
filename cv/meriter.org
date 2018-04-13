@@ -1,12 +1,33 @@
+# #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+# #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+# #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+# #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+
+# #+DESCRIPTION:
+# #+KEYWORDS:
+# #+HTML_LINK_HOME:
+# #+HTML_LINK_UP:
+# #+HTML_MATHJAX:
+# #+HTML_HEAD_EXTRA:
+# #+SUBTITLE:
+# #+INFOJS_OPT:
+# #+LATEX_HEADER:
+
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
+
 #+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
 #+LATEX_HEADER: \usepackage{lmodern}
 #+LATEX_HEADER: \usepackage{microtype}
 #+TITLE: Johan Sandén
-# #+TITLE: Meriter och Levandhistoria 
 #+SUBTITLE: Curriculum Vitae (CV)
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
-#+DATE: {{{time(%F %T)}}}
+#+DATE: <{{{time(%F %T)}}}>
 #+DESCRIPTION: Meriter - Curriculum vitae
 #+LANGUAGE: sv
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
@@ -70,13 +91,11 @@ version går att ladda ner från min websida.
 
 #+LaTeX: \pagebreak
 
-#+begin_latex
 #+toc: headlines 2
-#+end_latex
 
-#+begin_latex
+#+BEGIN_EXPORT latex
  \pagebreak
-#+end_latex
+#+END_EXPORT
  
 * Allmänt
   :PROPERTIES:
@@ -149,7 +168,7 @@ Beräkningar på hur länge jag jobbat.
   1. Certifierad *Prince2® Projektledare*
   2. Certifierad *projektledare* med inriktning på *ledarskap*
   3. Certifierad *produktägare* och *scrum-master* 
-  4. Tjugo års+ erfarenhet i it-branschen främst som it-konsult.
+  4. Tjugo+ år erfarenhet i it-branschen främst som it-konsult.
   6. De senaste åren har jag varit applikationsansvarig, gruppledare och
      Systemutvecklande konsult på Lantmäteriet i Gävle.
 ** Förtroendeuppdrag.
