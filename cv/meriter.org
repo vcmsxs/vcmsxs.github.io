@@ -1,25 +1,3 @@
-# #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
-# #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
-# #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
-# #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
-
-# #+DESCRIPTION:
-# #+KEYWORDS:
-# #+HTML_LINK_HOME:
-# #+HTML_LINK_UP:
-# #+HTML_MATHJAX:
-# #+HTML_HEAD_EXTRA:
-# #+SUBTITLE:
-# #+INFOJS_OPT:
-# #+LATEX_HEADER:
-
-#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
-#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
-#+HTML_CONTAINER: div
-#+HTML_DOCTYPE: xhtml-strict
-#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
-#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
-
 #+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
 #+LATEX_HEADER: \usepackage{lmodern}
 #+LATEX_HEADER: \usepackage{microtype}
@@ -32,7 +10,8 @@
 #+LANGUAGE: sv
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
-# #+OPTIONS:   auto-id:t
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
 #+OPTIONS:   texht:t
 #+STARTUP: hideblocks 
 #+INFOJS_OPT: view:showall toc:nil
@@ -42,12 +21,10 @@
 #+LATEX_HEADER: \cfoot{Johan Sandén}
 #+LATEX_HEADER: \rfoot{Curriculum Vitae (CV)}
 #+LATEX_HEADER: \pagenumbering{arabic}
-
-# #+LATEX_HEADER: \chead{Johan Sandén}
-# #+LATEX_HEADER: \rhead{2018}
-# #+LATEX_HEADER: \lhead{Curriculum Vitae (CV)}
-# #+LATEX_HEADER: \lfoot{2018-02-07}
-
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
 
 
 #+BEGIN_COMMENT 

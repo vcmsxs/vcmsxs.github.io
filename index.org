@@ -33,11 +33,11 @@
 #+END_CENTER
 
 -------
-  
-* Kontakt
-#+INCLUDE:./kontakt_upg_privat.org
+
 * CV
 Läs som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
+* Kontakt
+#+INCLUDE:./kontakt_upg_privat.org
 * Länkar
   - En [[file:links.org][sida med många länkar]].
 * Gefle Ölsellskap
