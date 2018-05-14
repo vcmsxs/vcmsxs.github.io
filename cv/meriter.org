@@ -14,7 +14,7 @@
 #+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
 #+OPTIONS:   texht:t
 #+STARTUP: hideblocks 
-#+INFOJS_OPT: view:showall toc:nil
+# #+INFOJS_OPT: view:showall toc:nil
 #+LATEX_HEADER: \usepackage[AUTO]{babel}
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancyplain}
