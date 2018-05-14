@@ -3,6 +3,7 @@
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+TITLE: Johan Sandén
+#+SUBTITLE: Personal webpage.
 #+DATE: {{{time(%F %T)}}}
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
@@ -37,15 +38,16 @@
 #+INCLUDE:./kontakt_upg_privat.org
 * CV
 Läs som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
-* Öl
-** Gefle Ölsellskap
-   - Jag har varit medlem i Gefle Ölsellskap sedan 2002
-   - År 2017 blev jag ordförande i Gefle Ölsellskap.
-   - [[http://www.gefleolsellskap.com][Vår hemsida är www.gefleolsellskap.com]]
+* Länkar
+  - En [[file:links.org][sida med många länkar]].
+* Gefle Ölsellskap
+  - Jag har varit medlem i Gefle Ölsellskap sedan 2002
+  - År 2017 blev jag ordförande i Gefle Ölsellskap.
+  - [[http://www.gefleolsellskap.com][Vår hemsida är www.gefleolsellskap.com]]
 
-** Föreningen Gävle Finölsfestival - FGFF
-   - Jag är medlem i [[https://www.facebook.com/finolsfestivalen/][Föreningen Gävle Finölsfestival]], vars syfte och
-     mål är att arrangera Finölsfestival i Gävle.
+* Föreningen Gävle Finölsfestival - FGFF
+  - Jag är medlem i [[https://www.facebook.com/finolsfestivalen/][Föreningen Gävle Finölsfestival]], vars syfte och
+    mål är att arrangera Finölsfestival i Gävle.
 * Emacs
 * Python
 * Musik
