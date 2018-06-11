@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-06-11 Mon 09:43 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Numbered Memory Quotes</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Johan Sandén" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Numbered Memory Quotes</h1>
+<div id="outline-container-orgd7018f7" class="outline-2">
+<h2 id="orgd7018f7">Nummer</h2>
+<div class="outline-text-2" id="text-orgd7018f7">
+</div>
+<div id="outline-container-org9f4b3b8" class="outline-3">
+<h3 id="org9f4b3b8">0 - 99</h3>
+<div class="outline-text-3" id="text-org9f4b3b8">
+</div>
+<div id="outline-container-org6d32cb3" class="outline-4">
+<h4 id="org6d32cb3">000 - Hell, is other people</h4>
+<div class="outline-text-4" id="text-org6d32cb3">
+<ol class="org-ol">
+<li>Träligt att man ska behöva åka till himlen i en likkista</li>
+<li>Det finns ingen botten, bara hinder på vägen mot djupet.</li>
+<li>Det som haltar, det går.</li>
+<li>Du behöver massor med tålamod för att lära dig tålamod.</li>
+<li>Tonerna återvänder aldrig till strängen.</li>
+<li>Utsikten mot världen skymmer man lätt med en tidning.
+<ul class="org-ul">
+<li>Idag går det bra med facebook eller en tv</li>
+</ul></li>
+<li>Frågar du vår herre efter vägen till himlen, kommer han att visa
+dig den svåraste.</li>
+<li>Samvetetets röst, hamnar någon gång i målbrottet.</li>
+<li>Den som inte har någon ryggrad, får hålla sig i skinnet.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgd7da49f" class="outline-4">
+<h4 id="orgd7da49f">010 - Hoppas ditt anus får tänder och käkar upp dig när du sover.</h4>
+<div class="outline-text-4" id="text-orgd7da49f">
+<ol class="org-ol">
+<li>Ensamheten är ironiskt nog överbefolkad.</li>
+<li>Bakom varje krön lurar nya riktningar.</li>
+<li>Djävlen sover inte. Med vem som helst.</li>
+<li>Glöm inte lösenordet, till dit inre.</li>
+<li>För att komma till källan, måste man simma mot strömmen.</li>
+<li>Politik är trojanska hästars derby.</li>
+<li>Många klagar på sitt dåliga minne, men få på sitt omdömme.</li>
+<li>Smicker är falska pengar, som fungerar tack vare fåfänga.</li>
+<li>Vi förlåter dem som tråkar ut oss, men inte dom som blir
+uttråkade av oss.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgba042f9" class="outline-4">
+<h4 id="orgba042f9">020 - En expert är någon som vet mer och mer om mindre och mindre.</h4>
+<div class="outline-text-4" id="text-orgba042f9">
+<ol class="org-ol">
+<li>Om du inte kan behålla dina hemligheter, hur kan du då begära att
+dina vänner ska kunna göra det.</li>
+<li>Evigheten är en väldigt lång tid, speciellt mot slutet.</li>
+<li>Sättet att få en vän, är att vara en.</li>
+<li>När man är överens med mig har jag alltid en känsla av att ha
+fel.</li>
+<li>Konsten att tråka ut är att berätta allt.</li>
+<li>En stor humorist är rolig när det passar honom, en halvstor när
+det passar publiken och en liten när det inte passar sig.</li>
+<li>Det förflutna finns i våra minnen. Det närvarande finns i våra
+sinnen. Framtiden finns i våra visioner.</li>
+<li>Lyssna på alla, lita på dig själv.</li>
+<li>Det finns ett liv före döden.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org6eee095" class="outline-4">
+<h4 id="org6eee095">030 - Åsikter är ofta bara gissningar och avund - Allt man hör är åsikter - allt man ser är ur ett perpektiv.</h4>
+<div class="outline-text-4" id="text-org6eee095">
+<ol class="org-ol">
+<li>Jag har så många problem att när jag tänker på dem blir det ett till.</li>
+<li>Automatiseringen gör allt enklare och lättare på ett otroligt komplicerat
+sätt.</li>
+<li>Det är ruinerna som lär oss historien, inte monumenten.</li>
+<li>Om man kan skilja på goda och dåliga råd, så behöver man inga råd</li>
+<li>När någon säger att det inte gäller pengarna utan principen är det alltid
+fråga om pengar.</li>
+<li>När de säger att de har högt i tak så vet man att det inte har det&#x2026;och
+ducka för snart skjuter de skarpt.</li>
+<li>Ingen snöflinga i lavinen känner sig ansvarig.</li>
+<li>Jag har mina principer. Och passar de er inte, så har jag andra.</li>
+<li>En ledare utan följare är bara en kille på promenad. En ledre känner till
+vägen, går vägen och visar vägen.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org07f0c24" class="outline-4">
+<h4 id="org07f0c24">040 - Allt som är värt något måste man jobba för.</h4>
+<div class="outline-text-4" id="text-org07f0c24">
+<ol class="org-ol">
+<li>En kommité är en grupp människor som ensam inte kan göra något,
+men tillsammans bestämmer att inget kan göras.</li>
+<li>Vi måste ta ställning till om universum är en fredig eller
+fientlig platts att bo på.</li>
+<li>Det tugnt att knoga upp för kunskapens berg och lätta att
+halka utför.</li>
+<li>En kropp utan krämpor är en skattefri förmögenhet.</li>
+<li>Vill och vill sa Gustafvasa, men han dog ändå.
+<ul class="org-ul">
+<li>Vill och vill och ska och ska. Det är som det är och det blir
+som det blir.</li>
+</ul></li>
+<li>Allting förändras, ingenting förgås.
+<ul class="org-ul">
+<li>Omnia mutantur, nihil interit</li>
+<li>Ovidius, Metamorphoses</li>
+</ul></li>
+<li>Mångfald skall inte förutsättas om det inte är nödvändigt.
+<ul class="org-ul">
+<li>Ockhams rakkniv</li>
+<li>Krångla inte till saker i onödan.</li>
+</ul></li>
+<li>Vänta inte på rätt förutsättningar Allt du behöver för att
+utvecklas finns i denna stund</li>
+<li>Då och då snubblar människorna över en sanning, men de flesta
+reser sig upp och skyndar vidare som om ingenting hade hänt.
+<ul class="org-ul">
+<li>Winston Churchill</li>
+</ul></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org10e066e" class="outline-4">
+<h4 id="org10e066e">050 - Alla kan inte, somliga vill inte.</h4>
+<div class="outline-text-4" id="text-org10e066e">
+<ol class="org-ol">
+<li>En egoist är en person som har den dåliga smaken att vara mer
+intresserad av sig själv än av mig.</li>
+<li>Jag väntar tills nästa sak händer.</li>
+<li>Att lära en korkad är att bära vatten i ett durkslag.</li>
+<li>Man vill inte vara den man är, man vill vara den man inbillar
+sig man kunde ha blivit.</li>
+<li>Gör vad du kan med det du har där du är</li>
+<li>Stolthet är den njutning som resulterar av att en människa
+hyser för höga tankar om sig själv</li>
+<li>Kan någon dra sig till minnes en tid då det inte var ont om
+pengar och tiderna inte var hårda?</li>
+<li>Man hinner med nästan hur mycket som helst om man bara inte gör
+sig någon brådska.</li>
+<li>Religion är det som avhåller de fattiga från att mörda de rika.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgbb3b0d4" class="outline-4">
+<h4 id="orgbb3b0d4">060 - Pengar under bordet går märkligt nog sällan till mannen på golvet.</h4>
+<div class="outline-text-4" id="text-orgbb3b0d4">
+<ol class="org-ol">
+<li>Jag är bara ensam bland andra människor</li>
+<li>Det är sjönt att bli gammal, att ung var för djävligt.</li>
+<li>Man kan inte resa bort en sorg.</li>
+<li>Vänlighet är det språk som de döva kan höra och dom blinda kan
+se</li>
+<li>Idel solsken gör öken.</li>
+<li>En dåre söker lyckan i fjärran; den vise odlar den under sina
+fötter</li>
+<li>När gud kommer med döden, kommer djävulen med släkt och
+arvingar.</li>
+<li>Det är lätt att tappa fotfästet om man ta för stora kliv.</li>
+<li>Jag befinner mig här och nu, inga vettiga argument talar för
+motsattsen.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgd144e67" class="outline-4">
+<h4 id="orgd144e67">070 - Turen ger aldrig bort någonting. Den lånar bara ut.</h4>
+<div class="outline-text-4" id="text-orgd144e67">
+<ol class="org-ol">
+<li>Höjden av anarki; döda alla, förstör allt.</li>
+<li>Det som sägs bör vara viktigare än tystnaden.</li>
+<li>Det krävs ett nytt sätt att tänka för att lösa de problem vi
+skapat med det gamla sättet att tänka.</li>
+<li>Bästa metoden att nå framgång är att gå på tårna. Andras tår.</li>
+<li>Bästa sättet att få ett arbete att verka svårt är att skjuta
+upp det.</li>
+<li>Dubbelmoral är bra, förlorar man den ena har man den andra kvar.</li>
+<li>Den verkliga upptäcksresan består inte i att söka efter nya
+vyer, utan att se med nya ögon.</li>
+<li>Uppriktighet är inte att säga allt man tänker utan att mena
+allt man säger.</li>
+<li>Demokrati är det samhällssystem där du säger vad du tycker och
+gör som du blir tillsagd.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org15b98b3" class="outline-4">
+<h4 id="org15b98b3">080 - Den som står på tå står ostadigt.</h4>
+<div class="outline-text-4" id="text-org15b98b3">
+<ol class="org-ol">
+<li>Utan tvivel är man inte riktigt klok.</li>
+<li>Alla som frivillgit ger bort någon ting är kommunister</li>
+<li>Samhällsmoralen ska växa underifrån, och gör den inte det
+beror det på att den gödslas med för mycket skit från ovan.</li>
+<li>Nog är det för väl att lögnen finns. För tänk om allt man
+hörde var sant.</li>
+<li>Jag tänker alltså gör jag mig till.</li>
+<li>Ingen är så dum att han inte då och då gör sig dummare.</li>
+<li>De som Gud vill förgöra, gör han först arga.</li>
+<li>A fanatic is one who can't change his mind and won't change the
+subject.</li>
+<li>You cannot simultaneously prevent and prepare for war.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org13c0251" class="outline-4">
+<h4 id="org13c0251">090 - Förr hade svårt för att bestämma mig, jag inte så säker på det längre.</h4>
+<div class="outline-text-4" id="text-org13c0251">
+<ol class="org-ol">
+<li>You can't say that civilization don't advance, however, for in
+every war they kill you in a new way.</li>
+<li>Den dålig smeden klandrar järnet!</li>
+<li>Det finns två sätt att sprida ljus; att vara ljuset eller
+spegeln som reflekterar det</li>
+<li>En sann gentleman är någon som vet hur man spelar säckpipa, men
+låter bli.</li>
+<li>History will be kind to me, for I intend to write it.</li>
+<li>När man är ute på djupt vatten är det klokt att hålla munnen
+stängd.</li>
+<li>Kom ihåg att du är helt unik. Precis som alla andra.</li>
+<li>Den som är lycklig hemma bör stanna hemma.</li>
+<li>Ett bröllop är en landning som ser ut som en start.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org079bf19" class="outline-3">
+<h3 id="org079bf19">100 - 199</h3>
+<div class="outline-text-3" id="text-org079bf19">
+</div>
+<div id="outline-container-org3fcafb6" class="outline-4">
+<h4 id="org3fcafb6">100 - Kom ihåg min morfars sista ord: "En lastbil"</h4>
+<div class="outline-text-4" id="text-org3fcafb6">
+<ol class="org-ol">
+<li>Hungern är den bästa kryddan
+<ul class="org-ul">
+<li>Cibi condimentum fames - Cicero</li>
+</ul></li>
+<li>Livet kan vara väntrumet mellan allt som kan hända och det som
+aldrig ägde rum.</li>
+<li>Se inte för optemistiskt på värden, ljuset i tunneln kan vara
+ett mötande godståg.</li>
+<li>Tvivel är början till visdom - Dubium sapientiae initium.</li>
+<li>Att fela är mänskligt, (men) att förlåta är gudomligt.
+<ul class="org-ul">
+<li>Errare humanum est, ignoscere divinum est.</li>
+</ul></li>
+<li>Det är bättre att göra lite än att inte göra mycket. Det är
+bättre att göra något än att inte göra lite.</li>
+<li>För de flesta blir livet långt och näst intill outhärdligt.</li>
+<li>Den fick alla röster, som blandade nytta med nöje. (Horatius)
+<ul class="org-ul">
+<li>Omne tulit punktum, qui misquit utile dulci</li>
+</ul></li>
+<li>Samma natt väntar oss alla. (Horatius, Carmina)
+<ul class="org-ul">
+<li>Omnes una manet nox.</li>
+</ul></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org69127f0" class="outline-4">
+<h4 id="org69127f0">110 - Om du tror att du vet allt är du dåligt underrättad.</h4>
+<div class="outline-text-4" id="text-org69127f0">
+<ol class="org-ol">
+<li>Följ inte den stig som leder någonstans. Gör istället en ny stig
+och lämna ett spår efter dig
+<ul class="org-ul">
+<li>GEORGE BERNARD SHAW</li>
+</ul></li>
+<li>Lättja är inget annat än en vana att vila innan du blir trött</li>
+<li>Cura posterior
+<ul class="org-ul">
+<li>Ett senare bekymmer.</li>
+</ul></li>
+<li>Låtom oss dricka, ty vi måste dö.
+<ul class="org-ul">
+<li>Bibamus, moriendum est.</li>
+</ul></li>
+<li>När vänner fås genom smicker, föder sanningen hat.</li>
+<li>Kom ihåg att du är dödlig.
+<ul class="org-ul">
+<li>Memento te mortalem esse</li>
+</ul></li>
+<li>Jag hatar den okunniga hopen och håller den på avstånd.
+<ul class="org-ul">
+<li>Odi profanum vulgus et aceo.</li>
+</ul></li>
+<li>Förundras inför allt, även det mest alldagliga.
+<ul class="org-ul">
+<li>Omnia mirari etiam tritissim</li>
+</ul></li>
+<li>Allting är litet i början.
+<ul class="org-ul">
+<li>Omnium rerum principia parva sunt.(Cicero)</li>
+</ul></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgc1267af" class="outline-4">
+<h4 id="orgc1267af">120 - Vissa faller för allt, men står inte för någonting.</h4>
+<div class="outline-text-4" id="text-orgc1267af">
+<ol class="org-ol">
+<li>När förändringens vind blåser bygger en del vindskydd medan
+andra bygger väderkvarnar. - Mao Zedong</li>
+<li>Jag fattar inte hur folk hinner med att vara otrogna, själv
+hinner jag knappt vara trogen.</li>
+<li>Jag arbetar så fort jag får en ledig stund - Lars Åberg</li>
+<li>Vi är morgondagens förflutna.</li>
+<li>Jag har en fantastisk framtid, bakom mig.</li>
+<li>Inget här i världen är så rättvist fördelat som förståndet.
+Alla tror att de har fått tillräckligt</li>
+<li>Om Gud har skapat oss till sin avbild, så har vi återgäldat
+honom den tjänsten. - Voltair</li>
+<li>Nollor står alltid till höger om de vill bli något.</li>
+<li>Du finns överallt, utom just nu.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgf434c78" class="outline-4">
+<h4 id="orgf434c78">130 - Det som stelnar det dör.</h4>
+<div class="outline-text-4" id="text-orgf434c78">
+<ol class="org-ol">
+<li>&#x2026;där livet klingar ut i en klar och enkel ton</li>
+<li>Sesam öppna dig, jag vill ut.</li>
+<li>Bästa tiden att plantera ett träd var för tjugo år sedan. Den
+näst bästa tiden är nu
+<ul class="org-ul">
+<li>KINESISKT TALESÄT</li>
+</ul></li>
+<li>Gudarnas kvarnar mal långsamt</li>
+<li>Sanningen sköljs upp på evighetens stränder.</li>
+<li>Håll dig till ämnet så följer orden (av sig själva)</li>
+<li>Fantasin imiterar. Det är den kritiska andan som skapar.</li>
+<li>Alla sårar, den sista dödar. (Om timmarna.)</li>
+<li>Dygden är medelvägen mellan laster. (Horatius, Epistulae)</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orge01185d" class="outline-4">
+<h4 id="orge01185d">140 - Arbete består av allt som kroppen tvingas att göra.</h4>
+<div class="outline-text-4" id="text-orge01185d">
+<ol class="org-ol">
+<li>Vi lever alla under samma himmel, men vi har inte alla samma
+horisont."</li>
+<li>Gå dit tystnaden är och säg något. Eller ännu hellre, håll
+käften.</li>
+<li>"Det är enklare att utföra ett arbete än att förklara varför man
+inte gjorde det."  - Martin van Buren</li>
+<li>När man knäpper en knapp i fel knapphål blir det omöjligt att
+knäppa de andra riktigt. - Dom Helder Camara</li>
+<li>Problemet med ekorrhjulet är att även om man lyckas springa
+fortare än alla andra, så är man fortfarande bara en ekorre.</li>
+<li>När man tvekar om huruvida man ska göra något eller låta bli
+det, är det vanligen bäst att avstå.</li>
+<li>Bed för oss. (Ur Ave Maria)
+<ul class="org-ul">
+<li>Ora pro nobis</li>
+</ul></li>
+<li>Vila med värdighet. (Cicero)
+<ul class="org-ul">
+<li>Otium cum dignitate</li>
+</ul></li>
+<li>Vill man få gud själv att skratta så ska man berätta om sina
+planer.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgc878b66" class="outline-4">
+<h4 id="orgc878b66">150 Förbarma dig över mig, Herre! -  Miserere mei, Domine</h4>
+<div class="outline-text-4" id="text-orgc878b66">
+<ol class="org-ol">
+<li>Jag vet att jag inget vet.</li>
+<li>Det gäller din egen sak när det brinner i grannens hus. (Horatius)
+<ul class="org-ul">
+<li>Nam tua res agitur, paries cum proximus ardet.</li>
+</ul></li>
+<li>Ingen bör kallas lycklig före sin död. (Ovidius)
+<ul class="org-ul">
+<li>Nemo ante mortem beatus.</li>
+</ul></li>
+<li>Krigets nerv, pengar.
+<ul class="org-ul">
+<li>Cicero, Pilippicae orationes</li>
+<li>Nervos belli, pecuniam.</li>
+</ul></li>
+<li>Alla kan inte göra allt. (Vergilius, Eclogae)
+<ul class="org-ul">
+<li>Non omnia possumus omne.</li>
+</ul></li>
+<li>Käringen död, bördan borta.
+<ul class="org-ul">
+<li>Schopenhauer vid sin hushållerskas död.</li>
+<li>Obit anus, abit onus.</li>
+</ul></li>
+<li>Om allt okänt gör man sig stora föreställningar. (Tacitus, Agricola)
+<ul class="org-ul">
+<li>Omne ignotum pro magnifico est.</li>
+</ul></li>
+<li>Jag tror på köttets lust och själens obotliga ensamhet.</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9fd7a1f" class="outline-3">
+<h3 id="org9fd7a1f">200 - 299</h3>
+</div>
+</div>
+
+
+
+
+
+<div id="outline-container-org369aaba" class="outline-2">
+<h2 id="org369aaba">Loci</h2>
+<div class="outline-text-2" id="text-org369aaba">
+</div>
+<div id="outline-container-org28078c0" class="outline-3">
+<h3 id="org28078c0">Järbo - ute</h3>
+<div class="outline-text-3" id="text-org28078c0">
+<ol class="org-ol">
+<li>Grind</li>
+<li>Carport</li>
+<li>Friggeboden - ute</li>
+<li>Friggeboden - inne</li>
+<li>Komposten</li>
+<li>Hängmattan</li>
+<li>Tallen och gungan</li>
+<li>Gaveln på huset</li>
+<li>Fikaplatsen</li>
+<li>Jordkällaren</li>
+<li>Vedbacken</li>
+<li>Trädkojan</li>
+<li>Jaktstugan</li>
+<li>Hålet i marken</li>
+<li>Utedasset</li>
+<li>UtesovSovrummet</li>
+<li>Verkstaden</li>
+<li>Svarboden</li>
+<li>Gömda vindsutrymmet</li>
+<li>Hamocken</li>
+<li>Vattenbutten på gräsmattan</li>
+<li>Tvättstället</li>
+<li>Bondtennis</li>
+<li>Trappen ner till ån</li>
+<li>Badplatsen</li>
+<li>Vinden på huset.</li>
+<li>Ormbunkar</li>
+<li>Lilla jorkällaren.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgd25bc20" class="outline-3">
+<h3 id="orgd25bc20">Järbo - inne</h3>
+<div class="outline-text-3" id="text-orgd25bc20">
+<ol class="org-ol">
+<li>Farstubron</li>
+<li>Symaskinen</li>
+<li>Hallen</li>
+<li>Sovrummet - Byrån</li>
+<li>Överslafen</li>
+<li>Underslafen</li>
+<li>Köksskåpet med skrivböcker</li>
+<li>Pinnsoffan</li>
+<li>Köksbordet</li>
+<li>Diskbänken</li>
+<li>Vedspisen</li>
+<li>Brunsoffan</li>
+<li>Matsalsbordet</li>
+<li>Leksaksgarderoben</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org48d07f9" class="outline-3">
+<h3 id="org48d07f9">Bomhus - ute</h3>
+<div class="outline-text-3" id="text-org48d07f9">
+<ol class="org-ol">
+<li>Postlåda</li>
+<li>Uppfarten</li>
+<li>Soprum</li>
+<li>Rosa trädet</li>
+<li>Körsbärsträdet</li>
+<li>Rosenbusken</li>
+<li>Äppelträden</li>
+<li>Gräsmattan</li>
+<li>Krusbärsbuskar</li>
+<li>Vinbärsbuskar</li>
+<li>Pilen</li>
+<li>Hallonbuskar</li>
+<li>Spaljén - baksidan av garaget</li>
+<li>Lekplatsen</li>
+<li>Fotbollsplanen</li>
+<li>Hålet i busken till grusstigen</li>
+<li>Peters hus</li>
+<li>Henriks hus</li>
+<li>Henriks träd</li>
+<li>Backen ner</li>
+<li>Krister</li>
+<li>Hagen</li>
+<li>Lillis</li>
+<li>Hebbe</li>
+<li>André</li>
+<li>Krister</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org305685c" class="outline-3">
+<h3 id="org305685c">Bomhus - inne</h3>
+<div class="outline-text-3" id="text-org305685c">
+<ol class="org-ol">
+<li>Hallen</li>
+<li>Toaletten</li>
+<li>Mitt rum</li>
+<li>Viktors rum</li>
+<li>Köket</li>
+<li>Trappan ner</li>
+<li>Arbetsrummet</li>
+<li>Tvättstugan</li>
+<li>Pannrummet</li>
+<li>Förådet</li>
+<li>Gillestugan</li>
+<li>Trappan upp</li>
+<li>Pianot</li>
+<li>TV och Soffa.</li>
+<li>Verandan</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org3e94982" class="outline-3">
+<h3 id="org3e94982">Lillhagen</h3>
+<div class="outline-text-3" id="text-org3e94982">
+<ol class="org-ol">
+<li>Bilvägen under rännan</li>
+<li>Läraringången</li>
+<li>Bäckstugan</li>
+<li>Jumpahallen</li>
+<li>Simhallen</li>
+<li>Cyckelstället - mellanstadiet</li>
+<li>Ingången till mellansadiet</li>
+<li>Lektionsalarna</li>
+<li>Lekrummet</li>
+<li>Uppgången till högstadiet</li>
+<li>Biblioteket</li>
+<li>Musikrummet</li>
+<li>Stora utegården</li>
+<li>Biologirummet</li>
+<li>Matsalen</li>
+<li>Lärarnas rökrum</li>
+<li>Träslöjden</li>
+<li>Bildsalen</li>
+<li>Fiket</li>
+<li>Toaletterna vid matan</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org4ed0d25" class="outline-3">
+<h3 id="org4ed0d25">Brynäs - Ute</h3>
+<div class="outline-text-3" id="text-org4ed0d25">
+<ol class="org-ol">
+<li>Videobutiken</li>
+<li>Saxdax</li>
+<li>7skivorskeddar</li>
+<li>centrum</li>
+<li>PizzaHouse</li>
+<li>T-udden</li>
+<li>Hagen</li>
+<li>Ica</li>
+<li>Posten</li>
+<li>Gården vid strössel</li>
+<li>Replokalen</li>
+<li>Brynässkolan</li>
+<li>Mackaroons dunge</li>
+<li>Parkeringen</li>
+<li>Stössels uppväxtgård</li>
+<li>Första lägenheten</li>
+<li>Tunnel under huset</li>
+<li>Ok</li>
+<li>Seglet</li>
+<li>Dollarstore</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgbb496c0" class="outline-3">
+<h3 id="orgbb496c0">Brynäs - Punkthus</h3>
+<div class="outline-text-3" id="text-orgbb496c0">
+<ol class="org-ol">
+<li>Hallen</li>
+<li>Musikrum</li>
+<li>Min dator</li>
+<li>Kök</li>
+<li>Vardagsrum</li>
+<li>Balkong</li>
+<li>Sovrum</li>
+<li>Annas dator</li>
+<li>Toalett</li>
+</ol>
+<p>
+10.Tvättstuga
+</p>
+</div>
+</div>
+<div id="outline-container-org70c8101" class="outline-3">
+<h3 id="org70c8101">Hille - Ute</h3>
+<div class="outline-text-3" id="text-org70c8101">
+<ol class="org-ol">
+<li>Veduppställning</li>
+<li>Eriksboden</li>
+<li>Rabarber</li>
+<li>Kvarnhjul</li>
+<li>Lada</li>
+<li>Smultron</li>
+<li>Potatiskällare - valv</li>
+<li>Brytet</li>
+<li>Carporten</li>
+<li>Åker mot viadukt</li>
+<li>Päronträd</li>
+<li>Rödvinbärsbusskar</li>
+<li>Körsbärsträd</li>
+<li>Äppelträd</li>
+<li>Svartvinbärsbuskar</li>
+<li>Plommonträd</li>
+<li>Hoppställning</li>
+<li>Skuggplatts</li>
+<li>Grillplats</li>
+<li>Stenbron</li>
+<li>Grusgård</li>
+<li>Soptunnor</li>
+<li>Vedinkast</li>
+<li>Veduppställning vid huset.</li>
+<li>Postlåda.</li>
+<li>Cementblaffan på gaveln</li>
+<li>Macaroons kulle</li>
+<li>Stora stenen</li>
+<li>Häcken</li>
+<li>Gången ner mot åkern</li>
+<li>Åkern bakom huset.</li>
+<li>Eken</li>
+<li>Sulans veranda.</li>
+<li>Gunni och Lage</li>
+<li>Pelle</li>
+<li>Åsa</li>
+<li>Gavellis</li>
+<li>Allmänningen.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org65a2d0c" class="outline-3">
+<h3 id="org65a2d0c">Hille - Källare</h3>
+<div class="outline-text-3" id="text-org65a2d0c">
+<ol class="org-ol">
+<li>Utetrappen</li>
+<li>Pannrum - pannan</li>
+<li>vattentanken</li>
+<li>Exansionkärl</li>
+<li>Vattenberedare</li>
+<li>Trappen upp</li>
+<li>Proppskåp</li>
+<li>Trapprummet</li>
+<li>Tvättstuga - tvättmaskin</li>
+<li>Hänglinor</li>
+<li>Ölhyllan</li>
+<li>Musikrum - datorbord</li>
+<li>nord-synth</li>
+<li>Elpiano</li>
+<li>Brun soffa</li>
+<li>Innetrapp</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org0a99016" class="outline-3">
+<h3 id="org0a99016">Hille - Nya delen - Undervåning</h3>
+<div class="outline-text-3" id="text-org0a99016">
+<ol class="org-ol">
+<li>Hallen</li>
+<li>Rosarummet</li>
+<li>Toaletten</li>
+<li>Duschen</li>
+<li>Handfat</li>
+<li>Badkar</li>
+<li>Kök - trådhylla</li>
+<li>Kök - lutande hyllan</li>
+<li>Bord</li>
+<li>Kyl</li>
+<li>Frys</li>
+<li>Spis</li>
+<li>Diskmaskin</li>
+<li>Köpmansdisk</li>
+<li>Toalett- uppe</li>
+<li>Handfat - uppe</li>
+<li>Lukas rum</li>
+<li>Lukas kattvind</li>
+<li>Dantes rum</li>
+<li>Dantes kattvind</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org460e0c8" class="outline-3">
+<h3 id="org460e0c8">Hille - Gamla  delen - Övervåning</h3>
+<div class="outline-text-3" id="text-org460e0c8">
+<ol class="org-ol">
+<li>Hallen</li>
+<li>Gamla toaletten</li>
+<li>Gamla köket</li>
+<li>Vardagsrummet - spiselhyllen</li>
+<li>Spiskasetten</li>
+<li>Vardagsrummsbordet</li>
+<li>Tvhyllan</li>
+<li>Pianot</li>
+<li>Norska möbeln</li>
+<li>Finbänken</li>
+<li>Trappen upp</li>
+<li>Hallen</li>
+<li></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgf007265" class="outline-3">
+<h3 id="orgf007265">Lantmäteriet</h3>
+</div>
+<div id="outline-container-org12b47ff" class="outline-3">
+<h3 id="org12b47ff">Gävle Centrum</h3>
+</div>
+<div id="outline-container-org94fb424" class="outline-3">
+<h3 id="org94fb424">Trödje</h3>
+</div>
+<div id="outline-container-org4fbe30e" class="outline-3">
+<h3 id="org4fbe30e">Viktor Valbo</h3>
+</div>
+<div id="outline-container-orgf9aad7b" class="outline-3">
+<h3 id="orgf9aad7b">Forsbacka - mormor och morfars lägenhet.</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2015-03-22 Sun 00:00</p>
+<p class="author">Author: Johan Sandén</p>
+<p class="date">Created: 2018-06-11 Mon 09:43</p>
+<p class="creator">Emacs 24.3.1 (Org mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
