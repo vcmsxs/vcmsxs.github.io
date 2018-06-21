@@ -1,0 +1,103 @@
+#+LATEX_HEADER: \usepackage{lmodern}
+#+LATEX_HEADER: \usepackage{microtype}
+#+TITLE:     Öppna kontorslandskap
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks 
+# #+INFOJS_OPT: view:showall toc:nil
+#+LATEX_HEADER: \usepackage[AUTO]{babel}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancyplain}
+#+LATEX_HEADER: \cfoot{Johan Sandén}
+#+LATEX_HEADER: \rfoot{Curriculum Vitae (CV)}
+#+LATEX_HEADER: \pagenumbering{arabic}
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+# #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
+
+#+toc: headlines 2
+
+
+* Inledning (synnerligen subjetivt)
+  - Framför allt så irriterar öppna kontorslandskap _mig_. Men jag har fog för min irritation. Denna irritation tycker
+    jag är det störa och viktigaste anledningen till att de inte borde finnas.
+
+  - Främst verkar kontorslandskapens framryckning i arbetslivet vara en trend bland chefer och beslutsfattare i
+    organisationer. Kan man visa på att man "gjort allt" för att sänka kontorskostnaderna så mycket det går så kommer
+    inte styrelser och ägare att gnälla på det.
+    
+* Länkar
+** Forskning och uppsatser
+      1) [[http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1356449&fileOId=1356450]]
+      2) [[http://www.uppsatser.se/uppsats/4301a5e694/]]
+      3) [[http://www.uppsatser.se/uppsats/6f91922645/]]
+      4) [[http://pro.sagepub.com/content/37/7/479.short]]
+      5) [[https://gupea.ub.gu.se/bitstream/2077/1502/1/05-38.pdf]]
+      6) [[http://www.su.se/forskning/forskningsnyheter/kontorslandskap-hur-p%C3%A5verkar-det-oss-1.133026]]
+
+** Artiklar
+      1. [[https://computersweden.idg.se/2.2683/1.700977/aktivitetsbaserade-kontor]]
+      2. [[http://www.dn.se/insidan/sex-steg-till-att-ta-en-sak-i-taget]]
+      3. [[http://www.sydsvenskan.se/ekonomi/eget-arbetsrum-pa-vag-tillbaka/]]
+      4. [[http://hjarnfysik.blogspot.se/2012/09/om-aterkoppling-och-kontorslandskap.html]]
+      5. [[http://hjarnfysik.blogspot.se/2015/01/multitasking-tar-dod-pa-hjarnan.html]]
+      6. [[http://news.stanford.edu/news/2009/august24/multitask-research-study-082409.html]]
+      7. [[http://sverigesradio.se/sida/artikel.aspx?programid=99&artikel=5815012]]
+      8. [[http://www.aftonbladet.se/kropphalsa/article4173680.ab]]
+      9. [[http://www.aftonbladet.se/kropphalsa/article6821013.ab]]
+      10. [[http://www.arbeidslivinorden.org/nyheter/nyheter-2011/article.2011-04-05.7778819474]]
+      11. [[http://www.arbetarskydd.se/nyheter/halsa_ledarskap/halsa/article99507.ece]]
+      12. [[http://www.av.se/teman/datorarbete/forebygg/lokaler/planlosning.aspx]]
+      13. [[http://www.bofast.net/1/1.0.1.0/17/1/?item=art_art-s1/1656&group=art_art_grp-s1/20]]
+      14. [[http://www.dn.se/nyheter/varlden/forskare-sagar-oppna-kontorslandskap]]
+      15. [[http://www.dn.se/nyheter/vetenskap/utmattningssyndrom-syns-i-hjarnan]]
+      16. [[http://www.duochjobbet.se/halsa/vi-mar-samst-i-oppna-landskap/]]
+      17. [[http://www.eurekalert.org/pub_releases/2014-09/uos-bsr092314.php]]
+      18. [[http://www.kollega.se/index.cfm?c=12604]]
+      19. [[http://www.ncbi.nlm.nih.gov/pubmed/11055149]]
+      20. [[http://www.sciencedirect.com/science/article/pii/S1572347X00800312]]
+      21. [[http://www.sjweh.fi/show_abstract.php?abstract_id=3167]]
+      22. [[http://www.svt.se/nyheter/vetenskap/samre-arbetsmiljo-i-oppna-kontorslandskap]]
+      23. [[http://www.sydsvenskan.se/ekonomi/article191522.ece]]
+      24. [[http://www.talentsmart.com/articles/article.php?ID=2102500909&signedup=1]]
+      25. [[http://www.metro.se/nyheter/200-svenskar-dor-av-stress-pa-jobbet-varje-ar/EVHojs!6egF5HOLoVoI/]]
+      26. [[https://svt.se/2.33831/1.2306289/horselskydd_i_oppna_kontorslandskap]]
+
+** Övrigt
+      1) [[http://www.vett-och-etikett.com/vett-och-etikett.asp?tips=Kontorslandskapets-etikett]]
+	 - Denna länk inhåller mest godtyckligt tyckaden, omdömmes- och
+           respektlöst. Men sidan inhåller också några fina referenser
+           och citat.
+      2) [[http://www.bizzystick.com/index.html]]
+	 - En "stör-mig-inte" läppstift som placeras på bordet när
+           man inte vill bli störd.
+	 - En skämtartikel som visar hur dumt det här har blivit.
+
+* Slutsats
+  + Av kontorslandskap blir människor lättare
+    1. ...sjuka (smittade)
+       - Vi smittar varandra lättare
+    2. Störda
+       - Vår iq-nivå går _ner_ i kontorslandskap.
+    3. Stressade och utbrända.
+       - Stress leder till utbrända.
+    4. Får mindre gjort.
+  + Kontorslandskap ger en illusion av effektivitet men i själva
+    verket tar ner prestandan på projekten.
+  + Tar ner prestandan på projekten.
+  + Det ger billigare kostnad på lokalen men i slutändan tjänar man
+    inget på det.
+  + Jag kan inte hitta någon riktig forskning alls som är visar att
+    kontorslandskap påverkar slutresultatet positivt. Men om du hittar
+    någon får du mer än gärna [[http://www.hoahoa.se/][Kontakta mig]]
+  + Det var något vi gick ifrån på 40-talet på grund av miljötekniska
+    skäl. Från och med 70-talet har bullernivåerna sjunkit så att
+    det nu är möjligt att bygga på detta sätt igen.

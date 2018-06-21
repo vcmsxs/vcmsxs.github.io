@@ -1,0 +1,41 @@
+#+LATEX_HEADER: \usepackage{lmodern}
+#+LATEX_HEADER: \usepackage{microtype}
+#+TITLE:     Friskolor
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks 
+# #+INFOJS_OPT: view:showall toc:nil
+#+LATEX_HEADER: \usepackage[AUTO]{babel}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancyplain}
+#+LATEX_HEADER: \cfoot{Johan Sandén}
+#+LATEX_HEADER: \rfoot{Studium}
+#+LATEX_HEADER: \pagenumbering{arabic}
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+# #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
+
+#+toc: headlines 2
+
+
+* Information
+
+* Sammaställning
+  - Friskolor ger högre betyg för mindre kunskap.
+  - Friskolor har fler obehöriga lärare.
+  - Friskolor vägrar ta emot elever som behöver mer resurser.
+  - Friskolor går i konkurs, elever och lärare får problem.
+
+* Referenser
+ - [[http://www.dagensarena.se/innehall/friskolor-hogre-betyg-samre-prestation/][Friskolor: Högre betyg, sämre prestation]] - dagens aréna
+ - [[https://www.svt.se/nyheter/inrikes/friskolor-ger-oftare-snallbetyg][Friskolor ger snällbetyg]] - svt
+ - [[https://www.etc.se/inrikes/friskoleelever-presterar-samre-men-far-battre-betyg][Friskoleelever presterar sämre - en får bättre betyg]] - etc
+ - [[https://www.aftonbladet.se/nyheter/samhalle/a/21m57a/ny-rapport-avslojar-friskoleelever-har-hogre-betyg--men-presterar-sa][Ny rapport avslöjar: Friskoleelever har högre betyg - men presterar sämre]] - aftonbladet

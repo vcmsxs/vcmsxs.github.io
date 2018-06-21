@@ -48,6 +48,8 @@ Läs som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
 * Föreningen Gävle Finölsfestival - FGFF
   - Jag är medlem i [[https://www.facebook.com/finolsfestivalen/][Föreningen Gävle Finölsfestival]], vars syfte och
     mål är att arrangera Finölsfestival i Gävle.
+* Studium
+  - [[file:./studium/oppnakontorslandskap.org][Öppna kontorslandskap]]
 * Emacs
 * Python
 * Musik
