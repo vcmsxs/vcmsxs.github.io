@@ -100,26 +100,23 @@ version går att ladda ner från min websida.
 
 ** Vem är Johan?
   + Mina vänner beskriver mig som tankfull och lugn.
-  + Jag föredrar att vara hemma (både på semestern och kvällarna) 
+  + Jag föredrar att vara hemma på kvällar, helger och semester.
   + Hängiven förespråkare av GnuEmacs/-Linux, Git och Python.
-  + Musik har varit ett intressen så länge jag kan minnas.
-    - Mina föräldrar berättar gärna att jag började spela i samma stund jag nådde upp till pianot.
-    - Jag har spelat i många olika band.
-    - Nu för tiden har jag en liten hobbystudio i källaren.
-  + När jag var nio år tjatade jag till mig en dator i julklapp
-    + Sedan dess och än i dag knackar jag kod för att det är roligt.
-    + Det var i gymnasiet jag begrep jag att IT var något man kunde jobba med.
-  + Medlem och även ordförande i Gefle Ölsellskap.
+  + Ordförande i Gefle Ölsellskap.
     - Vi anordnar öl-provningar, studieresor och fester tillsammans.
     - Vi är drygt 100 medlemmar.
     - Jag gick med år 2003.
-  + Jag har flera års erfarenhet av bl.a. Java/Eclips, c/C++ och har inget emot att jobba med dessa tekniker.
-  + Har inga problem att åka tåg till Stockholm över dagen ett par gånger i veckan.
-  + Fru Anna och två barn, Lukas och Dante, -06 och -12.
-  + Bor i gammal villa, en mil utanför Gävle centrum
-  + Född, uppväxt och bor i Gävle.
-
-
+  + Som 8-åring tjatade jag till mig en dator i julklapp
+    + Sedan dess knackar jag kod för att det är roligt.
+    + I gymnasiet förstod jag att IT var något man kunde jobba med.
+  + Musik har varit ett intressen så länge jag kan minnas.
+    - Nu för tiden har jag en liten hobbystudio i källaren.
+    - Det berättas att jag började spela när jag nådde upp till pianot.
+  + Jag trivs bäst hemma i Gävle men har inga problem att åka till Stockholm
+    över dagen.
+  + Jag är gift men Anna och vi två barn, Lukas och Dante, -06 och -12.
+  + Vi bor lantligt i en gammal villa, en mil utanför Gävle centrum
+  + Jag född och uppväxt i Gävle.
 
  #+LaTeX: \pagebreak
 
