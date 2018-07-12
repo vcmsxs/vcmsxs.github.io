@@ -52,31 +52,32 @@ Mer eller mindre osorterade länkar.
  
 * Affärer
 ** Kläder
-| [[http://www.tailorstore.se/][Tailorstore]]              | Affär - Skjortor             |
-| http://www.hangslen.com/ | Hängslen                     |
-| [[http://agreeordie.com/features/fashion/637-how-to-tie-a-balthus-knot/][Haniballs slipsknut]]      | Teknik                       |
-| [[http://slipsladan.se][Slipsladan]]               | Slipsar på nätet             |
-| [[http://www.brandbynature.se/oljerockar-oljejackor/][Oljerockar-oljejackor]]    | http://www.brandbynature.se/ |
-| http://pinstore.se       |                              |
+| [[http://www.tailorstore.se/][Tailorstore]]                 | Affär - Skjortor             |
+| http://www.hangslen.com/    | Hängslen                     |
+| [[http://agreeordie.com/features/fashion/637-how-to-tie-a-balthus-knot/][Haniballs slipsknut]]         | Teknik                       |
+| [[http://slipsladan.se][Slipsladan]]                  | Slipsar på nätet             |
+| [[http://www.brandbynature.se/oljerockar-oljejackor/][Oljerockar-oljejackor]]       | http://www.brandbynature.se/ |
+| http://pinstore.se          |                              |
+| https://www.army-star.eu/sv | Slitstarka arme-kläder       |
 
 ** Tobak
-   | [[https://www.cubancrafters.com/][Cubans Crafters]]            | "DON KIKI"?          |
-   | [[http://www.lynncigars.net][L.lynn cigars]]              | Kolla in "CONSUEGRA" |
-   | [[http://cigarsofhabanos.com][Cigars of Habanos]]          |                      |
-   | [[http://www.cigarrlagret.nu/][Cigarrlaggret]]              |                      |
-   | [[http://www.chocolat-uppsala.se/][Chocolat Uppsala]]           |                      |
-   | [[http://www.whiskycenter.se/Cigarrbutik/Cigarrbutik_Butik.htm][Whiskycenter/Cigarrbutiken]] |                      |
-   | [[http://www.botlshop.se/][Botlshop]]                   |                      |
-   | http://www.humidorer.se/   |                      |
-   | [[http://www.robusto.se/][Robusto]]                    |                      |
-   | [[http://www.cigarjournal.co/][Cigarjournal]]               |                      |
-   | [[http://kindcigars.com/][KingCigars]]                 |                      |
-   | [[http://www.gandaf.com/][Gandaf]]                     |                      |
-   | [[http://www.humidorguide.se/][humidorguide]]               |                      |
-   | [[http://www.gotteftermaten.se/][Gott Efter Maten]]           |                      |
-   | [[http://www.cigarrprat.se][Cigarrprat]]                 |                      |
-   | [[http://framcigarr.se/][Fram Cigarr]]                |                      |
-   | [[http://www.snusbolaget.se/][Snusbolaget]]                |                      |
+   | "DON KIKI"?          | [[https://www.cubancrafters.com/][Cubans Crafters]]            |
+   | Kolla in "CONSUEGRA" | [[http://www.lynncigars.net][L.lynn cigars]]              |
+   |                      | [[http://cigarsofhabanos.com][Cigars of Habanos]]          |
+   |                      | [[http://www.cigarrlagret.nu/][Cigarrlaggret]]              |
+   |                      | [[http://www.chocolat-uppsala.se/][Chocolat Uppsala]]           |
+   |                      | [[http://www.whiskycenter.se/Cigarrbutik/Cigarrbutik_Butik.htm][Whiskycenter/Cigarrbutiken]] |
+   |                      | [[http://www.botlshop.se/][Botlshop]]                   |
+   |                      | http://www.humidorer.se/   |
+   |                      | [[http://www.robusto.se/][Robusto]]                    |
+   |                      | [[http://www.cigarjournal.co/][Cigarjournal]]               |
+   |                      | [[http://kindcigars.com/][KingCigars]]                 |
+   |                      | [[http://www.gandaf.com/][Gandaf]]                     |
+   |                      | [[http://www.humidorguide.se/][humidorguide]]               |
+   |                      | [[http://www.gotteftermaten.se/][Gott Efter Maten]]           |
+   |                      | [[http://www.cigarrprat.se][Cigarrprat]]                 |
+   |                      | [[http://framcigarr.se/][Fram Cigarr]]                |
+   |                      | [[http://www.snusbolaget.se/][Snusbolaget]]                |
 ** Literatur
 
 | [[http://www.adlibris.se][Adlibris]]    | Bokaffär               |
