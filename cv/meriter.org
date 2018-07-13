@@ -99,24 +99,23 @@ version går att ladda ner från min websida.
  #+LaTeX: \pagebreak
 
 ** Vem är Johan?
-  + Mina vänner beskriver mig som tankfull och lugn.
-  + Jag föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs/-Linux, Git och Python.
+  + Vänner beskriver Johan som tankfull och lugn.
+  + Föredrar att vara hemma på kvällar, helger och semester.
+  + Hängiven förespråkare av GnuEmacs/-Linux, Git, Lisp, Python.
   + Ordförande i Gefle Ölsellskap.
-    - Vi anordnar öl-provningar, studieresor och fester tillsammans.
-    - Vi är drygt 100 medlemmar.
-    - Jag gick med år 2003.
-  + Som 8-åring tjatade jag till mig en dator i julklapp
-    + Sedan dess knackar jag kod för att det är roligt.
-    + I gymnasiet förstod jag att IT var något man kunde jobba med.
+    - Anordnar öl-provningar, studieresor och fester.
+    - Drygt 100 medlemmar.
+    - Gick med 2003.
   + Musik har varit ett intressen så länge jag kan minnas.
-    - Nu för tiden har jag en liten hobbystudio i källaren.
+    - Hobbystudio i källaren.
     - Det berättas att jag började spela när jag nådde upp till pianot.
-  + Jag trivs bäst hemma i Gävle men har inga problem att åka till Stockholm
-    över dagen.
-  + Jag är gift men Anna och vi två barn, Lukas och Dante, -06 och -12.
-  + Vi bor lantligt i en gammal villa, en mil utanför Gävle centrum
-  + Jag född och uppväxt i Gävle.
+  + Som 8-åring tjatade jag till mig en dator i julklapp
+    + Kodar på fritiden för att det är roligt.
+  + Trivs bäst hemma i Gävle men har inga problem att åka till Stockholm över dagen.
+  + Gift och bor men Anna.
+  + Två barn, Lukas och Dante, -06 och -12.
+  + Bor lantligt i en gammal villa, en mil utanför Gävle centrum
+  + Född och uppväxt i Gävle.
 
  #+LaTeX: \pagebreak
 
