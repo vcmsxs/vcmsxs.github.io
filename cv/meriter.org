@@ -106,15 +106,15 @@ version går att ladda ner från min websida.
     - Anordnar öl-provningar, studieresor och fester.
     - Drygt 100 medlemmar.
     - Gick med 2003.
-  + Musik har varit ett intressen så länge jag kan minnas.
+  + Musik har varit ett intressen sedan barndomen.
     - Hobbystudio i källaren.
-    - Det berättas att jag började spela när jag nådde upp till pianot.
-  + Som 8-åring tjatade jag till mig en dator i julklapp
-    + Kodar på fritiden för att det är roligt.
-  + Trivs bäst hemma i Gävle men har inga problem att åka till Stockholm över dagen.
+  + Tjatade till sig en dator i julklapp vid 8 års åldern.
+    + Hobbykodar fortfarade på fritiden.
+  + Vegan och tycker om att laga mat.
+  + Föredrar katter framför mycket annat sällskap.
   + Gift och bor men Anna.
-  + Två barn, Lukas och Dante, -06 och -12.
-  + Bor lantligt i en gammal villa, en mil utanför Gävle centrum
+  + Två barn. Lukas 2012 och Dante 2006
+  + Bor lantligt i en gammal villa en mil utanför centrum
   + Född och uppväxt i Gävle.
 
  #+LaTeX: \pagebreak
@@ -123,10 +123,10 @@ version går att ladda ner från min websida.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
-   - Jag söker tjänster som "Fullstack" DevOps/Systemutvecklare med tyngdpunkt på backend automatisering. Gärna i
-     Unix/Linux-miljö.
+   - Jag söker tjänster som "Fullstack" eller "backend" DevOps/Systemutvecklare
+     med tyngdpunkt på backend automatisering. Gärna i Unix/Linux-miljö.
    - Jag söker även arbete som teknisk projektledare, ren arkitekt eller it-strateg.
-   - Jag håller gärna 
+   - Jag håller gärna föredrag och möten oavsett vilken roll jag har. 
    
 ** Kompetens och erfarenhet 
    :PROPERTIES:
