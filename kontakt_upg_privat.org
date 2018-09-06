@@ -18,4 +18,4 @@ Hattmursvägen 5 \\
 \\
 #+LaTeX: \noindent
 *Webbadress*\\
-http://www.hoahoa.se]] \\
+http://www.hoahoa.se \\
