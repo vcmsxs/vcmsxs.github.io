@@ -57,4 +57,5 @@ Läs som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
 #+BEGIN_CENTER
 | [[https://www.instagram.com/vcmsxs/][Instagram]] |
 | [[https://twitter.com/vcmsxs][Twitter]]   |
+| [[https://www.facebook.com/johan.sanden][Facebook]]  |
 #+END_CENTER

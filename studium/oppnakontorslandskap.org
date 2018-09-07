@@ -16,24 +16,57 @@
 #+LATEX_HEADER: \usepackage{fancyhdr}
 #+LATEX_HEADER: \pagestyle{fancyplain}
 #+LATEX_HEADER: \cfoot{Johan Sandén}
-#+LATEX_HEADER: \rfoot{Curriculum Vitae (CV)}
+#+LATEX_HEADER: \rfoot{studium}
 #+LATEX_HEADER: \pagenumbering{arabic}
 #+HTML_CONTAINER: div
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
 # #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
 
+#+BEGIN_CENTER
+[[file:./oppnakontorslandskap.html][HTML]] -  [[file:./oppnakontorslandskap.pdf][PDF]]
+#+END_CENTER
 #+toc: headlines 2
 
+* Öppna kontorslandskap
+  
+  Främst verkar kontorslandskapens framryckning i arbetslivet vara en trend
+  bland chefer och beslutsfattare i organisationer. Kan man visa på att man
+  "gjort allt" för att sänka kontorskostnaderna så mycket det går så kommer åt
+  minstånde inte styrelser och ägare att gnälla på det.
 
-* Inledning (synnerligen subjetivt)
-  - Framför allt så irriterar öppna kontorslandskap _mig_. Men jag har fog för min irritation. Denna irritation tycker
-    jag är det störa och viktigaste anledningen till att de inte borde finnas.
+  Har man tagit fram ett flådigt förslag med vita vägga, nya bänkar mycket
+  mycket glas så ser det bra ut på bilder och när man går runt och pressenerar
+  utrymmet. Det är en väldigt enkel åtgärd man kan ta till där det ser ut som
+  man gör och får mycket för pengarna. 
+  
+  Första gången jag hamnde i ett öppet konstorslandskap var 2003. Jag var ung
+  och ny på arbetet och tänkte inte så mycket på det då, men det gjorde mig
+  nervös och innefektiv.
 
-  - Främst verkar kontorslandskapens framryckning i arbetslivet vara en trend bland chefer och beslutsfattare i
-    organisationer. Kan man visa på att man "gjort allt" för att sänka kontorskostnaderna så mycket det går så kommer
-    inte styrelser och ägare att gnälla på det.
-    
+  Det nerövsa har jag lät mig handskas med. Jag döljer det och känner det inte
+  lika tydligt, däremot blir och är jag betydligt tröttare på kvällarna på grund
+  av att jag måste sitta i landskap hela dagar.
+
+  Mängder med forskning visar idag på att precis allt och alla presterar och mår
+  sämmre i kontorslandskap. Till och med de som säger att de behöver folk
+  omkring sig för att känna puls och tryck presterar sämmre. 
+
+  Det här är några punkter man kommit fram till:
+   - Vi får lägre IQ.
+   - Vi blir sjukare (utbrändhet och vi smittar varandra lättare)
+   - Vi blir irriterade
+   - Vi blir trötta.
+   - Vi presterar sämmre.
+   - Vi jobbar långsammare.
+   - Vi får mindre gjort (avbruta)
+   - Vi tror att vi presterar mer och bättre (på grund av "synergieffekten" av
+     att sitta tillsamman)
+  
+   Jag kan inte hitta någon riktig forskning alls som är visar att
+   kontorslandskap påverkar slutresultatet av arbetet eller ekonomin positivt.
+   Men om du hittar någon får du mer än gärna [[http://www.hoahoa.se/][Kontakta mig]]
+      
 * Länkar
 ** Forskning och uppsatser
       1) [[http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1356449&fileOId=1356450]]
@@ -80,24 +113,3 @@
 	 - En "stör-mig-inte" läppstift som placeras på bordet när
            man inte vill bli störd.
 	 - En skämtartikel som visar hur dumt det här har blivit.
-
-* Slutsats
-  + Av kontorslandskap blir människor lättare
-    1. ...sjuka (smittade)
-       - Vi smittar varandra lättare
-    2. Störda
-       - Vår iq-nivå går _ner_ i kontorslandskap.
-    3. Stressade och utbrända.
-       - Stress leder till utbrända.
-    4. Får mindre gjort.
-  + Kontorslandskap ger en illusion av effektivitet men i själva
-    verket tar ner prestandan på projekten.
-  + Tar ner prestandan på projekten.
-  + Det ger billigare kostnad på lokalen men i slutändan tjänar man
-    inget på det.
-  + Jag kan inte hitta någon riktig forskning alls som är visar att
-    kontorslandskap påverkar slutresultatet positivt. Men om du hittar
-    någon får du mer än gärna [[http://www.hoahoa.se/][Kontakta mig]]
-  + Det var något vi gick ifrån på 40-talet på grund av miljötekniska
-    skäl. Från och med 70-talet har bullernivåerna sjunkit så att
-    det nu är möjligt att bygga på detta sätt igen.
