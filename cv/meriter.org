@@ -344,7 +344,7 @@ Beräkningar på hur länge jag jobbat.
       Applikationsansvarig, Lärare, Systemutvecklare, Konsult
    3) Uppdrag:
       1. Lantmäteriet - Cobra. Underhåll och vidareutveckling av
-         system runt stordator och leveranssystem.
+         fastighetssystem runt stordator och leveranssystem.
       2. Lantmäteriet - Arken. Arkivering (register, akter, historiska
          kartor och dokument mm)
       3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
@@ -357,7 +357,7 @@ Beräkningar på hur länge jag jobbat.
    4) Plattformar: Linux (Ubuntu, Mint), Unix (Solaris), Windows XP
    5) Teknik: Python (pip/setuptools, flask, bottle, virtualenv,
       click, tox, pex), Emacs/Org-mode, Docker, Java (Ant/Maven,
-      Eclips/STS/JBuilder,JSF,Spring) ,Oracle ,SVN, CVS, GIT,
+      Eclips/STS/JBuilder,JSF,Spring Framework) ,Oracle ,SVN, CVS, GIT,
       Hybernate ,Jira, Fitnesse
 
 #+LaTeX: \pagebreak
