@@ -101,7 +101,7 @@ version går att ladda ner från min websida.
 ** Vem är Johan?
   + Vänner beskriver Johan som tankfull och lugn.
   + Föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs/-Linux, Git, Lisp, Python.
+  + Hängiven förespråkare av GnuEmacs[fn:emacs]/-Linux, Git, Lisp, Python.
   + Ordförande i Gefle Ölsellskap.
     - Anordnar öl-provningar, studieresor och fester.
     - Drygt 100 medlemmar.
@@ -295,9 +295,9 @@ Beräkningar på hur länge jag jobbat.
         ganska ofta privat för mina egna program och när jag testar
         teorier eller api:er på jobbet.
    5. Funktionell programmering
-      - Då jag göra nästan allt i Emacs så är det ofrånkomligt att det
-        blir en hel del Lisp. Även i Python utnyttjar jag gärna det
-        sättet att arbeta då det är effektivt och lätt att debugga.
+      - Då jag göra nästan allt i Emacs[fn:emacs] så är det ofrånkomligt att det
+        blir en hel del Lisp. Även i Python utnyttjar jag gärna det sättet att
+        arbeta då det är effektivt och lätt att debugga.
    6. Objektorientering
       - OO är en självklarhet idag som jag började jobba med direkt
         efter högskolan.
@@ -313,10 +313,10 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   | Emacs[fn:emacs:http://hoahoa.se/websida/EmacsIntro.html] | Org-mode (Emacs)      | Eclips- STS | Netbeans | JBuilder |
-   | Microsoft VisualStudio C++                               | Borlands Turbo Pascal | Ant         | Make     | Maven    |
+   | Emacs[fn:emacs:http://hoahoa.se/studium/emacs.html] | Org-mode (Emacs[fn:emacs]) | Eclips- STS | Netbeans | JBuilder |
+   | Microsoft VisualStudio C++                          | Borlands Turbo Pascal | Ant         | Make     | Maven    |
 
-# [fn:emacs] [[][Vad är Emacs?]
+
 #+LaTeX: \pagebreak
 * Arbetsgivare och uppdrag 
   :PROPERTIES:
@@ -356,7 +356,7 @@ Beräkningar på hur länge jag jobbat.
          Muligan projektet.
    4) Plattformar: Linux (Ubuntu, Mint), Unix (Solaris), Windows XP
    5) Teknik: Python (pip/setuptools, flask, bottle, virtualenv,
-      click, tox, pex), Emacs/Org-mode, Docker, Java (Ant/Maven,
+      click, tox, pex), Emacs[fn:emacs]/Org-mode, Docker, Java (Ant/Maven,
       Eclips/STS/JBuilder,JSF,Spring Framework) ,Oracle ,SVN, CVS, GIT,
       Hybernate ,Jira, Fitnesse
 
@@ -379,7 +379,7 @@ Beräkningar på hur länge jag jobbat.
          adress register.
       4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
          fastigheter.
-   5) Teknik: Java, Emacs, Org-mode, BEA WLS, Tibco RDV, Fujitzu iFlow.,
+   5) Teknik: Java, Emacs[fn:emacs], Org-mode, BEA WLS, Tibco RDV, Fujitzu iFlow.,
       XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
       JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
       Proffessionell),senare HP QC, Tomcat
