@@ -56,122 +56,116 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
     - Emacs startas som alla andra program. I ett fönstersytem (Windows, IOS
       eller X) kommer Emacs att startas som alla andra program, i ett fönster.
       Står man i en konsoll kan man starta med tillägget "-nw" (no window).
-    - Man avslutar emacs med kommandot "C-x C-c". Det innebär att man håller
-      inne Ctrl-knappen och trycker "x", man fortsätter hålla Ctrl-knappen
-      nedtryckt och trycker "c".
+    - Man avslutar emacs med kommandot ~C-x C-c~. Det innebär att man håller
+      inne ~Ctrl~-knappen och trycker ~x~, man fortsätter hålla ~Ctrl~-knappen
+      nedtryckt och trycker ~c~.
+
+* Grundläggande definitioner
+
+   - Frame :: Rutan som kommer upp på skärmen, som innehåller hela programmet när man startar Emacs, kallas för "Frame"
+              (inte Window, som är vanligt).
+   - Window :: Om man delar på en Frame i två eller tre delar, så kallas varje del en "window" (man kan dela av en frame
+               hur många gånger man vill)
+   - Buffer :: Innehållet i ett "window" (ofta en textfil) kallas för "buffer". En buffer kan också innhålla text som
+               inte ligger på en fil, en terminal, ett program, en webläsare e.d.
 
 * Några grundläggand kommandon
 
-  - C-x betyder att man ska hålla ner Ctrl-knappen och trycka C-x. 
-  - M-x (Meta-x) betyder att man ska hålla ner Alt-knappen (eller Esc-knappen)
-    och sedan trycka "x".
-  - C-x h. Betyder att man ska Hålla ner Ctrl och trycka x sedan släpper man
-    Ctrl och trycker ner h ensamt.
-  - C-x C-m betyder betyder att man först håller ner Ctrl och sedan trycker x,
-    fortsätter hålla Ctrl-knappen nedtryckt och sedan trycker m. Man behöver
-    alltså inte släppa Ctrl-knappen mellan tryckningarna.
+  - ~C-x~ betyder att man ska hålla ner ~Ctrl~-knappen, hålla den nedtryckt medans man trycker ~x~.
+  - ~M-x~ (Meta-x) betyder att man ska hålla ner ~Alt~-knappen (eller ~Esc~-knappen)
+    och sedan trycka ~x~.
+  - ~C-x h~. Betyder att man ska Hålla ner ~Ctrl~ och trycka ~x~, släppa ~Ctrl~ och trycker ner ~h~ ensamt.
+  - ~C-x C-m~ betyder betyder att man först håller ner ~Ctrl~ och sedan trycker ~x~, fortsätter hålla ~Ctrl~-knappen
+    nedtryckt och sedan trycker ~m~. Man behöver alltså inte släppa Ctrl-knappen mellan tryckningarna.
+
 
 ** Filer
 
- - C-x C-f läsa in en fil i Emacs
- - C-x C-s spara en fil på skivminne
- - C-x s spara en fil på skivminne med fråga
- - C-x i sätt in innehållet i en annan fil i bufferten
- - C-x C-v läs in en ny fil i bufferten
- - C-x C-w skriv buffertens innehåll på en namngiven fil
- - C-x d starta Dired, katalogeditorn
+ - ~C-x C-f~ läsa in en fil i Emacs
+ - ~C-x C-s~ spara en fil på skivminne
+ - ~C-x s~ spara en fil på skivminne med fråga
+ - ~C-x i~ sätt in innehållet i en annan fil i bufferten
+ - ~C-x C-v~ läs in en ny fil i bufferten
+ - ~C-x C-w~ skriv buffertens innehåll på en namngiven fil
+ - ~C-x d~ starta Dired, katalogeditorn
 
-** Hjälp
+** Hjälp!
 
- Hjälpsystemet är mycket enkelt. Tryck på C-h och följ instruktionerna. Om du är
- nybörjare, tryck C-h t för att få en demonstration. Alla hjälptexter är på
+ Hjälpsystemet är mycket enkelt. Tryck på ~C-h~ och följ instruktionerna. Om du är
+ nybörjare, tryck ~C-h t~ för att få en demonstration. Alla hjälptexter är på
  engelska.
 
-   - C-x 1 ta bort hjälpfönstret
-   - ESC C-v bläddra i hjälpfönstret
-   - C-h a apropos: sök med hjälp av text
-   - C-h c visa en tangents funktion
-   - C-h f beskriv en funktion
-   - C-h m få information om den aktuella moden
+   - ~C-x 1~ ta bort hjälpfönstret
+   - ~ESC C-v~ bläddra i hjälpfönstret
+   - ~C-h a~ apropos: sök med hjälp av text
+   - ~C-h c~ visa en tangents funktion
+   - ~C-h f~ beskriv en funktion
+   - ~C-h m~ få information om den aktuella moden
 
-** Panic!!
+** Let's panic!!
 
-     - C-g avbryt delvis angivet kommando
-     - M-x recover-file rädda en fil efter en krasch
-     - C-x u eller C-_ ångra en oönskad ändring
-     - M-x revert-buffer återgå till senaste sparade versionen
-     - C-l rita om skärmen
+     - ~C-g~ avbryt delvis angivet kommando
+     - ~M-x~ recover-file rädda en fil efter en krasch
+     - ~C-x u~ eller ~C-_~ ångra en oönskad ändring
+     - ~M-x~ revert-buffer återgå till senaste sparade versionen
+     - ~C-l~ rita om skärmen
 
 **  Sökning
 
-     - C-s sökning framåt
-     - C-r sökning bakåt
-     - C-M-s sökning med hjälp av reguljära uttryck
+     - ~C-s~ sökning framåt
+     - ~C-r~ sökning bakåt
+     - ~C-M-s~ sökning med hjälp av reguljära uttryck
 
-     Använd C-s eller C-r upprepade gånger för att upprepa sökningen eller
-     upprepa den i någon riktning. ESC avsluta sökningen DEL ångra senaste
-     tangenttryckningen C-g avbryt sökningen
+     Använd ~C-s~ eller ~C-r~ upprepade gånger för att upprepa sökningen eller
+     upprepa den i någon riktning. ~ESC~ avsluta sökningen DEL ångra senaste
+     tangenttryckningen ~C-g~ avbryt sökningen
 
-     Om Emacs fortfarande söker så avslutar C-g den sökning Emacs just då håller
+     Om Emacs fortfarande söker så avslutar ~C-g~ den sökning Emacs just då håller
      på med, i annat fall avbryts hela sökningen.
 
 
 ** Redigering
-   Copy/Paste fungerar lite anorlunda i Emacs jämfört med windows och andra
-   system. Man markerar med *C-<space>*. Kopierar med *M-w* (kill-ring-save),
-   klipper ut med *C-w* (kill-region) och klistrar in med *C-y* (yank). Det som
-   klipps ut eller raderas läggs in så kallad "kill-ring", ett minne med
-   urklipp. Eftersom killring kan inehålla äldre urklipp så når man dem med M-y
-   efter en den första C-y.
+   Copy/Paste fungerar lite annorlunda i Emacs jämfört med windows och andra system. Man markerar med ~C-<space>~.
+   Kopierar med ~M-w~ (kill-ring-save), klipper ut med ~C-w~ (kill-region) och klistrar in med ~C-y~ (yank). Det som
+   klipps ut eller raderas läggs in i "kill-ring", ett minne med urklipp. Eftersom killring kan inehålla äldre urklipp
+   så når man dem med ~M-y~ efter en den första ~C-y~.
 
-     - C-SPACE markera (sätt märket här)
-     - C-k raderar raden.
-     - C-w klipp ut. (radera och spara i kill-ring)
-     - M-w kopiera (spara i kill-ring)
-     - M-y ersätt senast raderade text med ännu äldre
-     - C-x h. Markerar hela buffer.
-     - M-q jämna till stycket
+     - ~C-SPACE~ markera (sätt märket här)
+     - ~C-k~ raderar raden.
+     - ~C-w~ klipp ut. (radera och spara i kill-ring)
+     - ~M-w~ kopiera (spara i kill-ring)
+     - ~M-y~ ersätt senast raderade text med ännu äldre
+     - ~C-x h~. Markerar hela buffer.
+     - ~M-q~ jämna till stycket
 
-**  Flera fönster
+** Flera fönster
 
-     - C-x 1 göm alla fönster utom det du står i.
-     - C-x 0 gömmer fönstret du står i.
-     - C-x 2 dela fönstret i två delar, horisontellt
-     - C-x 3 dela fönstret i två delar, vertikalt
-     - C-x o flytta markören till ett annat fönster
-     - C-x ^ gör fönstret längre
-     - C-x { gör fönstret smalare
-     - C-x } gör fönstret bredare
+     - ~C-x 1~ göm alla fönster utom det du står i.
+     - ~C-x 0~ gömmer fönstret du står i.
+     - ~C-x 2~ dela fönstret i två delar, horisontellt
+     - ~C-x 3~ dela fönstret i två delar, vertikalt
+     - ~C-x o~ flytta markören till ett annat fönster
+     - ~C-x ^~ gör fönstret längre
+     - ~C-x {~ gör fönstret smalare
+     - ~C-x }~ gör fönstret bredare
 
 ** Undo/Upprepa 
-   - C-x u ångra.
-   - C-x z upprepa (C-z z z z) upprepar 3 gånger.
+   - ~C-x u~ ångra.
+   - ~C-x z~ upprepa (~C-z~ ~z~ ~z~ ~z~) för att upprepar 3 gånger.
+     - Nästan alla kommandon kan upperpas, inte bara undo.
 
 ** Buffertar
 
-   - C-x b gå till en annan buffert
-   - C-x C-b lista alla buffertar
-   - C-x k ta bort en buffert
+   - ~C-x b~ gå till en annan buffert
+   - ~C-x C-b~ lista alla buffertar
+   - ~C-x k~ ta bort en buffert
 
 ** Stavningskontroll
 
-   - M-$ kontrollera stavningen av ett ord
-   - M-x spell-region kontrollera stavningen av området
-   - M-x spell-buffer kontrollera stavningen i bufferten
+   - ~M-$~ kontrollera stavningen av ett ord
+   - ~M-x~ spell-region kontrollera stavningen av området
+   - ~M-x~ spell-buffer kontrollera stavningen i bufferten
 
-* Ord som skiljer sig.
-  - Frame :: Rutan som kommer upp på skärmen, som innehåller hela programmet när
-             man startar Emacs, kallas för "Frame" (inte Window, som är
-             vanligt).
-  - Window :: Om man delar på en Frame i två eller tre delar, så kallas varje
-              del en "window" (man kan dela av en frame hur många gånger man
-              vill)
-  - Buffer :: Innehållet i ett "window" (ofta en textfil) kallas för "buffer".
-              En buffer kan också innhålla text som inte ligger på en fil, en
-              terminal, ett program, en webläsare e.d.
-  - Kill-ring :: Kallas minnet där man lägger urklipp. Att markera och "Klippa
-                 ut" text kallas "kill".
-  - Yank :: Samma som "Paste" eller "klistra in".
  
 * Länkar och mer läsning
   
