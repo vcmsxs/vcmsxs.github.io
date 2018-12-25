@@ -123,10 +123,9 @@ version går att ladda ner från min websida.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
-   - Jag söker tjänster som "Fullstack" DevOps/Systemutvecklare med tyngdpunkt på backend automatisering. Gärna i
+   - Jag söker tjänster som "fullstack" DevOps/Systemutvecklare med tyngdpunkt på backend automatisering. Gärna i
      Unix/Linux-miljö.
-   - Jag söker även arbete som teknisk projektledare, ren arkitekt eller it-strateg.
-   - Jag håller gärna 
+   - Jag söker även arbete som teknisk projektledare, renodlad arkitekt eller it-strateg.
    
 ** Kompetens och erfarenhet 
    :PROPERTIES:
