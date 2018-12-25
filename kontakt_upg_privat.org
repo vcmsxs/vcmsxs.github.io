@@ -1,8 +1,21 @@
+#+LaTeX: \noindent
+*Namn*\\
 _Johan_ Ragnar Sandén \\
 \\
+#+LaTeX: \noindent
+*Adress*\\
+#+LaTeX: \noindent
 Hattmursvägen 5 \\
 806 48 GÄVLE \\
 \\
-Telefon :: 079 - 333 94 03 \\
-E-post :: [[mailto:johan.sanden@gmail.com]] \\
-Webbadress :: [[http://www.hoahoa.se]] \\
+#+LaTeX: \noindent
+*Telefon*\\
+ +46(0)79 - 333 94 03 \\
+\\
+#+LaTeX: \noindent
+*E-post*\\
+[[mailto:johan.sanden@gmail.com][johan.sanden@gmail.com]]\\
+\\
+#+LaTeX: \noindent
+*Webbadress*\\
+http://www.hoahoa.se \\

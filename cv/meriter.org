@@ -99,22 +99,22 @@ version går att ladda ner från min websida.
  #+LaTeX: \pagebreak
 
 ** Vem är Johan?
-  + Vänner beskriver Johan som tankfull och lugn.
-  + Föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs/-Linux, Git, Lisp, Python.
+  + Mina vänner beskriver mig som tankfull och lugn.
+  + Jag föredrar att vara hemma på kvällar, helger och semester.
+  + En hängiven förespråkare av GnuEmacs[fn:emacs]/-Linux, Git, Lisp, Python.
   + Ordförande i Gefle Ölsellskap.
     - Anordnar öl-provningar, studieresor och fester.
     - Drygt 100 medlemmar.
     - Gick med 2003.
-  + Musik har varit ett intressen så länge jag kan minnas.
+  + Musik har varit ett intressen sedan jag kunde nå upp till pianot.
     - Hobbystudio i källaren.
-    - Det berättas att jag började spela när jag nådde upp till pianot.
-  + Som 8-åring tjatade jag till mig en dator i julklapp
-    + Kodar på fritiden för att det är roligt.
-  + Trivs bäst hemma i Gävle men har inga problem att åka till Stockholm över dagen.
-  + Gift och bor men Anna.
-  + Två barn, Lukas och Dante, -06 och -12.
-  + Bor lantligt i en gammal villa, en mil utanför Gävle centrum
+  + Tjatade till sig en dator i julklapp vid 8 års åldern.
+    + Hobbykodar fortfarade på fritiden.
+  + Vegan och tycker om att laga mat.
+  + Föredrar katter framför mycket annat sällskap.
+  + Bor lantligt i en gammal villa en mil utanför centrum
+  + Två barn. Lukas 2012 och Dante 2006
+  + Gift med Anna Sandén.
   + Född och uppväxt i Gävle.
 
  #+LaTeX: \pagebreak
@@ -123,9 +123,10 @@ version går att ladda ner från min websida.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
-   - Jag söker tjänster som "fullstack" DevOps/Systemutvecklare med tyngdpunkt på backend automatisering. Gärna i
-     Unix/Linux-miljö.
-   - Jag söker även arbete som teknisk projektledare, renodlad arkitekt eller it-strateg.
+   - Teknisk projektledare, scrum-master, ren arkitekt eller it-strateg.
+   - DevOps/Systemutvecklare "Fullstack" med tyngdpunkt på backend och
+     automatisering. Gärna i Unix/Linux-miljö.
+   - Jag håller gärna föredrag och möten oavsett vilken roll jag har. 
    
 ** Kompetens och erfarenhet 
    :PROPERTIES:
@@ -133,14 +134,15 @@ version går att ladda ner från min websida.
    :END:
 #+BEGIN_COMMENT
 Beräkningar på hur länge jag jobbat.
-(- 2018 1997) = 21
-(- 2018 1995) = 23
+(- 2019 1997) = 22
+(- 2019 1995) = 24
 #+END_COMMENT
 
-  1. Över 20 år erfarenhet i it-branschen främst som it-konsult.
-  2. Certifierad *Prince2® Projektledare*
-  3. Certifierad *projektledare* med inriktning på *ledarskap*
-  4. Certifierad *produktägare* och *scrum-master* 
+  1. Över 20 år erfarenhet i it-branschen främst som it-konsult och
+     systemutvecklare.
+  2. Projektledare, certifierad *Prince2® Projektledare* och ledarskap.
+  4. Scrum master, jag har certifierat mig som både *produktägare* och
+     *scrum-master*
 
 ** Förtroendeuppdrag.
    :PROPERTIES:
@@ -294,9 +296,9 @@ Beräkningar på hur länge jag jobbat.
         ganska ofta privat för mina egna program och när jag testar
         teorier eller api:er på jobbet.
    5. Funktionell programmering
-      - Då jag göra nästan allt i Emacs så är det ofrånkomligt att det
-        blir en hel del Lisp. Även i Python utnyttjar jag gärna det
-        sättet att arbeta då det är effektivt och lätt att debugga.
+      - Då jag göra nästan allt i Emacs[fn:emacs] så är det ofrånkomligt att det
+        blir en hel del Lisp. Även i Python utnyttjar jag gärna det sättet att
+        arbeta då det är effektivt och lätt att debugga.
    6. Objektorientering
       - OO är en självklarhet idag som jag började jobba med direkt
         efter högskolan.
@@ -312,10 +314,10 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   | Emacs[fn:emacs:http://hoahoa.se/websida/EmacsIntro.html] | Org-mode (Emacs)      | Eclips- STS | Netbeans | JBuilder |
-   | Microsoft VisualStudio C++                               | Borlands Turbo Pascal | Ant         | Make     | Maven    |
+   | Emacs[fn:emacs:http://hoahoa.se/studium/emacs.html] | Org-mode (Emacs[fn:emacs]) | Eclips- STS | Netbeans | JBuilder |
+   | Microsoft VisualStudio C++                          | Borlands Turbo Pascal | Ant         | Make     | Maven    |
 
-# [fn:emacs] [[][Vad är Emacs?]
+
 #+LaTeX: \pagebreak
 * Arbetsgivare och uppdrag 
   :PROPERTIES:
@@ -343,7 +345,7 @@ Beräkningar på hur länge jag jobbat.
       Applikationsansvarig, Lärare, Systemutvecklare, Konsult
    3) Uppdrag:
       1. Lantmäteriet - Cobra. Underhåll och vidareutveckling av
-         system runt stordator och leveranssystem.
+         fastighetssystem runt stordator och leveranssystem.
       2. Lantmäteriet - Arken. Arkivering (register, akter, historiska
          kartor och dokument mm)
       3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
@@ -355,8 +357,8 @@ Beräkningar på hur länge jag jobbat.
          Muligan projektet.
    4) Plattformar: Linux (Ubuntu, Mint), Unix (Solaris), Windows XP
    5) Teknik: Python (pip/setuptools, flask, bottle, virtualenv,
-      click, tox, pex), Emacs/Org-mode, Docker, Java (Ant/Maven,
-      Eclips/STS/JBuilder,JSF,Spring) ,Oracle ,SVN, CVS, GIT,
+      click, tox, pex), Emacs[fn:emacs]/Org-mode, Docker, Java (Ant/Maven,
+      Eclips/STS/JBuilder,JSF,Spring Framework) ,Oracle ,SVN, CVS, GIT,
       Hybernate ,Jira, Fitnesse
 
 #+LaTeX: \pagebreak
@@ -378,7 +380,7 @@ Beräkningar på hur länge jag jobbat.
          adress register.
       4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
          fastigheter.
-   5) Teknik: Java, Emacs, Org-mode, BEA WLS, Tibco RDV, Fujitzu iFlow.,
+   5) Teknik: Java, Emacs[fn:emacs], Org-mode, BEA WLS, Tibco RDV, Fujitzu iFlow.,
       XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
       JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
       Proffessionell),senare HP QC, Tomcat
