@@ -123,9 +123,9 @@ version går att ladda ner från min websida.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
-   - Jag söker tjänster som "Fullstack" eller "backend" DevOps/Systemutvecklare
-     med tyngdpunkt på backend automatisering. Gärna i Unix/Linux-miljö.
-   - Jag söker även arbete som teknisk projektledare, ren arkitekt eller it-strateg.
+   - Teknisk projektledare, scrum-master, ren arkitekt eller it-strateg.
+   - DevOps/Systemutvecklare "Fullstack" med tyngdpunkt på backend och
+     automatisering. Gärna i Unix/Linux-miljö.
    - Jag håller gärna föredrag och möten oavsett vilken roll jag har. 
    
 ** Kompetens och erfarenhet 
@@ -134,14 +134,15 @@ version går att ladda ner från min websida.
    :END:
 #+BEGIN_COMMENT
 Beräkningar på hur länge jag jobbat.
-(- 2018 1997) = 21
-(- 2018 1995) = 23
+(- 2019 1997) = 22
+(- 2019 1995) = 24
 #+END_COMMENT
 
-  1. Över 20 år erfarenhet i it-branschen främst som it-konsult.
-  2. Certifierad *Prince2® Projektledare*
-  3. Certifierad *projektledare* med inriktning på *ledarskap*
-  4. Certifierad *produktägare* och *scrum-master* 
+  1. Över 20 år erfarenhet i it-branschen främst som it-konsult och
+     systemutvecklare.
+  2. Projektledare, certifierad *Prince2® Projektledare* och ledarskap.
+  4. Scrum master, jag har certifierat mig som både *produktägare* och
+     *scrum-master*
 
 ** Förtroendeuppdrag.
    :PROPERTIES:
