@@ -34,22 +34,25 @@ Mer eller mindre osorterade länkar.
 #+TOC:headlines 1
 
 * Just nu
-  1. https://internetkunskap.se/
-  2. https://www.jagarhar.se/
-  3. http://forum.vof.se - forum för vetenskap och folkbildning.
-  4. http://www.textfiles.com/
-  5. http://www.gnuheter.com/ - ???
-  6. Bellmans samlade verk :: http://www.samladeverk.bellman.org/
-  7. https://readthedocs.org/ - READ THE DOCS!
-  8. [[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha:s .emacs]]
-  9. http://www.kulturanalys.se 
-     - ...den roligaste bloggen sen universum uppfanns.
-  10. [[http://hurmånga.se][Hur många]] - blog med svar på frågor.
-  11. [[http://everything2.com][Everything]] - Usersubmit, everything, skrivet 
-  12. http://justsomething.co/the-39-funniest-animal-photobombs-of-all-time/
-  13. http://www.kaloritabell.com/kaloritabell_a_till_o.html - kaloritabell
-  14. http://www.Yacy.net - decentrialiserad  sökning.
-  15. http://www.skapapengar.nu/ - Bankerna spelar bort våra pengar.
+
+  1. http://www.vegetarian.se/Kottfolder.html
+  2. https://www.edge.org
+  3. https://internetkunskap.se/
+  4. https://www.jagarhar.se/
+  5. http://forum.vof.se - forum för vetenskap och folkbildning.
+  6. http://www.textfiles.com/
+  7. http://www.gnuheter.com/ - ???
+  8. Bellmans samlade verk :: http://www.samladeverk.bellman.org/
+  9. https://readthedocs.org/ - READ THE DOCS!
+  10. [[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha:s .emacs]]
+  11. http://www.kulturanalys.se 
+      - ...den roligaste bloggen sen universum uppfanns.
+  12. [[http://hurmånga.se][Hur många]] - blog med svar på frågor.
+  13. [[http://everything2.com][Everything]] - Usersubmit, everything, skrivet 
+  14. http://justsomething.co/the-39-funniest-animal-photobombs-of-all-time/
+  15. http://www.kaloritabell.com/kaloritabell_a_till_o.html - kaloritabell
+  16. http://www.Yacy.net - decentrialiserad  sökning.
+  17. http://www.skapapengar.nu/ - Bankerna spelar bort våra pengar.
  
 * Affärer
 ** Kläder
