@@ -59,7 +59,7 @@
    - Vi blir trötta.
    - Vi presterar sämmre.
    - Vi jobbar långsammare.
-   - Vi får mindre gjort (avbruta)
+   - Vi får mindre gjort
    - Vi tror att vi presterar mer och bättre (på grund av "synergieffekten" av
      att sitta tillsamman)
   
