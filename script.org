@@ -1,6 +1,6 @@
 #+TITLE:     script.org
 #+AUTHOR:    Johan Sandén
-#+EMAIL:     johan.sanden@gmail.com
+g#+EMAIL:     johan.sanden@gmail.com
 #+DATE:      <2015-03-08 Sun>
 #+LANGUAGE:  sv
 #+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
