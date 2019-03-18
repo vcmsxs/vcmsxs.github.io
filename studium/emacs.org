@@ -36,8 +36,8 @@
 Emacs är en textredigeriare. Den är gjord av och för programmerare som vill
 kunna påverka nästan alla asspekter av det verktyg de jobbar i. 
 
-Emacs kan ta lite tid att lära sig men de flesta som kommit igång håller med om
-att tiden känar man ganka lätt igen.
+Emacs kan ta lite tid att lära sig öppnar man en textfil eller om dagen så är
+det mer än väl värt besväret.
 
 En av anledningarna till Emacs kan ta lite längre tid att lära sig är att några
 av de ord som normalt används för att beskriva program skiljer sig. Det i sin
@@ -78,9 +78,7 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
   - ~C-x C-m~ betyder betyder att man först håller ner ~Ctrl~ och sedan trycker ~x~, fortsätter hålla ~Ctrl~-knappen
     nedtryckt och sedan trycker ~m~. Man behöver alltså inte släppa Ctrl-knappen mellan tryckningarna.
 
-
 ** Filer
-
  - ~C-x C-f~ läsa in en fil i Emacs
  - ~C-x C-s~ spara en fil på skivminne
  - ~C-x s~ spara en fil på skivminne med fråga
@@ -90,7 +88,6 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
  - ~C-x d~ starta Dired, katalogeditorn
 
 ** Hjälp!
-
  Hjälpsystemet är mycket enkelt. Tryck på ~C-h~ och följ instruktionerna. Om du är
  nybörjare, tryck ~C-h t~ för att få en demonstration. Alla hjälptexter är på
  engelska.
@@ -110,8 +107,7 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
      - ~M-x~ revert-buffer återgå till senaste sparade versionen
      - ~C-l~ rita om skärmen
 
-**  Sökning
-
+** Sökning
      - ~C-s~ sökning framåt
      - ~C-r~ sökning bakåt
      - ~C-M-s~ sökning med hjälp av reguljära uttryck
@@ -122,7 +118,6 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
 
      Om Emacs fortfarande söker så avslutar ~C-g~ den sökning Emacs just då håller
      på med, i annat fall avbryts hela sökningen.
-
 
 ** Redigering
    Copy/Paste fungerar lite annorlunda i Emacs jämfört med windows och andra system. Man markerar med ~C-<space>~.
@@ -139,7 +134,6 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
      - ~M-q~ jämna till stycket
 
 ** Flera fönster
-
      - ~C-x 1~ göm alla fönster utom det du står i.
      - ~C-x 0~ gömmer fönstret du står i.
      - ~C-x 2~ dela fönstret i två delar, horisontellt
@@ -155,18 +149,15 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
      - Nästan alla kommandon kan upperpas, inte bara undo.
 
 ** Buffertar
-
    - ~C-x b~ gå till en annan buffert
    - ~C-x C-b~ lista alla buffertar
    - ~C-x k~ ta bort en buffert
 
 ** Stavningskontroll
-
    - ~M-$~ kontrollera stavningen av ett ord
    - ~M-x~ spell-region kontrollera stavningen av området
    - ~M-x~ spell-buffer kontrollera stavningen i bufferten
 
- 
 * Länkar och mer läsning
   
   - GnuEmacs Officiella Websida :: https://www.gnu.org/software/emacs/ 
