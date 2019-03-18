@@ -52,8 +52,9 @@
 
 Oförändrat får dokumentet kopieras och distribueras. En uppdaterad
 version går att ladda ner från min websida.
-   - För utskrift [[http://hoahoa.se/cv/meriter.pdf][ladda ner den PDF]]
-   - För att [[http://hoahoa.se/cv/meriter.html][läs den online som HTML]] 
+   - För utskrift [[http://hoahoa.se/cv/meriter.pdf][ladda ner den som PDF]]
+   - Eller [[http://hoahoa.se/cv/meriter.html][läs den online som HTML]]
+   - Eller [[http://hoahoa.se/cv/meriter.org][tanka ner källkoden]] (Org-mode[fn:orgmode:https://orgmode.org/]), om du är nörd som jag ;) 
 
 # #+begin_latex
 # \pagebreak
@@ -311,7 +312,7 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   | Emacs[fn:emacs:http://hoahoa.se/studium/emacs.html] | Org-mode (Emacs[fn:emacs]) | Eclips- STS | Netbeans | JBuilder |
+   | Emacs[fn:emacs:http://hoahoa.se/studium/emacs.html] | Org-mode[fn:orgmode] (Emacs[fn:emacs]) | Eclips- STS | Netbeans | JBuilder |
    | Microsoft VisualStudio C++                          | Borlands Turbo Pascal | Ant         | Make     | Maven    |
 
 
@@ -341,20 +342,20 @@ Beräkningar på hur länge jag jobbat.
    2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
       Applikationsansvarig, Lärare, Systemutvecklare, Konsult
    3) Uppdrag:
-      1. Lantmäteriet - Cobra. Underhåll och vidareutveckling av
+      1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
          fastighetssystem runt stordator och leveranssystem.
-      2. Lantmäteriet - Arken. Arkivering (register, akter, historiska
+      2. Lantmäteriet - TeamArken. Arkivering (register, akter, historiska
          kartor och dokument mm)
       3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
          Finölsfestivalen
-      4. Lantmäteriet - Leveranssystemet (FinfoLev)
+      4. Lantmäterietg - Leveranssystemet (FinfoLev)
       5. Korsnäs - Ubildning i scrum och agila metoder
       6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
       7. Lantmäteriet - Projekt: Milins (delprojekt/migrering) i
          Muligan projektet.
    4) Plattformar: Linux (Ubuntu, Mint), Unix (Solaris), Windows XP
    5) Teknik: Python (pip/setuptools, flask, bottle, virtualenv,
-      click, tox, pex), Emacs[fn:emacs]/Org-mode, Docker, Java (Ant/Maven,
+      click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker, Java (Ant/Maven,
       Eclips/STS/JBuilder,JSF,Spring Framework) ,Oracle ,SVN, CVS, GIT,
       Hybernate ,Jira, Fitnesse
 
@@ -377,7 +378,7 @@ Beräkningar på hur länge jag jobbat.
          adress register.
       4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
          fastigheter.
-   5) Teknik: Java, Emacs[fn:emacs], Org-mode, BEA WLS, Tibco RDV, Fujitzu iFlow.,
+   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode], BEA WLS, Tibco RDV, Fujitzu iFlow.,
       XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
       JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
       Proffessionell),senare HP QC, Tomcat
