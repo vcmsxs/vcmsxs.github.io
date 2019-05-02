@@ -143,13 +143,12 @@ Beräkningar på hur länge jag jobbat.
      *scrum-master*
 
 ** Förtroendeuppdrag.
-   :PROPERTIES:
-   :CUSTOM_ID: h:c45ab0b8-4a62-4e3e-9703-036e36a4a806
-   :END:
-   Sedan 2017 är jag ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]]. En förening som
-   med drygt 100 medlemmar med främsta syfte att främja öl-kultur. Vi
-   annordnar öl-provningar, studieresor och fester. Vi delar även ut
-   ett årligt stipendium och har väldigt roligt tillsammans.
+   - Sedan 2017 ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]]. En förening som med drygt 100
+     medlemmar med främsta syfte att främja öl-kultur. Vi annordnar
+     öl-provningar, studieresor och fester. Vi delar även ut ett årligt
+     stipendium och har väldigt roligt tillsammans.
+   - Sedan 2018 revisor i Västerbackens samfällighetsförening
+
  #+LaTeX: \pagebreak
    
 ** Nuvarande anställning
