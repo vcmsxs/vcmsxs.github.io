@@ -41,32 +41,35 @@
 | Projektledning |    3 |
 | Scrum          |    3 |
 | Kanban         |    4 |
-|                |      |
+
    
 * Programmerinsspråk
-| Språk          | Kunskapsnivå |
-|----------------+--------------|
-| Python         |            4 |
-| ELisp          |            3 |
-| Java           |            4 |
-| Bash           |            3 |
-| c              |            3 |
-| C++            |            3 |
-| Perl           |            2 |
-| SQL            |            3 |
-| Borland Pascal |            3 |
-| Common Lisp    |            2 |
-| Prolog         |            1 |
+| Språk       | Kunskapsnivå |
+|-------------+--------------|
+| Python      |            3 |
+| ELisp       |            3 |
+| JavaScript  |            2 |
+| Java        |            3 |
+| Bash        |            3 |
+| c           |            3 |
+| C++         |            3 |
+| Perl        |            2 |
+| SQL         |            3 |
+| Pascal      |            3 |
+| Common Lisp |            2 |
+| REXX        |            1 |
+| Basic       |            2 |
+
+
   
 * Utecklingsmiljöer
-  
 | Miljö            | Kunskapsnivå |
 |------------------+--------------|
 | Emacs            |            4 |
 | Eclips/STS       |            3 |
 | Visual Studio    |            2 |
 | Borland JBuilder |            2 |
-|                  |              |
+| InteliJ          |            2 |
 
 * Biblotek
 ** Java
@@ -74,15 +77,15 @@
 ** Emacs
 
 * Operativsystem
-| Operativ | Kunskapsnivå |
-|----------+--------------|
-| OS X     |            1 |
-| Windows  |            3 |
-| Linux    |            4 |
-| Unix     |            3 |
-| Android  |            2 |
-| iOS      |            1 |
-|          |              |
+| Operativ  | Kunskapsnivå |
+|-----------+--------------|
+| OS X      |            1 |
+| Windows   |            3 |
+| Gnu/Linux |            4 |
+| Unix      |            3 |
+| Android   |            2 |
+| iOS       |            1 |
+
 
   
 
