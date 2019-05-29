@@ -41,8 +41,8 @@
 
 
 #+BEGIN_CENTER
-#+ATTR_LATEX: :width 4cm 
-[[file:blekjag.jpeg]]
+#+ATTR_LATEX: :width 6cm 
+[[file:handsome_dude.jpg]]
 #+END_CENTER
 
 #+LaTeX: \bigskip

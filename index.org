@@ -29,7 +29,7 @@
 #+LATEX_HEADER:
 
 #+BEGIN_CENTER
-[[file:./img/blekjag.jpeg]]
+[[file:./img/me_2016.jpg]]
 #+END_CENTER
 
 -------
