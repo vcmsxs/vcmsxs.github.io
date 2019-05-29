@@ -10,12 +10,11 @@
 #+DESCRIPTION:
 #+EXCLUDE_TAGS: noexport
 #+KEYWORDS:
-#+LANGUAGE: en
+#+LANGUAGE: sv
 #+SELECT_TAGS: export
 
 
 * Definitioner
-** 
 ** Kunskapsnivå
    0. [@0] Ingen kunskap.
    1. Små kunskaper.
@@ -25,15 +24,16 @@
       - Kan troligen sätta sig in i ämnet ganska lätt.
       - Har helt förstått principerna.
    3. Kunnig.
-      - Kan de vanliga best practice.
-      - De viktigate externa delarna (apier, libbar, program)
+      - Best practice.
+      - Kan de viktigaste delarna och har hört talas om det mesta.
       - Kan undviker vanliga falluckor.
    4. Goda kunskaper.
       - Kan flera api:er
-      - Best practice kunskaper
       - Har djupgående kunskaper i principer
-      - Kan varianter och olika varianters styrkor
+      - Kan varianter deras styrkor
+      - Kan vidareutveckla och anpassa till sig själv
    5. Expert.
+      - Kan utveckla/vidareutveckla för andra.
 
 * Projek/process 
 | Begrepp        | Nivå |
@@ -42,24 +42,22 @@
 | Scrum          |    3 |
 | Kanban         |    4 |
 
-   
 * Programmerinsspråk
 | Språk       | Kunskapsnivå |
 |-------------+--------------|
-| Python      |            3 |
+| Python      |            4 |
+| Java        |            4 |
+| Bash        |            4 |
 | ELisp       |            3 |
-| JavaScript  |            2 |
-| Java        |            3 |
-| Bash        |            3 |
+| SQL         |            3 |
 | c           |            3 |
 | C++         |            3 |
 | Perl        |            2 |
-| SQL         |            3 |
-| Pascal      |            3 |
 | Common Lisp |            2 |
-| REXX        |            1 |
+| JavaScript  |            2 |
+| Pascal      |            3 |
 | Basic       |            2 |
-
+| REXX        |            1 |
 
   
 * Utecklingsmiljöer
@@ -70,11 +68,6 @@
 | Visual Studio    |            2 |
 | Borland JBuilder |            2 |
 | InteliJ          |            2 |
-
-* Biblotek
-** Java
-** Python
-** Emacs
 
 * Operativsystem
 | Operativ  | Kunskapsnivå |
