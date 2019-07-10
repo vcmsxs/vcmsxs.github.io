@@ -101,16 +101,15 @@ version går att ladda ner från min websida.
 
 ** Vem är Johan?
   + Mina vänner beskriver mig som tankfull och lugn.
-  + Jag föredrar att vara hemma på kvällar, helger och semester.
-  + En hängiven förespråkare av GnuEmacs[fn:emacs]/-Linux, Git, Lisp, Python.
-  + Jag äter veganskt hemma men kan tillåta mjölk och ostprodukter när vi äter
-    ute.
+  + Föredrar att vara hemma på kvällar, helger och semester.
+  + Hängiven förespråkare av GnuEmacs[fn:emacs]/-Linux, Git, Lisp, Python mm.
+  + Vegetarian
   + Ordförande i Gefle Ölsellskap.
-  + Musik har varit ett intressen sedan jag kunde nå upp till pianot.
-    - Liten studio i källaren.
-  + Tjatade till sig en dator i julklapp vid 8 års åldern.
+  + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till pianot.
+  + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då jag lärde
+    mig programmera.
   + Älskar katter.
-  + Bor lantligt i en gammal villa en mil utanför centrum
+  + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
   + Två barn. Lukas 2012 och Dante 2006
   + Gift med Anna Sandén.
   + Född och uppväxt i Gävle.
@@ -123,9 +122,9 @@ version går att ladda ner från min websida.
    :END:
    - Teknisk projektledare, scrum-master, ren arkitekt eller it-strateg.
    - DevOps/Systemutvecklare "Fullstack" med tyngdpunkt på backend och
-     automatisering. Gärna i Unix/Linux-miljö.
-   - Jag håller gärna föredrag och möten oavsett vilken roll jag har. 
-   
+     automatisering. Gärna i Unix/Linux-miljö. Helt med tyngdpunkt på Python.
+   - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
+     
 ** Kompetens och erfarenhet 
    :PROPERTIES:
    :CUSTOM_ID: h:6899e186-95f8-4ce9-9dbb-0d9ca986fae4
