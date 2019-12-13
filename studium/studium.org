@@ -1,0 +1,153 @@
+#+LATEX_HEADER: \usepackage{lmodern}
+#+LATEX_HEADER: \usepackage{microtype}
+#+TITLE:     Studium
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks 
+# #+INFOJS_OPT: view:showall toc:nil
+#+LATEX_HEADER: \usepackage[AUTO]{babel}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancyplain}
+#+LATEX_HEADER: \cfoot{Johan Sandén}
+#+LATEX_HEADER: \rfoot{studium}
+#+LATEX_HEADER: \pagenumbering{arabic}
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+# #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
+
+#+BEGIN_CENTER
+[[file:studium.html][HTML]] -  [[file:studium.pdf][PDF]]
+#+END_CENTER
+#+toc: headlines 2
+
+* Arbete
+** Öppna kontorslandskap
+   - file:./oppnakontorslandskap.org
+* COMMENT Demokrati
+** COMMENT Vad behöver en demokrati?
+*** Friheter och rättigheter
+*** Yttrandefrihet
+*** Rättvisa - Oskylldig tills motsattsen är motbevisa
+*** Fria val
+* Emacs
+  - [[file:emacs.org]]
+** COMMENT Org-mode
+** COMMENT Modes
+** COMMENT Instruktioner
+** COMMENT Varför Emacs?
+** COMMENT Emacs är inte för alla.
+* Filosofi
+** Jantelag
+   Jantelagen framställs ofta som något välldigt negativt. En lista av
+   företeelser att någon eller en almänhet försöker förminska dina drömmar och
+   mål/påstånden. Min upplevelse är tvärt om. Vi flera tillfällen har jag
+   träffat människor som påstår sig vara bättre än genomsnittet eller bara
+   subjetivt "väldigt duktig" på något. När man sedan studerar siffrorna eller
+   statitistiken, eller helt enkelt får se prov förmågan så är det inte alls
+   imponerade, ofta rent av nedslående inkompentent.
+
+   Om någon har kommit på något, gjort något, eller har någon förmåga som är
+   bättre än alla andra. Den smartaste taktiken är då kanske inte att gå runt
+   och skryta om det.
+   
+*** Jantelagen
+    1. Du skall inte tro att du är något.
+       - Du är någon, precis som jag är någon och precis som alla andra är någon.
+    2. Du skall inte tro att du är lika god som vi.
+       - Du är lika god som vi.
+    3. Du skall inte tro att du är klokare än vi.
+       - Du är lika klok som alla andra.
+    4. Du skall inte inbilla dig att du är bättre än vi.
+       - Du ska faktiskt inte inbilla dig att du är bättre andra. Du är
+         förmodligen precis lika bra.
+    5. Du skall inte tro att du vet mer än vi.
+       - För du vet precis lika mycket som alla andra.
+    6. Du skall inte tro att du är förmer än vi.
+       - Jag vet inte "för mer" betyder men ...nä. Du är inte för mer.
+    7. Du skall inte tro att du duger till något.
+       - Jag och alla andra är säker på att du och alla andra duger till något.
+    8. Du skall inte skratta åt oss.
+       - Du får gärna skratta åt oss och alla andra få stå och skratta åt dig.
+    9. Du skall inte tro att någon bryr sig om dig.
+       - Vi bryr oss lika mycket om alla.
+    10. Du skall inte tro att du kan lära oss något.
+        - Vi kan säkert lära oss något av dig men du kan säkert lära dig mer av
+          alla oss.
+
+*** Exempel på dålig possetiv jantelag
+    - Folk tror att de är dukitiga på att köra, kör oftast som idioter. Det
+      gäller inte någon specifik typ av fordon. Mängder av manliga vita
+      bilförare tror att de är bättre genomsnittet. Skulle man göra riktiga
+      tester skulle det troligen visa sig att kvinnor är minst lika duktiga.
+      - https://www.svt.se/nyheter/lokalt/vast/forslag-om-korkort-for-vattenskoter
+** COMMENT Yttrycksfrihet
+** COMMENT *Lagom* (är bäst)
+** COMMENT Ät inte djur
+** COMMENT Du måste vara snäll
+* COMMENT Framtiden
+** Samhället
+** Politiken
+** Tekniken
+** Veganism
+** It
+* COMMENT Frihet
+* COMMENT Informationsteknologi
+** Linux
+** Emacs
+** Git
+* Miljö
+** COMMENT Energipolitik
+** COMMENT Politik
+** COMMENT Plast
+** Mat
+*** Köttskatt
+    Det var många år sedan rapporterna om att "köttproduktionen" eller
+    köttindustrin var miljövidrig.
+
+    Om Miljöpartiet vore ett miljöparti i framkant skulle förslaget "köttskatt"
+    lagts fram runt år 2010.
+**** Länkar
+     - Fria.nu (2007) [[http://www.fria.nu/artikel/18812][Köttproduktion orsakar större utsläpp]] än transportsektorn.
+    
+* Moralpanik
+** Exempel på moralpanik
+   - Porr är [[https://www.svt.se/nyheter/inrikes/inget-samband-mellan-porrtittande-och-impotens][inte skadligt för potensen]].
+     - Många tror att [[https://www.svt.se/nyheter/inrikes/ungdomsmottagningar-unga-oroade-over-att-porr-orsakar-impotens][unga män kan bli det]].
+   - En "omoralisk" [[https://www.aftonbladet.se/nojesbladet/a/6jyQaW/svts-sommarlov-anmalt-efter-kokainlat?fbclid=IwAR2IOwTQkYtnJ-j67EjnM5pBYAvSgus3-odVkEZrcg_Eze27gDZcwCFtw-8][låt i SvT:s barnprogram]].
+* COMMENT Musik
+** Elektronisk
+** Analoga ljud
+* Organisation
+file:organiserat.org
+* Samhälle
+** Politik
+*** Friskolor
+    - [[file:./friskolor.org]]
+*** COMMENT Borgare
+*** COMMENT Energipolitik
+* COMMENT Tro och vetande
+** Troskunskap
+** Jag vet att jag inte vet något.
+** Du vet nästan ingenting
+*** 1 + 1 = 2
+** Vetenskap är inte sanning. Det är jaken på sanningen. En process
+som ständigt förändras och förbättras för hitta sanningen.
+** Religion - Varje specifik religion gör anspråk på sanningen.
+Vetenskap gör anspråk på jakten efter sanningen.
+* COMMENT Undantag i samhället,lagen,friheter,
+* COMMENT Uttrycksfrihet 
+** Yttrandefrihet
+** Kläder
+* COMMENT Vegan
+** Recept
+** Miljö
+** Etik
+** Hälsa
