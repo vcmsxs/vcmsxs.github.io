@@ -122,7 +122,7 @@ version går att ladda ner från min websida.
    :END:
    - Teknisk projektledare, scrum-master, ren arkitekt eller it-strateg.
    - DevOps/Systemutvecklare "Fullstack" med tyngdpunkt på backend och
-     automatisering. Gärna i Unix/Linux-miljö. Helt med tyngdpunkt på Python.
+     automatisering. Gärna i Unix/Linux-miljö. Helst med tyngdpunkt på Python.
    - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
      
 ** Kompetens och erfarenhet 
@@ -135,17 +135,17 @@ Beräkningar på hur länge jag jobbat.
 (- 2019 1995) = 24
 #+END_COMMENT
 
-  1. Över 20 år erfarenhet i it-branschen främst som it-konsult och
-     systemutvecklare.
+  1. 25 års erfarenhet i IT-branschen främst som it-konsult och systemutvecklare.
   2. Projektledare, certifierad *Prince2® Projektledare* och ledarskap.
-  4. Scrum master, jag har certifierat mig som både *produktägare* och
-     *scrum-master*
+  4. Certifierad Scrum-master (och Produktägare).
 
 ** Förtroendeuppdrag.
-   - Sedan 2017 ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]]. En förening som med drygt 100
-     medlemmar med främsta syfte att främja öl-kultur. Vi annordnar
-     öl-provningar, studieresor och fester. Vi delar även ut ett årligt
-     stipendium och har väldigt roligt tillsammans.
+   - Ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]] mellan 2017-2020. 
+
+     Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med främsta
+     syfte att främja öl-kultur. Vi annordnar provningar, studieresor och
+     fester. Vi delar även ut ett årligt stipendium och har väldigt roligt
+     tillsammans.
    - Sedan 2018 revisor i Västerbackens samfällighetsförening
 
  #+LaTeX: \pagebreak
@@ -160,13 +160,13 @@ Beräkningar på hur länge jag jobbat.
    varierat.
    | Gruppledare                    | Applikationsansvarig |
    | Förvaltare/vidareutvecklare    | Systemutvecklare     |
-   | Teknisk konsult i "testfabrik" | Databasmigrerare     |
-   | Deployer/Integrerare           |                      |
+   | Teknisk konsult i "testfabrik" | Programmerare        |
+   | Deployer/Integrerare           | Databasmigrerare     |
+ 
 
    Under min tiden på [[*Knowit][Knowit]] har jag utbildat mig i [[#lblkurser][agilt]] [[#lblkurser][ledarskap]],
    [[#h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783][förvaltning]] och [[#lblkurser][projektledning]]
    
-
 * Utbildningar och kurser
 :PROPERTIES:
 :CUSTOM_ID: lblkurser
@@ -301,17 +301,24 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
-   | Python | ELisp  | Java     | c/C++ | PHP                 | PERL | BASH |
-   | SQL    | Pascal | VBscript | REXX  | HTML/CSS/JavaScript |      |      |
+   | Python | ELisp  | Java                |
+   | c/C++  | PHP    | PERL                |
+   | SQL    | Pascal | VBscript            |
+   | BASH   | REXX   | HTML/CSS/JavaScript |
+
+
      
 ** Utvecklingsmiljöer
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   | Emacs[fn:emacs:http://hoahoa.se/studium/emacs.html] | Org-mode[fn:orgmode] (Emacs[fn:emacs]) | Eclips- STS | Netbeans | JBuilder |
-   | Microsoft VisualStudio C++                          | Borlands Turbo Pascal | Ant         | Make     | Maven    |
-
-
+   | Emacs[fn:emacs:http://hoahoa.se/studium/emacs.html] | LSP[fn:lsp1:https://langserver.org/] [fn:lsp2:https://microsoft.github.io/language-server-protocol/] |
+   | Microsoft VisualStudio C++                          | Borlands Turbo Pascal                                                                                |
+   | JetBrains Intellij                                  | Android Studio                                                                                       |
+   | Make                                                | Maven                                                                                                |
+   | Org-mode[fn:orgmode] (Emacs[fn:emacs])              | JBuilder                                                                                             |
+   | Ant                                                 | Eclips- STS                                                                                          |
+   | Netbeans                                            |                                                                                                      |
 #+LaTeX: \pagebreak
 * Arbetsgivare och uppdrag 
   :PROPERTIES:
@@ -344,7 +351,7 @@ Beräkningar på hur länge jag jobbat.
          kartor och dokument mm)
       3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
          Finölsfestivalen
-      4. Lantmäterietg - Leveranssystemet (FinfoLev)
+      4. Lantmäteriet - Leveranssystemet (FinfoLev)
       5. Korsnäs - Ubildning i scrum och agila metoder
       6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
       7. Lantmäteriet - Projekt: Milins (delprojekt/migrering) i
@@ -399,9 +406,9 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:9decca1d-d483-4c5c-b83b-4a46173bcb3f
    :END:
-   Ett litet it-företag med inriktning mot "smarta hem"[fn:utilator:Anställd 3 månader innan konkurs].
+   Ett litet it-företag med inriktning mot "smarta hem".
 
-   1) Period: November 2000 - Februari 2001
+   1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
    2) Titel: Systemutvecklare.
    3) Plattform: Linux Redhat
    4) Uppdrag: "Smarta hem"
@@ -415,7 +422,8 @@ Beräkningar på hur länge jag jobbat.
    :END:
    Ett Stockholmsbaserat konsultföretag med inriktning på web.
 
-   1) Period: Maj 2000 - November 2000
+   1) Period: Maj 2000 - November 2000[fn:mind:"It-bubblan" sprack och företaget
+      gick i konkurs]
    2) Titel: Java Expert, It-konsult.
    3) Plattformar: Windows 2000, Solaris
    4) Uppdrag: Portaler
