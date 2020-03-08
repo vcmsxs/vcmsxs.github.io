@@ -36,6 +36,8 @@
 
 * CV
 Som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
+* Länkar
+
 * Kontakt
 #+INCLUDE:./kontakt_upg_privat.org
 * Social på nätet
