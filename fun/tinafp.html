@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>This is not a fjuking piano</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+      <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lantmäteripiano </h1>
+    <canvas class="canvas">
+      <p>Javascript är ett nödvändigt ont</p>
+    </canvas>
+
+    <script>
+      
+      function beep(vol, freq, duration){
+          const AudioContext = window.AudioContext || window.webkitAudioContext;
+          const a = new AudioContext();
+          v=a.createOscillator()
+          u=a.createGain()
+          v.connect(u)
+          v.frequency.value=freq
+          v.type="square"
+          u.connect(a.destination)
+          u.gain.value=vol*0.01
+          v.start(a.currentTime)
+          v.stop(a.currentTime+duration*0.001)
+      }
+
+      function get_hz_pos(pos)
+      {
+          var x=pos.x-c_x;
+          var y=pos.y-c_y;
+          for(var i = 0, len = arr_hz.length; i<len; i++)
+          {
+              var axmin = arr_hz[i][0];
+              var aymin = arr_hz[i][1];
+              var axmax = arr_hz[i][2];
+              var aymax = arr_hz[i][3];
+              var hz = arr_hz[i][5];
+              if (x>axmin && x<axmax && y>aymin && y<aymax)
+              {
+                  return hz;
+              }
+          }
+          return 0
+      }
+      function get_hz_c(c)
+      {
+          for(var i = 0, len = arr_hz.length; i<len; i++)
+          {
+              if (arr_hz[i][4].toLowerCase()==String.fromCharCode(c).toLowerCase())
+              {
+                  return arr_hz[i][5]
+              }
+          }
+          return 0
+      }
+      
+      function pkey(keynr,type,hz,c)
+      {
+          ctx.lineWidth = 5;
+          white_x = (keynr*white_key_width)-Math.floor(white_key_width/2);
+          white_y = key_y_start;
+          black_y = key_y_start;
+          if (type==1)
+          {
+              ctx.strokeRect(white_x,white_y,white_key_width,white_key_height);
+              var pos_hz = [white_x,white_y,white_x+white_key_width,white_y+white_key_height,c,hz];
+              ctx.fillStyle = 'black';
+              ctx.font="40px Times";
+              ctx.textAlign="center";
+              ctx.fillText(c,white_x+Math.floor(white_key_width/2),white_y+black_key_height+Math.floor((white_key_height-black_key_height)/2))
+              arr_hz.push(pos_hz);
+              
+          }
+          else if(type==2)
+          {
+              ctx.fillStyle = color_black;
+              black_x = white_x + black_delta_x - (Math.floor(black_key_width/2));
+              ctx.fillRect(black_x,black_y,black_key_width,black_key_height);
+              ctx.fillStyle = 'white';
+              ctx.font="40px Times";
+              ctx.textAlign="center";
+              ctx.fillText(c,black_x+Math.floor(black_key_width/2),black_y+Math.floor(black_key_height/2))
+              var pos_hz = [black_x,black_y,black_x+black_key_width,black_y+black_key_height,c,hz];
+              arr_hz.unshift(pos_hz);
+          }          
+      }
+
+      const canvas = document.querySelector('.canvas');
+      const width = canvas.width = window.innerWidth;
+      const height = canvas.height = window.innerHeight;
+      const ctx = canvas.getContext('2d');
+      const canvas_rect = canvas.getBoundingClientRect();
+      const c_x = canvas_rect.x;
+      const c_y = canvas_rect.y;
+      const minx = 25;
+      const miny = 25;
+      const maxx = width-minx*2;
+      const maxy = height-miny*2;
+      const color_white = 'rgb(255,255,255)';
+      const color_black = 'rgb(0, 0, 0)';
+      const key_y_start = miny;
+      const white_key_height = Math.floor(maxy*0.5);
+      const white_key_width =  Math.floor(white_key_height*0.3);
+      const black_key_width =  Math.floor(white_key_width*0.8);
+      const black_key_height = Math.floor(white_key_height*0.6);
+      const black_delta_x = white_key_width
+      var arr_hz = new Array(); 
+
+      // Bg-color
+      ctx.fillStyle = color_white;
+      ctx.fillRect(0,0,width,height);
+
+      // Keys
+      
+      pkey(1,1,220,"z");
+      pkey(2,1,246,"x");
+      pkey(3,1,261,"c");
+      pkey(4,1,293,"v");
+      pkey(5,1,311,"b");
+      pkey(6,1,349,"n");
+      pkey(7,1,369,"m");
+      pkey(8,1,415,"q");
+      pkey(9,1,440,"w");
+      pkey(10,1,493,"e");
+      pkey(1,2,233,"s");
+      pkey(3,2,277,"f");
+      pkey(5,2,329,"h");
+      pkey(7,2,391,"k");
+      pkey(9,2,466,"3");
+
+
+      document.addEventListener('keypress', (e) => {
+          key=e.keyCode;
+          var hz = get_hz_c(key)
+          beep(50, hz , 200);
+      })
+      
+      canvas.addEventListener('click', (e) => {
+          const pos = {
+              x: e.clientX,
+              y: e.clientY
+          };
+          var hz = get_hz_pos(pos)
+          beep(50, hz , 200);
+      })
+
+    </script>
+  </body>
+</html>
+
