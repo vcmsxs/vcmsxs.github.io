@@ -36,13 +36,10 @@
 
 * CV
 Som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
-* Länkar
-
 * Kontakt
 #+INCLUDE:./kontakt_upg_privat.org
 * Social på nätet
-#+ATTR_LaTeX: :center nil
-  | [[https://www.linkedin.com/in/johansanden/][LinkeIn]] | [[https://www.instagram.com/vcmsxs/][Instagram]] | [[https://www.facebook.com/johan.sanden][Facebook]] | [[https://twitter.com/vcmsxs][Twitter]]    |
+  [[https://www.linkedin.com/in/johansanden/][LinkeIn]] - [[https://www.instagram.com/vcmsxs/][Instagram]] - [[https://www.facebook.com/johan.sanden][Facebook]] - [[https://twitter.com/vcmsxs][Twitter]]    
 
 
 
