@@ -93,9 +93,7 @@ version går att ladda ner från min websida.
  #+LaTeX: \pagebreak
 
 ** Kontaktuppgifter
-   :PROPERTIES:
-   :CUSTOM_ID: h:5137991a-5103-44ee-9fc3-f3a048616743
-   :END:
+
 #+INCLUDE: ../kontakt_upg_privat.org
  #+LaTeX: \pagebreak
 
@@ -120,9 +118,9 @@ version går att ladda ner från min websida.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
-   - Teknisk projektledare, scrum-master, ren arkitekt eller it-strateg.
-   - DevOps/Systemutvecklare "Fullstack" med tyngdpunkt på backend och
-     automatisering. Gärna i Unix/Linux-miljö. Helst med tyngdpunkt på Python.
+   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
+   - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
+     automatisering. Unix/Linux-miljö gärna i Python eller Go-lang.
    - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
      
 ** Kompetens och erfarenhet 
