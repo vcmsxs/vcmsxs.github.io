@@ -36,8 +36,15 @@
 
 * CV
 Som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
-* Länkar
+* Tingen, Symbolerna och Förändringarna.
+  Vi delar in världen i tingen, symbolerna och förändringarna. 
 
+  Tingen är världen.
+
+  Symbolerna är vad vi uppfattar.
+
+  Förändring kan bara uppfattas med tiden. Det beror på att vår uppfattning är
+  en förändring i sig.
 * Kontakt
 #+INCLUDE:./kontakt_upg_privat.org
 * Social på nätet

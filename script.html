@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
 <head>
-<!-- 2020-01-02 Thu 10:46 -->
+<!-- 2021-02-27 Sat 00:50 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>script.org</title>
@@ -161,6 +161,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -185,7 +198,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -236,34 +249,34 @@ for the JavaScript code in this tag.
 <h2 id="org8bd90a6"><span class="section-number-2">1</span> Export</h2>
 <div class="outline-text-2" id="text-1">
 <div class="org-src-container">
-<pre class="src src-elisp" id="org3031566">(<span style="color: #00ffff;">progn</span> 
-  (<span style="color: #00ffff;">setq</span> org-publish-project-alist
+<pre class="src src-elisp" id="org3031566">(<span style="color: #c678dd; font-weight: bold;">progn</span> 
+  (<span style="color: #c678dd; font-weight: bold;">setq</span> org-publish-project-alist
         '(
-          (<span style="color: #ffa07a;">"index_html"</span>
-           <span style="color: #b0c4de;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #b0c4de;">:base-directory</span> <span style="color: #ffa07a;">"."</span>
-           <span style="color: #b0c4de;">:publishing-directory</span>  <span style="color: #ffa07a;">"."</span>
+          (<span style="color: #98be65;">"index_html"</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html 
+           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"."</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"."</span>
            )
-          (<span style="color: #ffa07a;">"index_pdf"</span>
-           <span style="color: #b0c4de;">:base-directory</span> <span style="color: #ffa07a;">"."</span>
-           <span style="color: #b0c4de;">:publishing-directory</span>  <span style="color: #ffa07a;">"."</span>
-           <span style="color: #b0c4de;">:publishing-function</span> org-latex-publish-to-pdf
+          (<span style="color: #98be65;">"index_pdf"</span>
+           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"."</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"."</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-function</span> org-latex-publish-to-pdf
            )
-          (<span style="color: #ffa07a;">"meriter_html"</span>
-           <span style="color: #b0c4de;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #b0c4de;">:base-directory</span> <span style="color: #ffa07a;">"./cv"</span>
-           <span style="color: #b0c4de;">:publishing-directory</span>  <span style="color: #ffa07a;">"./cv"</span>
+          (<span style="color: #98be65;">"meriter_html"</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html 
+           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"./cv"</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"./cv"</span>
            )
-          (<span style="color: #ffa07a;">"meriter_pdf"</span>
-           <span style="color: #b0c4de;">:base-directory</span> <span style="color: #ffa07a;">"./cv/"</span>
-           <span style="color: #b0c4de;">:publishing-directory</span>  <span style="color: #ffa07a;">"./cv/"</span>
-           <span style="color: #b0c4de;">:publishing-function</span> org-latex-publish-to-pdf
+          (<span style="color: #98be65;">"meriter_pdf"</span>
+           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"./cv/"</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"./cv/"</span>
+           <span style="color: #61afef; font-weight: bold;">:publishing-function</span> org-latex-publish-to-pdf
            )
           ))
-  (org-publish <span style="color: #ffa07a;">"index_html"</span>)
-  (org-publish <span style="color: #ffa07a;">"index_pdf"</span>)
-  (org-publish <span style="color: #ffa07a;">"meriter_html"</span>)
-  (org-publish <span style="color: #ffa07a;">"meriter_pdf"</span>)
+  (org-publish <span style="color: #98be65;">"index_html"</span>)
+  (org-publish <span style="color: #98be65;">"index_pdf"</span>)
+  (org-publish <span style="color: #98be65;">"meriter_html"</span>)
+  (org-publish <span style="color: #98be65;">"meriter_pdf"</span>)
   )
 </pre>
 </div>
@@ -273,7 +286,7 @@ for the JavaScript code in this tag.
 <div id="postamble" class="status">
 <p class="date">Datum: 2015-03-08 Sun 00:00</p>
 <p class="author">F&ouml;rfattare: Johan Sandén</p>
-<p class="date">Created: 2020-01-02 Thu 10:46</p>
+<p class="date">Created: 2021-02-27 Sat 00:50</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
