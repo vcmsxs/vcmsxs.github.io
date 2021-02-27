@@ -2,8 +2,7 @@
 #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
-#+TITLE: Johan Sandén
-#+SUBTITLE: Personlig websida.
+#+TITLE: Abrakadabra
 #+DATE: {{{time(%F %T)}}}
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
@@ -19,7 +18,7 @@
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+HTML_MATHJAX:
-#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
 #+HTML_HEAD_EXTRA:
 #+SUBTITLE:
 #+INFOJS_OPT:
@@ -27,19 +26,16 @@
 #+LATEX_HEADER:
 
 #+BEGIN_CENTER
-[[file:./img/me_2016.jpg]]
+[[file:../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
-
+#+toc: headlines 2
 -------
-
-* CV
-Som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
-
-* Kontakt
-#+INCLUDE: ./kontakt_upg_privat.org
-* Social på nätet
-  [[https://www.linkedin.com/in/johansanden/][LinkeIn]] - [[https://www.instagram.com/vcmsxs/][Instagram]] - [[https://www.facebook.com/johan.sanden][Facebook]] - [[https://twitter.com/vcmsxs][Twitter]]    
-
-* Annat
- - [[file:./studium/studium.org][Studium]] 
- - [[file:./abrakadabra/abrakadabra.org][Abrakadabra]]
+* Tingen, Symbolerna och Förändringarna.
+# [2021-02-27 Sat]
+  Vi delar in världen i tingen, symbolerna och förändringarna. Tingen är
+  världen. Symbolerna är vad vi uppfattar. Förändring kan bara uppfattas med
+  tiden. Det beror på att vår uppfattning är en förändring i sig.
+*** Kommentar
+    - Minst två tredjedelar är stulet från Platon.
+-------
+* 

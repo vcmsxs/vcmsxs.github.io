@@ -28,15 +28,6 @@
 #+END_CENTER
 #+toc: headlines 2
 
-* Arbete
-** Öppna kontorslandskap
-   - file:./oppnakontorslandskap.org
-* COMMENT Demokrati
-** COMMENT Vad behöver en demokrati?
-*** Friheter och rättigheter
-*** Yttrandefrihet
-*** Rättvisa - Oskylldig tills motsattsen är motbevisa
-*** Fria val
 * Emacs
   - [[file:emacs.org]]
 ** COMMENT Org-mode
@@ -44,7 +35,7 @@
 ** COMMENT Instruktioner
 ** COMMENT Varför Emacs?
 ** COMMENT Emacs är inte för alla.
-* Filosofi
+* COMMENT Filosofi
 ** Jantelag
    Jantelagen framställs ofta som något välldigt negativt. En lista av
    företeelser att någon eller en almänhet försöker förminska dina drömmar och
@@ -103,7 +94,13 @@
 ** Linux
 ** Emacs
 ** Git
-* Miljö
+* COMMENT Demokrati
+** COMMENT Vad behöver en demokrati?
+*** Friheter och rättigheter
+*** Yttrandefrihet
+*** Rättvisa - Oskylldig tills motsattsen är motbevisa
+*** Fria val
+* COMMENT Miljö
 ** COMMENT Energipolitik
 ** COMMENT Politik
 ** COMMENT Plast
@@ -117,7 +114,7 @@
 **** Länkar
      - Fria.nu (2007) [[http://www.fria.nu/artikel/18812][Köttproduktion orsakar större utsläpp]] än transportsektorn.
     
-* Moralpanik
+* COMMENT Moralpanik
 ** Exempel på moralpanik
    - Porr är [[https://www.svt.se/nyheter/inrikes/inget-samband-mellan-porrtittande-och-impotens][inte skadligt för potensen]].
      - Många tror att [[https://www.svt.se/nyheter/inrikes/ungdomsmottagningar-unga-oroade-over-att-porr-orsakar-impotens][unga män kan bli det]].
@@ -125,9 +122,9 @@
 * COMMENT Musik
 ** Elektronisk
 ** Analoga ljud
-* Organisation
+* COMMENT Organisation
 file:organiserat.org
-* Samhälle
+* COMMENT Samhälle
 ** Politik
 *** Friskolor
     - [[file:./friskolor.org]]
@@ -151,3 +148,6 @@ Vetenskap gör anspråk på jakten efter sanningen.
 ** Miljö
 ** Etik
 ** Hälsa
+* COMMENT Arbete
+** Öppna kontorslandskap
+   - file:./oppnakontorslandskap.org

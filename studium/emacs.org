@@ -40,8 +40,8 @@ Emacs kan ta lite tid att lära sig öppnar man en textfil eller om dagen så ä
 det mer än väl värt besväret.
 
 En av anledningarna till Emacs kan ta lite längre tid att lära sig är att några
-av de ord som normalt används för att beskriva program skiljer sig. Det i sin
-tur beror på att Emacs har sina rötter i det tidiga 70-talet, långt innan
+av de ord som normalt används för att beskriva Emacs skiljer sig. Det i sin tur
+beror på att Emacs har sina rötter i det tidiga 70-talet, långt innan
 persondatorn blev vanlig och grafiska gränssnitt var vanliga.
 
 * Ladda ner och installera Emacs
@@ -53,39 +53,48 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
       heter ".emacs". Där konfigurationen ligger.
 
 * Start och stoppa Emacs
-    - Emacs startas som alla andra program. I ett fönstersytem (Windows, IOS
+    - Emacs startas som alla andra program. I ett fönstersystem (Windows, IOS
       eller X) kommer Emacs att startas som alla andra program, i ett fönster.
-      Står man i en konsoll kan man starta med tillägget "-nw" (no window).
+      Står man i en terminal kan man starta med flaggan "-nw" (no window).
     - Man avslutar emacs med kommandot ~C-x C-c~. Det innebär att man håller
       inne ~Ctrl~-knappen och trycker ~x~, man fortsätter hålla ~Ctrl~-knappen
       nedtryckt och trycker ~c~.
 
 * Grundläggande definitioner
 
-   - Frame :: Rutan som kommer upp på skärmen, som innehåller hela programmet när man startar Emacs, kallas för "Frame"
-              (inte Window, som är vanligt).
-   - Window :: Om man delar på en Frame i två eller tre delar, så kallas varje del en "window" (man kan dela av en frame
-               hur många gånger man vill)
-   - Buffer :: Innehållet i ett "window" (ofta en textfil) kallas för "buffer". En buffer kan också innhålla text som
-               inte ligger på en fil, en terminal, ett program, en webläsare e.d.
+   - Frame (sv. Ram) :: Rutan som kommer upp på skärmen, som innehåller hela
+     programmet när man startar Emacs, kallas för "Frame" (inte Window, som är
+     vanligt).
+   - Window (sv. fönster) :: Om man delar på en Frame i två eller tre delar, så
+     kallas varje del en "window" (man kan dela av en frame hur många gånger man
+     vill)
+   - Buffer (sv. buffert):: Innehållet i ett "window" (ofta en textfil) kallas
+     för "buffer". En buffer kan också innhålla text som inte ligger på en fil,
+     en terminal eller output från ett program som en webläsare e.d.
+   - POINT :: Markörens position i en buffer och window 
 
 * Några grundläggand kommandon
 
-  - ~C-x~ betyder att man ska hålla ner ~Ctrl~-knappen, hålla den nedtryckt medans man trycker ~x~.
-  - ~M-x~ (Meta-x) betyder att man ska hålla ner ~Alt~-knappen (eller ~Esc~-knappen)
-    och sedan trycka ~x~.
-  - ~C-x h~. Betyder att man ska Hålla ner ~Ctrl~ och trycka ~x~, släppa ~Ctrl~ och trycker ner ~h~ ensamt.
-  - ~C-x C-m~ betyder betyder att man först håller ner ~Ctrl~ och sedan trycker ~x~, fortsätter hålla ~Ctrl~-knappen
-    nedtryckt och sedan trycker ~m~. Man behöver alltså inte släppa Ctrl-knappen mellan tryckningarna.
+  - ~M-x~ (Meta-x) betyder att man ska hålla ner ~Alt~-knappen (eller
+    ~Esc~-knappen) och sedan trycka ~x~.
+    - Just kommandot ~M-x~ används för att exekvera den interaktiva funktionen
+      execute-extended-command som kör alla andra interaktiva funktioner.
+  - ~C-x~ betyder att man ska hålla ner ~Ctrl~-knappen, hålla den nedtryckt
+    medans man trycker ~x~.
+    - Just kommandot ~C-x~ används för att köra många 
+  - ~C-x h~. Betyder att man ska Hålla ner ~Ctrl~ och trycka ~x~, släppa ~Ctrl~
+    och trycker ner ~h~ ensamt.
+  - ~C-x C-m~ betyder betyder att man först håller ner ~Ctrl~ och sedan trycker
+    ~x~, fortsätter hålla ~Ctrl~-knappen nedtryckt och sedan trycker ~m~. Man
+    behöver alltså inte släppa Ctrl-knappen mellan tryckningarna.
 
 ** Filer
- - ~C-x C-f~ :: läsa in en fil i Emacs
- - ~C-x C-s~ :: spara en fil på skivminne
- - ~C-x s~ :: spara en fil på skivminne med fråga
- - ~C-x i~ :: sätt in innehållet i en annan fil i bufferten
- - ~C-x C-v~ :: läs in en ny fil i bufferten
- - ~C-x C-w~ :: skriv buffertens innehåll på en namngiven fil
- - ~C-x d~ :: starta Dired, katalogeditorn
+ - ~C-x C-f~ :: find-file - läsa in en fil i Emacs
+ - ~C-x C-s~ :: save-buffer - spara en fil på skivminne
+ - ~C-x C-w~ :: write-file - skriv buffertens innehåll på en namngiven fil
+ - ~C-x i~ :: insert-file sätt in innehållet i en annan fil i bufferten
+ - ~C-x C-v~ :: find-alternate-file - läs in en ny fil i bufferten
+ - ~C-x d~ :: list-directory - starta Dired, katalogeditorn
 
 ** Hjälp!
  Hjälpsystemet är mycket enkelt. Tryck på ~C-h~ och följ instruktionerna. Om du är
@@ -120,10 +129,12 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
      på med, i annat fall avbryts hela sökningen.
 
 ** Redigering
-   Copy/Paste fungerar lite annorlunda i Emacs jämfört med windows och andra system. Man markerar med ~C-<space>~.
-   Kopierar med ~M-w~ (kill-ring-save), klipper ut med ~C-w~ (kill-region) och klistrar in med ~C-y~ (yank). Det som
-   klipps ut eller raderas läggs in i "kill-ring", ett minne med urklipp. Eftersom killring kan inehålla äldre urklipp
-   så når man dem med ~M-y~ efter en den första ~C-y~.
+   Copy/Paste fungerar lite annorlunda i Emacs jämfört med windows och andra
+   system. Man markerar med ~C-<space>~. Kopierar med ~M-w~ (kill-ring-save),
+   klipper ut med ~C-w~ (kill-region) och klistrar in med ~C-y~ (yank). Det som
+   klipps ut eller raderas läggs in i "kill-ring", ett minne med urklipp.
+   Eftersom killring kan inehålla äldre urklipp så når man dem med ~M-y~ efter
+   en den första ~C-y~.
 
      - ~C-SPACE~ :: markera (sätt märket här)
      - ~C-k~ :: raderar raden.
