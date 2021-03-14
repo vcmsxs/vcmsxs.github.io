@@ -111,9 +111,9 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
 ** Let's panic!!
 
      - ~C-g~ :: avbryt delvis angivet kommando
-     - ~M-x~ recover-file :: rädda en fil efter en krasch
+     - ~M-x recover-file~ :: rädda en fil efter en krasch
      - ~C-x u~ eller ~C-_~ :: ångra en oönskad ändring
-     - ~M-x~ revert-buffer :: återgå till senaste sparade versionen
+     - ~M-x revert-buffer~ :: återgå till senaste sparade versionen
      - ~C-l~ :: rita om skärmen
 
 ** Sökning

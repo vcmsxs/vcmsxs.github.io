@@ -29,16 +29,23 @@
            :base-directory "./cv"
            :publishing-directory  "./cv"
            )
+          ("meriter_txt"
+           :publishing-function  org-ascii-publish-to-ascii
+           :base-directory "./cv"
+           :publishing-directory  "./cv"
+           )
           ("meriter_pdf"
            :base-directory "./cv/"
            :publishing-directory  "./cv/"
            :publishing-function org-latex-publish-to-pdf
            )
+
           ))
   (org-publish "index_html")
   (org-publish "index_pdf")
   (org-publish "meriter_html")
   (org-publish "meriter_pdf")
+  (org-publish "meriter_txt")
   )
 #+end_src
 

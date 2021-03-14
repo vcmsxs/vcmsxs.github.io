@@ -29,7 +29,7 @@
 #+toc: headlines 2
 
 * Emacs
-  - [[file:emacs.org]]
+  - [[file:emacs.org][Min lilla text om Emacs]]
 ** COMMENT Org-mode
 ** COMMENT Modes
 ** COMMENT Instruktioner

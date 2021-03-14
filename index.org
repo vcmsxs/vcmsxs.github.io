@@ -33,7 +33,7 @@
 -------
 
 * CV
-Som [[./cv/meriter.org][HTML]] eller [[./cv/meriter.pdf][PDF]]
+Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
 
 * Kontakt
 #+INCLUDE: ./kontakt_upg_privat.org
