@@ -52,9 +52,8 @@
 
 Oförändrat får dokumentet kopieras och distribueras. En uppdaterad
 version går att ladda ner från min websida.
-   - För utskrift [[http://hoahoa.se/cv/meriter.pdf][ladda ner den som PDF]]
-   - Eller [[http://hoahoa.se/cv/meriter.html][läs den online som HTML]]
-   - Eller [[http://hoahoa.se/cv/meriter.org][tanka ner källkoden]] (Org-mode[fn:orgmode:https://orgmode.org/]), om du är nörd som jag ;) 
+   - För utskrift [[file:meriter.pdf][ladda ner den som PDF]]
+   - Eller [[file:meriter.html][läs den online som HTML]]
 
 # #+begin_latex
 # \pagebreak
@@ -310,13 +309,13 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   | Emacs[fn:emacs:http://hoahoa.se/studium/emacs.html] | LSP[fn:lsp1:https://langserver.org/] [fn:lsp2:https://microsoft.github.io/language-server-protocol/] |
-   | Microsoft VisualStudio C++                          | Borlands Turbo Pascal                                                                                |
-   | JetBrains Intellij                                  | Android Studio                                                                                       |
-   | Make                                                | Maven                                                                                                |
-   | Org-mode[fn:orgmode] (Emacs[fn:emacs])              | JBuilder                                                                                             |
-   | Ant                                                 | Eclips- STS                                                                                          |
-   | Netbeans                                            |                                                                                                      |
+   | Emacs[fn:emacs:file:../studium/emacs.org] | LSP[fn:lsp1:https://langserver.org/] [fn:lsp2:https://microsoft.github.io/language-server-protocol/] |
+   | Microsoft VisualStudio C++                | Borlands Turbo Pascal                                                                                |
+   | JetBrains Intellij                        | Android Studio                                                                                       |
+   | Make                                      | Maven                                                                                                |
+   | Org-mode[fn:orgmode] (Emacs[fn:emacs])    | JBuilder                                                                                             |
+   | Ant                                       | Eclips- STS                                                                                          |
+   | Netbeans                                  |                                                                                                      |
 #+LaTeX: \pagebreak
 * Arbetsgivare och uppdrag 
   :PROPERTIES:
@@ -379,7 +378,7 @@ Beräkningar på hur länge jag jobbat.
          adress register.
       4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
          fastigheter.
-   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode], BEA WLS, Tibco RDV, Fujitzu iFlow.,
+   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:file:../studium/orgmode.org], BEA WLS, Tibco RDV, Fujitzu iFlow.,
       XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
       JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
       Proffessionell),senare HP QC, Tomcat

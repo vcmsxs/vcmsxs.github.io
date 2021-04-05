@@ -35,6 +35,8 @@
 ** COMMENT Instruktioner
 ** COMMENT Varför Emacs?
 ** COMMENT Emacs är inte för alla.
+* Org-mode
+  [[file:orgmode.org][Org-mode]]
 * COMMENT Filosofi
 ** Jantelag
    Jantelagen framställs ofta som något välldigt negativt. En lista av
