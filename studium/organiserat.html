@@ -6,7 +6,7 @@
 <!-- 2021-04-05 Mon 16:23 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>script.org</title>
+<title>Organiserad information</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Johan Sandén" />
 <style type="text/css">
@@ -193,6 +193,7 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -242,67 +243,107 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">script.org</h1>
-
-
-<div id="outline-container-org8bd90a6" class="outline-2">
-<h2 id="org8bd90a6"><span class="section-number-2">1</span> Export</h2>
-<div class="outline-text-2" id="text-1">
-<div class="org-src-container">
-<pre class="src src-elisp" id="org3031566">(<span style="color: #c678dd; font-weight: bold;">progn</span> 
-  (<span style="color: #c678dd; font-weight: bold;">setq</span> org-publish-project-alist
-        '(
-          (<span style="color: #98be65;">"index_html"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"."</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"."</span>
-           )
-          (<span style="color: #98be65;">"index_pdf"</span>
-           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"."</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"."</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-function</span> org-latex-publish-to-pdf
-           )
-          (<span style="color: #98be65;">"meriter_html"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"./cv"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"./cv"</span>
-           )
-          (<span style="color: #98be65;">"meriter_txt"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-function</span>  org-ascii-publish-to-ascii
-           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"./cv"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"./cv"</span>
-           )
-          (<span style="color: #98be65;">"meriter_pdf"</span>
-           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"./cv/"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"./cv/"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-function</span> org-latex-publish-to-pdf
-           )
-          (<span style="color: #98be65;">"abrakadabra_html"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"./abrakadabra"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"./abrakadabra"</span>
-           )
-           (<span style="color: #98be65;">"studium_html"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #61afef; font-weight: bold;">:base-directory</span> <span style="color: #98be65;">"./studium"</span>
-           <span style="color: #61afef; font-weight: bold;">:publishing-directory</span>  <span style="color: #98be65;">"./studium"</span>
-           )
-          ))
-  (org-publish <span style="color: #98be65;">"index_html"</span>)
-  (org-publish <span style="color: #98be65;">"index_pdf"</span>)
-  (org-publish <span style="color: #98be65;">"meriter_html"</span>)
-  (org-publish <span style="color: #98be65;">"meriter_pdf"</span>)
-  (org-publish <span style="color: #98be65;">"meriter_txt"</span>)
-  (org-publish <span style="color: #98be65;">"abrakadabra_html"</span>)
-  (org-publish <span style="color: #98be65;">"studium_html"</span>)
-  )
-</pre>
+<h1 class="title">Organiserad information</h1>
+<div class="org-center">
+<p>
+<a href="emacs.html">HTML</a> -  <a href="emacs.pdf">PDF</a>
+</p>
 </div>
+<div id="table-of-contents">
+<h2>Inneh&aring;ll</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org7665d4c">1. Organisationer</a>
+<ul>
+<li><a href="#org8b087c5">1.1. Moderaterna</a></li>
+<li><a href="#org5e74129">1.2. Kristdemokraterna</a></li>
+<li><a href="#org5dce6d1">1.3. Sverigedemokraterna</a></li>
+<li><a href="#org6573179">1.4. Alternativ för sverige</a></li>
+</ul>
+</li>
+<li><a href="#orge98b504">2. Personer</a>
+<ul>
+<li><a href="#orgd7ec8b3">2.1. Richard Herrey</a></li>
+<li><a href="#org6aa1ab8">2.2. Lars Beckman</a></li>
+<li><a href="#org1b0b52a">2.3. Ann Heberlein</a></li>
+<li><a href="#org767c6f8">2.4. Hanif Bali</a></li>
+<li><a href="#org6dd2180">2.5. Joakim Lamotte</a></li>
+<li><a href="#org004e7f0">2.6. Katerina Janouch</a></li>
+<li><a href="#org6983e15">2.7. Marcus Birro</a></li>
+<li><a href="#org2a75ae0">2.8. Tino Sanandaji</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org7665d4c" class="outline-2">
+<h2 id="org7665d4c"><span class="section-number-2">1</span> Organisationer</h2>
+<div class="outline-text-2" id="text-1">
+<ul class="org-ul">
+<li>Här ingår även politiska partier och företag.</li>
+</ul>
+</div>
+<div id="outline-container-org8b087c5" class="outline-3">
+<h3 id="org8b087c5"><span class="section-number-3">1.1</span> Moderaterna</h3>
+</div>
+<div id="outline-container-org5e74129" class="outline-3">
+<h3 id="org5e74129"><span class="section-number-3">1.2</span> Kristdemokraterna</h3>
+</div>
+<div id="outline-container-org5dce6d1" class="outline-3">
+<h3 id="org5dce6d1"><span class="section-number-3">1.3</span> Sverigedemokraterna</h3>
+</div>
+<div id="outline-container-org6573179" class="outline-3">
+<h3 id="org6573179"><span class="section-number-3">1.4</span> Alternativ för sverige</h3>
+</div>
+</div>
+<div id="outline-container-orge98b504" class="outline-2">
+<h2 id="orge98b504"><span class="section-number-2">2</span> Personer</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-orgd7ec8b3" class="outline-3">
+<h3 id="orgd7ec8b3"><span class="section-number-3">2.1</span> Richard Herrey</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+</div>
+<div id="outline-container-org6aa1ab8" class="outline-3">
+<h3 id="org6aa1ab8"><span class="section-number-3">2.2</span> Lars Beckman</h3>
+<div class="outline-text-3" id="text-2-2">
+</div>
+</div>
+<div id="outline-container-org1b0b52a" class="outline-3">
+<h3 id="org1b0b52a"><span class="section-number-3">2.3</span> Ann Heberlein</h3>
+<div class="outline-text-3" id="text-2-3">
+</div>
+</div>
+<div id="outline-container-org767c6f8" class="outline-3">
+<h3 id="org767c6f8"><span class="section-number-3">2.4</span> Hanif Bali</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Enligt Bali är barn i IS-familjer "jihadiavkommor" och deras mammor är
+"IS-honor". Han har poserat på bild med med skjutvapen på en skola och varit
+hotfull mot tidningar och "råkat" dela ebrev som en del i en rysk kampanj att
+undergräva förtroendet för journalister som skriver om ryssland
+</p>
+</div>
+</div>
+<div id="outline-container-org6dd2180" class="outline-3">
+<h3 id="org6dd2180"><span class="section-number-3">2.5</span> Joakim Lamotte</h3>
+</div>
+<div id="outline-container-org004e7f0" class="outline-3">
+<h3 id="org004e7f0"><span class="section-number-3">2.6</span> Katerina Janouch</h3>
+</div>
+<div id="outline-container-org6983e15" class="outline-3">
+<h3 id="org6983e15"><span class="section-number-3">2.7</span> Marcus Birro</h3>
+</div>
+<div id="outline-container-org2a75ae0" class="outline-3">
+<h3 id="org2a75ae0"><span class="section-number-3">2.8</span> Tino Sanandaji</h3>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Datum: 2015-03-08 Sun 00:00</p>
+<p class="date">Datum: 2021-04-05 Mon 16:23</p>
 <p class="author">F&ouml;rfattare: Johan Sandén</p>
 <p class="date">Created: 2021-04-05 Mon 16:23</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>

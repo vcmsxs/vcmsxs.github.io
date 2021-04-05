@@ -38,4 +38,14 @@
 *** Kommentar
     - Minst två tredjedelar är stulet från Platon.
 -------
-* 
+* Mantran 
+  # <<mantran>>
+  Det här är visdomsord som gäller för mig. Om någon frågar om råd så sprider
+  jag det gärna men jag kan bara säga att det gäller för mig.
+
+  1) Du måste vara snäll.
+  2) Allt är litet i början.
+  3) Om du inte vet var du ska börja, börja där du står.
+  4) Lyssna på alla, lita på dig själv.
+  5) Det finns ingen skam i att misslyckas, särskilt inte om du misslyckats många
+     gånger förut. Den enda skammen kan vara att inte prova ingen.

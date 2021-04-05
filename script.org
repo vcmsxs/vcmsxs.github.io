@@ -39,13 +39,24 @@
            :publishing-directory  "./cv/"
            :publishing-function org-latex-publish-to-pdf
            )
-
+          ("abrakadabra_html"
+           :publishing-function  org-html-publish-to-html 
+           :base-directory "./abrakadabra"
+           :publishing-directory  "./abrakadabra"
+           )
+           ("studium_html"
+           :publishing-function  org-html-publish-to-html 
+           :base-directory "./studium"
+           :publishing-directory  "./studium"
+           )
           ))
   (org-publish "index_html")
   (org-publish "index_pdf")
   (org-publish "meriter_html")
   (org-publish "meriter_pdf")
   (org-publish "meriter_txt")
+  (org-publish "abrakadabra_html")
+  (org-publish "studium_html")
   )
 #+end_src
 

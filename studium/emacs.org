@@ -73,7 +73,7 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
      en terminal eller output från ett program som en webläsare e.d.
    - POINT :: Markörens position i en buffer och window 
 
-* Några grundläggand kommandon
+* Några grundläggande kommandon
 
   - ~M-x~ (Meta-x) betyder att man ska hålla ner ~Alt~-knappen (eller
     ~Esc~-knappen) och sedan trycka ~x~.
