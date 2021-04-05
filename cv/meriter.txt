@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2021-04-05 Mon 10:40>
+                         <2021-04-05 Mon 11:44>
 
 
                         <file:handsome_dude.jpg>
@@ -42,7 +42,7 @@ _________________
 3. Kompetenser
 .. 1. Branscher
 .. 2. Programmeringsspråk
-.. 3. Utvecklingsmiljöer
+.. 3. Utvecklingsmiljöer och Verktyg
 4. Arbetsgivare och uppdrag
 .. 1. Knowit
 .. 2. Mandator/Fujitsu
@@ -100,9 +100,10 @@ _________________
 
   + Mina vänner beskriver mig som tankfull och lugn.
   + Föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs[1]/-Linux, Git, Lisp, Python mm.
+  + Hängiven förespråkare av GnuEmacs[1]/-Linux[2], Git[3], Lisp,
+    Python[4] mm.
   + Vegetarian
-  + Ordförande i Gefle Ölsellskap.
+  + Ordförande i Gefle Ölsellskap[5].
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till
     pianot.
   + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då
@@ -119,7 +120,8 @@ _________________
 
   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
   - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
-    automatisering. Unix/Linux-miljö gärna i Python eller Go-lang.
+    automatisering. Unix/GnuLinux[2]-miljö gärna i Python[4] eller
+    liknande.
   - Jag håller gärna föredrag och utbildning oavsett vilken roll jag
     har.
 
@@ -340,22 +342,39 @@ _________________
 3.2 Programmeringsspråk
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-   Python  ELisp   Java                
-   c/C++   PHP     PERL                
-   SQL     Pascal  VBscript            
-   BASH    REXX    HTML/CSS/JavaScript 
+  - Python[4], ELisp, Java[6], c/C++,
+  - Sql, Bash
+  - HTML, CSS, JavaScript
+  - Php, Perl
+  - Visual Basic, Pascal, Rexx
 
 
-3.3 Utvecklingsmiljöer
-~~~~~~~~~~~~~~~~~~~~~~
+3.3 Utvecklingsmiljöer och Verktyg
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Emacs[1]                    LSP[2] [3]            
-   Microsoft VisualStudio C++  Borlands Turbo Pascal 
-   JetBrains Intellij          Android Studio        
-   Make                        Maven                 
-   Org-mode[4] (Emacs[1])      JBuilder              
-   Ant                         Eclips- STS           
-   Netbeans                                          
+  Jag sköter det mesta från Emacs[1] oavsett språk.
+
+  - Emacs[1]
+    - Emacs[1]
+    - Org-mode[7] (Emacs[1])
+    - Eglot [8]
+    - LSP[9] [10]
+    - Magit[11][3]
+  - Git[3]
+  - Java[6]
+    - JetBrains Intellij[12], Eclips-STS[13]
+    - Android Studio[14]
+    - Ant[15], Maven[16]
+
+
+3.3.1 Äldre miljöer
+-------------------
+
+  - Java[6]
+    - Netbeans, JBuilder
+  - Pascal: Borland Turbo (Pascal)
+  - c/C++: Microsoft VisualStudio C++
+  - Svn, Cvs, ClearCase
 
 
 4 Arbetsgivare och uppdrag
@@ -390,17 +409,17 @@ _________________
      6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
      7. Lantmäteriet - Projekt: Milins (delprojekt/migrering) i Muligan
         projektet.
-  4) Plattformar: Linux (Ubuntu, Mint), Unix (Solaris), Windows XP
-  5) Teknik: Python (pip/setuptools, flask, bottle, virtualenv, click,
-     tox, pex), Emacs[1]/Org-mode[4], Docker, Java (Ant/Maven,
-     Eclips/STS/JBuilder,JSF,Spring Framework) ,Oracle ,SVN, CVS, GIT,
-     Hybernate ,Jira, Fitnesse
+  4) Plattformar: Linux[2] (Ubuntu, Mint), Unix (Solaris), Windows XP
+  5) Teknik: Python[4] (pip/setuptools, flask, bottle, virtualenv,
+     click, tox, pex), Emacs[1]/Org-mode[7], Docker, Java[6]
+     (Ant[15]/Maven[16], Eclipse/STS/JBuilder,JSF,Spring Framework)
+     ,Oracle ,SVN, CVS, GIT[3], Hybernate ,Jira, Fitnesse
 
 
 4.2 Mandator/Fujitsu
 ~~~~~~~~~~~~~~~~~~~~
 
-  Fujitsu, ett internationellt konsultföretag [5].
+  Fujitsu, ett internationellt konsultföretag [17].
 
   1) Plattformar: Solaris, Windows XP
   2) Period: Januari 2003 - September 2008
@@ -414,7 +433,7 @@ _________________
         register.
      4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
         fastigheter.
-  5) Teknik: Java, Emacs[1], Org-mode[4], BEA WLS, Tibco RDV, Fujitzu
+  5) Teknik: Java, Emacs[1], Org-mode[7], BEA WLS, Tibco RDV, Fujitzu
      iFlow., XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle,
      Spring, Hybernate, JBuilder, Ant, MercuryInteractive (TestDirector,
      Quick Test Proffessionell),senare HP QC, Tomcat
@@ -438,9 +457,9 @@ _________________
 
   Ett litet it-företag med inriktning mot "smarta hem".
 
-  1) Period: November 2000 - Februari 2001[6]
+  1) Period: November 2000 - Februari 2001[18]
   2) Titel: Systemutvecklare.
-  3) Plattform: Linux Redhat
+  3) Plattform: Linux[2] Redhat
   4) Uppdrag: "Smarta hem"
      + Elektroniskt bokningssystem (garage, tvättstuga osv.)
   5) Tekniker: Java, c
@@ -451,7 +470,7 @@ _________________
 
   Ett Stockholmsbaserat konsultföretag med inriktning på web.
 
-  1) Period: Maj 2000 - November 2000[7]
+  1) Period: Maj 2000 - November 2000[19]
   2) Titel: Java Expert, It-konsult.
   3) Plattformar: Windows 2000, Solaris
   4) Uppdrag: Portaler
@@ -524,16 +543,40 @@ _________________
 Fotnoter
 ________
 
-[1] <file:../studium/emacs.org>
+[1] <https://www.gnu.org/software/emacs/>
 
-[2] <https://langserver.org/>
+[2] <https://en.wikipedia.org/wiki/Linux>
 
-[3] <https://microsoft.github.io/language-server-protocol/>
+[3] <https://git-scm.com/>
 
-[4] <file:../studium/orgmode.org>
+[4] <https://www.python.org/>
 
-[5] Företaget bytte namn 3 gånger under min anställning.
+[5] <http://gefleolsellskap.com/>
 
-[6] Anställd 3 månader innan konkurs
+[6] <https://openjdk.java.net/>
 
-[7] "It-bubblan" sprack och företaget gick i konkurs
+[7] <https://orgmode.org/>
+
+[8] <https://github.com/joaotavora/eglot>
+
+[9] <https://langserver.org/>
+
+[10] <https://microsoft.github.io/language-server-protocol/>
+
+[11] <https://magit.vc/>
+
+[12] <https://www.jetbrains.com/toolbox-app/>
+
+[13] <https://spring.io/tools>
+
+[14] <https://developer.android.com/studio>
+
+[15] <https://ant.apache.org/>
+
+[16] <https://maven.apache.org/>
+
+[17] Företaget bytte namn 3 gånger under min anställning.
+
+[18] Anställd 3 månader innan konkurs
+
+[19] "It-bubblan" sprack och företaget gick i konkurs

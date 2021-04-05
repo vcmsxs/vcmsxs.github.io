@@ -99,9 +99,9 @@ version går att ladda ner från min websida.
 ** Vem är Johan?
   + Mina vänner beskriver mig som tankfull och lugn.
   + Föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs[fn:emacs]/-Linux, Git, Lisp, Python mm.
+  + Hängiven förespråkare av GnuEmacs[fn:emacs]/-Linux[fn:linux], Git[fn:git], Lisp, Python[fn:python] mm.
   + Vegetarian
-  + Ordförande i Gefle Ölsellskap.
+  + Ordförande i Gefle Ölsellskap[fn:gefleolsellskap:http://gefleolsellskap.com/].
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till pianot.
   + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då jag lärde
     mig programmera.
@@ -119,7 +119,9 @@ version går att ladda ner från min websida.
    :END:
    - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
    - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
-     automatisering. Unix/Linux-miljö gärna i Python eller Go-lang.
+     automatisering.
+     Unix/GnuLinux[fn:linux:https://en.wikipedia.org/wiki/Linux]-miljö gärna i
+     Python[fn:python] eller liknande.
    - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
      
 ** Kompetens och erfarenhet 
@@ -288,7 +290,7 @@ Beräkningar på hur länge jag jobbat.
         teorier eller api:er på jobbet.
    5. Funktionell programmering
       - Då jag göra nästan allt i Emacs[fn:emacs] så är det ofrånkomligt att det
-        blir en hel del Lisp. Även i Python utnyttjar jag gärna det sättet att
+        blir en hel del Lisp. Även i Python[fn:python] utnyttjar jag gärna det sättet att
         arbeta då det är effektivt och lätt att debugga.
    6. Objektorientering
       - OO är en självklarhet idag som jag började jobba med direkt
@@ -298,25 +300,39 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
-   | Python | ELisp  | Java                |
-   | c/C++  | PHP    | PERL                |
-   | SQL    | Pascal | VBscript            |
-   | BASH   | REXX   | HTML/CSS/JavaScript |
+   - Python[fn:python:https://www.python.org/], ELisp, Java[fn:java], c/C++, 
+   - Sql, Bash
+   - HTML, CSS, JavaScript
+   - Php, Perl
+   - Visual Basic, Pascal, Rexx
 
-
-     
-** Utvecklingsmiljöer
+** Utvecklingsmiljöer och Verktyg
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   | Emacs[fn:emacs:file:../studium/emacs.org] | LSP[fn:lsp1:https://langserver.org/] [fn:lsp2:https://microsoft.github.io/language-server-protocol/] |
-   | Microsoft VisualStudio C++                | Borlands Turbo Pascal                                                                                |
-   | JetBrains Intellij                        | Android Studio                                                                                       |
-   | Make                                      | Maven                                                                                                |
-   | Org-mode[fn:orgmode] (Emacs[fn:emacs])    | JBuilder                                                                                             |
-   | Ant                                       | Eclips- STS                                                                                          |
-   | Netbeans                                  |                                                                                                      |
-#+LaTeX: \pagebreak
+   Jag sköter det mesta från Emacs[fn:emacs] oavsett språk.
+ 
+   - Emacs[fn:emacs]
+     - Emacs[fn:emacs:https://www.gnu.org/software/emacs/]
+     - Org-mode[fn:orgmode] (Emacs[fn:emacs])
+     - Eglot [fn:eglot:https://github.com/joaotavora/eglot]
+     - LSP[fn:lsp1:https://langserver.org/] [fn:lsp2:https://microsoft.github.io/language-server-protocol/]
+     - Magit[fn:magit:https://magit.vc/][fn:git]
+   - Git[fn:git:https://git-scm.com/]
+   - Java[fn:java:https://openjdk.java.net/]
+     - JetBrains Intellij[fn:jetbrains:https://www.jetbrains.com/toolbox-app/], Eclips-STS[fn:sts:https://spring.io/tools]
+     - Android Studio[fn:androidstudio:https://developer.android.com/studio]
+     - Ant[fn:ant:https://ant.apache.org/], Maven[fn:maven:https://maven.apache.org/]   
+
+*** Äldre miljöer
+    - Java[fn:java]
+      - Netbeans, JBuilder
+    - Pascal:  Borland Turbo (Pascal)
+    - c/C++: Microsoft VisualStudio C++ 
+    - Svn, Cvs, ClearCase
+
+ #+LaTeX: \pagebreak
+
 * Arbetsgivare och uppdrag 
   :PROPERTIES:
   :CUSTOM_ID: h:53cca876-30a7-4b82-bdec-9edfd9c27aa9
@@ -353,11 +369,11 @@ Beräkningar på hur länge jag jobbat.
       6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
       7. Lantmäteriet - Projekt: Milins (delprojekt/migrering) i
          Muligan projektet.
-   4) Plattformar: Linux (Ubuntu, Mint), Unix (Solaris), Windows XP
-   5) Teknik: Python (pip/setuptools, flask, bottle, virtualenv,
-      click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker, Java (Ant/Maven,
-      Eclips/STS/JBuilder,JSF,Spring Framework) ,Oracle ,SVN, CVS, GIT,
-      Hybernate ,Jira, Fitnesse
+   4) Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris), Windows XP
+   5) Teknik: Python[fn:python] (pip/setuptools, flask, bottle, virtualenv,
+      click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker,
+      Java[fn:java] (Ant[fn:ant]/Maven[fn:maven], Eclipse/STS/JBuilder,JSF,Spring
+      Framework) ,Oracle ,SVN, CVS, GIT[fn:git], Hybernate ,Jira, Fitnesse
 
 #+LaTeX: \pagebreak
 ** Mandator/Fujitsu
@@ -378,7 +394,7 @@ Beräkningar på hur länge jag jobbat.
          adress register.
       4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
          fastigheter.
-   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:file:../studium/orgmode.org], BEA WLS, Tibco RDV, Fujitzu iFlow.,
+   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:https://orgmode.org/], BEA WLS, Tibco RDV, Fujitzu iFlow.,
       XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
       JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
       Proffessionell),senare HP QC, Tomcat
@@ -407,7 +423,7 @@ Beräkningar på hur länge jag jobbat.
 
    1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
    2) Titel: Systemutvecklare.
-   3) Plattform: Linux Redhat
+   3) Plattform: Linux[fn:linux] Redhat
    4) Uppdrag: "Smarta hem"
       + Elektroniskt bokningssystem (garage, tvättstuga osv.)
    5) Tekniker: Java, c
