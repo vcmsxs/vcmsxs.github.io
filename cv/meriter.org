@@ -50,10 +50,10 @@
 
 *Meritlista (Curriculum Vitae).*
 
-Oförändrat får dokumentet kopieras och distribueras. En uppdaterad
-version går att ladda ner från min websida.
-   - För utskrift [[file:meriter.pdf][ladda ner den som PDF]]
-   - Eller [[file:meriter.html][läs den online som HTML]]
+Oförändrat får dokumentet kopieras och distribueras. 
+
+Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:meriter.txt][text]] eller [[file:meriter.pdf][som
+PDF]] för utskrift.
 
 # #+begin_latex
 # \pagebreak

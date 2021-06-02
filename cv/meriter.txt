@@ -7,17 +7,17 @@
                         _______________________
 
 
-                         <2021-04-05 Mon 11:44>
+                         <2021-06-02 ons 11:43>
 
 
                         <file:handsome_dude.jpg>
 
 *Meritlista (Curriculum Vitae).*
 
-Oförändrat får dokumentet kopieras och distribueras. En uppdaterad
-version går att ladda ner från min websida.
-- För utskrift [ladda ner den som PDF]
-- Eller [läs den online som HTML]
+Oförändrat får dokumentet kopieras och distribueras.
+
+Förutom som websida (på <http://cv.hoahoa.se>) finns den även som [text]
+eller [som PDF] för utskrift.
 
 
 Table of Contents
@@ -55,9 +55,9 @@ _________________
 .. 9. Datorteket (Gävle Kommun)
 
 
-[ladda ner den som PDF] <file:meriter.pdf>
+[text] <file:meriter.txt>
 
-[läs den online som HTML] <file:meriter.html>
+[som PDF] <file:meriter.pdf>
 
 
 1 Allmänt
@@ -67,7 +67,7 @@ _________________
 ~~~~~~~~~~~~~~~
 
   1. Namn: Sandén, _Johan_ Ragnar
-  2. Födelsedatum: [1973-04-20 Fri]
+  2. Födelsedatum: [1973-04-20 fre]
   3. Bostadsort: Gävle, Hille
   4. Körkort: B
   5. Civilstatus: Gift - Anna
