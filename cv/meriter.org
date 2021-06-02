@@ -102,6 +102,7 @@ PDF]] för utskrift.
   + Hängiven förespråkare av GnuEmacs[fn:emacs]/-Linux[fn:linux], Git[fn:git], Lisp, Python[fn:python] mm.
   + Vegetarian
   + Ordförande i Gefle Ölsellskap[fn:gefleolsellskap:http://gefleolsellskap.com/].
+    - Åren 2017 - 2021
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till pianot.
   + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då jag lärde
     mig programmera.
@@ -132,14 +133,15 @@ PDF]] för utskrift.
 Beräkningar på hur länge jag jobbat.
 (- 2019 1997) = 22
 (- 2019 1995) = 24
+(- 2021 1995) = 26
 #+END_COMMENT
 
   1. 25 års erfarenhet i IT-branschen främst som it-konsult och systemutvecklare.
-  2. Projektledare, certifierad *Prince2® Projektledare* och ledarskap.
-  4. Certifierad Scrum-master (och Produktägare).
+  2. Certifierad *Prince2® Projektledare* och ledarskap.
+  3. Certifierad Scrum-master (och Produktägare).
 
 ** Förtroendeuppdrag.
-   - Ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]] mellan 2017-2020. 
+   - Ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]] mellan 2017-2021. 
 
      Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med främsta
      syfte att främja öl-kultur. Vi annordnar provningar, studieresor och
