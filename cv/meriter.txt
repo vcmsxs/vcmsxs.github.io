@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2021-06-02 ons 11:43>
+                         <2022-02-23 ons 07:32>
 
 
                         <file:handsome_dude.jpg>
@@ -104,9 +104,10 @@ _________________
     Python[4] mm.
   + Vegetarian
   + Ordförande i Gefle Ölsellskap[5].
+    - Åren 2017 - 2021
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till
     pianot.
-  + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då
+  + Tjatade till mig en dator i julklapp vid 8 års åldern. Det var då
     jag lärde mig programmera.
   + Älskar katter.
   + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
@@ -118,10 +119,10 @@ _________________
 1.4 Önskade arbetsuppgifter.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
   - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
     automatisering. Unix/GnuLinux[2]-miljö gärna i Python[4] eller
     liknande.
+  - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
   - Jag håller gärna föredrag och utbildning oavsett vilken roll jag
     har.
 
@@ -129,22 +130,22 @@ _________________
 1.5 Kompetens och erfarenhet
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1. 25 års erfarenhet i IT-branschen främst som it-konsult och
+  1. 25+ års erfarenhet i IT-branschen främst som it-konsult och
      systemutvecklare.
-  2. Projektledare, certifierad *Prince2® Projektledare* och ledarskap.
+  2. Certifierad *Prince2® Projektledare* och ledarskap.
   3. Certifierad Scrum-master (och Produktägare).
 
 
 1.6 Förtroendeuppdrag.
 ~~~~~~~~~~~~~~~~~~~~~~
 
-  - Ordförande i [Gefle Ölsellskap] mellan 2017-2020.
+  - Ordförande i [Gefle Ölsellskap] mellan 2017-2021.
 
     Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med
     främsta syfte att främja öl-kultur. Vi annordnar provningar,
     studieresor och fester. Vi delar även ut ett årligt stipendium och
     har väldigt roligt tillsammans.
-  - Sedan 2018 revisor i Västerbackens samfällighetsförening
+  - 2018 och 2019 revisor i Västerbackens samfällighetsförening
 
 
 [Gefle Ölsellskap] <http://www.gefleolsellskap.com>

@@ -104,7 +104,7 @@ PDF]] för utskrift.
   + Ordförande i Gefle Ölsellskap[fn:gefleolsellskap:http://gefleolsellskap.com/].
     - Åren 2017 - 2021
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till pianot.
-  + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då jag lärde
+  + Tjatade till mig en dator i julklapp vid 8 års åldern. Det var då jag lärde
     mig programmera.
   + Älskar katter.
   + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
@@ -118,17 +118,14 @@ PDF]] för utskrift.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
-   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
    - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
      automatisering.
      Unix/GnuLinux[fn:linux:https://en.wikipedia.org/wiki/Linux]-miljö gärna i
      Python[fn:python] eller liknande.
+   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
    - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
      
 ** Kompetens och erfarenhet 
-   :PROPERTIES:
-   :CUSTOM_ID: h:6899e186-95f8-4ce9-9dbb-0d9ca986fae4
-   :END:
 #+BEGIN_COMMENT
 Beräkningar på hur länge jag jobbat.
 (- 2019 1997) = 22
@@ -136,7 +133,8 @@ Beräkningar på hur länge jag jobbat.
 (- 2021 1995) = 26
 #+END_COMMENT
 
-  1. 25 års erfarenhet i IT-branschen främst som it-konsult och systemutvecklare.
+  1. 25+ års erfarenhet i IT-branschen främst som it-konsult och
+     systemutvecklare.
   2. Certifierad *Prince2® Projektledare* och ledarskap.
   3. Certifierad Scrum-master (och Produktägare).
 
@@ -147,7 +145,7 @@ Beräkningar på hur länge jag jobbat.
      syfte att främja öl-kultur. Vi annordnar provningar, studieresor och
      fester. Vi delar även ut ett årligt stipendium och har väldigt roligt
      tillsammans.
-   - Sedan 2018 revisor i Västerbackens samfällighetsförening
+   - 2018 och 2019 revisor i Västerbackens samfällighetsförening
 
  #+LaTeX: \pagebreak
    
