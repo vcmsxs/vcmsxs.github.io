@@ -339,16 +339,15 @@ Beräkningar på hur länge jag jobbat.
   :END:
 # <<lblArbetsgivare>>
 
-  Större delen av mitt yrkesliv har varit som it-konsult. Främst har
-  jag jobbat mot *Lantmäteriet*, *Ericsson RBS*. Hos dessa kunder har
-  jag jobbat i flera större och mindre projekt.
-
-  Men jag har även gjort inhopp på bland annat.
-  | Gävle Kommun | Sandvik               | Korsnäs |
-  | Digital      | Forsmark (Vattenfall) |         |
+  Större delen av mitt yrkesliv har varit som it-konsult. Främst har jag jobbat
+  mot *Lantmäteriet* och *Ericsson*. Hos dessa kunder har jag jobbat i flera
+  större och mindre projekt. Men jag har även gjort inhopp på bland annat, Gävle
+  Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
   
 #+LaTeX: \pagebreak
 ** One Group AB
+   Ett svenskt konsultbolag med Specialistkompetens inom IT. 
+
    1. Period: September 2022 - Nuvarande
    2. Titel/Roller: Systemutvecklare, Konsult
    3. Uppdrag:
@@ -356,7 +355,7 @@ Beräkningar på hur länge jag jobbat.
    4. Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris)
    5. Teknik: Java, Python
 
-** Knowit
+** Knowit[fn:knowit:www.knowit.se]
    Nordiskt konsultföretag med lokal närvaro.
 
    1) Period: Oktober 2008 - September 2022
@@ -384,7 +383,7 @@ Beräkningar på hur länge jag jobbat.
       Framework) ,Oracle ,SVN, CVS, GIT[fn:git], Hybernate ,Jira, Fitnesse
 
 #+LaTeX: \pagebreak
-** Mandator/Fujitsu
+** Mandator/Fujitsu[fn:fujitsu:www.fujitsu.com/se/]
    Fujitsu, ett internationellt konsultföretag [fn:cell].
 
    1) Plattformar: Solaris, Windows XP
@@ -406,7 +405,7 @@ Beräkningar på hur länge jag jobbat.
 
 [fn:cell] Företaget bytte namn 3 gånger under min anställning.
 #+LaTeX: \pagebreak
-** ITG Data
+** ITG Data[fn:itgdata:Såldes till BIS industriteknik 2006]
    Dataavdelningen på ett industriteknik företag. 
 
    1) Period: Februari 2001 - December 2002
@@ -417,7 +416,7 @@ Beräkningar på hur länge jag jobbat.
    5) Teknik: Microsoft Visual C ++, MFC
  
 #+LaTeX: \pagebreak
-** Utilator 
+** Utilator[fn:utilator] 
    Ett litet it-företag med inriktning mot "smarta hem".
 
    1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
@@ -428,7 +427,7 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: Java, c, Linux
 
 #+LaTeX: \pagebreak
-** Mind AB
+** Mind AB[fn:mind]
    :PROPERTIES:
    :CUSTOM_ID: h:21421cdd-f98d-4d33-b0b7-1acfd1fedfcf
    :END:
@@ -444,10 +443,7 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
  
 #+LaTeX: \pagebreak
-** Mandator/CellNetwork
-   :PROPERTIES:
-   :CUSTOM_ID: h:d9c4d75b-24b0-42f5-9a99-04fc71ce1cc5
-   :END:
+** Mandator/CellNetwork[fn:fujitsu]
    Ett nationellt konsultföretag.
    
    1) Period: April 1999 - Maj 2000
@@ -459,10 +455,7 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: C++, MFC, Idefix
 
 #+LaTeX: \pagebreak
-** Syntronic 
-   :PROPERTIES:
-   :CUSTOM_ID: h:c10a20a0-7f9d-43cd-8e38-f06f531315d5
-   :END:
+** Syntronic[fn:syntronic:www.syntronic.se] 
    Konsultföretag med inriktning på elektronik, radio och telecom.
 
    1) Period: September 1997 - April 1999
@@ -479,9 +472,6 @@ Beräkningar på hur länge jag jobbat.
 	
 #+LaTeX: \pagebreak
 ** KenVision
-   :PROPERTIES:
-   :CUSTOM_ID: h:8dbe3d15-e290-447e-8cde-53b3d099e216
-   :END:
    Lösningsföretag med inriktning mot 3D och virtual reality.
    Dotterbolag till Profildesig, ett företag med inriktning mot
    mässor, monterdesign och reklam.
@@ -497,9 +487,6 @@ Beräkningar på hur länge jag jobbat.
 
 #+LaTeX: \pagebreak
 ** Datorteket (Gävle Kommun)
-   :PROPERTIES:
-   :CUSTOM_ID: h:8fc8c7e4-64b5-4e3b-8211-91f6183beee4
-   :END:
    Kommunalt projekt för att höja den allmänna datorvanan hos
    ungdomar 
    och arbetslösas.
