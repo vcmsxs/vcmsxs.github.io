@@ -348,28 +348,36 @@ Beräkningar på hur länge jag jobbat.
   | Digital      | Forsmark (Vattenfall) |         |
   
 #+LaTeX: \pagebreak
+** One Group AB
+   1. Period: September 2022 - Nuvarande
+   2. Titel/Roller: Systemutvecklare, Konsult
+   3. Uppdrag:
+      1) TBD[fn:tbd:Skall avgöras]
+   4. Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris)
+   5. Teknik: Java, Python
+
 ** Knowit
-   :PROPERTIES:
-   :CUSTOM_ID: h:013768a9-9497-4930-b746-b2bc2e683bde
-   :END:
    Nordiskt konsultföretag med lokal närvaro.
 
-   1) Period: Oktober 2008 - Nuvarande
+   1) Period: Oktober 2008 - September 2022
    2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
       Applikationsansvarig, Lärare, Systemutvecklare, Konsult
    3) Uppdrag:
       1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
-         fastighetssystem runt stordator och leveranssystem.
-      2. Lantmäteriet - TeamArken. Arkivering (register, akter, historiska
-         kartor och dokument mm)
+         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
+         grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
+      2. Lantmäteriet - TeamArken. Arkivregister, Akter, Dokument, Historiska
+         kartor, sökningar och metadata.
       3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
          Finölsfestivalen
       4. Lantmäteriet - Leveranssystemet (FinfoLev)
       5. Korsnäs - Ubildning i scrum och agila metoder
       6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
-      7. Lantmäteriet - Projekt: Milins (delprojekt/migrering) i
-         Muligan projektet.
-   4) Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris), Windows XP
+      7. Lantmäteriet - Projekt: Milins/Mulligan (delprojekt/migrering) i
+         Mulligan projektet. Grundatalager för Inskrivning, Tomträttsupplåtelse,
+         IR-fastighet, Inteckningar, Inskrivet ägande mm
+   4) Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris), Windows XP,
+      Windows 10
    5) Teknik: Python[fn:python] (pip/setuptools, flask, bottle, virtualenv,
       click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker,
       Java[fn:java] (Ant[fn:ant]/Maven[fn:maven], Eclipse/STS/JBuilder,JSF,Spring
@@ -377,9 +385,6 @@ Beräkningar på hur länge jag jobbat.
 
 #+LaTeX: \pagebreak
 ** Mandator/Fujitsu
-   :PROPERTIES:
-   :CUSTOM_ID: h:99e64ea4-1a05-4a7b-a1e0-e0aaa5f7e0f7
-   :END:
    Fujitsu, ett internationellt konsultföretag [fn:cell].
 
    1) Plattformar: Solaris, Windows XP
@@ -402,9 +407,6 @@ Beräkningar på hur länge jag jobbat.
 [fn:cell] Företaget bytte namn 3 gånger under min anställning.
 #+LaTeX: \pagebreak
 ** ITG Data
-   :PROPERTIES:
-   :CUSTOM_ID: h:18c092ef-ee3c-4f8a-88f0-a4aca7b3c4e6
-   :END:
    Dataavdelningen på ett industriteknik företag. 
 
    1) Period: Februari 2001 - December 2002
@@ -416,9 +418,6 @@ Beräkningar på hur länge jag jobbat.
  
 #+LaTeX: \pagebreak
 ** Utilator 
-   :PROPERTIES:
-   :CUSTOM_ID: h:9decca1d-d483-4c5c-b83b-4a46173bcb3f
-   :END:
    Ett litet it-företag med inriktning mot "smarta hem".
 
    1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
@@ -426,10 +425,10 @@ Beräkningar på hur länge jag jobbat.
    3) Plattform: Linux[fn:linux] Redhat
    4) Uppdrag: "Smarta hem"
       + Elektroniskt bokningssystem (garage, tvättstuga osv.)
-   5) Tekniker: Java, c
+   5) Tekniker: Java, c, Linux
 
 #+LaTeX: \pagebreak
-** Mind 
+** Mind AB
    :PROPERTIES:
    :CUSTOM_ID: h:21421cdd-f98d-4d33-b0b7-1acfd1fedfcf
    :END:
