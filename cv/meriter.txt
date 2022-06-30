@@ -7,11 +7,7 @@
                         _______________________
 
 
-<<<<<<< HEAD
-                         <2022-06-30 Thu 23:47>
-=======
-                         <2022-02-23 ons 07:32>
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
+                         <2022-06-30 Thu 23:57>
 
 
                         <file:handsome_dude.jpg>
@@ -49,7 +45,7 @@ _________________
 .. 3. Utvecklingsmiljöer och Verktyg
 4. Arbetsgivare och uppdrag
 .. 1. One Group
-.. 2. Knowit [18]
+.. 2. Knowit[18]
 .. 3. Mandator/Fujitsu[19]
 .. 4. ITG Data[21]
 .. 5. Utilator[22]
@@ -299,18 +295,19 @@ _________________
 ~~~~~~~~~~~~~
 
   1. Konsult : Jag har jobbat som konsult hos de flesta av mina
-     [[*Arbetsgivare och
-  uppdrag][Arbetsgivare]]
-  1. Fastighet : på Lantmäteriet via [Knowit]
-  2. TeleCom (Produktions test) : Ericsson AB via [Syntronic] [Mandator]
+     [Arbetsgivare]
+  2. Fastighet : på Lantmäteriet via [Knowit]
+  3. TeleCom (Produktions test) : Ericsson AB via [Syntronic] [Mandator]
      [ITG]
-  3. Test : "Testfabrik" på Lantmäteriet via [Fujitzu]
-  4. 3D/Grafik/Realtid : [KenVision]
-  5. Utbildning : *Agil utveckling* - som konsult mot Korsnäs via
+  4. Test : "Testfabrik" på Lantmäteriet via [Fujitzu]
+  5. 3D/Grafik/Realtid : [KenVision]
+  6. Utbildning : *Agil utveckling* - som konsult mot Korsnäs via
      [Knowit], *Java* - intern utbildning på [Mandator],
      *IT-handledning* på [Datorteket (Gävle Kommun)]
-  6. Smarta Hem : [Utilator]
+  7. Smarta Hem : [Utilator]
 
+
+[Arbetsgivare] See section 4
 
 [Knowit] See section 4.2
 
@@ -391,8 +388,8 @@ _________________
   5. Teknik: Java, Python
 
 
-4.2 Knowit [18]
-~~~~~~~~~~~~~~~
+4.2 Knowit[18]
+~~~~~~~~~~~~~~
 
   Nordiskt konsultföretag med lokal närvaro.
 
