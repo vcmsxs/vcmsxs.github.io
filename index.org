@@ -43,3 +43,5 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
 * Annat
  - [[file:./studium/studium.org][Studium]] 
  - [[file:./abrakadabra/abrakadabra.org][Abrakadabra]]
+---------
+ - [[./fun/tinafp.html][Piano - fråga inte ... :)]]

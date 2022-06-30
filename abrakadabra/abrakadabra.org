@@ -36,17 +36,30 @@
   världen. Symbolerna är vad vi uppfattar. Förändring kan bara uppfattas med
   tiden. Det beror på att vår uppfattning är en förändring i sig.
 *** Kommentar
-    - Minst två tredjedelar är stulet från Platon.
+    - Minst två tredjedelar tycks stulet från Platon.
 -------
-* Mantran 
-  # <<mantran>>
-  Det här är visdomsord som gäller för mig. Om någon frågar om råd så sprider
-  jag det gärna men jag kan bara säga att det gäller för mig.
+
+* Det är mycket enkelt, så här är det.
 
   1) Du måste vara snäll.
   2) Allt är litet i början.
   3) Om du inte vet var du ska börja, börja där du står.
   4) Lyssna på alla, lita på dig själv.
-  5) Det finns ingen skam i att misslyckas, särskilt inte om du misslyckats många
-     gånger förut. Den enda skammen kan vara att inte prova ingen.
+  5) Att inte prova igen _kan_ vara skamligt. Att misslyckas igen, efter att ha
+     misslyckats många gånger är det inte.
 --------
+
+* Kärnkraft
+  - Tekniskt osunt.
+  - Ekonomiskt tveksamt.
+  - Inte miljövänligt.
+  - Fullständigt livsfarligt.
+--------
+  - "Den stora" kärnkraftskatastrofen har ännu inte inträffat. En dag smäller
+    någon av Frankrikes eller USA:s kärnkraftverk på värsta tänkbara sätt och
+    kommer då att döda en jävla massa människor och göra en eller flera STORA
+    städer helt obeboeliga.
+    - Tjernobylkatastrofen hade kunnat ta död på halv den europeiska
+      kontinenten.
+---------
+

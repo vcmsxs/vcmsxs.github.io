@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2021-06-02 ons 11:43>
+                         <2022-06-30 Thu 22:45>
 
 
                         <file:handsome_dude.jpg>
@@ -67,7 +67,7 @@ _________________
 ~~~~~~~~~~~~~~~
 
   1. Namn: Sandén, _Johan_ Ragnar
-  2. Födelsedatum: [1973-04-20 fre]
+  2. Födelsedatum: [1973-04-20 Fri]
   3. Bostadsort: Gävle, Hille
   4. Körkort: B
   5. Civilstatus: Gift - Anna
@@ -104,6 +104,7 @@ _________________
     Python[4] mm.
   + Vegetarian
   + Ordförande i Gefle Ölsellskap[5].
+    - Åren 2017 - 2021
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till
     pianot.
   + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då
@@ -131,14 +132,14 @@ _________________
 
   1. 25 års erfarenhet i IT-branschen främst som it-konsult och
      systemutvecklare.
-  2. Projektledare, certifierad *Prince2® Projektledare* och ledarskap.
+  2. Certifierad *Prince2® Projektledare* och ledarskap.
   3. Certifierad Scrum-master (och Produktägare).
 
 
 1.6 Förtroendeuppdrag.
 ~~~~~~~~~~~~~~~~~~~~~~
 
-  - Ordförande i [Gefle Ölsellskap] mellan 2017-2020.
+  - Ordförande i [Gefle Ölsellskap] mellan 2017-2021.
 
     Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med
     främsta syfte att främja öl-kultur. Vi annordnar provningar,
