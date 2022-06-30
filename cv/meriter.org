@@ -307,14 +307,11 @@ Beräkningar på hur länge jag jobbat.
   Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
   
 #+LaTeX: \pagebreak
-<<<<<<< HEAD
 ** One Group
 :PROPERTIES:
 :CUSTOM_ID: onegroup
 :END:
-=======
-** One Group AB
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
+
    Ett svenskt konsultbolag med Specialistkompetens inom IT. 
 
    1. Period: September 2022 - Nuvarande
@@ -323,18 +320,13 @@ Beräkningar på hur länge jag jobbat.
       1) TBD[fn:tbd:Skall avgöras]
    4. Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris)
    5. Teknik: Java, Python
-<<<<<<< HEAD
       
-** Knowit [fn:knowit:www.knowit.se]
+** Knowit[fn:knowit:www.knowit.se]
 :PROPERTIES:
 :CUSTOM_ID: knowit
 :END:
 
-=======
-
-** Knowit[fn:knowit:www.knowit.se]
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
-   Nordiskt konsultföretag med lokal närvaro.
+Nordiskt konsultföretag med lokal närvaro.
 
    1) Period: Oktober 2008 - September 2022
    2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
@@ -359,15 +351,12 @@ Beräkningar på hur länge jag jobbat.
       click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker,
       Java[fn:java] (Ant[fn:ant]/Maven[fn:maven], Eclipse/STS/JBuilder,JSF,Spring
       Framework) ,Oracle ,SVN, CVS, GIT[fn:git], Hybernate ,Jira, Fitnesse
-
 #+LaTeX: \pagebreak
+
 ** Mandator/Fujitsu[fn:fujitsu:www.fujitsu.com/se/]
-<<<<<<< HEAD
 :PROPERTIES:
 :CUSTOM_ID: mandator-fujitsu
 :END:
-=======
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    Fujitsu, ett internationellt konsultföretag [fn:cell].
 
    1) Plattformar: Solaris, Windows XP
@@ -389,13 +378,11 @@ Beräkningar på hur länge jag jobbat.
 
 [fn:cell] Företaget bytte namn 3 gånger under min anställning.
 #+LaTeX: \pagebreak
+
 ** ITG Data[fn:itgdata:Såldes till BIS industriteknik 2006]
-<<<<<<< HEAD
 :PROPERTIES:
 :CUSTOM_ID: itgdata
 :END:
-=======
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    Dataavdelningen på ett industriteknik företag. 
 
    1) Period: Februari 2001 - December 2002
@@ -407,12 +394,9 @@ Beräkningar på hur länge jag jobbat.
  
 #+LaTeX: \pagebreak
 ** Utilator[fn:utilator] 
-<<<<<<< HEAD
 :PROPERTIES:
 :CUSTOM_ID: utilator
 :END:
-=======
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    Ett litet it-företag med inriktning mot "smarta hem".
 
    1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
@@ -423,11 +407,7 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: Java, c, Linux
 
 #+LaTeX: \pagebreak
-<<<<<<< HEAD
 ** Mind[fn:mind]
-=======
-** Mind AB[fn:mind]
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    :PROPERTIES:
    :CUSTOM_ID: mind
    :END:
@@ -443,13 +423,11 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
  
 #+LaTeX: \pagebreak
+
 ** Mandator/CellNetwork[fn:fujitsu]
-<<<<<<< HEAD
 :PROPERTIES:
 :CUSTOM_ID: mandator-cellnetwork
 :END:
-=======
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    Ett nationellt konsultföretag.
    
    1) Period: April 1999 - Maj 2000
@@ -461,13 +439,11 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: C++, MFC, Idefix
 
 #+LaTeX: \pagebreak
+
 ** Syntronic[fn:syntronic:www.syntronic.se] 
-<<<<<<< HEAD
 :PROPERTIES:
 :CUSTOM_ID: syntronic
 :END:
-=======
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    Konsultföretag med inriktning på elektronik, radio och telecom.
 
    1) Period: September 1997 - April 1999
@@ -483,13 +459,11 @@ Beräkningar på hur länge jag jobbat.
       MFC, ASP, Assembler, Idefix
 	
 #+LaTeX: \pagebreak
+
 ** KenVision
-<<<<<<< HEAD
 :PROPERTIES:
 :CUSTOM_ID: kenvision
 :END:
-=======
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    Lösningsföretag med inriktning mot 3D och virtual reality.
    Dotterbolag till Profildesig, ett företag med inriktning mot
    mässor, monterdesign och reklam.
@@ -504,13 +478,11 @@ Beräkningar på hur länge jag jobbat.
       + c/C++ i Visual Studio, Sense8 WorldToolkit
 
 #+LaTeX: \pagebreak
+
 ** Datorteket (Gävle Kommun)
-<<<<<<< HEAD
 :PROPERTIES:
 :CUSTOM_ID: datorteket
 :END:
-=======
->>>>>>> ee54f21926e2d50fb4854274fe2e36079fa01f0d
    Kommunalt projekt för att höja den allmänna datorvanan hos
    ungdomar 
    och arbetslösas.
