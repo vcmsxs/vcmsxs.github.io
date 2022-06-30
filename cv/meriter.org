@@ -104,7 +104,7 @@ PDF]] för utskrift.
   + Ordförande i Gefle Ölsellskap[fn:gefleolsellskap:http://gefleolsellskap.com/].
     - Åren 2017 - 2021
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till pianot.
-  + Tjatade till sig en dator i julklapp vid 8 års åldern. Det var då jag lärde
+  + Tjatade till mig en dator i julklapp vid 8 års åldern. Det var då jag lärde
     mig programmera.
   + Älskar katter.
   + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
@@ -118,17 +118,14 @@ PDF]] för utskrift.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
-   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
    - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
      automatisering.
      Unix/GnuLinux[fn:linux:https://en.wikipedia.org/wiki/Linux]-miljö gärna i
      Python[fn:python] eller liknande.
+   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
    - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
      
 ** Kompetens och erfarenhet 
-   :PROPERTIES:
-   :CUSTOM_ID: h:6899e186-95f8-4ce9-9dbb-0d9ca986fae4
-   :END:
 #+BEGIN_COMMENT
 Beräkningar på hur länge jag jobbat.
 (- 2019 1997) = 22
@@ -136,7 +133,8 @@ Beräkningar på hur länge jag jobbat.
 (- 2021 1995) = 26
 #+END_COMMENT
 
-  1. 25 års erfarenhet i IT-branschen främst som it-konsult och systemutvecklare.
+  1. 25+ års erfarenhet i IT-branschen främst som it-konsult och
+     systemutvecklare.
   2. Certifierad *Prince2® Projektledare* och ledarskap.
   3. Certifierad Scrum-master (och Produktägare).
 
@@ -147,7 +145,7 @@ Beräkningar på hur länge jag jobbat.
      syfte att främja öl-kultur. Vi annordnar provningar, studieresor och
      fester. Vi delar även ut ett årligt stipendium och har väldigt roligt
      tillsammans.
-   - Sedan 2018 revisor i Västerbackens samfällighetsförening
+   - 2018 och 2019 revisor i Västerbackens samfällighetsförening
 
  #+LaTeX: \pagebreak
    
@@ -164,10 +162,6 @@ Beräkningar på hur länge jag jobbat.
    | Teknisk konsult i "testfabrik" | Programmerare        |
    | Deployer/Integrerare           | Databasmigrerare     |
  
-
-   Under min tiden på [[*Knowit][Knowit]] har jag utbildat mig i [[#lblkurser][agilt]] [[#lblkurser][ledarskap]],
-   [[#h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783][förvaltning]] och [[#lblkurser][projektledning]]
-   
 * Utbildningar och kurser
 :PROPERTIES:
 :CUSTOM_ID: lblkurser
@@ -253,56 +247,22 @@ Beräkningar på hur länge jag jobbat.
    :END:
    1. Konsult : Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och
        uppdrag][Arbetsgivare]]
-   2. Fastighet : på Lantmäteriet via [[#h:013768a9-9497-4930-b746-b2bc2e683bde][Knowit]] 
-   3. TeleCom (Produktions test) : Ericsson AB via [[#h:c10a20a0-7f9d-43cd-8e38-f06f531315d5][Syntronic]] [[#h:d9c4d75b-24b0-42f5-9a99-04fc71ce1cc5][Mandator]]
-      [[#h:18c092ef-ee3c-4f8a-88f0-a4aca7b3c4e6][ITG]]
-   4. Test : "Testfabrik" på Lantmäteriet via [[#h:99e64ea4-1a05-4a7b-a1e0-e0aaa5f7e0f7][Fujitzu]]
-   5. 3D/Grafik/Realtid : [[#h:8dbe3d15-e290-447e-8cde-53b3d099e216][KenVision]]
+   2. Fastighet : på Lantmäteriet via [[#knowit][Knowit]] 
+   3. TeleCom (Produktions test) : Ericsson AB via [[#syntronic][Syntronic]] [[#mandator-cellnetwork][Mandator]]
+      [[#itgdata][ITG]]
+   4. Test : "Testfabrik" på Lantmäteriet via [[#mandator-fujitsu][Fujitzu]]
+   5. 3D/Grafik/Realtid : [[#kenvision][KenVision]]
    6. Utbildning : *Agil utveckling* - som konsult mot Korsnäs via
-      [[#h:013768a9-9497-4930-b746-b2bc2e683bde][Knowit]], *Java* - intern utbildning på [[#h:d9c4d75b-24b0-42f5-9a99-04fc71ce1cc5][Mandator]], *IT-handledning*
-      på [[#h:8fc8c7e4-64b5-4e3b-8211-91f6183beee4][Datorteket (Gävle Kommun)]]  
-   7. Smarta Hem : [[#h:9decca1d-d483-4c5c-b83b-4a46173bcb3f][Utilator]]
+      [[#knowit][Knowit]], *Java* - intern utbildning på [[#mandator-cellnetwork][Mandator]], *IT-handledning*
+      på [[#datorteket][Datorteket (Gävle Kommun)]]  
+   7. Smarta Hem : [[#utilator][Utilator]]
 
-** COMMENT Metoder
-   :PROPERTIES:
-   :CUSTOM_ID: h:348f6f05-4b92-437a-9a4b-03dc1026e5e9
-   :END:
-   1. Projektstyrning 
-      - Jag har kommit i kontakt med många styrningsmodeller genom
-        åren bl.a. Lupp på Lantmäteriet och Rup/Props mot Ericsson.
-        Jag har certifierat mig i Prince2® och gått två utbildningar
-        sammanlagt 5 veckor mot allmän projektledning.
-   2. Projektprocesser
-      - Jag är certifierad Scrum master och Scrum Produktägare och på
-        Lantmäteriet har vi planerat allt arbetet med hjälp av Kanban
-        sen 2010.
-   3. TDD/BDD/DDD och Continuos Integration
-      - Jag är familjär med alla dessa akronym men har aldrig använt
-        dem hårt och fullt ut, som XP förespråkar. Alla projekt idag
-        testar sina funktioner med unit-tester och följer upp med
-        system/integrations-test oftast kör man testerna en gång varje
-        dag för undvik "code rot" och problem med integration.
-   4. Literate Programming
-      - En teknik som inte utnyttjas så ofta idag. Den går ut på att
-        skriva dokumentation där man förklarar sin kod med exempel.
-        När man sedan kör en "tangel"-funktion på dokument får man ut
-        den körbara koden och woven-funktion för att formatera fram
-        ett enkel läsbart dokument över programmet. Jag använder det
-        ganska ofta privat för mina egna program och när jag testar
-        teorier eller api:er på jobbet.
-   5. Funktionell programmering
-      - Då jag göra nästan allt i Emacs[fn:emacs] så är det ofrånkomligt att det
-        blir en hel del Lisp. Även i Python[fn:python] utnyttjar jag gärna det sättet att
-        arbeta då det är effektivt och lätt att debugga.
-   6. Objektorientering
-      - OO är en självklarhet idag som jag började jobba med direkt
-        efter högskolan.
-               
 ** Programmeringsspråk
    :PROPERTIES:
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
-   - Python[fn:python:https://www.python.org/], ELisp, Java[fn:java], c/C++, 
+   - Python[fn:python:https://www.python.org/], ELisp, Java[fn:java], c/C++,
+   - Javascript, TypeScript (Angular)
    - Sql, Bash
    - HTML, CSS, JavaScript
    - Php, Perl
@@ -341,47 +301,61 @@ Beräkningar på hur länge jag jobbat.
   :END:
 # <<lblArbetsgivare>>
 
-  Större delen av mitt yrkesliv har varit som it-konsult. Främst har
-  jag jobbat mot *Lantmäteriet*, *Ericsson RBS*. Hos dessa kunder har
-  jag jobbat i flera större och mindre projekt.
-
-  Men jag har även gjort inhopp på bland annat.
-  | Gävle Kommun | Sandvik               | Korsnäs |
-  | Digital      | Forsmark (Vattenfall) |         |
+  Större delen av mitt yrkesliv har varit som it-konsult. Främst har jag jobbat
+  mot *Lantmäteriet* och *Ericsson*. Hos dessa kunder har jag jobbat i flera
+  större och mindre projekt. Men jag har även gjort inhopp på bland annat, Gävle
+  Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
   
 #+LaTeX: \pagebreak
-** Knowit
-   :PROPERTIES:
-   :CUSTOM_ID: h:013768a9-9497-4930-b746-b2bc2e683bde
-   :END:
+** One Group
+:PROPERTIES:
+:CUSTOM_ID: onegroup
+:END:
+   Ett svenskt konsultbolag med Specialistkompetens inom IT. 
+
+   1. Period: September 2022 - Nuvarande
+   2. Titel/Roller: Systemutvecklare, Konsult
+   3. Uppdrag:
+      1) TBD[fn:tbd:Skall avgöras]
+   4. Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris)
+   5. Teknik: Java, Python
+      
+** Knowit [fn:knowit:www.knowit.se]
+:PROPERTIES:
+:CUSTOM_ID: knowit
+:END:
+
    Nordiskt konsultföretag med lokal närvaro.
 
-   1) Period: Oktober 2008 - Nuvarande
+   1) Period: Oktober 2008 - September 2022
    2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
       Applikationsansvarig, Lärare, Systemutvecklare, Konsult
    3) Uppdrag:
       1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
-         fastighetssystem runt stordator och leveranssystem.
-      2. Lantmäteriet - TeamArken. Arkivering (register, akter, historiska
-         kartor och dokument mm)
+         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
+         grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
+      2. Lantmäteriet - TeamArken. Arkivregister, Akter, Dokument, Historiska
+         kartor, sökningar och metadata.
       3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
          Finölsfestivalen
       4. Lantmäteriet - Leveranssystemet (FinfoLev)
       5. Korsnäs - Ubildning i scrum och agila metoder
       6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
-      7. Lantmäteriet - Projekt: Milins (delprojekt/migrering) i
-         Muligan projektet.
-   4) Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris), Windows XP
+      7. Lantmäteriet - Projekt: Milins/Mulligan (delprojekt/migrering) i
+         Mulligan projektet. Grundatalager för Inskrivning, Tomträttsupplåtelse,
+         IR-fastighet, Inteckningar, Inskrivet ägande mm
+   4) Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris), Windows XP,
+      Windows 10
    5) Teknik: Python[fn:python] (pip/setuptools, flask, bottle, virtualenv,
       click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker,
       Java[fn:java] (Ant[fn:ant]/Maven[fn:maven], Eclipse/STS/JBuilder,JSF,Spring
       Framework) ,Oracle ,SVN, CVS, GIT[fn:git], Hybernate ,Jira, Fitnesse
 
 #+LaTeX: \pagebreak
-** Mandator/Fujitsu
-   :PROPERTIES:
-   :CUSTOM_ID: h:99e64ea4-1a05-4a7b-a1e0-e0aaa5f7e0f7
-   :END:
+** Mandator/Fujitsu[fn:fujitsu:www.fujitsu.com/se/]
+:PROPERTIES:
+:CUSTOM_ID: mandator-fujitsu
+:END:
    Fujitsu, ett internationellt konsultföretag [fn:cell].
 
    1) Plattformar: Solaris, Windows XP
@@ -403,10 +377,10 @@ Beräkningar på hur länge jag jobbat.
 
 [fn:cell] Företaget bytte namn 3 gånger under min anställning.
 #+LaTeX: \pagebreak
-** ITG Data
-   :PROPERTIES:
-   :CUSTOM_ID: h:18c092ef-ee3c-4f8a-88f0-a4aca7b3c4e6
-   :END:
+** ITG Data[fn:itgdata:Såldes till BIS industriteknik 2006]
+:PROPERTIES:
+:CUSTOM_ID: itgdata
+:END:
    Dataavdelningen på ett industriteknik företag. 
 
    1) Period: Februari 2001 - December 2002
@@ -417,10 +391,10 @@ Beräkningar på hur länge jag jobbat.
    5) Teknik: Microsoft Visual C ++, MFC
  
 #+LaTeX: \pagebreak
-** Utilator 
-   :PROPERTIES:
-   :CUSTOM_ID: h:9decca1d-d483-4c5c-b83b-4a46173bcb3f
-   :END:
+** Utilator[fn:utilator] 
+:PROPERTIES:
+:CUSTOM_ID: utilator
+:END:
    Ett litet it-företag med inriktning mot "smarta hem".
 
    1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
@@ -428,12 +402,12 @@ Beräkningar på hur länge jag jobbat.
    3) Plattform: Linux[fn:linux] Redhat
    4) Uppdrag: "Smarta hem"
       + Elektroniskt bokningssystem (garage, tvättstuga osv.)
-   5) Tekniker: Java, c
+   5) Tekniker: Java, c, Linux
 
 #+LaTeX: \pagebreak
-** Mind 
+** Mind[fn:mind]
    :PROPERTIES:
-   :CUSTOM_ID: h:21421cdd-f98d-4d33-b0b7-1acfd1fedfcf
+   :CUSTOM_ID: mind
    :END:
    Ett Stockholmsbaserat konsultföretag med inriktning på web.
 
@@ -447,10 +421,10 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
  
 #+LaTeX: \pagebreak
-** Mandator/CellNetwork
-   :PROPERTIES:
-   :CUSTOM_ID: h:d9c4d75b-24b0-42f5-9a99-04fc71ce1cc5
-   :END:
+** Mandator/CellNetwork[fn:fujitsu]
+:PROPERTIES:
+:CUSTOM_ID: mandator-cellnetwork
+:END:
    Ett nationellt konsultföretag.
    
    1) Period: April 1999 - Maj 2000
@@ -462,10 +436,10 @@ Beräkningar på hur länge jag jobbat.
    5) Tekniker: C++, MFC, Idefix
 
 #+LaTeX: \pagebreak
-** Syntronic 
-   :PROPERTIES:
-   :CUSTOM_ID: h:c10a20a0-7f9d-43cd-8e38-f06f531315d5
-   :END:
+** Syntronic[fn:syntronic:www.syntronic.se] 
+:PROPERTIES:
+:CUSTOM_ID: syntronic
+:END:
    Konsultföretag med inriktning på elektronik, radio och telecom.
 
    1) Period: September 1997 - April 1999
@@ -482,9 +456,9 @@ Beräkningar på hur länge jag jobbat.
 	
 #+LaTeX: \pagebreak
 ** KenVision
-   :PROPERTIES:
-   :CUSTOM_ID: h:8dbe3d15-e290-447e-8cde-53b3d099e216
-   :END:
+:PROPERTIES:
+:CUSTOM_ID: kenvision
+:END:
    Lösningsföretag med inriktning mot 3D och virtual reality.
    Dotterbolag till Profildesig, ett företag med inriktning mot
    mässor, monterdesign och reklam.
@@ -500,9 +474,9 @@ Beräkningar på hur länge jag jobbat.
 
 #+LaTeX: \pagebreak
 ** Datorteket (Gävle Kommun)
-   :PROPERTIES:
-   :CUSTOM_ID: h:8fc8c7e4-64b5-4e3b-8211-91f6183beee4
-   :END:
+:PROPERTIES:
+:CUSTOM_ID: datorteket
+:END:
    Kommunalt projekt för att höja den allmänna datorvanan hos
    ungdomar 
    och arbetslösas.
@@ -510,8 +484,3 @@ Beräkningar på hur länge jag jobbat.
    1. Period: Oktober 1995 - Mars 1996
    2. Titel/Arbetsuppgifter: Mentor, Handledare, Projektledare, Lärare
    3. Teknik/Produkt: Windows Office-paket, Windows 3.1, Projektarbete
-
-
-
-   
-   
