@@ -9,8 +9,8 @@
 
 
 * Export
-#+name: ExportCvOrgToHTML
-#+begin_src elisp :results silent
+  #+name: ExportCvOrgToHTML
+  #+begin_src elisp :results silent
 (progn 
   (setq org-publish-project-alist
         '(
@@ -49,7 +49,22 @@
            :base-directory "./studium"
            :publishing-directory  "./studium"
            )
-          ))
+           ("blog"
+           :publishing-function org-html-publish-to-html
+           :base-extension "org"
+           :base-directory "blog/"
+           :publishing-directory "posts/"
+           :recursive t
+           :auto-sitemap t
+           :sitemap-format-entry "%d - %t"
+           :sitemap-filename "__bloglist.org"
+           :sitemap-style tree
+           :sitemap-sort-files anti-chronologically
+           :author "Johan Sandén"
+           :email "johan.sanden@gmail.com"
+           :with-creator t)
+           ))
+  (org-publish "blog")
   (org-publish "index_html")
   (org-publish "index_pdf")
   (org-publish "meriter_html")
@@ -58,5 +73,5 @@
   (org-publish "abrakadabra_html")
   (org-publish "studium_html")
   )
-#+end_src
+  #+end_src
 

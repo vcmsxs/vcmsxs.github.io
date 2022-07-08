@@ -1,0 +1,12 @@
+#+title: Det här är test 2
+#+date: <2022-07-08 fre 08:30>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+#+BEGIN_CENTER
+[[file:~/dev/privat/vcmsxs.github.io/index.org][Hemsida]] | [[file:blog.org][Blog index]]
+#+END_CENTER
+-----------
+
+Knaperiknus vem knaprar på mitt hus
