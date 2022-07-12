@@ -1,4 +1,4 @@
 #+BEGIN_CENTER
-[[file:~/dev/privat/vcmsxs.github.io/index.org][Hemsida]] | [[file:blog/blog.org][Blog index]]
+ [[file:blog/blog.org][Blog index]] |  [[file:index.org][Hemsida]]
 #+END_CENTER
 -----------
