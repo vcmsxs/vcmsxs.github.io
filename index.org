@@ -34,16 +34,18 @@
 
 * CV
 Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
+
 * Social på nätet
   - På [[file:blog/blog.org][min blogg]] skriver jag lite [[file:blog/blog.html][blandade tankar]].
-  - [[https://www.instagram.com/vinihille/][Vin i hille]] - Jag om min fru lägger ut drinkar och vin på instagram tillsammans.
+  - [[https://www.instagram.com/vinihille/][Vin i hille]]
+    - Jag och frugan lägger ut drinkar och vin tillsammans.
   - [[https://www.linkedin.com/in/johansanden/][LinkeIn]] 
-    - Om man undrar över vad jag gjort på jobbet så ska man kolla in min cv. Här
-      har nog bäst-före-datumet gått ut.
+    - Om man undrar vad jag gjort på jobbet i alla dessa herrans år står det i
+      min min cv. Här har nog bäst-före-datumet gått ut.
   - [[https://twitter.com/vcmsxs][Twitter]]
-    - Jag läser mycket på twitter, men lägger inte ut så mycket eget.
+    - Jag läser och kommenterar, inte mycket eget.
   - [[https://www.instagram.com/vcmsxs/][Jag på instagram]] 
-    - Inläggen här kommer och går i skov. Men det ligger en hel del bilder här.
+    - Inläggen kommer i skov.
   - [[https://www.facebook.com/johan.sanden][Facebook]]
     - ...försöker jag undvika.
 
@@ -51,5 +53,6 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
   - [[file:./studium/studium.org][Studium]] 
   - [[file:./abrakadabra/abrakadabra.org][Abrakadabra]]
   - [[./fun/tinafp.html][Piano - fråga inte]] ...😊
+
 * Kontakt
 #+INCLUDE: ./kontakt_upg_privat.org
