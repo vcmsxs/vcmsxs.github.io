@@ -1,0 +1,15 @@
+#+title: Bloggar
+#+subtitle: <2022-07-12 09:51>
+#+date: <2022-07-12 09:51:43>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+#+begin_quote
+Aldrig har så många skrivit så mycket mycket för så få
+#+end_quote
+...sa någon. Jag har haft många bloggar och övergett lika många. Men nu är jag
+på det igen. Den här gången har jag skrivit en egen, typ. Den här bygger på
+Emacs och Org-mode/publish. Det har varit lite pill att få till men
+förhoppningsvis är det värt det. :)
+------------

@@ -1,0 +1,14 @@
+#+title: OneGroup
+#+subtitle: <2022-07-12 09:47>
+#+date: <2022-07-12 09:47:42>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+Jag har jobbat på Knowit 14 år och men i september börjar jag på OneGroup. Det
+är ett nytt sätt för mig att tänka på jobbet. Anledningen är att jag vill ha mer
+frihet. Har ännu inte modet att starta helt eget så OneGroup känns som ett bra
+mellanmål :)
+
+------------

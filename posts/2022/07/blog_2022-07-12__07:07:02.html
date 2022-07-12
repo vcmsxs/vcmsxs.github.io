@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-07-12 tis 08:10 -->
+<!-- 2022-07-12 tis 08:12 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>script.org</title>
+<title>min lilla blog och jag</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Johan Sandén" />
 <style type="text/css">
@@ -193,6 +193,7 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
+<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -242,84 +243,28 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">script.org</h1>
+<h1 class="title">min lilla blog och jag
+<br />
+<span class="subtitle"><span class="timestamp-wrapper"><span class="timestamp">&lt;2022-07-12 tis 07:07&gt;</span></span></span>
+</h1>
+<div class="org-center">
+<p>
+<a href="file:///home/johan/dev/privat/vcmsxs.github.io/index.html">Hemsida</a> | <a href="../../blog.html">Blog index</a>
+</p>
+</div>
+<hr />
 
+<p>
+Min lilla blog och jag
+</p>
 
-<div id="outline-container-org4f44901" class="outline-2">
-<h2 id="org4f44901"><span class="section-number-2">1</span> Export</h2>
-<div class="outline-text-2" id="text-1">
-<div class="org-src-container">
-<pre class="src src-elisp" id="orgf2fa700">(<span style="color: #5317ac;">progn</span> 
-  (<span style="color: #5317ac;">setq</span> org-publish-project-alist
-        '(
-          (<span style="color: #2544bb;">"index_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"."</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"."</span>
-           )
-          (<span style="color: #2544bb;">"index_pdf"</span>
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"."</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"."</span>
-           <span style="color: #8f0075;">:publishing-function</span> org-latex-publish-to-pdf
-           )
-          (<span style="color: #2544bb;">"meriter_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./cv"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./cv"</span>
-           )
-          (<span style="color: #2544bb;">"meriter_txt"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-ascii-publish-to-ascii
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./cv"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./cv"</span>
-           )
-          (<span style="color: #2544bb;">"meriter_pdf"</span>
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./cv/"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./cv/"</span>
-           <span style="color: #8f0075;">:publishing-function</span> org-latex-publish-to-pdf
-           )
-          (<span style="color: #2544bb;">"abrakadabra_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./abrakadabra"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./abrakadabra"</span>
-           )
-           (<span style="color: #2544bb;">"studium_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./studium"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./studium"</span>
-           )
-           (<span style="color: #2544bb;">"blog"</span>
-           <span style="color: #8f0075;">:publishing-function</span> org-html-publish-to-html
-           <span style="color: #8f0075;">:base-extension</span> <span style="color: #2544bb;">"org"</span>
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"blog/"</span>
-           <span style="color: #8f0075;">:publishing-directory</span> <span style="color: #2544bb;">"posts/"</span>
-           <span style="color: #8f0075;">:auto-sitemap</span> t
-           <span style="color: #8f0075;">:sitemap-filename</span> <span style="color: #2544bb;">"__bloglist.org"</span>
-           <span style="color: #8f0075;">:sitemap-style</span> list
-           <span style="color: #8f0075;">:sitemap-file-entry-format</span> <span style="color: #2544bb;">"%d *%t*"</span>
-           <span style="color: #8f0075;">:sitemap-sort-files</span> anti-chronologically
-           <span style="color: #8f0075;">:author</span> <span style="color: #2544bb;">"Johan Sand&#233;n"</span>
-           <span style="color: #8f0075;">:email</span> <span style="color: #2544bb;">"johan.sanden@gmail.com"</span>
-           <span style="color: #8f0075;">:with-creator</span> t
-           <span style="color: #8f0075;">:recursive</span> t)
-           ))
-  (org-publish <span style="color: #2544bb;">"blog"</span>)
-  (org-publish <span style="color: #2544bb;">"index_html"</span>)
-  (org-publish <span style="color: #2544bb;">"index_pdf"</span>)
-  (org-publish <span style="color: #2544bb;">"meriter_html"</span>)
-  (org-publish <span style="color: #2544bb;">"meriter_pdf"</span>)
-  (org-publish <span style="color: #2544bb;">"meriter_txt"</span>)
-  (org-publish <span style="color: #2544bb;">"abrakadabra_html"</span>)
-  (org-publish <span style="color: #2544bb;">"studium_html"</span>)
-  )
-</pre>
-</div>
-</div>
-</div>
+<hr />
 </div>
 <div id="postamble" class="status">
-<p class="date">Datum: 2015-03-08 sön 00:00</p>
-<p class="author">F&ouml;rfattare: Johan Sandén</p>
-<p class="date">Created: 2022-07-12 tis 08:10</p>
+<p class="date">Date: 2022-07-12 tis 07:07</p>
+<p class="author">Author: Johan Sandén</p>
+<p class="date">Created: 2022-07-12 tis 08:12</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.3.7)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

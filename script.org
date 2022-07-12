@@ -54,15 +54,15 @@
            :base-extension "org"
            :base-directory "blog/"
            :publishing-directory "posts/"
-           :recursive t
            :auto-sitemap t
-           :sitemap-format-entry "%d - %t"
            :sitemap-filename "__bloglist.org"
-           :sitemap-style tree
+           :sitemap-style list
+           :sitemap-file-entry-format "%d *%t*"
            :sitemap-sort-files anti-chronologically
            :author "Johan Sandén"
            :email "johan.sanden@gmail.com"
-           :with-creator t)
+           :with-creator t
+           :recursive t)
            ))
   (org-publish "blog")
   (org-publish "index_html")
