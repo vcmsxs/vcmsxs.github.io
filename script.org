@@ -53,7 +53,7 @@
            :publishing-function org-html-publish-to-html
            :base-extension "org"
            :base-directory "blog/"
-           :publishing-directory "posts/"
+           :publishing-directory "blog/"
            :auto-sitemap t
            :sitemap-filename "__bloglist.org"
            :sitemap-style list

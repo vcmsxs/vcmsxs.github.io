@@ -1,5 +1,6 @@
 #+TITLE: Sitemap for project blog
 
+- [[file:2022/07/blog_2022-07-12__21:21:22.org][3 Pinnar MUCK!!]]
 - [[file:2022/07/blog_2022-07-12__09:51:29.org][Bloggar]]
 - [[file:2022/07/blog_2022-07-12__09:47:38.org][OneGroup]]
 - [[file:blog.org][Tankar som kommer och går.]]
