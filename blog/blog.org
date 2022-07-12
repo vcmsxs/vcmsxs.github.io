@@ -5,7 +5,7 @@
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
 
 #+BEGIN_CENTER
-[[file:~/dev/privat/vcmsxs.github.io/index.org][Hemsida]]
+[[file:..index.org][Hemsida]]
 #+END_CENTER
 -----------
 
