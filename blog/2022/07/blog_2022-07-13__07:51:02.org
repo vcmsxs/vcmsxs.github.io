@@ -1,0 +1,23 @@
+#+title: En chef som inte är en chef.
+#+subtitle: <2022-07-13 07:51>
+#+date: <2022-07-13 07:51:17>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+#+begin_quote
+  En ledare utan följare är bara en snubbe på promenad.
+#+end_quote
+
+Jag vet inte hur det är på andra arbetsplatser. Men inom systemutveckling finns
+ofta åt helvete för många ledare. En chef som inte har klarar av att ha 50
+personer under sig är en usel ledare. En organisation på 2500 riktiga knegare
+skulle lätt klara sig på 50 chefer, allt annat är bedrövligt. En personalanvarig
+ska inte vara någon trög filosof som håller sin egen navel ren på dagen. De ska
+resursfödela, hålla löne- och pu-samtal, informera, ha koll på försäkringar och
+arbetsmiljö och försälning. Dagarna ska vara fyllda med riktigt jobb även för
+dem. De som arbetar behöver ingen kostym-budha som går runt och rapar floskler i
+ansiktet på folk.
+
+------------

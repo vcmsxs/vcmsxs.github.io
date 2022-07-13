@@ -1,0 +1,26 @@
+#+title: Ska staten bjuda på lunch?
+#+subtitle: <2022-07-13 07:29>
+#+date: <2022-07-13 07:29:56>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+I [[https://www.nyteknik.se/opinion/abb-ericsson-saab-vi-satsar-en-miljard-per-ar-nu-kravs-en-statlig-digitaliseringsmiljard-7034989][en artikel i nyteknik]] tycker ett gäng chefer att staten ska gå in och hjälpa
+dem med en "digitaliseringsmiljard" om året. Jag har läst hela artikeln flera
+gånger nu. Jag har jobbat med systemutveckling i 25 år och JAG fattar inte vad
+de menar. Vad är det de vill att staten ska göra som de inte kan göra själva?
+
+Min hypotes är att de bara vill få ut pengar av staten. Som friskolor. Pengar
+som de kan lägga på totalt meningslösa utredningar, fester och golf med chefer
+och meningslösa värdeords- och teambuildningkonsulter som inte kan smack om it.
+
+Jag har inget att tillföra i en organisation av kirurger eller processtekniker.
+På samma sätt kan så kan den som inte förstår datorteknik berätta för
+programmerare hur man systemutvecklar.
+
+*Nej här kommer ett hederlig tips för den som vill "digitalisera"*: Sparka 90%
+av alla som inte kan programmera. Sätt er ner och skriv kod. Då räcker den
+miljard ni tydligen redan har.
+
+------------

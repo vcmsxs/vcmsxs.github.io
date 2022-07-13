@@ -3,7 +3,7 @@
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+TITLE: Johan Sandén
-#+SUBTITLE: Personlig websida.
+#+SUBTITLE: ...ännu en onödig websida 😊
 #+DATE: {{{time(%F %T)}}}
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
@@ -36,7 +36,7 @@
 Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
 
 * Social på nätet
-  - På [[file:blog/blog.org][min blogg]] skriver jag lite [[file:blog/blog.html][blandade tankar]].
+  - På [[file:blog/blog.org][min blogg]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
   - [[https://www.instagram.com/vinihille/][Vin i hille]]
     - Jag och frugan lägger ut drinkar och vin tillsammans.
   - [[https://www.linkedin.com/in/johansanden/][LinkeIn]] 
