@@ -11,6 +11,15 @@
 * Export
   #+name: ExportCvOrgToHTML
   #+begin_src elisp :results silent
+(defun jec-sitemap-format-entry (entry style project)
+  "Format sitemap ENTRY for PROJECT with the post date before the link, to generate a posts list.  STYLE is not used."
+  (let* ((base-directory (plist-get (cdr project) :base-directory))
+         (filename (expand-file-name entry (expand-file-name base-directory (projectile-project-root))))
+         )
+    (format "%s [[file:%s][%s]]"
+            (format-time-string "<%Y-%m-%d %R>" (org-publish-find-date entry project))
+            entry
+            (org-publish-find-title entry project))))
 (progn 
   (setq org-publish-project-alist
         '(
@@ -57,6 +66,7 @@
            :auto-sitemap t
            :sitemap-filename "__bloglist.org"
            :sitemap-style list
+           :sitemap-format-entry jec-sitemap-format-entry
            :sitemap-file-entry-format "%d *%t*"
            :sitemap-sort-files anti-chronologically
            :author "Johan Sandén"

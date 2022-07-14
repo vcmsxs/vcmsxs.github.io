@@ -27,19 +27,14 @@
 [[file:../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
 # #+BEGIN_CENTER
-# [[file:studium.html][HTML]] -  [[file:studium.pdf][PDF]]
-# #+END_CENTER
-# #+toc: headlines 2
 --------
-* Emacs
+
+Jag skriver ner för att komma ihåg och påminna.
+
+* Studium
   - [[file:emacs.org][Min lilla text om Emacs]]
-** COMMENT Org-mode
-** COMMENT Modes
-** COMMENT Instruktioner
-** COMMENT Varför Emacs?
-** COMMENT Emacs är inte för alla.
-* Org-mode
-  [[file:orgmode.org][Org-mode]]
+    - [[file:orgmode.org][Org-mode]]
+  - [[file:karnkraft.org][Kärnkraft]]
 * COMMENT Filosofi
 ** Jantelag
    Jantelagen framställs ofta som något välldigt negativt. En lista av

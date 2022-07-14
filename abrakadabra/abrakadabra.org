@@ -3,6 +3,7 @@
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+TITLE: Abrakadabra
+#+SUBTITLE: Filosofi, konst och magi.
 #+DATE: {{{time(%F %T)}}}
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
@@ -30,34 +31,11 @@
 #+END_CENTER
 # #+toc: headlines 2
 -------
-* Tingen, Symbolerna och Förändringarna.
-# [2021-02-27 Sat]
-  Vi delar in världen i tingen, symbolerna och förändringarna. Tingen är
-  världen. Symbolerna är vad vi uppfattar. Förändring kan bara uppfattas med
-  tiden. Det beror på att vår uppfattning är en förändring i sig.
--------
+* Abrakadabra.
+  - [[file:ting_symb_forand.org][Tingen, Symbolerna och förändringen.]]
+  - [[file:modus_vivendi.org][Att vara]]
+  - [[file:modus_operandi.org][Att göra]]
 
-* Det är mycket enkelt, så här är det.
 
-  1) Du måste vara snäll.
-  2) Allt är litet i början.
-  3) Om du inte vet var du ska börja, börja där du står.
-  4) Lyssna på alla, lita på dig själv.
-  5) Att inte prova igen _kan_ vara skamligt. Att misslyckas igen, efter att ha
-     misslyckats många gånger är det inte.
---------
 
-* Kärnkraft
-  - Tekniskt osunt.
-  - Ekonomiskt tveksamt.
-  - Inte miljövänligt.
-  - Fullständigt livsfarligt.
---------
-  - "Den stora" kärnkraftskatastrofen har ännu inte inträffat. En dag smäller
-    någon av Frankrikes eller USA:s kärnkraftverk på värsta tänkbara sätt och
-    kommer då att döda en jävla massa människor och göra en eller flera STORA
-    städer helt obeboeliga.
-    - Tjernobylkatastrofen hade kunnat ta död på halv den europeiska
-      kontinenten.
----------
 

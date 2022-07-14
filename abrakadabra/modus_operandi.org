@@ -1,0 +1,36 @@
+#+TITLE:     Att göra.
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:  texht:t
+#+STARTUP: hideblocks 
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+#+BEGIN_CENTER
+[[file:abrakadabra.org][Abrakadabra]] | [[file:../index.org][Hjälp! - ta mig härifrån]]
+#+END_CENTER
+------------
+    1. Börja där du står.
+    2. Innan något händer, händer ingenting.
+    3. Allt är litet i början.
+    4. Gå långsamt framåt.
+    5. Försök att ha tråkigt så länge du kan.
+    6. En sak i taget.
+    7. Gå tillbaka om det behövs.
+    8. Lyssna på alla, lite på dig själv.
+    9. Ställ frågor.
+    10. Förenkla och Minimer
+    11. Om man misslyckas många gånger så ska ändå prova igen om man tror att
+        det finns en chans att komma fram på något annat sätt.
+        - Det som misslyckats många gånger är svårt och det finns ingen skam i
+          att misslyckas igen. Det kan finns skam i att ge upp.
+---------------
+
+...ja, eller så har du mycket bättre förslag och borde göra som du brukar.

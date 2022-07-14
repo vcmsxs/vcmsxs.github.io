@@ -1,4 +1,4 @@
-#+TITLE:     Org-mode
+#+TITLE:     Att vara.
 #+AUTHOR:    Johan Sandén
 #+EMAIL:     johan.sanden@gmail.com
 #+DATE: <{{{time(%F %b %T)}}}>
@@ -7,24 +7,24 @@
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
 #+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
-#+OPTIONS:   texht:t
+#+OPTIONS:  texht:t
 #+STARTUP: hideblocks 
 #+HTML_CONTAINER: div
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
 
 #+BEGIN_CENTER
-[[file:studium.org][Studium]] | [[file:../index.org][Hjälp! - ta mig härifrån]]
+[[file:abrakadabra.org][Abrakadabra]] | [[file:../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
-
-#+BEGIN_QUOTE
-A GNU Emacs major mode for convenient plain text markup — and much more.
-
-Org mode is for keeping notes, maintaining to-do lists, planning projects,
-authoring documents, computational notebooks, literate programming and more — in
-a fast and effective plain text system.
-#+END_QUOTE
-
-
-* Länkar
-  - https://orgmode.org/
+----------
+    1. Du måste vara snäll.
+    2. Gör ingenting
+    3. Lung, tyst, slappna av och andas.
+    4. Lyssna och se.
+    5. Lyssna på dina tankar, men behandla de som jobbiga barn du älskar. De
+       kommer att växa upp.
+    6. Försök vara ensam.
+    7. Du vet att du inte vet något.
+----------
+Jag menar inte att någon ska vara en Budha-Zombie hela livet. Men här hjälper
+mig att tänka på då och då.
