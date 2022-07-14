@@ -28,15 +28,13 @@
 #+BEGIN_CENTER
 [[file:../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
-#+toc: headlines 2
+# #+toc: headlines 2
 -------
 * Tingen, Symbolerna och Förändringarna.
 # [2021-02-27 Sat]
   Vi delar in världen i tingen, symbolerna och förändringarna. Tingen är
   världen. Symbolerna är vad vi uppfattar. Förändring kan bara uppfattas med
   tiden. Det beror på att vår uppfattning är en förändring i sig.
-*** Kommentar
-    - Minst två tredjedelar tycks stulet från Platon.
 -------
 
 * Det är mycket enkelt, så här är det.

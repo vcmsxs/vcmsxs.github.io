@@ -1,5 +1,8 @@
 #+TITLE: Sitemap for project blog
 
+- [[file:2022/07/blog_2022-07-14__07:27:27.org][Blåbrun kan vara en politisk färg.]]
+- [[file:2022/07/blog_2022-07-13__07:51:02.org][En chef som inte är en chef.]]
+- [[file:2022/07/blog_2022-07-13__07:29:52.org][Ska staten bjuda på lunch?]]
 - [[file:2022/07/blog_2022-07-12__21:21:22.org][3 Pinnar MUCK!!]]
 - [[file:2022/07/blog_2022-07-12__09:51:29.org][Bloggar]]
 - [[file:2022/07/blog_2022-07-12__09:47:38.org][OneGroup]]
