@@ -1,9 +1,10 @@
 #+TITLE: Sitemap for project blog
 
-- <2022-07-14 tor 07:27>  [[file:2022/07/blog_2022-07-14__07:27:27.org][Blåbrun kan vara en politisk färg.]]
-- <2022-07-13 ons 07:51>  [[file:2022/07/blog_2022-07-13__07:51:02.org][En chef som inte är en chef.]]
-- <2022-07-13 ons 07:29>  [[file:2022/07/blog_2022-07-13__07:29:52.org][Ska staten bjuda på lunch?]]
-- <2022-07-12 tis 21:21>  [[file:2022/07/blog_2022-07-12__21:21:22.org][3 Pinnar MUCK!!]]
-- <2022-07-12 tis 09:51>  [[file:2022/07/blog_2022-07-12__09:51:29.org][Bloggar]]
-- <2022-07-12 tis 09:47>  [[file:2022/07/blog_2022-07-12__09:47:38.org][OneGroup]]
-- <2022-07-08 fre 00:00>  [[file:blog.org][Tankar som kommer och går.]]
+- <2022-07-16 Sat 15:29>  [[file:2022/07/blog_2022-07-16__15:29:21.org][Första dagen på semestern!]]
+- <2022-07-14 Thu 07:27>  [[file:2022/07/blog_2022-07-14__07:27:27.org][Blåbrun kan vara en politisk färg.]]
+- <2022-07-13 Wed 07:51>  [[file:2022/07/blog_2022-07-13__07:51:02.org][En chef som inte är en chef.]]
+- <2022-07-13 Wed 07:29>  [[file:2022/07/blog_2022-07-13__07:29:52.org][Ska staten bjuda på lunch?]]
+- <2022-07-12 Tue 21:21>  [[file:2022/07/blog_2022-07-12__21:21:22.org][3 Pinnar MUCK!!]]
+- <2022-07-12 Tue 09:51>  [[file:2022/07/blog_2022-07-12__09:51:29.org][Bloggar]]
+- <2022-07-12 Tue 09:47>  [[file:2022/07/blog_2022-07-12__09:47:38.org][OneGroup]]
+- <2020-07-08 Wed 00:00>  [[file:blog.org][Tankar som kommer och går.]]

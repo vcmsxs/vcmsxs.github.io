@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2022-06-30 Thu 23:57>
+                         <2022-07-16 Sat 14:57>
 
 
                         <file:handsome_dude.jpg>
@@ -37,21 +37,23 @@ _________________
 .. 3. [Kurs/Certifiering: Produktägare]
 .. 4. [Kurs/Certifiering: Scrum Master]
 .. 5. [Kurs/Certifiering: Projekledning]
+..... 1. Ingående kurser
 .. 6. [Kurs: Praktisk Projektledning]
 .. 7. Skolor
 3. Kompetenser
 .. 1. Branscher
 .. 2. Programmeringsspråk
 .. 3. Utvecklingsmiljöer och Verktyg
+..... 1. Äldre miljöer
 4. Arbetsgivare och uppdrag
 .. 1. One Group
-.. 2. Knowit[18]
-.. 3. Mandator/Fujitsu[19]
-.. 4. ITG Data[21]
-.. 5. Utilator[22]
-.. 6. Mind[23]
-.. 7. Mandator/CellNetwork[19]
-.. 8. Syntronic[24]
+.. 2. Knowit
+.. 3. Mandator/Fujitsu
+.. 4. ITG Data
+.. 5. Utilator
+.. 6. Mind
+.. 7. Mandator/CellNetwork
+.. 8. Syntronic
 .. 9. KenVision
 .. 10. Datorteket (Gävle Kommun)
 
@@ -388,10 +390,10 @@ _________________
   5. Teknik: Java, Python
 
 
-4.2 Knowit[18]
-~~~~~~~~~~~~~~
+4.2 Knowit
+~~~~~~~~~~
 
-  Nordiskt konsultföretag med lokal närvaro.
+  Knowit[18]. Ett nordiskt konsultföretag med lokal närvaro.
 
   1) Period: Oktober 2008 - September 2022
   2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
@@ -420,10 +422,10 @@ _________________
      ,Oracle ,SVN, CVS, GIT[3], Hybernate ,Jira, Fitnesse
 
 
-4.3 Mandator/Fujitsu[19]
-~~~~~~~~~~~~~~~~~~~~~~~~
+4.3 Mandator/Fujitsu
+~~~~~~~~~~~~~~~~~~~~
 
-  Fujitsu, ett internationellt konsultföretag [20].
+  Fujitsu[19], ett internationellt konsultföretag [20].
 
   1) Plattformar: Solaris, Windows XP
   2) Period: Januari 2003 - September 2008
@@ -443,10 +445,11 @@ _________________
      Quick Test Proffessionell),senare HP QC, Tomcat
 
 
-4.4 ITG Data[21]
-~~~~~~~~~~~~~~~~
+4.4 ITG Data
+~~~~~~~~~~~~
 
-  Dataavdelningen på ett industriteknik företag.
+  ITGData[21]. Dataavdelningen/dotterföretag på ett industriteknik
+  företag.
 
   1) Period: Februari 2001 - December 2002
   2) Titel: Systemutvecklare, Konsult.
@@ -456,10 +459,10 @@ _________________
   5) Teknik: Microsoft Visual C ++, MFC
 
 
-4.5 Utilator[22]
-~~~~~~~~~~~~~~~~
+4.5 Utilator
+~~~~~~~~~~~~
 
-  Ett litet it-företag med inriktning mot "smarta hem".
+  Utilator[22] var ett litet it-företag med inriktning mot "smarta hem".
 
   1) Period: November 2000 - Februari 2001[22]
   2) Titel: Systemutvecklare.
@@ -469,10 +472,11 @@ _________________
   5) Tekniker: Java, c, Linux
 
 
-4.6 Mind[23]
-~~~~~~~~~~~~
+4.6 Mind
+~~~~~~~~
 
-  Ett Stockholmsbaserat konsultföretag med inriktning på web.
+  Mind[23] Var ett Stockholmsbaserat konsultföretag med inriktning på
+  web.
 
   1) Period: Maj 2000 - November 2000[23]
   2) Titel: Java Expert, It-konsult.
@@ -483,10 +487,10 @@ _________________
   5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
 
 
-4.7 Mandator/CellNetwork[19]
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.7 Mandator/CellNetwork
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Ett nationellt konsultföretag.
+  Mandator var ett nationellt konsultföretag.
 
   1) Period: April 1999 - Maj 2000
   2) Titel: It-konsult.
@@ -497,10 +501,11 @@ _________________
   5) Tekniker: C++, MFC, Idefix
 
 
-4.8 Syntronic[24]
-~~~~~~~~~~~~~~~~~
+4.8 Syntronic
+~~~~~~~~~~~~~
 
-  Konsultföretag med inriktning på elektronik, radio och telecom.
+  Syntronic[24] är Konsultföretag med inriktning på elektronik, radio
+  och telecom.
 
   1) Period: September 1997 - April 1999
   2) Titel: It-konsult, Systemutvecklare, kortansvarig.
