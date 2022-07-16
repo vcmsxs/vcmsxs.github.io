@@ -67,12 +67,12 @@ PDF]] för utskrift.
 
 #+LaTeX: \pagebreak
 
-#+toc: headlines 2
+#+toc: headlines 3
 
 #+BEGIN_EXPORT latex
  \pagebreak
 #+END_EXPORT
- 
+
 * Allmänt
   :PROPERTIES:
   :CUSTOM_ID: h:ceeeaa24-33d8-4d16-aa22-ae963f98ae3a
@@ -306,8 +306,7 @@ Beräkningar på hur länge jag jobbat.
   större och mindre projekt. Men jag har även gjort inhopp på bland annat, Gävle
   Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
   
-#+LaTeX: \pagebreak
-** One Group
+** One Group 
 :PROPERTIES:
 :CUSTOM_ID: onegroup
 :END:
@@ -321,12 +320,12 @@ Beräkningar på hur länge jag jobbat.
    4. Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris)
    5. Teknik: Java, Python
       
-** Knowit[fn:knowit:www.knowit.se]
+** Knowit
 :PROPERTIES:
 :CUSTOM_ID: knowit
 :END:
 
-Nordiskt konsultföretag med lokal närvaro.
+Knowit[fn:knowit:www.knowit.se]. Ett nordiskt konsultföretag med lokal närvaro.
 
    1) Period: Oktober 2008 - September 2022
    2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
@@ -351,13 +350,13 @@ Nordiskt konsultföretag med lokal närvaro.
       click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker,
       Java[fn:java] (Ant[fn:ant]/Maven[fn:maven], Eclipse/STS/JBuilder,JSF,Spring
       Framework) ,Oracle ,SVN, CVS, GIT[fn:git], Hybernate ,Jira, Fitnesse
-#+LaTeX: \pagebreak
 
-** Mandator/Fujitsu[fn:fujitsu:www.fujitsu.com/se/]
+** Mandator/Fujitsu 
 :PROPERTIES:
 :CUSTOM_ID: mandator-fujitsu
 :END:
-   Fujitsu, ett internationellt konsultföretag [fn:cell].
+   Fujitsu[fn:fujitsu:www.fujitsu.com/se/], ett internationellt
+   konsultföretag [fn:cell].
 
    1) Plattformar: Solaris, Windows XP
    2) Period: Januari 2003 - September 2008
@@ -377,13 +376,13 @@ Nordiskt konsultföretag med lokal närvaro.
       Proffessionell),senare HP QC, Tomcat
 
 [fn:cell] Företaget bytte namn 3 gånger under min anställning.
-#+LaTeX: \pagebreak
 
-** ITG Data[fn:itgdata:Såldes till BIS industriteknik 2006]
+** ITG Data
 :PROPERTIES:
 :CUSTOM_ID: itgdata
 :END:
-   Dataavdelningen på ett industriteknik företag. 
+   ITGData[fn:itgdata:Såldes till BIS industriteknik 2006].
+   Dataavdelningen/dotterföretag på ett industriteknik företag.
 
    1) Period: Februari 2001 - December 2002
    2) Titel: Systemutvecklare, Konsult.
@@ -392,12 +391,12 @@ Nordiskt konsultföretag med lokal närvaro.
    4) Plattformar: Windows, Solaris
    5) Teknik: Microsoft Visual C ++, MFC
  
-#+LaTeX: \pagebreak
-** Utilator[fn:utilator] 
+** Utilator 
 :PROPERTIES:
 :CUSTOM_ID: utilator
 :END:
-   Ett litet it-företag med inriktning mot "smarta hem".
+   Utilator[fn:utilator] var ett litet it-företag med inriktning mot "smarta
+   hem".
 
    1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
    2) Titel: Systemutvecklare.
@@ -406,12 +405,11 @@ Nordiskt konsultföretag med lokal närvaro.
       + Elektroniskt bokningssystem (garage, tvättstuga osv.)
    5) Tekniker: Java, c, Linux
 
-#+LaTeX: \pagebreak
-** Mind[fn:mind]
+** Mind
    :PROPERTIES:
    :CUSTOM_ID: mind
    :END:
-   Ett Stockholmsbaserat konsultföretag med inriktning på web.
+   Mind[fn:mind] Var ett Stockholmsbaserat konsultföretag med inriktning på web.
 
    1) Period: Maj 2000 - November 2000[fn:mind:"It-bubblan" sprack och företaget
       gick i konkurs]
@@ -422,13 +420,12 @@ Nordiskt konsultföretag med lokal närvaro.
       - Resebyrå
    5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
  
-#+LaTeX: \pagebreak
 
-** Mandator/CellNetwork[fn:fujitsu]
+** Mandator/CellNetwork
 :PROPERTIES:
 :CUSTOM_ID: mandator-cellnetwork
 :END:
-   Ett nationellt konsultföretag.
+   Mandator var ett nationellt konsultföretag.
    
    1) Period: April 1999 - Maj 2000
    2) Titel: It-konsult.
@@ -438,13 +435,12 @@ Nordiskt konsultföretag med lokal närvaro.
    4) Plattform: Windows NT
    5) Tekniker: C++, MFC, Idefix
 
-#+LaTeX: \pagebreak
-
-** Syntronic[fn:syntronic:www.syntronic.se] 
+** Syntronic 
 :PROPERTIES:
 :CUSTOM_ID: syntronic
 :END:
-   Konsultföretag med inriktning på elektronik, radio och telecom.
+   Syntronic[fn:syntronic:www.syntronic.se] är Konsultföretag med inriktning på
+   elektronik, radio och telecom.
 
    1) Period: September 1997 - April 1999
    2) Titel: It-konsult, Systemutvecklare, kortansvarig.
@@ -458,7 +454,6 @@ Nordiskt konsultföretag med lokal närvaro.
    5) Tekniker: Borland Pascal, Java, JBuilder, c/C++ Visual Studio,
       MFC, ASP, Assembler, Idefix
 	
-#+LaTeX: \pagebreak
 
 ** KenVision
 :PROPERTIES:
@@ -477,7 +472,6 @@ Nordiskt konsultföretag med lokal närvaro.
    5. Språk/Verktyg:
       + c/C++ i Visual Studio, Sense8 WorldToolkit
 
-#+LaTeX: \pagebreak
 
 ** Datorteket (Gävle Kommun)
 :PROPERTIES:
