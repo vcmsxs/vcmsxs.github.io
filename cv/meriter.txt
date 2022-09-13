@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2022-06-30 Thu 23:57>
+                         <2022-09-13 tis 12:34>
 
 
                         <file:handsome_dude.jpg>
@@ -44,7 +44,7 @@ _________________
 .. 2. Programmeringsspråk
 .. 3. Utvecklingsmiljöer och Verktyg
 4. Arbetsgivare och uppdrag
-.. 1. One Group
+.. 1. One Group[17]
 .. 2. Knowit[18]
 .. 3. Mandator/Fujitsu[19]
 .. 4. ITG Data[21]
@@ -68,7 +68,7 @@ _________________
 ~~~~~~~~~~~~~~~
 
   1. Namn: Sandén, _Johan_ Ragnar
-  2. Födelsedatum: [1973-04-20 Fri]
+  2. Födelsedatum: [1973-04-20 fre]
   3. Bostadsort: Gävle, Hille
   4. Körkort: B
   5. Civilstatus: Gift - Anna
@@ -375,17 +375,21 @@ _________________
   Finölsfestival
 
 
-4.1 One Group
-~~~~~~~~~~~~~
+4.1 One Group[17]
+~~~~~~~~~~~~~~~~~
 
   Ett svenskt konsultbolag med Specialistkompetens inom IT.
 
   1. Period: September 2022 - Nuvarande
-  2. Titel/Roller: Systemutvecklare, Konsult
+  2. Titel/Roller: Systemutvecklare, It-Konsult
   3. Uppdrag:
-     1) TBD[17]
-  4. Plattformar: Linux[2] (Ubuntu, Mint), Unix (Solaris)
-  5. Teknik: Java, Python
+     1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
+        leveranslager mot fastighet, byggand/adresser och inskrivning.
+        Samt grunddatalager av bestämmelser/rättigheter och
+        samfällighetsföreningar.
+  4. Plattformar: Linux[2] (Ubuntu, Mint)
+  5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker,
+     Vitrualenv, Git, Emacs[1]
 
 
 4.2 Knowit[18]
@@ -579,18 +583,18 @@ ________
 
 [16] <https://maven.apache.org/>
 
-[17] Skall avgöras
+[17] <http://one-group.se/>
 
-[18] www.knowit.se
+[18] <http://:www.knowit.se>
 
-[19] www.fujitsu.com/se/
+[19] <http://www.fujitsu.com/se/>
 
 [20] Företaget bytte namn 3 gånger under min anställning.
 
 [21] Såldes till BIS industriteknik 2006
 
-[22] Anställd 3 månader innan konkurs
+[22] Anställd 3 månader på utilator innan konkurs
 
-[23] "It-bubblan" sprack och företaget gick i konkurs
+[23] Mind gick in konkurs under it-bubblan 2000
 
-[24] www.syntronic.se
+[24] <http://www.syntronic.com>

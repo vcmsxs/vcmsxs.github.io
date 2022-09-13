@@ -36,12 +36,12 @@
 Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
 
 * Social på nätet
-  - På [[file:blog/blog.org][min blogg]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
+  - På [[file:blog/blog.org][min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
   - [[https://www.instagram.com/vinihille/][Vin i hille]]
     - Jag och frugan lägger ut drinkar och vin tillsammans.
   - [[https://www.linkedin.com/in/johansanden/][LinkeIn]] 
     - Om man undrar vad jag gjort på jobbet i alla dessa herrans år står det i
-      min min cv. Här har nog bäst-före-datumet gått ut.
+      [[file:./cv/meriter.org][min cv]]. Här har nog bäst-före-datumet gått ut.
   - [[https://twitter.com/vcmsxs][Twitter]]
     - Jag läser och kommenterar, inte mycket eget.
   - [[https://www.instagram.com/vcmsxs/][Jag på instagram]] 
