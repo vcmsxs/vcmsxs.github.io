@@ -3,15 +3,16 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
 <head>
-<!-- 2022-06-30 Thu 23:57 -->
+<!-- 2022-09-13 tis 12:30 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Johan Sandén</title>
+<meta name="generator" content="Org mode" />
 <meta name="author" content="Johan Sandén" />
-<meta name="description" content="Meriter - Curriculum vitae" />
-<meta name="generator" content="Org Mode" />
-<style>
-  #content { max-width: 60em; margin: auto; }
+<meta name="description" content="Meriter - Curriculum vitae"
+ />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
@@ -32,9 +33,8 @@
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #e6e6e6;
-    border-radius: 3px;
-    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -42,22 +42,22 @@
   }
   pre.src {
     position: relative;
-    overflow: auto;
+    overflow: visible;
+    padding-top: 1.2em;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    top: -8px;
-    right: 12px;
+    background-color: white;
+    top: -10px;
+    right: 10px;
     padding: 3px;
-    color: #555;
-    background-color: #f2f2f299;
+    border: 1px solid black;
   }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
+  pre.src:hover:before { display: inline;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
-  pre.src-authinfo::before { content: 'Authinfo'; }
   pre.src-C:before { content: 'C'; }
   /* pre.src-C++ doesn't work in CSS */
   pre.src-clojure:before { content: 'Clojure'; }
@@ -193,38 +193,65 @@
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   .org-svg { width: 90%; }
+  /*]]>*/-->
 </style>
 <link rel="stylesheet" type="text/css" href="./css/style.css" />
-<script>
-// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.add("code-highlighted");
-         target.classList.add("code-highlighted");
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.remove("code-highlighted");
-         target.classList.remove("code-highlighted");
-       }
-     }
-// @license-end
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
 </script>
 </head>
 <body>
-<div id="content" class="content">
+<div id="content">
 <h1 class="title">Johan Sandén
 <br />
 <span class="subtitle">Curriculum Vitae (CV)</span>
 </h1>
 <div class="org-center">
 
-<div id="orge5b9697" class="figure">
+<div class="figure">
 <p><img src="handsome_dude.jpg" alt="handsome_dude.jpg" />
 </p>
 </div>
@@ -244,18 +271,18 @@ PDF</a> för utskrift.
 </p>
 
 
-<div id="table-of-contents" role="doc-toc">
+<div id="table-of-contents">
 <h2>Inneh&aring;ll</h2>
-<div id="text-table-of-contents" role="doc-toc">
+<div id="text-table-of-contents">
 <ul>
 <li><a href="#h:ceeeaa24-33d8-4d16-aa22-ae963f98ae3a">1. Allmänt</a>
 <ul>
 <li><a href="#h:8792e991-bb6b-4b47-aa97-ccb68b40887a">1.1. Information</a></li>
-<li><a href="#orged92ae2">1.2. Kontaktuppgifter</a></li>
-<li><a href="#org130f030">1.3. Vem är Johan?</a></li>
+<li><a href="#org0c4eb42">1.2. Kontaktuppgifter</a></li>
+<li><a href="#orgb1c966d">1.3. Vem är Johan?</a></li>
 <li><a href="#h:f825a259-9bd6-4a12-913e-5af786ccbce0">1.4. Önskade arbetsuppgifter.</a></li>
-<li><a href="#org5366f78">1.5. Kompetens och erfarenhet</a></li>
-<li><a href="#org067e375">1.6. Förtroendeuppdrag.</a></li>
+<li><a href="#orgd85431a">1.5. Kompetens och erfarenhet</a></li>
+<li><a href="#orgc8eacdd">1.6. Förtroendeuppdrag.</a></li>
 <li><a href="#h:22921615-ef13-48d3-965a-d74661f16611">1.7. Nuvarande anställning</a></li>
 </ul>
 </li>
@@ -295,16 +322,16 @@ PDF</a> för utskrift.
 </div>
 </div>
 
-<div id="outline-container-h:ceeeaa24-33d8-4d16-aa22-ae963f98ae3a" class="outline-2">
-<h2 id="h:ceeeaa24-33d8-4d16-aa22-ae963f98ae3a"><span class="section-number-2">1.</span> Allmänt</h2>
+<div id="outline-container-orgb930852" class="outline-2">
+<h2 id="h:ceeeaa24-33d8-4d16-aa22-ae963f98ae3a"><span class="section-number-2">1</span> Allmänt</h2>
 <div class="outline-text-2" id="text-h:ceeeaa24-33d8-4d16-aa22-ae963f98ae3a">
 </div>
-<div id="outline-container-h:8792e991-bb6b-4b47-aa97-ccb68b40887a" class="outline-3">
-<h3 id="h:8792e991-bb6b-4b47-aa97-ccb68b40887a"><span class="section-number-3">1.1.</span> Information</h3>
+<div id="outline-container-org116fdb0" class="outline-3">
+<h3 id="h:8792e991-bb6b-4b47-aa97-ccb68b40887a"><span class="section-number-3">1.1</span> Information</h3>
 <div class="outline-text-3" id="text-h:8792e991-bb6b-4b47-aa97-ccb68b40887a">
 <ol class="org-ol">
 <li>Namn: Sandén, <span class="underline">Johan</span> Ragnar</li>
-<li>Födelsedatum: <span class="timestamp-wrapper"><span class="timestamp">[1973-04-20 Fri] </span></span></li>
+<li>Födelsedatum: <span class="timestamp-wrapper"><span class="timestamp">[1973-04-20 fre] </span></span></li>
 <li>Bostadsort: Gävle, Hille</li>
 <li>Körkort: B</li>
 <li>Civilstatus: Gift - Anna</li>
@@ -317,8 +344,8 @@ PDF</a> för utskrift.
 </div>
 </div>
 
-<div id="outline-container-orged92ae2" class="outline-3">
-<h3 id="orged92ae2"><span class="section-number-3">1.2.</span> Kontaktuppgifter</h3>
+<div id="outline-container-org0c4eb42" class="outline-3">
+<h3 id="org0c4eb42"><span class="section-number-3">1.2</span> Kontaktuppgifter</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 <b>Namn</b><br />
@@ -350,15 +377,15 @@ Hattmursvägen 5 <br />
 </div>
 </div>
 
-<div id="outline-container-org130f030" class="outline-3">
-<h3 id="org130f030"><span class="section-number-3">1.3.</span> Vem är Johan?</h3>
+<div id="outline-container-orgb1c966d" class="outline-3">
+<h3 id="orgb1c966d"><span class="section-number-3">1.3</span> Vem är Johan?</h3>
 <div class="outline-text-3" id="text-1-3">
 <ul class="org-ul">
 <li>Mina vänner beskriver mig som tankfull och lugn.</li>
 <li>Föredrar att vara hemma på kvällar, helger och semester.</li>
-<li>Hängiven förespråkare av GnuEmacs<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>/-Linux<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup>, Git<sup><a id="fnr.3" class="footref" href="#fn.3" role="doc-backlink">3</a></sup>, Lisp, Python<sup><a id="fnr.4" class="footref" href="#fn.4" role="doc-backlink">4</a></sup> mm.</li>
+<li>Hängiven förespråkare av GnuEmacs<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>/-Linux<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>, Git<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>, Lisp, Python<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> mm.</li>
 <li>Vegetarian</li>
-<li>Ordförande i Gefle Ölsellskap<sup><a id="fnr.5" class="footref" href="#fn.5" role="doc-backlink">5</a></sup>.
+<li>Ordförande i Gefle Ölsellskap<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>.
 <ul class="org-ul">
 <li>Åren 2017 - 2021</li>
 </ul></li>
@@ -374,22 +401,22 @@ mig programmera.</li>
 </div>
 </div>
 
-<div id="outline-container-h:f825a259-9bd6-4a12-913e-5af786ccbce0" class="outline-3">
-<h3 id="h:f825a259-9bd6-4a12-913e-5af786ccbce0"><span class="section-number-3">1.4.</span> Önskade arbetsuppgifter.</h3>
+<div id="outline-container-org10dfde8" class="outline-3">
+<h3 id="h:f825a259-9bd6-4a12-913e-5af786ccbce0"><span class="section-number-3">1.4</span> Önskade arbetsuppgifter.</h3>
 <div class="outline-text-3" id="text-h:f825a259-9bd6-4a12-913e-5af786ccbce0">
 <ul class="org-ul">
 <li>Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
 automatisering.
-Unix/GnuLinux<sup><a id="fnr.2.100" class="footref" href="#fn.2" role="doc-backlink">2</a></sup>-miljö gärna i
-Python<sup><a id="fnr.4.100" class="footref" href="#fn.4" role="doc-backlink">4</a></sup> eller liknande.</li>
+Unix/GnuLinux<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup>-miljö gärna i
+Python<sup><a id="fnr.4.100" class="footref" href="#fn.4">4</a></sup> eller liknande.</li>
 <li>Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.</li>
 <li>Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org5366f78" class="outline-3">
-<h3 id="org5366f78"><span class="section-number-3">1.5.</span> Kompetens och erfarenhet</h3>
+<div id="outline-container-orgd85431a" class="outline-3">
+<h3 id="orgd85431a"><span class="section-number-3">1.5</span> Kompetens och erfarenhet</h3>
 <div class="outline-text-3" id="text-1-5">
 <ol class="org-ol">
 <li>25+ års erfarenhet i IT-branschen främst som it-konsult och
@@ -400,8 +427,8 @@ systemutvecklare.</li>
 </div>
 </div>
 
-<div id="outline-container-org067e375" class="outline-3">
-<h3 id="org067e375"><span class="section-number-3">1.6.</span> Förtroendeuppdrag.</h3>
+<div id="outline-container-orgc8eacdd" class="outline-3">
+<h3 id="orgc8eacdd"><span class="section-number-3">1.6</span> Förtroendeuppdrag.</h3>
 <div class="outline-text-3" id="text-1-6">
 <ul class="org-ul">
 <li><p>
@@ -419,8 +446,8 @@ tillsammans.
 </div>
 </div>
 
-<div id="outline-container-h:22921615-ef13-48d3-965a-d74661f16611" class="outline-3">
-<h3 id="h:22921615-ef13-48d3-965a-d74661f16611"><span class="section-number-3">1.7.</span> Nuvarande anställning</h3>
+<div id="outline-container-org62d6757" class="outline-3">
+<h3 id="h:22921615-ef13-48d3-965a-d74661f16611"><span class="section-number-3">1.7</span> Nuvarande anställning</h3>
 <div class="outline-text-3" id="text-h:22921615-ef13-48d3-965a-d74661f16611">
 <p>
 Sedan 2008 har jag arbetat som It-konsult i Gävle med KnowIT som
@@ -462,12 +489,12 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-lblkurser" class="outline-2">
-<h2 id="lblkurser"><span class="section-number-2">2.</span> Utbildningar och kurser</h2>
+<div id="outline-container-org01f8c28" class="outline-2">
+<h2 id="lblkurser"><span class="section-number-2">2</span> Utbildningar och kurser</h2>
 <div class="outline-text-2" id="text-lblkurser">
 </div>
-<div id="outline-container-h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783" class="outline-3">
-<h3 id="h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783"><span class="section-number-3">2.1.</span> Kurs: Systemförvaltning med PM3 och ITIL i samverkan.</h3>
+<div id="outline-container-org86cdad9" class="outline-3">
+<h3 id="h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783"><span class="section-number-3">2.1</span> Kurs: Systemförvaltning med PM3 och ITIL i samverkan.</h3>
 <div class="outline-text-3" id="text-h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -501,8 +528,8 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-h:567af795-b508-46ee-afe9-d10f3f9f1dfe" class="outline-3">
-<h3 id="h:567af795-b508-46ee-afe9-d10f3f9f1dfe"><span class="section-number-3">2.2.</span> Kurs/Certifiering: <a href="https://www.prince2.com/eur">PRINCE2®</a></h3>
+<div id="outline-container-org275c87f" class="outline-3">
+<h3 id="h:567af795-b508-46ee-afe9-d10f3f9f1dfe"><span class="section-number-3">2.2</span> Kurs/Certifiering: <a href="https://www.prince2.com/eur">PRINCE2®</a></h3>
 <div class="outline-text-3" id="text-h:567af795-b508-46ee-afe9-d10f3f9f1dfe">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -536,8 +563,8 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-h:35953f9e-bc28-4fa8-b7ee-4c8b0dbf3bbc" class="outline-3">
-<h3 id="h:35953f9e-bc28-4fa8-b7ee-4c8b0dbf3bbc"><span class="section-number-3">2.3.</span> <a href="http://kurs.citerus.se/kurser/niva-2/certifierad-produktagare-i-scrum">Kurs/Certifiering: Produktägare</a></h3>
+<div id="outline-container-orgae172c3" class="outline-3">
+<h3 id="h:35953f9e-bc28-4fa8-b7ee-4c8b0dbf3bbc"><span class="section-number-3">2.3</span> <a href="http://kurs.citerus.se/kurser/niva-2/certifierad-produktagare-i-scrum">Kurs/Certifiering: Produktägare</a></h3>
 <div class="outline-text-3" id="text-h:35953f9e-bc28-4fa8-b7ee-4c8b0dbf3bbc">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -571,8 +598,8 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-h:f577cff5-da38-495a-8abe-1d30a461bfed" class="outline-3">
-<h3 id="h:f577cff5-da38-495a-8abe-1d30a461bfed"><span class="section-number-3">2.4.</span> <a href="http://www.citerus.se/curriculum/193425-certifierad-scrum-master">Kurs/Certifiering: Scrum Master</a></h3>
+<div id="outline-container-org1ce0fa7" class="outline-3">
+<h3 id="h:f577cff5-da38-495a-8abe-1d30a461bfed"><span class="section-number-3">2.4</span> <a href="http://www.citerus.se/curriculum/193425-certifierad-scrum-master">Kurs/Certifiering: Scrum Master</a></h3>
 <div class="outline-text-3" id="text-h:f577cff5-da38-495a-8abe-1d30a461bfed">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -606,8 +633,8 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-h:fb5ad144-354b-416c-9f76-c0b9e55a3e76" class="outline-3">
-<h3 id="h:fb5ad144-354b-416c-9f76-c0b9e55a3e76"><span class="section-number-3">2.5.</span> <a href="http://www.learningtree.se/cert/direct/cert1.htm">Kurs/Certifiering: Projekledning</a></h3>
+<div id="outline-container-org23522de" class="outline-3">
+<h3 id="h:fb5ad144-354b-416c-9f76-c0b9e55a3e76"><span class="section-number-3">2.5</span> <a href="http://www.learningtree.se/cert/direct/cert1.htm">Kurs/Certifiering: Projekledning</a></h3>
 <div class="outline-text-3" id="text-h:fb5ad144-354b-416c-9f76-c0b9e55a3e76">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -642,8 +669,8 @@ varierat.
 
 
 
-<div id="outline-container-h:0e99fa60-a35a-4253-a393-551257cdabc3" class="outline-4">
-<h4 id="h:0e99fa60-a35a-4253-a393-551257cdabc3"><span class="section-number-4">2.5.1.</span> Ingående kurser</h4>
+<div id="outline-container-orge74fe08" class="outline-4">
+<h4 id="h:0e99fa60-a35a-4253-a393-551257cdabc3"><span class="section-number-4">2.5.1</span> Ingående kurser</h4>
 <div class="outline-text-4" id="text-h:0e99fa60-a35a-4253-a393-551257cdabc3">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -685,8 +712,8 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-h:6c74b2d6-c957-4b27-9c4e-021eda04ba14" class="outline-3">
-<h3 id="h:6c74b2d6-c957-4b27-9c4e-021eda04ba14"><span class="section-number-3">2.6.</span> <a href="http://www.astrakan.se/Kurser/Projektledning/Praktisk-projektledning/?gclid=COrAnJv1orcCFdOXcAodsTcASw">Kurs: Praktisk Projektledning</a></h3>
+<div id="outline-container-org9d90bd1" class="outline-3">
+<h3 id="h:6c74b2d6-c957-4b27-9c4e-021eda04ba14"><span class="section-number-3">2.6</span> <a href="http://www.astrakan.se/Kurser/Projektledning/Praktisk-projektledning/?gclid=COrAnJv1orcCFdOXcAodsTcASw">Kurs: Praktisk Projektledning</a></h3>
 <div class="outline-text-3" id="text-h:6c74b2d6-c957-4b27-9c4e-021eda04ba14">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -716,8 +743,8 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-h:5da9cad4-e70f-49fd-b65a-7fd32c41f625" class="outline-3">
-<h3 id="h:5da9cad4-e70f-49fd-b65a-7fd32c41f625"><span class="section-number-3">2.7.</span> Skolor</h3>
+<div id="outline-container-org8183bd1" class="outline-3">
+<h3 id="h:5da9cad4-e70f-49fd-b65a-7fd32c41f625"><span class="section-number-3">2.7</span> Skolor</h3>
 <div class="outline-text-3" id="text-h:5da9cad4-e70f-49fd-b65a-7fd32c41f625">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -760,12 +787,12 @@ varierat.
 </div>
 </div>
 
-<div id="outline-container-h:8c20cf7d-6eed-4d9a-8ba4-e96e36f3a54a" class="outline-2">
-<h2 id="h:8c20cf7d-6eed-4d9a-8ba4-e96e36f3a54a"><span class="section-number-2">3.</span> Kompetenser</h2>
+<div id="outline-container-org5d22544" class="outline-2">
+<h2 id="h:8c20cf7d-6eed-4d9a-8ba4-e96e36f3a54a"><span class="section-number-2">3</span> Kompetenser</h2>
 <div class="outline-text-2" id="text-h:8c20cf7d-6eed-4d9a-8ba4-e96e36f3a54a">
 </div>
-<div id="outline-container-h:7fccea77-1506-44bb-b513-0e622f059e71" class="outline-3">
-<h3 id="h:7fccea77-1506-44bb-b513-0e622f059e71"><span class="section-number-3">3.1.</span> Branscher</h3>
+<div id="outline-container-org3875205" class="outline-3">
+<h3 id="h:7fccea77-1506-44bb-b513-0e622f059e71"><span class="section-number-3">3.1</span> Branscher</h3>
 <div class="outline-text-3" id="text-h:7fccea77-1506-44bb-b513-0e622f059e71">
 <ol class="org-ol">
 <li>Konsult : Jag har jobbat som konsult hos de flesta av mina <a href="#h:53cca876-30a7-4b82-bdec-9edfd9c27aa9">Arbetsgivare</a></li>
@@ -782,11 +809,11 @@ på <a href="#datorteket">Datorteket (Gävle Kommun)</a></li>
 </div>
 </div>
 
-<div id="outline-container-h:35829770-ec7c-4538-939c-2c4f3a2b66c2" class="outline-3">
-<h3 id="h:35829770-ec7c-4538-939c-2c4f3a2b66c2"><span class="section-number-3">3.2.</span> Programmeringsspråk</h3>
+<div id="outline-container-orga2d3a6e" class="outline-3">
+<h3 id="h:35829770-ec7c-4538-939c-2c4f3a2b66c2"><span class="section-number-3">3.2</span> Programmeringsspråk</h3>
 <div class="outline-text-3" id="text-h:35829770-ec7c-4538-939c-2c4f3a2b66c2">
 <ul class="org-ul">
-<li>Python<sup><a id="fnr.4.100" class="footref" href="#fn.4" role="doc-backlink">4</a></sup>, ELisp, Java<sup><a id="fnr.6" class="footref" href="#fn.6" role="doc-backlink">6</a></sup>, c/C++,</li>
+<li>Python<sup><a id="fnr.4.100" class="footref" href="#fn.4">4</a></sup>, ELisp, Java<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>, c/C++,</li>
 <li>Javascript, TypeScript (Angular)</li>
 <li>Sql, Bash</li>
 <li>HTML, CSS, JavaScript</li>
@@ -796,37 +823,37 @@ på <a href="#datorteket">Datorteket (Gävle Kommun)</a></li>
 </div>
 </div>
 
-<div id="outline-container-h:cf918f3b-60af-4ed6-a281-af17fced6ca2" class="outline-3">
-<h3 id="h:cf918f3b-60af-4ed6-a281-af17fced6ca2"><span class="section-number-3">3.3.</span> Utvecklingsmiljöer och Verktyg</h3>
+<div id="outline-container-org3d93985" class="outline-3">
+<h3 id="h:cf918f3b-60af-4ed6-a281-af17fced6ca2"><span class="section-number-3">3.3</span> Utvecklingsmiljöer och Verktyg</h3>
 <div class="outline-text-3" id="text-h:cf918f3b-60af-4ed6-a281-af17fced6ca2">
 <p>
-Jag sköter det mesta från Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1" role="doc-backlink">1</a></sup> oavsett språk.
+Jag sköter det mesta från Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup> oavsett språk.
 </p>
 
 <ul class="org-ul">
-<li>Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>
+<li>Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup>
 <ul class="org-ul">
-<li>Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1" role="doc-backlink">1</a></sup></li>
-<li>Org-mode<sup><a id="fnr.7" class="footref" href="#fn.7" role="doc-backlink">7</a></sup> (Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>)</li>
-<li>Eglot <sup><a id="fnr.8" class="footref" href="#fn.8" role="doc-backlink">8</a></sup></li>
-<li>LSP<sup><a id="fnr.9" class="footref" href="#fn.9" role="doc-backlink">9</a></sup> <sup>, </sup><sup><a id="fnr.10" class="footref" href="#fn.10" role="doc-backlink">10</a></sup></li>
-<li>Magit<sup><a id="fnr.11" class="footref" href="#fn.11" role="doc-backlink">11</a></sup><sup>, </sup><sup><a id="fnr.3.100" class="footref" href="#fn.3" role="doc-backlink">3</a></sup></li>
+<li>Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup></li>
+<li>Org-mode<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup> (Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup>)</li>
+<li>Eglot <sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup></li>
+<li>LSP<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup> <sup>, </sup><sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup></li>
+<li>Magit<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup><sup>, </sup><sup><a id="fnr.3.100" class="footref" href="#fn.3">3</a></sup></li>
 </ul></li>
-<li>Git<sup><a id="fnr.3.100" class="footref" href="#fn.3" role="doc-backlink">3</a></sup></li>
-<li>Java<sup><a id="fnr.6.100" class="footref" href="#fn.6" role="doc-backlink">6</a></sup>
+<li>Git<sup><a id="fnr.3.100" class="footref" href="#fn.3">3</a></sup></li>
+<li>Java<sup><a id="fnr.6.100" class="footref" href="#fn.6">6</a></sup>
 <ul class="org-ul">
-<li>JetBrains Intellij<sup><a id="fnr.12" class="footref" href="#fn.12" role="doc-backlink">12</a></sup>, Eclips-STS<sup><a id="fnr.13" class="footref" href="#fn.13" role="doc-backlink">13</a></sup></li>
-<li>Android Studio<sup><a id="fnr.14" class="footref" href="#fn.14" role="doc-backlink">14</a></sup></li>
-<li>Ant<sup><a id="fnr.15" class="footref" href="#fn.15" role="doc-backlink">15</a></sup>, Maven<sup><a id="fnr.16" class="footref" href="#fn.16" role="doc-backlink">16</a></sup></li>
+<li>JetBrains Intellij<sup><a id="fnr.12" class="footref" href="#fn.12">12</a></sup>, Eclips-STS<sup><a id="fnr.13" class="footref" href="#fn.13">13</a></sup></li>
+<li>Android Studio<sup><a id="fnr.14" class="footref" href="#fn.14">14</a></sup></li>
+<li>Ant<sup><a id="fnr.15" class="footref" href="#fn.15">15</a></sup>, Maven<sup><a id="fnr.16" class="footref" href="#fn.16">16</a></sup></li>
 </ul></li>
 </ul>
 </div>
 
-<div id="outline-container-orga8a56ce" class="outline-4">
-<h4 id="orga8a56ce"><span class="section-number-4">3.3.1.</span> Äldre miljöer</h4>
+<div id="outline-container-org400e0d2" class="outline-4">
+<h4 id="org400e0d2"><span class="section-number-4">3.3.1</span> Äldre miljöer</h4>
 <div class="outline-text-4" id="text-3-3-1">
 <ul class="org-ul">
-<li>Java<sup><a id="fnr.6.100" class="footref" href="#fn.6" role="doc-backlink">6</a></sup>
+<li>Java<sup><a id="fnr.6.100" class="footref" href="#fn.6">6</a></sup>
 <ul class="org-ul">
 <li>Netbeans, JBuilder</li>
 </ul></li>
@@ -839,8 +866,8 @@ Jag sköter det mesta från Emacs<sup><a id="fnr.1.100" class="footref" href="#f
 </div>
 </div>
 
-<div id="outline-container-h:53cca876-30a7-4b82-bdec-9edfd9c27aa9" class="outline-2">
-<h2 id="h:53cca876-30a7-4b82-bdec-9edfd9c27aa9"><span class="section-number-2">4.</span> Arbetsgivare och uppdrag</h2>
+<div id="outline-container-org3afe7a7" class="outline-2">
+<h2 id="h:53cca876-30a7-4b82-bdec-9edfd9c27aa9"><span class="section-number-2">4</span> Arbetsgivare och uppdrag</h2>
 <div class="outline-text-2" id="text-h:53cca876-30a7-4b82-bdec-9edfd9c27aa9">
 <p>
 Större delen av mitt yrkesliv har varit som it-konsult. Främst har jag jobbat
@@ -849,8 +876,8 @@ större och mindre projekt. Men jag har även gjort inhopp på bland annat, Gäv
 Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
 </p>
 </div>
-<div id="outline-container-onegroup" class="outline-3">
-<h3 id="onegroup"><span class="section-number-3">4.1.</span> One Group</h3>
+<div id="outline-container-org59953a2" class="outline-3">
+<h3 id="onegroup"><span class="section-number-3">4.1</span> One Group<sup><a id="fnr.17" class="footref" href="#fn.17">17</a></sup></h3>
 <div class="outline-text-3" id="text-onegroup">
 <p>
 Ett svenskt konsultbolag med Specialistkompetens inom IT. 
@@ -858,19 +885,22 @@ Ett svenskt konsultbolag med Specialistkompetens inom IT.
 
 <ol class="org-ol">
 <li>Period: September 2022 - Nuvarande</li>
-<li>Titel/Roller: Systemutvecklare, Konsult</li>
+<li>Titel/Roller: Systemutvecklare, It-Konsult</li>
 <li>Uppdrag:
 <ol class="org-ol">
-<li>TBD<sup><a id="fnr.17" class="footref" href="#fn.17" role="doc-backlink">17</a></sup></li>
+<li>Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
+leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
+grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.</li>
 </ol></li>
-<li>Plattformar: Linux<sup><a id="fnr.2.100" class="footref" href="#fn.2" role="doc-backlink">2</a></sup> (Ubuntu, Mint), Unix (Solaris)</li>
-<li>Teknik: Java, Python</li>
+<li>Plattformar: Linux<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup> (Ubuntu, Mint)</li>
+<li>Teknik: Java, Angular, Python, Spring, Spring-boot, Docker, Vitrualenv,
+Git, Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup></li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-knowit" class="outline-3">
-<h3 id="knowit"><span class="section-number-3">4.2.</span> Knowit<sup><a id="fnr.18" class="footref" href="#fn.18" role="doc-backlink">18</a></sup></h3>
+<div id="outline-container-orgea6f947" class="outline-3">
+<h3 id="knowit"><span class="section-number-3">4.2</span> Knowit<sup><a id="fnr.18" class="footref" href="#fn.18">18</a></sup></h3>
 <div class="outline-text-3" id="text-knowit">
 <p>
 Nordiskt konsultföretag med lokal närvaro.
@@ -896,21 +926,21 @@ Finölsfestivalen</li>
 Mulligan projektet. Grundatalager för Inskrivning, Tomträttsupplåtelse,
 IR-fastighet, Inteckningar, Inskrivet ägande mm</li>
 </ol></li>
-<li>Plattformar: Linux<sup><a id="fnr.2.100" class="footref" href="#fn.2" role="doc-backlink">2</a></sup> (Ubuntu, Mint), Unix (Solaris), Windows XP,
+<li>Plattformar: Linux<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup> (Ubuntu, Mint), Unix (Solaris), Windows XP,
 Windows 10</li>
-<li>Teknik: Python<sup><a id="fnr.4.100" class="footref" href="#fn.4" role="doc-backlink">4</a></sup> (pip/setuptools, flask, bottle, virtualenv,
-click, tox, pex), Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>/Org-mode<sup><a id="fnr.7.100" class="footref" href="#fn.7" role="doc-backlink">7</a></sup>, Docker,
-Java<sup><a id="fnr.6.100" class="footref" href="#fn.6" role="doc-backlink">6</a></sup> (Ant<sup><a id="fnr.15.100" class="footref" href="#fn.15" role="doc-backlink">15</a></sup>/Maven<sup><a id="fnr.16.100" class="footref" href="#fn.16" role="doc-backlink">16</a></sup>, Eclipse/STS/JBuilder,JSF,Spring
-Framework) ,Oracle ,SVN, CVS, GIT<sup><a id="fnr.3.100" class="footref" href="#fn.3" role="doc-backlink">3</a></sup>, Hybernate ,Jira, Fitnesse</li>
+<li>Teknik: Python<sup><a id="fnr.4.100" class="footref" href="#fn.4">4</a></sup> (pip/setuptools, flask, bottle, virtualenv,
+click, tox, pex), Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup>/Org-mode<sup><a id="fnr.7.100" class="footref" href="#fn.7">7</a></sup>, Docker,
+Java<sup><a id="fnr.6.100" class="footref" href="#fn.6">6</a></sup> (Ant<sup><a id="fnr.15.100" class="footref" href="#fn.15">15</a></sup>/Maven<sup><a id="fnr.16.100" class="footref" href="#fn.16">16</a></sup>, Eclipse/STS/JBuilder,JSF,Spring
+Framework) ,Oracle ,SVN, CVS, GIT<sup><a id="fnr.3.100" class="footref" href="#fn.3">3</a></sup>, Hybernate ,Jira, Fitnesse</li>
 </ol>
 </div>
 </div>
 
-<div id="outline-container-mandator-fujitsu" class="outline-3">
-<h3 id="mandator-fujitsu"><span class="section-number-3">4.3.</span> Mandator/Fujitsu<sup><a id="fnr.19" class="footref" href="#fn.19" role="doc-backlink">19</a></sup></h3>
+<div id="outline-container-org0613ca2" class="outline-3">
+<h3 id="mandator-fujitsu"><span class="section-number-3">4.3</span> Mandator/Fujitsu<sup><a id="fnr.19" class="footref" href="#fn.19">19</a></sup></h3>
 <div class="outline-text-3" id="text-mandator-fujitsu">
 <p>
-Fujitsu, ett internationellt konsultföretag <sup><a id="fnr.20" class="footref" href="#fn.20" role="doc-backlink">20</a></sup>.
+Fujitsu, ett internationellt konsultföretag <sup><a id="fnr.20" class="footref" href="#fn.20">20</a></sup>.
 </p>
 
 <ol class="org-ol">
@@ -928,7 +958,7 @@ adress register.</li>
 <li>Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
 fastigheter.</li>
 </ol></li>
-<li>Teknik: Java, Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1" role="doc-backlink">1</a></sup>, Org-mode<sup><a id="fnr.7.100" class="footref" href="#fn.7" role="doc-backlink">7</a></sup>, BEA WLS, Tibco RDV, Fujitzu iFlow.,
+<li>Teknik: Java, Emacs<sup><a id="fnr.1.100" class="footref" href="#fn.1">1</a></sup>, Org-mode<sup><a id="fnr.7.100" class="footref" href="#fn.7">7</a></sup>, BEA WLS, Tibco RDV, Fujitzu iFlow.,
 XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
 JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
 Proffessionell),senare HP QC, Tomcat</li>
@@ -936,8 +966,8 @@ Proffessionell),senare HP QC, Tomcat</li>
 </div>
 </div>
 
-<div id="outline-container-itgdata" class="outline-3">
-<h3 id="itgdata"><span class="section-number-3">4.4.</span> ITG Data<sup><a id="fnr.21" class="footref" href="#fn.21" role="doc-backlink">21</a></sup></h3>
+<div id="outline-container-orgedb825d" class="outline-3">
+<h3 id="itgdata"><span class="section-number-3">4.4</span> ITG Data<sup><a id="fnr.21" class="footref" href="#fn.21">21</a></sup></h3>
 <div class="outline-text-3" id="text-itgdata">
 <p>
 Dataavdelningen på ett industriteknik företag. 
@@ -953,17 +983,17 @@ systemtester för produktion.</li>
 </ol>
 </div>
 </div>
-<div id="outline-container-utilator" class="outline-3">
-<h3 id="utilator"><span class="section-number-3">4.5.</span> Utilator<sup><a id="fnr.22" class="footref" href="#fn.22" role="doc-backlink">22</a></sup></h3>
+<div id="outline-container-org2c24fb4" class="outline-3">
+<h3 id="utilator"><span class="section-number-3">4.5</span> Utilator<sup><a id="fnr.22" class="footref" href="#fn.22">22</a></sup></h3>
 <div class="outline-text-3" id="text-utilator">
 <p>
 Ett litet it-företag med inriktning mot "smarta hem".
 </p>
 
 <ol class="org-ol">
-<li>Period: November 2000 - Februari 2001<sup><a id="fnr.22.100" class="footref" href="#fn.22" role="doc-backlink">22</a></sup></li>
+<li>Period: November 2000 - Februari 2001<sup><a id="fnr.22.100" class="footref" href="#fn.22">22</a></sup></li>
 <li>Titel: Systemutvecklare.</li>
-<li>Plattform: Linux<sup><a id="fnr.2.100" class="footref" href="#fn.2" role="doc-backlink">2</a></sup> Redhat</li>
+<li>Plattform: Linux<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup> Redhat</li>
 <li>Uppdrag: "Smarta hem"
 <ul class="org-ul">
 <li>Elektroniskt bokningssystem (garage, tvättstuga osv.)</li>
@@ -972,15 +1002,15 @@ Ett litet it-företag med inriktning mot "smarta hem".
 </ol>
 </div>
 </div>
-<div id="outline-container-mind" class="outline-3">
-<h3 id="mind"><span class="section-number-3">4.6.</span> Mind<sup><a id="fnr.23" class="footref" href="#fn.23" role="doc-backlink">23</a></sup></h3>
+<div id="outline-container-org6b3eaed" class="outline-3">
+<h3 id="mind"><span class="section-number-3">4.6</span> Mind<sup><a id="fnr.23" class="footref" href="#fn.23">23</a></sup></h3>
 <div class="outline-text-3" id="text-mind">
 <p>
 Ett Stockholmsbaserat konsultföretag med inriktning på web.
 </p>
 
 <ol class="org-ol">
-<li>Period: Maj 2000 - November 2000<sup><a id="fnr.23.100" class="footref" href="#fn.23" role="doc-backlink">23</a></sup></li>
+<li>Period: Maj 2000 - November 2000<sup><a id="fnr.23.100" class="footref" href="#fn.23">23</a></sup></li>
 <li>Titel: Java Expert, It-konsult.</li>
 <li>Plattformar: Windows 2000, Solaris</li>
 <li>Uppdrag: Portaler
@@ -993,8 +1023,8 @@ Ett Stockholmsbaserat konsultföretag med inriktning på web.
 </div>
 </div>
 
-<div id="outline-container-mandator-cellnetwork" class="outline-3">
-<h3 id="mandator-cellnetwork"><span class="section-number-3">4.7.</span> Mandator/CellNetwork<sup><a id="fnr.19.100" class="footref" href="#fn.19" role="doc-backlink">19</a></sup></h3>
+<div id="outline-container-org2fde8af" class="outline-3">
+<h3 id="mandator-cellnetwork"><span class="section-number-3">4.7</span> Mandator/CellNetwork<sup><a id="fnr.19.100" class="footref" href="#fn.19">19</a></sup></h3>
 <div class="outline-text-3" id="text-mandator-cellnetwork">
 <p>
 Ett nationellt konsultföretag.
@@ -1014,8 +1044,8 @@ Ett nationellt konsultföretag.
 </div>
 </div>
 
-<div id="outline-container-syntronic" class="outline-3">
-<h3 id="syntronic"><span class="section-number-3">4.8.</span> Syntronic<sup><a id="fnr.24" class="footref" href="#fn.24" role="doc-backlink">24</a></sup></h3>
+<div id="outline-container-org8aae777" class="outline-3">
+<h3 id="syntronic"><span class="section-number-3">4.8</span> Syntronic<sup><a id="fnr.24" class="footref" href="#fn.24">24</a></sup></h3>
 <div class="outline-text-3" id="text-syntronic">
 <p>
 Konsultföretag med inriktning på elektronik, radio och telecom.
@@ -1039,8 +1069,8 @@ MFC, ASP, Assembler, Idefix</li>
 </div>
 </div>
 
-<div id="outline-container-kenvision" class="outline-3">
-<h3 id="kenvision"><span class="section-number-3">4.9.</span> KenVision</h3>
+<div id="outline-container-orgdde9ce9" class="outline-3">
+<h3 id="kenvision"><span class="section-number-3">4.9</span> KenVision</h3>
 <div class="outline-text-3" id="text-kenvision">
 <p>
 Lösningsföretag med inriktning mot 3D och virtual reality.
@@ -1065,8 +1095,8 @@ mässor, monterdesign och reklam.
 </div>
 </div>
 
-<div id="outline-container-datorteket" class="outline-3">
-<h3 id="datorteket"><span class="section-number-3">4.10.</span> Datorteket (Gävle Kommun)</h3>
+<div id="outline-container-orgff8ef0c" class="outline-3">
+<h3 id="datorteket"><span class="section-number-3">4.10</span> Datorteket (Gävle Kommun)</h3>
 <div class="outline-text-3" id="text-datorteket">
 <p>
 Kommunalt projekt för att höja den allmänna datorvanan hos
@@ -1086,65 +1116,66 @@ och arbetslösas.
 <h2 class="footnotes">Fotnoter: </h2>
 <div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1" role="doc-backlink">1</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://www.gnu.org/software/emacs/">https://www.gnu.org/software/emacs/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara"><a href="https://www.gnu.org/software/emacs/">https://www.gnu.org/software/emacs/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2" role="doc-backlink">2</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://en.wikipedia.org/wiki/Linux">https://en.wikipedia.org/wiki/Linux</a></p></div></div>
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara"><a href="https://en.wikipedia.org/wiki/Linux">https://en.wikipedia.org/wiki/Linux</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3" role="doc-backlink">3</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://git-scm.com/">https://git-scm.com/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara"><a href="https://git-scm.com/">https://git-scm.com/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4" role="doc-backlink">4</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://www.python.org/">https://www.python.org/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara"><a href="https://www.python.org/">https://www.python.org/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5" role="doc-backlink">5</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="http://gefleolsellskap.com/">http://gefleolsellskap.com/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara"><a href="http://gefleolsellskap.com/">http://gefleolsellskap.com/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6" role="doc-backlink">6</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://openjdk.java.net/">https://openjdk.java.net/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara"><a href="https://openjdk.java.net/">https://openjdk.java.net/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7" role="doc-backlink">7</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://orgmode.org/">https://orgmode.org/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara"><p class="footpara"><a href="https://orgmode.org/">https://orgmode.org/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8" role="doc-backlink">8</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://github.com/joaotavora/eglot">https://github.com/joaotavora/eglot</a></p></div></div>
+<div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8">8</a></sup> <div class="footpara"><p class="footpara"><a href="https://github.com/joaotavora/eglot">https://github.com/joaotavora/eglot</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.9" class="footnum" href="#fnr.9" role="doc-backlink">9</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://langserver.org/">https://langserver.org/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.9" class="footnum" href="#fnr.9">9</a></sup> <div class="footpara"><p class="footpara"><a href="https://langserver.org/">https://langserver.org/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.10" class="footnum" href="#fnr.10" role="doc-backlink">10</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://microsoft.github.io/language-server-protocol/">https://microsoft.github.io/language-server-protocol/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.10" class="footnum" href="#fnr.10">10</a></sup> <div class="footpara"><p class="footpara"><a href="https://microsoft.github.io/language-server-protocol/">https://microsoft.github.io/language-server-protocol/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.11" class="footnum" href="#fnr.11" role="doc-backlink">11</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://magit.vc/">https://magit.vc/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.11" class="footnum" href="#fnr.11">11</a></sup> <div class="footpara"><p class="footpara"><a href="https://magit.vc/">https://magit.vc/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.12" class="footnum" href="#fnr.12" role="doc-backlink">12</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://www.jetbrains.com/toolbox-app/">https://www.jetbrains.com/toolbox-app/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.12" class="footnum" href="#fnr.12">12</a></sup> <div class="footpara"><p class="footpara"><a href="https://www.jetbrains.com/toolbox-app/">https://www.jetbrains.com/toolbox-app/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.13" class="footnum" href="#fnr.13" role="doc-backlink">13</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://spring.io/tools">https://spring.io/tools</a></p></div></div>
+<div class="footdef"><sup><a id="fn.13" class="footnum" href="#fnr.13">13</a></sup> <div class="footpara"><p class="footpara"><a href="https://spring.io/tools">https://spring.io/tools</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.14" class="footnum" href="#fnr.14" role="doc-backlink">14</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://developer.android.com/studio">https://developer.android.com/studio</a></p></div></div>
+<div class="footdef"><sup><a id="fn.14" class="footnum" href="#fnr.14">14</a></sup> <div class="footpara"><p class="footpara"><a href="https://developer.android.com/studio">https://developer.android.com/studio</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.15" class="footnum" href="#fnr.15" role="doc-backlink">15</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://ant.apache.org/">https://ant.apache.org/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.15" class="footnum" href="#fnr.15">15</a></sup> <div class="footpara"><p class="footpara"><a href="https://ant.apache.org/">https://ant.apache.org/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.16" class="footnum" href="#fnr.16" role="doc-backlink">16</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara"><a href="https://maven.apache.org/">https://maven.apache.org/</a></p></div></div>
+<div class="footdef"><sup><a id="fn.16" class="footnum" href="#fnr.16">16</a></sup> <div class="footpara"><p class="footpara"><a href="https://maven.apache.org/">https://maven.apache.org/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.17" class="footnum" href="#fnr.17" role="doc-backlink">17</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">Skall avgöras</p></div></div>
+<div class="footdef"><sup><a id="fn.17" class="footnum" href="#fnr.17">17</a></sup> <div class="footpara"><p class="footpara"><a href="http://one-group.se/">http://one-group.se/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.18" class="footnum" href="#fnr.18" role="doc-backlink">18</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">www.knowit.se</p></div></div>
+<div class="footdef"><sup><a id="fn.18" class="footnum" href="#fnr.18">18</a></sup> <div class="footpara"><p class="footpara"><a href="http://:www.knowit.se">http://:www.knowit.se</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.19" class="footnum" href="#fnr.19" role="doc-backlink">19</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">www.fujitsu.com/se/</p></div></div>
+<div class="footdef"><sup><a id="fn.19" class="footnum" href="#fnr.19">19</a></sup> <div class="footpara"><p class="footpara"><a href="http://www.fujitsu.com/se/">http://www.fujitsu.com/se/</a></p></div></div>
 
-<div class="footdef"><sup><a id="fn.20" class="footnum" href="#fnr.20" role="doc-backlink">20</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">
+<div class="footdef"><sup><a id="fn.20" class="footnum" href="#fnr.20">20</a></sup> <div class="footpara"><p class="footpara">
 Företaget bytte namn 3 gånger under min anställning.
 </p></div></div>
 
-<div class="footdef"><sup><a id="fn.21" class="footnum" href="#fnr.21" role="doc-backlink">21</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">Såldes till BIS industriteknik 2006</p></div></div>
+<div class="footdef"><sup><a id="fn.21" class="footnum" href="#fnr.21">21</a></sup> <div class="footpara"><p class="footpara">Såldes till BIS industriteknik 2006</p></div></div>
 
-<div class="footdef"><sup><a id="fn.22" class="footnum" href="#fnr.22" role="doc-backlink">22</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">Anställd 3 månader innan konkurs</p></div></div>
+<div class="footdef"><sup><a id="fn.22" class="footnum" href="#fnr.22">22</a></sup> <div class="footpara"><p class="footpara">Anställd 3 månader på
+utilator innan konkurs</p></div></div>
 
-<div class="footdef"><sup><a id="fn.23" class="footnum" href="#fnr.23" role="doc-backlink">23</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">"It-bubblan" sprack och företaget
-gick i konkurs</p></div></div>
+<div class="footdef"><sup><a id="fn.23" class="footnum" href="#fnr.23">23</a></sup> <div class="footpara"><p class="footpara">Mind gick in konkurs under
+it-bubblan 2000</p></div></div>
 
-<div class="footdef"><sup><a id="fn.24" class="footnum" href="#fnr.24" role="doc-backlink">24</a></sup> <div class="footpara" role="doc-footnote"><p class="footpara">www.syntronic.se</p></div></div>
+<div class="footdef"><sup><a id="fn.24" class="footnum" href="#fnr.24">24</a></sup> <div class="footpara"><p class="footpara"><a href="http://www.syntronic.com">http://www.syntronic.com</a></p></div></div>
 
 
 </div>
 </div></div>
 <div id="postamble" class="status">
-<p class="date">Datum: 2022-06-30 Thu 23:57</p>
+<p class="date">Datum: 2022-09-13 tis 12:30</p>
 <p class="author">F&ouml;rfattare: Johan Sandén</p>
-<p class="date">Created: 2022-06-30 Thu 23:57</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2022-09-13 tis 12:30</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

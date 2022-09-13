@@ -307,7 +307,7 @@ Beräkningar på hur länge jag jobbat.
   Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
   
 #+LaTeX: \pagebreak
-** One Group
+** One Group[fn:onegroup:http://one-group.se/]
 :PROPERTIES:
 :CUSTOM_ID: onegroup
 :END:
@@ -315,13 +315,16 @@ Beräkningar på hur länge jag jobbat.
    Ett svenskt konsultbolag med Specialistkompetens inom IT. 
 
    1. Period: September 2022 - Nuvarande
-   2. Titel/Roller: Systemutvecklare, Konsult
+   2. Titel/Roller: Systemutvecklare, It-Konsult
    3. Uppdrag:
-      1) TBD[fn:tbd:Skall avgöras]
-   4. Plattformar: Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris)
-   5. Teknik: Java, Python
+      1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
+         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
+         grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
+   4. Plattformar: Linux[fn:linux] (Ubuntu, Mint)
+   5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker, Vitrualenv,
+      Git, Emacs[fn:emacs]
       
-** Knowit[fn:knowit:www.knowit.se]
+** Knowit[fn:knowit:http://:www.knowit.se]
 :PROPERTIES:
 :CUSTOM_ID: knowit
 :END:
@@ -353,7 +356,7 @@ Nordiskt konsultföretag med lokal närvaro.
       Framework) ,Oracle ,SVN, CVS, GIT[fn:git], Hybernate ,Jira, Fitnesse
 #+LaTeX: \pagebreak
 
-** Mandator/Fujitsu[fn:fujitsu:www.fujitsu.com/se/]
+** Mandator/Fujitsu[fn:fujitsu:http://www.fujitsu.com/se/]
 :PROPERTIES:
 :CUSTOM_ID: mandator-fujitsu
 :END:
@@ -399,7 +402,8 @@ Nordiskt konsultföretag med lokal närvaro.
 :END:
    Ett litet it-företag med inriktning mot "smarta hem".
 
-   1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader innan konkurs]
+   1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader på
+      utilator innan konkurs]
    2) Titel: Systemutvecklare.
    3) Plattform: Linux[fn:linux] Redhat
    4) Uppdrag: "Smarta hem"
@@ -413,8 +417,8 @@ Nordiskt konsultföretag med lokal närvaro.
    :END:
    Ett Stockholmsbaserat konsultföretag med inriktning på web.
 
-   1) Period: Maj 2000 - November 2000[fn:mind:"It-bubblan" sprack och företaget
-      gick i konkurs]
+   1) Period: Maj 2000 - November 2000[fn:mind:Mind gick in konkurs under
+      it-bubblan 2000]
    2) Titel: Java Expert, It-konsult.
    3) Plattformar: Windows 2000, Solaris
    4) Uppdrag: Portaler
@@ -440,7 +444,7 @@ Nordiskt konsultföretag med lokal närvaro.
 
 #+LaTeX: \pagebreak
 
-** Syntronic[fn:syntronic:www.syntronic.se] 
+** Syntronic[fn:syntronic:http://www.syntronic.com] 
 :PROPERTIES:
 :CUSTOM_ID: syntronic
 :END:
