@@ -1,0 +1,11 @@
+#+title: 18000
+#+subtitle: <2022-08-01 10:50>
+#+date: <2022-08-01 10:50:43>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+Idag fyller jag exakt 18000 dagar.
+
+------------

@@ -48,6 +48,8 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
     - Inläggen kommer i skov.
   - [[https://www.facebook.com/johan.sanden][Facebook]]
     - ...försöker jag undvika.
+  - [[https://mastodon.nu/@vcmsxs][Mastodon]]
+    - Det här kanske kan ersätta twitter och facebook?
 
 * Underligheter
   - [[file:./studium/studium.org][Studium]] 

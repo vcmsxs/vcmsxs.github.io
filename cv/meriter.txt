@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2022-07-16 Sat 14:57>
+                         <2022-11-20 Sun 17:05>
 
 
                         <file:handsome_dude.jpg>
@@ -103,7 +103,7 @@ _________________
 
   + Mina vänner beskriver mig som tankfull och lugn.
   + Föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs[1]/-Linux[2], Git[3], Lisp,
+  + Hängiven förespråkare av GnuEmacs[1]/-Gnu/Linux[2], Git[3], Lisp,
     Python[4] mm.
   + Vegetarian
   + Ordförande i Gefle Ölsellskap[5].
@@ -123,7 +123,7 @@ _________________
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
-    automatisering. Unix/GnuLinux[2]-miljö gärna i Python[4] eller
+    automatisering. Unix/Gnu/Linux[2]-miljö gärna i Python[4] eller
     liknande.
   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
   - Jag håller gärna föredrag och utbildning oavsett vilken roll jag
@@ -157,9 +157,10 @@ _________________
 1.7 Nuvarande anställning
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Sedan 2008 har jag arbetat som It-konsult i Gävle med KnowIT som
-  arbetsgivare. Den senaste tiden har jag främst arbetat inom
-  fastighetsdata mot Lantmäteriet. Rollerna och projekten har varierat.
+  Sedan September 2022 har jag arbetat som It-konsult i Gävle med
+  One-Group som arbetsgivare. Den senaste tiden har jag främst arbetat
+  inom fastighetsdata mot Lantmäteriet. Rollerna och projekten har
+  varierat.
    Gruppledare                     Applikationsansvarig 
    Förvaltare/vidareutvecklare     Systemutvecklare     
    Teknisk konsult i "testfabrik"  Programmerare        
@@ -386,8 +387,8 @@ _________________
   2. Titel/Roller: Systemutvecklare, Konsult
   3. Uppdrag:
      1) TBD[17]
-  4. Plattformar: Linux[2] (Ubuntu, Mint), Unix (Solaris)
-  5. Teknik: Java, Python
+  4. Plattformar: Gnu/Linux[2] (Ubuntu, Mint, RedHat)
+  5. Teknik: Java, Python, Docker, Oracle, Postgresql, Ansible,
 
 
 4.2 Knowit
@@ -414,8 +415,8 @@ _________________
         Mulligan projektet. Grundatalager för Inskrivning,
         Tomträttsupplåtelse, IR-fastighet, Inteckningar, Inskrivet
         ägande mm
-  4) Plattformar: Linux[2] (Ubuntu, Mint), Unix (Solaris), Windows XP,
-     Windows 10
+  4) Plattformar: Gnu/Linux[2] (Ubuntu, Mint), Unix (Solaris), Windows
+     XP, Windows 10
   5) Teknik: Python[4] (pip/setuptools, flask, bottle, virtualenv,
      click, tox, pex), Emacs[1]/Org-mode[7], Docker, Java[6]
      (Ant[15]/Maven[16], Eclipse/STS/JBuilder,JSF,Spring Framework)
@@ -466,10 +467,10 @@ _________________
 
   1) Period: November 2000 - Februari 2001[22]
   2) Titel: Systemutvecklare.
-  3) Plattform: Linux[2] Redhat
+  3) Plattform: Gnu/Linux[2] Redhat
   4) Uppdrag: "Smarta hem"
      + Elektroniskt bokningssystem (garage, tvättstuga osv.)
-  5) Tekniker: Java, c, Linux
+  5) Tekniker: Java, c, Gnu/Linux
 
 
 4.6 Mind
