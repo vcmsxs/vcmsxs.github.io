@@ -1,0 +1,605 @@
+                        _______________________
+
+                              JOHAN SANDÉN
+                         Curriculum Vitae (CV)
+
+                              Johan Sandén
+                        _______________________
+
+
+                         <2022-12-19 mån 10:17>
+
+
+                        <file:handsome_dude.jpg>
+
+*Meritlista (Curriculum Vitae).*
+
+Oförändrat får dokumentet kopieras och distribueras.
+
+Förutom som websida (på <http://cv.hoahoa.se>) finns den även som [text]
+eller [som PDF] för utskrift.
+
+
+Table of Contents
+_________________
+
+1. Allmänt
+.. 1. Information
+.. 2. Kontaktuppgifter
+.. 3. Vem är Johan?
+.. 4. Önskade arbetsuppgifter.
+.. 5. Kompetens och erfarenhet
+.. 6. Förtroendeuppdrag.
+.. 7. Nuvarande anställning
+2. Utbildningar och kurser
+.. 1. Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
+.. 2. Kurs/Certifiering: [PRINCE2®]
+.. 3. [Kurs/Certifiering: Produktägare]
+.. 4. [Kurs/Certifiering: Scrum Master]
+.. 5. [Kurs/Certifiering: Projekledning]
+..... 1. Ingående kurser
+.. 6. [Kurs: Praktisk Projektledning]
+.. 7. Skolor
+3. Kompetenser
+.. 1. Branscher
+.. 2. Programmeringsspråk
+.. 3. Utvecklingsmiljöer och Verktyg
+..... 1. Äldre miljöer
+4. Arbetsgivare och uppdrag
+.. 1. One Group[17]
+.. 2. Knowit[18]
+.. 3. Mandator/Fujitsu
+.. 4. ITG Data
+.. 5. Utilator
+.. 6. Mind
+.. 7. Mandator/CellNetwork
+.. 8. Syntronic
+.. 9. KenVision
+.. 10. Datorteket (Gävle Kommun)
+
+
+[text] <file:meriter.txt>
+
+[som PDF] <file:meriter.pdf>
+
+
+1 Allmänt
+=========
+
+1.1 Information
+~~~~~~~~~~~~~~~
+
+  1. Namn: Sandén, _Johan_ Ragnar
+  2. Födelsedatum: [1973-04-20 fre]
+  3. Bostadsort: Gävle, Hille
+  4. Körkort: B
+  5. Civilstatus: Gift - Anna
+  6. Förälder:
+     - Dante (-2006)
+     - Lukas (-2012)
+
+
+1.2 Kontaktuppgifter
+~~~~~~~~~~~~~~~~~~~~
+
+  *Namn*
+  _Johan_ Ragnar Sandén
+  *Adress*
+  Hattmursvägen 5
+  806 48 GÄVLE
+  *Telefon*
+   +46(0)79 - 333 94 03
+  *E-post*
+  [johan.sanden@gmail.com]
+  *Webbadress*
+  <http://www.hoahoa.se>
+
+
+[johan.sanden@gmail.com] <mailto:johan.sanden@gmail.com>
+
+
+1.3 Vem är Johan?
+~~~~~~~~~~~~~~~~~
+
+  + Mina vänner beskriver mig som tankfull och lugn.
+  + Föredrar att vara hemma på kvällar, helger och semester.
+  + Hängiven förespråkare av GnuEmacs[1]/-Gnu/Linux[2], Git[3], Lisp,
+    Python[4] mm.
+  + Vegetarian
+  + Ordförande i Gefle Ölsellskap[5].
+    - Åren 2017 - 2021
+  + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till
+    pianot.
+  + Tjatade till mig en dator i julklapp vid 8 års åldern. Det var då
+    jag lärde mig programmera.
+  + Älskar katter.
+  + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
+  + Två barn. Lukas 2012 och Dante 2006
+  + Gift med Anna Sandén.
+  + Född och uppväxt i Gävle.
+
+
+1.4 Önskade arbetsuppgifter.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
+    automatisering. Unix/Gnu/Linux[2]-miljö gärna i Python[4] eller
+    liknande.
+  - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
+  - Jag håller gärna föredrag och utbildning oavsett vilken roll jag
+    har.
+
+
+1.5 Kompetens och erfarenhet
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  1. 25+ års erfarenhet i IT-branschen främst som it-konsult och
+     systemutvecklare.
+  2. Certifierad *Prince2® Projektledare* och ledarskap.
+  3. Certifierad Scrum-master (och Produktägare).
+
+
+1.6 Förtroendeuppdrag.
+~~~~~~~~~~~~~~~~~~~~~~
+
+  - Ordförande i [Gefle Ölsellskap] mellan 2017-2021.
+
+    Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med
+    främsta syfte att främja öl-kultur. Vi annordnar provningar,
+    studieresor och fester. Vi delar även ut ett årligt stipendium och
+    har väldigt roligt tillsammans.
+  - 2018 och 2019 revisor i Västerbackens samfällighetsförening
+
+
+[Gefle Ölsellskap] <http://www.gefleolsellskap.com>
+
+
+1.7 Nuvarande anställning
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Sedan September 2022 har jag arbetat som It-konsult i Gävle med
+  One-Group som arbetsgivare. Den senaste tiden har jag främst arbetat
+  inom fastighetsdata mot Lantmäteriet. Rollerna och projekten har
+  varierat.
+   Gruppledare                     Applikationsansvarig 
+   Förvaltare/vidareutvecklare     Systemutvecklare     
+   Teknisk konsult i "testfabrik"  Programmerare        
+   Deployer/Integrerare            Databasmigrerare     
+
+
+2 Utbildningar och kurser
+=========================
+
+2.1 Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Regi             Tid        Plats      Diplom 
+  -----------------------------------------------
+   [Learning Tree]  Juni 2017  Stockholm  [PDF]  
+
+
+[Learning Tree] <https://www.learningtree.se/>
+
+[PDF] <http://www.hoahoa.se/cv/learningtree_diplom_pm3_itil.pdf>
+
+
+2.2 Kurs/Certifiering: [PRINCE2®]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Regi      Tid             Plats      Diplom 
+  ---------------------------------------------
+   [Metier]  September 2016  Stockholm  [PDF]  
+
+
+[PRINCE2®] <https://www.prince2.com/eur>
+
+[Metier] <http://www.metier.se>
+
+[PDF] <http://www.hoahoa.se/cv/e-Cert-Prince2.pdf>
+
+
+2.3 [Kurs/Certifiering: Produktägare]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Regi       Tid            Plats      Diplom 
+  ---------------------------------------------
+   [Citerus]  December 2014  Stockholm  [PDF]  
+
+
+[Kurs/Certifiering: Produktägare]
+<http://kurs.citerus.se/kurser/niva-2/certifierad-produktagare-i-scrum>
+
+[Citerus] <http://www.citerus.se/>
+
+[PDF] <http://www.hoahoa.se/cv/johansanden_cspo_cert_a4.pdf>
+
+
+2.4 [Kurs/Certifiering: Scrum Master]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Regi       Tid           Plats    Diplom 
+  ------------------------------------------
+   [Citerus]  Januari 2009  Uppsala  [PDF]  
+
+
+[Kurs/Certifiering: Scrum Master]
+<http://www.citerus.se/curriculum/193425-certifierad-scrum-master>
+
+[Citerus] <http://www.citerus.se/>
+
+[PDF] <http://www.hoahoa.se/cv/johansanden_csm_cert_a4.pdf>
+
+
+2.5 [Kurs/Certifiering: Projekledning]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Regi             Tid       Plats      Diplom       
+  ----------------------------------------------------
+   [Learning Tree]  Maj 2012  Stockholm  [PDF/Diplom] 
+
+
+[Kurs/Certifiering: Projekledning]
+<http://www.learningtree.se/cert/direct/cert1.htm>
+
+[Learning Tree] <https://www.learningtree.se/>
+
+[PDF/Diplom] <http://www.hoahoa.se/cv/learningtree_diplom.pdf>
+
+2.5.1 Ingående kurser
+---------------------
+
+   Kurs                                                                   Tid          
+  -------------------------------------------------------------------------------------
+   [Projektledning (Kurs 296)]                                            Augusti 2011 
+   [Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]  Oktober 2011 
+   [Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]   Januari 2012 
+   [Ledarskap (Kurs 290)]                                                 Maj 2012     
+
+
+[Projektledning (Kurs 296)] <http://www.learningtree.se/courses/296.pdf>
+
+[Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]
+<http://www.learningtree.se/courses/315.pdf>
+
+[Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]
+<http://www.learningtree.se/courses/346.pdf>
+
+[Ledarskap (Kurs 290)] <http://www.learningtree.se/courses/290.pdf>
+
+
+2.6 [Kurs: Praktisk Projektledning]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Regi        Tid            Plats     
+  --------------------------------------
+   [Astrakan]  December 2006  Stockholm 
+
+
+[Kurs: Praktisk Projektledning]
+<http://www.astrakan.se/Kurser/Projektledning/Praktisk-projektledning/?gclid=COrAnJv1orcCFdOXcAodsTcASw>
+
+[Astrakan] <http://www.astrakan.se/>
+
+
+2.7 Skolor
+~~~~~~~~~~
+
+   Nivå        Skola                                           Period      
+  -------------------------------------------------------------------------
+   Högskola    Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)  1992 - 1994 
+   Gymnasium   Naturvetenskaplig Linje, Vasaskolan i Gävle     1989 - 1992 
+   Grundskola  Storhags- och Lillhagsskolan i Gävle            1980 - 1989 
+
+
+3 Kompetenser
+=============
+
+3.1 Branscher
+~~~~~~~~~~~~~
+
+  1. Konsult : Jag har jobbat som konsult hos de flesta av mina
+     [[*Arbetsgivare och
+  uppdrag][Arbetsgivare]]
+  1. Fastighet : på Lantmäteriet via [Knowit]
+  2. TeleCom (Produktions test) : Ericsson AB via [Syntronic] [Mandator]
+     [ITG]
+  3. Test : "Testfabrik" på Lantmäteriet via [Fujitzu]
+  4. 3D/Grafik/Realtid : [KenVision]
+  5. Utbildning : *Agil utveckling* - som konsult mot Korsnäs via
+     [Knowit], *Java* - intern utbildning på [Mandator],
+     *IT-handledning* på [Datorteket (Gävle Kommun)]
+  6. Smarta Hem : [Utilator]
+
+
+[Knowit] See section 4.2
+
+[Syntronic] See section 4.8
+
+[Mandator] See section 4.7
+
+[ITG] See section 4.4
+
+[Fujitzu] See section 4.3
+
+[KenVision] See section 4.9
+
+[Datorteket (Gävle Kommun)] See section 4.10
+
+[Utilator] See section 4.5
+
+
+3.2 Programmeringsspråk
+~~~~~~~~~~~~~~~~~~~~~~~
+
+  - Python[4], ELisp, Java[6], c/C++,
+  - Javascript, TypeScript (Angular)
+  - Sql, Bash
+  - HTML, CSS, JavaScript
+  - Php, Perl
+  - Visual Basic, Pascal, Rexx
+
+
+3.3 Utvecklingsmiljöer och Verktyg
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Jag sköter det mesta från Emacs[1] oavsett språk.
+
+  - Emacs[1]
+    - Emacs[1]
+    - Org-mode[7] (Emacs[1])
+    - Eglot [8]
+    - LSP[9] [10]
+    - Magit[11][3]
+  - Git[3]
+  - Java[6]
+    - JetBrains Intellij[12], Eclips-STS[13]
+    - Android Studio[14]
+    - Ant[15], Maven[16]
+
+
+3.3.1 Äldre miljöer
+-------------------
+
+  - Java[6]
+    - Netbeans, JBuilder
+  - Pascal: Borland Turbo (Pascal)
+  - c/C++: Microsoft VisualStudio C++
+  - Svn, Cvs, ClearCase
+
+
+4 Arbetsgivare och uppdrag
+==========================
+
+  Större delen av mitt yrkesliv har varit som it-konsult. Främst har jag
+  jobbat mot *Lantmäteriet* och *Ericsson*. Hos dessa kunder har jag
+  jobbat i flera större och mindre projekt. Men jag har även gjort
+  inhopp på bland annat, Gävle Kommun, Sandvik, Korsnäs och Gävle
+  Finölsfestival
+
+
+4.1 One Group[17]
+~~~~~~~~~~~~~~~~~
+
+  Ett svenskt konsultbolag med Specialistkompetens inom IT.
+
+  1. Period: September 2022 - Nuvarande
+  2. Titel/Roller: Systemutvecklare, It-Konsult
+  3. Uppdrag:
+     1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
+        leveranslager mot fastighet, byggand/adresser och inskrivning.
+        Samt grunddatalager av bestämmelser/rättigheter och
+        samfällighetsföreningar.
+  4. Plattformar: Linux[2] (Ubuntu, Mint)
+  5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker,
+     Vitrualenv, Git, Emacs[1]
+
+
+4.2 Knowit[18]
+~~~~~~~~~~~~~~
+
+  Knowit[18]. Ett nordiskt konsultföretag med lokal närvaro.
+
+  1) Period: Oktober 2008 - September 2022
+  2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
+     Applikationsansvarig, Lärare, Systemutvecklare, Konsult
+  3) Uppdrag:
+     1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
+        leveranslager mot fastighet, byggand/adresser och inskrivning.
+        Samt grunddatalager av bestämmelser/rättigheter och
+        samfällighetsföreningar.
+     2. Lantmäteriet - TeamArken. Arkivregister, Akter, Dokument,
+        Historiska kartor, sökningar och metadata.
+     3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
+        Finölsfestivalen
+     4. Lantmäteriet - Leveranssystemet (FinfoLev)
+     5. Korsnäs - Ubildning i scrum och agila metoder
+     6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
+     7. Lantmäteriet - Projekt: Milins/Mulligan (delprojekt/migrering) i
+        Mulligan projektet. Grundatalager för Inskrivning,
+        Tomträttsupplåtelse, IR-fastighet, Inteckningar, Inskrivet
+        ägande mm
+  4) Plattformar: Gnu/Linux[2] (Ubuntu, Mint), Unix (Solaris), Windows
+     XP, Windows 10
+  5) Teknik: Python[4] (pip/setuptools, flask, bottle, virtualenv,
+     click, tox, pex), Emacs[1]/Org-mode[7], Docker, Java[6]
+     (Ant[15]/Maven[16], Eclipse/STS/JBuilder,JSF,Spring Framework)
+     ,Oracle ,SVN, CVS, GIT[3], Hybernate ,Jira, Fitnesse
+
+
+4.3 Mandator/Fujitsu
+~~~~~~~~~~~~~~~~~~~~
+
+  Fujitsu[19], ett internationellt konsultföretag [20].
+
+  1) Plattformar: Solaris, Windows XP
+  2) Period: Januari 2003 - September 2008
+  3) Titel: Teknisk rådgivare i test., Arkitekt, Systemutvecklare,
+     Konsult
+  4) Uppdrag:
+     1. Sandvik AB - Div. mindre projekt, REXX, ASP (IIS, SQLServer).
+     2. Lantmäteriet - förvaltning och vidare uteckling av Externt
+        Beställningssytem (EBS)
+     3. Lantmäteriet - Alp projektet. Nationellt system för nytt adress
+        register.
+     4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
+        fastigheter.
+  5) Teknik: Java, Emacs[1], Org-mode[7], BEA WLS, Tibco RDV, Fujitzu
+     iFlow., XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle,
+     Spring, Hybernate, JBuilder, Ant, MercuryInteractive (TestDirector,
+     Quick Test Proffessionell),senare HP QC, Tomcat
+
+
+4.4 ITG Data
+~~~~~~~~~~~~
+
+  ITGData[21]. Dataavdelningen/dotterföretag på ett industriteknik
+  företag.
+
+  1) Period: Februari 2001 - December 2002
+  2) Titel: Systemutvecklare, Konsult.
+  3) Uppdrag: Ericsson AB, WCDMA Radiobas, Utvecklande av systemtester
+     för produktion.
+  4) Plattformar: Windows, Solaris
+  5) Teknik: Microsoft Visual C ++, MFC
+
+
+4.5 Utilator
+~~~~~~~~~~~~
+
+  Utilator[22] var ett litet it-företag med inriktning mot "smarta hem".
+
+  1) Period: November 2000 - Februari 2001[22]
+  2) Titel: Systemutvecklare.
+  3) Plattform: Gnu/Linux[2] Redhat
+  4) Uppdrag: "Smarta hem"
+     + Elektroniskt bokningssystem (garage, tvättstuga osv.)
+  5) Tekniker: Java, c, Gnu/Linux
+
+
+4.6 Mind
+~~~~~~~~
+
+  Mind[23] Var ett Stockholmsbaserat konsultföretag med inriktning på
+  web.
+
+  1) Period: Maj 2000 - November 2000[23]
+  2) Titel: Java Expert, It-konsult.
+  3) Plattformar: Windows 2000, Solaris
+  4) Uppdrag: Portaler
+     - Affiliate web
+     - Resebyrå
+  5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
+
+
+4.7 Mandator/CellNetwork
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Mandator var ett nationellt konsultföretag.
+
+  1) Period: April 1999 - Maj 2000
+  2) Titel: It-konsult.
+  3) Uppdrag: Ericsson AB
+     - CDMA, Produktionstester av kretskort
+     - CDMA, Utvecklande av Radiobastester.
+  4) Plattform: Windows NT
+  5) Tekniker: C++, MFC, Idefix
+
+
+4.8 Syntronic
+~~~~~~~~~~~~~
+
+  Syntronic[24] är Konsultföretag med inriktning på elektronik, radio
+  och telecom.
+
+  1) Period: September 1997 - April 1999
+  2) Titel: It-konsult, Systemutvecklare, kortansvarig.
+  3) Uppdrag:
+     + Interna uppdrag på Syntronic i Java för websidan.
+     + Syntronic - Korttestinterface
+     + Ericsson AB - GSM - nålfixturer/korttester
+     + Ericsson AB - GSM - Radiobas översättning av interna
+       kommunikationsprotokoll.
+  4) Plattform: Windows NT, Windows 3.11, Hårdvarunära programmering
+  5) Tekniker: Borland Pascal, Java, JBuilder, c/C++ Visual Studio, MFC,
+     ASP, Assembler, Idefix
+
+
+4.9 KenVision
+~~~~~~~~~~~~~
+
+  Lösningsföretag med inriktning mot 3D och virtual reality. Dotterbolag
+  till Profildesig, ett företag med inriktning mot mässor, monterdesign
+  och reklam.
+
+  1. Period: Februari 1996 - April 1997
+  2. Titel: Programmerare/Systemutvecklare.
+  3. Plattform: Windows 3.11, Windows NT
+  4. Uppdrag
+     + Teknikmässa i Älvsjö åt Digital
+     + Gävle kommun - Gävle 550
+  5. Språk/Verktyg:
+     + c/C++ i Visual Studio, Sense8 WorldToolkit
+
+
+4.10 Datorteket (Gävle Kommun)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Kommunalt projekt för att höja den allmänna datorvanan hos ungdomar
+  och arbetslösas.
+
+  1. Period: Oktober 1995 - Mars 1996
+  2. Titel/Arbetsuppgifter: Mentor, Handledare, Projektledare, Lärare
+  3. Teknik/Produkt: Windows Office-paket, Windows 3.1, Projektarbete
+
+
+
+Fotnoter
+________
+
+[1] <https://www.gnu.org/software/emacs/>
+
+[2] <https://en.wikipedia.org/wiki/Linux>
+
+[3] <https://git-scm.com/>
+
+[4] <https://www.python.org/>
+
+[5] <http://gefleolsellskap.com/>
+
+[6] <https://openjdk.java.net/>
+
+[7] <https://orgmode.org/>
+
+[8] <https://github.com/joaotavora/eglot>
+
+[9] <https://langserver.org/>
+
+[10] <https://microsoft.github.io/language-server-protocol/>
+
+[11] <https://magit.vc/>
+
+[12] <https://www.jetbrains.com/toolbox-app/>
+
+[13] <https://spring.io/tools>
+
+[14] <https://developer.android.com/studio>
+
+[15] <https://ant.apache.org/>
+
+[16] <https://maven.apache.org/>
+
+[17] <http://one-group.se/>
+
+[18] <http://:www.knowit.se>
+
+[19] www.fujitsu.com/se/
+
+[20] Företaget bytte namn 3 gånger under min anställning.
+
+[21] Såldes till BIS industriteknik 2006
+
+[22] Anställd 3 månader på utilator innan konkurs
+
+[23] Mind gick in konkurs under it-bubblan 2000
+
+[24] www.syntronic.se
