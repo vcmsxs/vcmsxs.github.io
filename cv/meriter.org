@@ -320,9 +320,9 @@ Beräkningar på hur länge jag jobbat.
       1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
          leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
          grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
-   4. Plattformar: Linux[fn:linux] (Ubuntu, Mint)
-   5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker, Vitrualenv,
-      Git, Emacs[fn:emacs]
+   4. Plattformar: Linux[fn:linux] (Redhat, Ubuntu, Mint)
+   5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker/Podman,
+      OpenShift, Oracle, PostgreSQL, Sqlite, Vitrualenv, Git, Emacs[fn:emacs]
       
 ** Knowit[fn:knowit:http://:www.knowit.se]
 :PROPERTIES:
@@ -348,12 +348,13 @@ Knowit[fn:knowit:www.knowit.se]. Ett nordiskt konsultföretag med lokal närvaro
       7. Lantmäteriet - Projekt: Milins/Mulligan (delprojekt/migrering) i
          Mulligan projektet. Grundatalager för Inskrivning, Tomträttsupplåtelse,
          IR-fastighet, Inteckningar, Inskrivet ägande mm
-   4) Plattformar: Gnu/Linux[fn:linux] (Ubuntu, Mint), Unix (Solaris), Windows XP,
-      Windows 10
+   4) Plattformar: Gnu/Linux[fn:linux] (Redhat, Ubuntu, Mint), Unix (Solaris),
+      Windows XP, Windows 10
    5) Teknik: Python[fn:python] (pip/setuptools, flask, bottle, virtualenv,
-      click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker,
-      Java[fn:java] (Ant[fn:ant]/Maven[fn:maven], Eclipse/STS/JBuilder,JSF,Spring
-      Framework) ,Oracle ,SVN, CVS, GIT[fn:git], Hybernate ,Jira, Fitnesse
+      click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker/Docker,
+      Java[fn:java], Ant[fn:ant], Maven[fn:maven], Eclipse/STS, JBuilder, JSF,
+      Spring Framework, Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[fn:git],
+      Hybernate ,Jira, Fitnesse
 
 ** Mandator/Fujitsu 
 :PROPERTIES:
