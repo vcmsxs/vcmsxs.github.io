@@ -244,28 +244,26 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:7fccea77-1506-44bb-b513-0e622f059e71
    :END:
-   1. Konsult : Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och
+   1. Konsult: Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och
        uppdrag][Arbetsgivare]]
-   2. Fastighet : på Lantmäteriet via [[#knowit][Knowit]] 
-   3. TeleCom (Produktions test) : Ericsson AB via [[#syntronic][Syntronic]] [[#mandator-cellnetwork][Mandator]]
+   2. Fastighet: på Lantmäteriet via [[#knowit][Knowit]] 
+   3. TeleCom (Produktions test): Ericsson AB via [[#syntronic][Syntronic]] [[#mandator-cellnetwork][Mandator]]
       [[#itgdata][ITG]]
-   4. Test : "Testfabrik" på Lantmäteriet via [[#mandator-fujitsu][Fujitzu]]
-   5. 3D/Grafik/Realtid : [[#kenvision][KenVision]]
-   6. Utbildning : *Agil utveckling* - som konsult mot Korsnäs via
+   4. Test: "Testfabrik" på Lantmäteriet via [[#mandator-fujitsu][Fujitzu]]
+   5. 3D/Grafik/Realtid: [[#kenvision][KenVision]]
+   6. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
       [[#knowit][Knowit]], *Java* - intern utbildning på [[#mandator-cellnetwork][Mandator]], *IT-handledning*
       på [[#datorteket][Datorteket (Gävle Kommun)]]  
-   7. Smarta Hem : [[#utilator][Utilator]]
+   7. Smarta Hem: [[#utilator][Utilator]]
 
 ** Programmeringsspråk
    :PROPERTIES:
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
-   - Python[fn:python:https://www.python.org/], ELisp, Java[fn:java], c/C++,
-   - Javascript, TypeScript (Angular)
+   - Python[fn:python:https://www.python.org/], PHP, Perl
+   - Java[fn:java], c/C++
+   - html/css, Javascript, TypeScript (Angular)
    - Sql, Bash
-   - HTML, CSS, JavaScript
-   - Php, Perl
-   - Visual Basic, Pascal, Rexx
 
 ** Utvecklingsmiljöer och Verktyg
    :PROPERTIES:
@@ -275,22 +273,17 @@ Beräkningar på hur länge jag jobbat.
  
    - Emacs[fn:emacs]
      - Emacs[fn:emacs:https://www.gnu.org/software/emacs/]
-     - Org-mode[fn:orgmode] (Emacs[fn:emacs])
+     - Org-mode[fn:orgmode]
      - Eglot [fn:eglot:https://github.com/joaotavora/eglot]
      - LSP[fn:lsp1:https://langserver.org/] [fn:lsp2:https://microsoft.github.io/language-server-protocol/]
      - Magit[fn:magit:https://magit.vc/][fn:git]
    - Git[fn:git:https://git-scm.com/]
    - Java[fn:java:https://openjdk.java.net/]
-     - JetBrains Intellij[fn:jetbrains:https://www.jetbrains.com/toolbox-app/], Eclips-STS[fn:sts:https://spring.io/tools]
+     - JetBrains Intellij[fn:jetbrains:https://www.jetbrains.com/toolbox-app/]
+     - Eclips-STS[fn:sts:https://spring.io/tools]
      - Android Studio[fn:androidstudio:https://developer.android.com/studio]
      - Ant[fn:ant:https://ant.apache.org/], Maven[fn:maven:https://maven.apache.org/]   
 
-*** Äldre miljöer
-    - Java[fn:java]
-      - Netbeans, JBuilder
-    - Pascal:  Borland Turbo (Pascal)
-    - c/C++: Microsoft VisualStudio C++ 
-    - Svn, Cvs, ClearCase
 
  #+LaTeX: \pagebreak
 
@@ -329,7 +322,7 @@ Beräkningar på hur länge jag jobbat.
 :CUSTOM_ID: knowit
 :END:
 
-Knowit[fn:knowit:www.knowit.se]. Ett nordiskt konsultföretag med lokal närvaro.
+Ett nordiskt konsultföretag med lokal närvaro.
 
    1) Period: Oktober 2008 - September 2022
    2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
@@ -426,7 +419,6 @@ Knowit[fn:knowit:www.knowit.se]. Ett nordiskt konsultföretag med lokal närvaro
       - Resebyrå
    5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
  
-
 ** Mandator/CellNetwork
 :PROPERTIES:
 :CUSTOM_ID: mandator-cellnetwork
@@ -461,7 +453,6 @@ Knowit[fn:knowit:www.knowit.se]. Ett nordiskt konsultföretag med lokal närvaro
    5) Tekniker: Borland Pascal, Java, JBuilder, c/C++ Visual Studio,
       MFC, ASP, Assembler, Idefix
 	
-
 ** KenVision
 :PROPERTIES:
 :CUSTOM_ID: kenvision
@@ -478,7 +469,6 @@ Knowit[fn:knowit:www.knowit.se]. Ett nordiskt konsultföretag med lokal närvaro
       + Gävle kommun - Gävle 550
    5. Språk/Verktyg:
       + c/C++ i Visual Studio, Sense8 WorldToolkit
-
 
 ** Datorteket (Gävle Kommun)
 :PROPERTIES:

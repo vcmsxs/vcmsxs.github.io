@@ -17,37 +17,44 @@
 [[file:studium.org][Studium]] | [[file:../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
 
-* Vi behöver inte energi. Vi behöver "billig energi"
-     - I Sverige vill varken företag eller privatpersoner köpa dyr energi. Den
-       måste vara billig. Dyr energi kan vi alltid köpa.
-
-* Tekniskt osunt.
-    - Kärnkraft är smutsigt att bryta och smutsigt att förädla. Kärnkraft som
-      bränner använt kärnbränsle finns inte ännu. Det ligger 20 år bort.
+* Teknik
+    - Kärnkraften är tekniskt osund.
+    - Kärnkraftsbränsle är smutsigt att bryta och smutsigt att förädla.
+    - Kärnkraft som bränner använt kärnbränsle finns inte ännu. Det ligger
+      mingst 20 år bort.
     - Kärnkraftverk är ett av det mest avancerade "fabriker" som finns och det
-      _får inte_ fallera. 
+      _får inte_ fallera. Så vi måste ständigt göra den säkrare, det finns ingen
+      övre gräns för säkerhet.
 
-* Ekonomiskt tveksamt.
-   - Att underhålla kärnkraft från 50-70-talet är dyrt som fan, dyrare än vad
-     folk tror.
-   - Att bygga nya kärnkraftverk är svindyrt och ger svindyr energi.
+* Ekonomi och tillgång. 
+     - Vi behöver egentligen inte mer inte energi. Vi behöver "billig energi".
+     - Vi har ingen energibrist i Sverige. Åren 2020-2022 har vi exporterat
+       mängder av energi som vi inte använder själva.
+     - I Sverige vill varken företag eller privatpersoner köpa dyr energi. Den
+       måste vara billig.
+     - Dyr energi kan vi köpa från övriga Europa.
+     - Att underhålla kärnkraft från 50-70-talet är dyrt och ju längre tiden går
+       desto dyrare blir det att byta ut gamla delar för att hålla den stabil
+       och säker.
+     - Att bygga nya kärnkraftverk är dyrt och ger mycket dyr energi.
 
-* Inte miljövänligt.
+* Miljö.
   - Att bryta uran är inte miljövänligt.
   - Att frakta och förädla är inte miljövänligt.
   - Att ta hand om avfallet är inte miljövänligt.
 
-* Fullständigt livsfarligt.
-  - Det får inte fallera. Då kan vi alla typ dö.
+* Säkerhet
+  - Känkraft är livsfarligt.
+  - Det får inte fallera.
 
 * Övrigt
-  + Den dagen vi kan bygga billiga, miljövänliga och, för mig övertygande totalt
+  - Den dagen vi kan bygga billiga, miljövänliga och för mig övertygande totalt
     idiotsäkra, kärnkraftverk så kommer jag också att bli en stor förespråkare.
-    Jag är ingen nej-säjare av princip. Det är än så länge bara allt för stora
-    nackdelar jämfört med t.e.x. vindkraft.
-  + "Den stora" kärnkraftskatastrofen har ännu inte inträffat. En dag smäller
+    Det är än så länge allt för stora nackdelar jämfört med t.e.x. vindkraft.
+  - "Den stora" kärnkraftskatastrofen har ännu inte inträffat. En dag smäller
     någon av Frankrikes eller USA:s kärnkraftverk på värsta tänkbara sätt och
-    kommer då att döda en jävla massa människor och göra en eller flera STORA
-    städer helt obeboeliga.
-    - Tjernobylkatastrofen hade kunnat ta död på halv den europeiska
-      kontinenten.
+    kommer då att döda och skada massor människor och då göra en eller flera
+    stora städer helt obeboeliga.
+  - Människor fick offra sina liva för att "rädda" Tjernobylkatastrofen. Den
+    katastrofen hade kunnat göra den europeiska kontinenten och stora delar av
+    ryssland helt obeboeliga under tusentals år.
