@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2022-12-19 mån 10:17>
+                         <2023-03-22 ons 05:53>
 
 
                         <file:handsome_dude.jpg>
@@ -44,7 +44,6 @@ _________________
 .. 1. Branscher
 .. 2. Programmeringsspråk
 .. 3. Utvecklingsmiljöer och Verktyg
-..... 1. Äldre miljöer
 4. Arbetsgivare och uppdrag
 .. 1. One Group[17]
 .. 2. Knowit[18]
@@ -297,18 +296,18 @@ _________________
 3.1 Branscher
 ~~~~~~~~~~~~~
 
-  1. Konsult : Jag har jobbat som konsult hos de flesta av mina
+  1. Konsult: Jag har jobbat som konsult hos de flesta av mina
      [[*Arbetsgivare och
   uppdrag][Arbetsgivare]]
-  1. Fastighet : på Lantmäteriet via [Knowit]
-  2. TeleCom (Produktions test) : Ericsson AB via [Syntronic] [Mandator]
+  1. Fastighet: på Lantmäteriet via [Knowit]
+  2. TeleCom (Produktions test): Ericsson AB via [Syntronic] [Mandator]
      [ITG]
-  3. Test : "Testfabrik" på Lantmäteriet via [Fujitzu]
-  4. 3D/Grafik/Realtid : [KenVision]
-  5. Utbildning : *Agil utveckling* - som konsult mot Korsnäs via
+  3. Test: "Testfabrik" på Lantmäteriet via [Fujitzu]
+  4. 3D/Grafik/Realtid: [KenVision]
+  5. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
      [Knowit], *Java* - intern utbildning på [Mandator],
      *IT-handledning* på [Datorteket (Gävle Kommun)]
-  6. Smarta Hem : [Utilator]
+  6. Smarta Hem: [Utilator]
 
 
 [Knowit] See section 4.2
@@ -331,12 +330,10 @@ _________________
 3.2 Programmeringsspråk
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-  - Python[4], ELisp, Java[6], c/C++,
-  - Javascript, TypeScript (Angular)
+  - Python[4], PHP, Perl
+  - Java[6], c/C++
+  - html/css, Javascript, TypeScript (Angular)
   - Sql, Bash
-  - HTML, CSS, JavaScript
-  - Php, Perl
-  - Visual Basic, Pascal, Rexx
 
 
 3.3 Utvecklingsmiljöer och Verktyg
@@ -346,25 +343,16 @@ _________________
 
   - Emacs[1]
     - Emacs[1]
-    - Org-mode[7] (Emacs[1])
+    - Org-mode[7]
     - Eglot [8]
     - LSP[9] [10]
     - Magit[11][3]
   - Git[3]
   - Java[6]
-    - JetBrains Intellij[12], Eclips-STS[13]
+    - JetBrains Intellij[12]
+    - Eclips-STS[13]
     - Android Studio[14]
     - Ant[15], Maven[16]
-
-
-3.3.1 Äldre miljöer
--------------------
-
-  - Java[6]
-    - Netbeans, JBuilder
-  - Pascal: Borland Turbo (Pascal)
-  - c/C++: Microsoft VisualStudio C++
-  - Svn, Cvs, ClearCase
 
 
 4 Arbetsgivare och uppdrag
@@ -389,15 +377,15 @@ _________________
         leveranslager mot fastighet, byggand/adresser och inskrivning.
         Samt grunddatalager av bestämmelser/rättigheter och
         samfällighetsföreningar.
-  4. Plattformar: Linux[2] (Ubuntu, Mint)
-  5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker,
-     Vitrualenv, Git, Emacs[1]
+  4. Plattformar: Linux[2] (Redhat, Ubuntu, Mint)
+  5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker/Podman,
+     OpenShift, Oracle, PostgreSQL, Sqlite, Vitrualenv, Git, Emacs[1]
 
 
 4.2 Knowit[18]
 ~~~~~~~~~~~~~~
 
-  Knowit[18]. Ett nordiskt konsultföretag med lokal närvaro.
+  Ett nordiskt konsultföretag med lokal närvaro.
 
   1) Period: Oktober 2008 - September 2022
   2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
@@ -418,12 +406,13 @@ _________________
         Mulligan projektet. Grundatalager för Inskrivning,
         Tomträttsupplåtelse, IR-fastighet, Inteckningar, Inskrivet
         ägande mm
-  4) Plattformar: Gnu/Linux[2] (Ubuntu, Mint), Unix (Solaris), Windows
-     XP, Windows 10
+  4) Plattformar: Gnu/Linux[2] (Redhat, Ubuntu, Mint), Unix (Solaris),
+     Windows XP, Windows 10
   5) Teknik: Python[4] (pip/setuptools, flask, bottle, virtualenv,
-     click, tox, pex), Emacs[1]/Org-mode[7], Docker, Java[6]
-     (Ant[15]/Maven[16], Eclipse/STS/JBuilder,JSF,Spring Framework)
-     ,Oracle ,SVN, CVS, GIT[3], Hybernate ,Jira, Fitnesse
+     click, tox, pex), Emacs[1]/Org-mode[7], Docker/Docker, Java[6],
+     Ant[15], Maven[16], Eclipse/STS, JBuilder, JSF, Spring Framework,
+     Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[3], Hybernate ,Jira,
+     Fitnesse
 
 
 4.3 Mandator/Fujitsu
