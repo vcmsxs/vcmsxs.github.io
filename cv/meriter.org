@@ -114,17 +114,24 @@ PDF]] för utskrift.
 
  #+LaTeX: \pagebreak
 
-** Önskade arbetsuppgifter.
+** Önskemål på arbeten och arbetsuppgifter.
    :PROPERTIES:
    :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
    :END:
    - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
      automatisering.
-     Unix/Gnu/Linux[fn:linux:https://en.wikipedia.org/wiki/Linux]-miljö gärna i
-     Python[fn:python] eller liknande.
+   - Jag jobbar i Gnu/Linux[fn:linux:https://en.wikipedia.org/wiki/Linux]-miljö
    - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
    - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
-     
+-------
+   - Jag jobbar (kodar) helst hemifrån. Om det finns kontor i eller i närheten
+     av Gävle kan jag resa någon gång i veckan.
+-------
+   - Jag har inga problem att hjälpa till med support på Microsoft Windows. Till
+     exempel installera program, sätta upp nätverk och felsöka i andras
+     Windows-miljöer. Men själv, jobbar jag i Gnu/Linux.  
+   - Jag kodar inte C# och håller mig borta från "Dot-net-världen".
+
 ** Kompetens och erfarenhet 
 #+BEGIN_COMMENT
 Beräkningar på hur länge jag jobbat.

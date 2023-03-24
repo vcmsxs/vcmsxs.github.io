@@ -1,0 +1,41 @@
+#+title: DevOps i Agila Team
+#+subtitle: <2023-03-24 09:21>
+#+date: <2023-03-24 09:21:38>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+DevOps är bra, jag har inget emot DevOps, som utvecklare. Men det kommer med ett
+pris.
+
+Frågar man ChatGPT Vad DevOps är får man:
+#+begin_quote
+DevOps står för "Development and Operations" och är en metod för att integrera
+utvecklings- och driftsprocesser inom IT. DevOps är ett tillvägagångssätt för
+att bryta ner silos mellan utveckling och drift och att göra processerna mer
+smidiga och flexibla.
+
+DevOps syftar till att förbättra samarbetet mellan utvecklare,
+systemadministratörer och andra intressenter genom att fokusera på
+automatisering, övervakning och testning i en agil utvecklingsmetod. På detta
+sätt kan utveckling och implementation av nya applikationer och tjänster ske
+snabbare och med högre kvalitet.
+#+end_quote
+
+Denna definition ligger mycket när vad jag anser att det är och innebär.
+
+Som utvecklare är tycker jag det är skönt att jag får ha "mina" applikationer
+när, att användare snabbt kommer med feedback vad man kan förbättra. Men jobbar
+man i en organisation med många team och alla teamen utvecklar fler och fler
+applikationer så fylls mer och mer av dagarna med support och ständiga
+förbättringar. Om teamet samtidigt ingår i ett eller fler projekt där man
+förväntas komma framåt blir det svårt att förutse hur mycket tid man kan lägga
+på projekt eftersom driften av det befintliga (som snurrar i en
+produktionsmiljö) ofta går före allt annat.
+
+Svårigheten består kanske i att få _hela_ organisationen att förstå att
+IT-jobbar DevOps och att de inte kan begära exakta tider. Om jag bedömmer att en
+funktion tar 40h så får de ofta räkna med att det i kalendertid blir 2-4 veckor.
+Jag har ofta inte mer än 10-20 timmar i veckan att lägga på projektet.
+------------
