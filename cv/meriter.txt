@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2023-03-22 ons 05:53>
+                         <2023-03-28 tis 07:14>
 
 
                         <file:handsome_dude.jpg>
@@ -27,7 +27,7 @@ _________________
 .. 1. Information
 .. 2. Kontaktuppgifter
 .. 3. Vem är Johan?
-.. 4. Önskade arbetsuppgifter.
+.. 4. Önskemål på arbeten och arbetsuppgifter.
 .. 5. Kompetens och erfarenhet
 .. 6. Förtroendeuppdrag.
 .. 7. Nuvarande anställning
@@ -118,15 +118,23 @@ _________________
   + Född och uppväxt i Gävle.
 
 
-1.4 Önskade arbetsuppgifter.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.4 Önskemål på arbeten och arbetsuppgifter.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
-    automatisering. Unix/Gnu/Linux[2]-miljö gärna i Python[4] eller
-    liknande.
+    automatisering.
+  - Jag jobbar i Gnu/Linux[2]-miljö
   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
   - Jag håller gärna föredrag och utbildning oavsett vilken roll jag
     har.
+  ----------------------------------------------------------------------
+  - Jag jobbar (kodar) helst hemifrån. Om det finns kontor i eller i
+    närheten av Gävle kan jag resa någon gång i veckan.
+  ----------------------------------------------------------------------
+  - Jag har inga problem att hjälpa till med support på Microsoft
+    Windows. Till exempel installera program, sätta upp nätverk och
+    felsöka i andras Windows-miljöer. Men själv, jobbar jag i Gnu/Linux.
+  - Jag kodar inte C# och håller mig borta från "Dot-net-världen".
 
 
 1.5 Kompetens och erfarenhet
@@ -297,18 +305,19 @@ _________________
 ~~~~~~~~~~~~~
 
   1. Konsult: Jag har jobbat som konsult hos de flesta av mina
-     [[*Arbetsgivare och
-  uppdrag][Arbetsgivare]]
-  1. Fastighet: på Lantmäteriet via [Knowit]
-  2. TeleCom (Produktions test): Ericsson AB via [Syntronic] [Mandator]
+     [Arbetsgivare]
+  2. Fastighet: på Lantmäteriet via [Knowit]
+  3. TeleCom (Produktions test): Ericsson AB via [Syntronic] [Mandator]
      [ITG]
-  3. Test: "Testfabrik" på Lantmäteriet via [Fujitzu]
-  4. 3D/Grafik/Realtid: [KenVision]
-  5. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
+  4. Test: "Testfabrik" på Lantmäteriet via [Fujitzu]
+  5. 3D/Grafik/Realtid: [KenVision]
+  6. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
      [Knowit], *Java* - intern utbildning på [Mandator],
      *IT-handledning* på [Datorteket (Gävle Kommun)]
-  6. Smarta Hem: [Utilator]
+  7. Smarta Hem: [Utilator]
 
+
+[Arbetsgivare] See section 4
 
 [Knowit] See section 4.2
 

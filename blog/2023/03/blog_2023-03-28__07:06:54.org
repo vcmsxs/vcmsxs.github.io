@@ -1,0 +1,15 @@
+#+title: Tog ledigt på min 50års dag.
+#+subtitle: <2023-03-28 07:06>
+#+date: <2023-03-28 07:06:59>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+På jobbet ville de att jag skulle komma in den 20e april och vara med på en
+säkerhetsdag. Eller rättare sagt, de vill att jag kommer in, blir exluderad från
+dagens alla föreläsningar och sen sitter i konferensrum och spånar fram dumheter
+och platetyder på postit-lappar en eftermiddag. Jag sätter mig hellre i en
+kalldush med ett trasigt regnställ och river tusenlappar i småbitar. 
+
+------------
