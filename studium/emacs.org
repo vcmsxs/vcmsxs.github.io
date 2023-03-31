@@ -25,13 +25,13 @@
 Emacs är en textredigeriare. Den är gjord av och för programmerare som vill
 kunna påverka nästan alla asspekter av det verktyg de jobbar i. 
 
-Emacs kan ta lite tid att lära sig öppnar man en textfil eller om dagen så är
+Emacs kan ta lite tid att lära sig. Öppnar man en textfil eller om dagen så är
 det mer än väl värt besväret.
 
 En av anledningarna till Emacs kan ta lite längre tid att lära sig är att några
-av de ord som normalt används för att beskriva Emacs skiljer sig. Det i sin tur
-beror på att Emacs har sina rötter i det tidiga 70-talet, långt innan
-persondatorn blev vanlig och grafiska gränssnitt var vanliga.
+av de ord som normalt används för att beskriva Emacs skiljer sig från andra
+program. Det i sin tur beror på att Emacs har sina rötter i det tidiga 70-talet,
+långt innan persondatorn blev vanlig och grafiska gränssnitt var vanliga.
 
 * Ladda ner och installera Emacs
     - Emacs kan hämtas på: http://www.gnu.org/software/emacs/
@@ -51,16 +51,16 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
 
 * Grundläggande definitioner
 
+   - Buffer (sv. buffert):: Innehållet i ett "window" (ofta en textfil) kallas
+     för "buffer". En buffer kan också innehålla text som inte ligger på en fil,
+     en terminal eller output från ett program som en webläsare e.d.
    - Frame (sv. Ram) :: Rutan som kommer upp på skärmen, som innehåller hela
      programmet när man startar Emacs, kallas för "Frame" (inte Window, som är
      vanligt).
-   - Window (sv. fönster) :: Om man delar på en Frame i två eller tre delar, så
+   - Window (sv. fönster) :: Om man delar en Frame i två eller tre delar, så
      kallas varje del en "window" (man kan dela av en frame hur många gånger man
      vill)
-   - Buffer (sv. buffert):: Innehållet i ett "window" (ofta en textfil) kallas
-     för "buffer". En buffer kan också innhålla text som inte ligger på en fil,
-     en terminal eller output från ett program som en webläsare e.d.
-   - POINT :: Markörens position i en buffer och window 
+   - POINT :: Markörens position i en buffer. 
 
 * Några grundläggande kommandon
 
@@ -70,7 +70,8 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
       execute-extended-command som kör alla andra interaktiva funktioner.
   - ~C-x~ betyder att man ska hålla ner ~Ctrl~-knappen, hålla den nedtryckt
     medans man trycker ~x~.
-    - Just kommandot ~C-x~ används för att köra många 
+    - Just kommandot ~C-x~ används för att köra många olika övergripande
+      kommandon.
   - ~C-x h~. Betyder att man ska Hålla ner ~Ctrl~ och trycka ~x~, släppa ~Ctrl~
     och trycker ner ~h~ ensamt.
   - ~C-x C-m~ betyder betyder att man först håller ner ~Ctrl~ och sedan trycker
@@ -81,7 +82,7 @@ persondatorn blev vanlig och grafiska gränssnitt var vanliga.
  - ~C-x C-f~ :: find-file - läsa in en fil i Emacs
  - ~C-x C-s~ :: save-buffer - spara en fil på skivminne
  - ~C-x C-w~ :: write-file - skriv buffertens innehåll på en namngiven fil
- - ~C-x i~ :: insert-file sätt in innehållet i en annan fil i bufferten
+ - ~C-x i~ :: insert-file - sätt in innehållet från en annan fil i bufferten
  - ~C-x C-v~ :: find-alternate-file - läs in en ny fil i bufferten
  - ~C-x d~ :: list-directory - starta Dired, katalogeditorn
 

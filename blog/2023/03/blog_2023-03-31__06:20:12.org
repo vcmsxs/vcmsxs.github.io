@@ -1,0 +1,20 @@
+#+title: AI-hysteri
+#+subtitle: <2023-03-31 06:20>
+#+date: <2023-03-31 06:20:17>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+AI hysterin, som började för några år sedan har tagit ett nytt skutt, hysterin
+alltså. Det kommer inom kort (2-3 år) att förändra oss hur vi söker på internet.
+Men inget företag är idag villigt, med rätta, att skicka över alla sin intima
+instruktioner, procedurer och it-arkitektur till en server på google eller
+apple. Så för att det här ska ta ett språng i utvecklingen måste företagen ha
+råd med en egen lösning på egna brukar och för att den ska göra skillnad i
+samhället i stort måste tekniken funka i en privat dator utan
+internetuppkoppling. Det betyder (enkelt uttryckt) att datorkraften hos en
+gymnastiksal full med dator-rack av idag (exaflops och -bytes) behöver krympas
+och få plats i en låda stor som pc eller telefon. Dit är det 50 år, minst.
+
+------------
