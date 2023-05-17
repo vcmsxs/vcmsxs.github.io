@@ -1,0 +1,16 @@
+#+title: Strålsäkerhetsmyndighetens generaldirektör slutar
+#+subtitle: <2023-05-17 12:15>
+#+date: <2023-05-17 12:15:05>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+    - https://www.svt.se/nyheter/inrikes/stralsakerhetsmyndighetens-generaldirektor-slutar
+    - https://www.regeringen.se/pressmeddelanden/2023/05/regeringen-byter-generaldirektor-pa-stralsakerhetsmyndigheten/
+    - Det här borde jag följa upp. Vem blir ny GD?
+    - Ska vi tillåta högre risk att blir utsatta för kärnkraftsstrålning så
+      behövd nog en ny gd
+
+
+------------
