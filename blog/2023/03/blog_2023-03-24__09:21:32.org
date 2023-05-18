@@ -26,16 +26,17 @@ snabbare och med högre kvalitet.
 Denna definition ligger mycket när vad jag anser att det är och innebär.
 
 Som utvecklare är tycker jag det är skönt att jag får ha "mina" applikationer
-när, att användare snabbt kommer med feedback vad man kan förbättra. Men jobbar
+nära; att användare snabbt kommer med feedback vad man kan förbättra. Men jobbar
 man i en organisation med många team och alla teamen utvecklar fler och fler
-applikationer så fylls mer och mer av dagarna med support och ständiga
-förbättringar. Om teamet samtidigt ingår i ett eller fler projekt där man
-förväntas komma framåt blir det svårt att förutse hur mycket tid man kan lägga
-på projekt eftersom driften av det befintliga (som snurrar i en
-produktionsmiljö) ofta går före allt annat.
+applikationer så fylls tiden mer och mer av support och ständiga förbättringar.
+Om teamet samtidigt ingår i ett eller fler projekt där man förväntas komma
+framåt blir det svårt att förutse hur mycket tid man kan lägga på projekt
+eftersom driften av det befintliga (som snurrar i en produktionsmiljö) ofta går
+före allt annat.
 
-Svårigheten består kanske i att få _hela_ organisationen att förstå att
-IT-jobbar DevOps och att de inte kan begära exakta tider. Om jag bedömmer att en
-funktion tar 40h så får de ofta räkna med att det i kalendertid blir 2-4 veckor.
-Jag har ofta inte mer än 10-20 timmar i veckan att lägga på projektet.
+Svårigheten består i att få _hela_ organisationen att förstå att IT-jobbar
+DevOps och att de inte kan begära exakta tider hur som helst. Om jag bedömmer
+att en funktion tar 40h så får de ofta räkna med att det i kalendertid blir 2-4
+veckor. Jag har ofta inte mer än 10-20 timmar i veckan att lägga på nya
+projektet.
 ------------

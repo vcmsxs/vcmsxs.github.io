@@ -12,7 +12,7 @@
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
 #+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
 #+OPTIONS:   texht:t
-#+STARTUP: hideblocks 
+#+STARTUP: hideblocks
 # #+INFOJS_OPT: view:showall toc:nil
 #+LATEX_HEADER: \usepackage[AUTO]{babel}
 #+LATEX_HEADER: \usepackage{fancyhdr}
@@ -26,7 +26,7 @@
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
 
 
-#+BEGIN_COMMENT 
+#+BEGIN_COMMENT
 1. Ledarskap
 2. Driven
 3. Kreativ
@@ -41,16 +41,16 @@
 
 
 #+BEGIN_CENTER
-#+ATTR_LATEX: :width 6cm 
+#+ATTR_LATEX: :width 6cm
 [[file:handsome_dude.jpg]]
 #+END_CENTER
 
 #+LaTeX: \bigskip
-#+LaTeX: \vspace*{70} 
+#+LaTeX: \vspace*{70}
 
 *Meritlista (Curriculum Vitae).*
 
-Oförändrat får dokumentet kopieras och distribueras. 
+Oförändrat får dokumentet kopieras och distribueras.
 
 Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:meriter.txt][text]] eller [[file:meriter.pdf][som
 PDF]] för utskrift.
@@ -60,8 +60,8 @@ PDF]] för utskrift.
 # #+end_latex
 
 # # #+LaTeX: \bigskip
-# #+LaTeX: \vspace*{70} 
- 
+# #+LaTeX: \vspace*{70}
+
 # [[file:./jagbild_medium.png]]
 
 
@@ -82,7 +82,7 @@ PDF]] för utskrift.
    :CUSTOM_ID: h:8792e991-bb6b-4b47-aa97-ccb68b40887a
    :END:
  1. Namn: Sandén, _Johan_ Ragnar
- 2. Födelsedatum: [1973-04-20 Fri] 
+ 2. Födelsedatum: [1973-04-20 Fri]
  3. Bostadsort: Gävle, Hille
  4. Körkort: B
  5. Civilstatus: Gift - Anna
@@ -129,10 +129,10 @@ PDF]] för utskrift.
 -------
    - Jag har inga problem att hjälpa till med support på Microsoft Windows. Till
      exempel installera program, sätta upp nätverk och felsöka i andras
-     Windows-miljöer. Men själv, jobbar jag i Gnu/Linux.  
+     Windows-miljöer. Men själv, jobbar jag i Gnu/Linux.
    - Jag kodar inte C# och håller mig borta från "Dot-net-världen".
 
-** Kompetens och erfarenhet 
+** Kompetens och erfarenhet
 #+BEGIN_COMMENT
 Beräkningar på hur länge jag jobbat.
 (- 2019 1997) = 22
@@ -146,7 +146,7 @@ Beräkningar på hur länge jag jobbat.
   3. Certifierad Scrum-master (och Produktägare).
 
 ** Förtroendeuppdrag.
-   - Ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]] mellan 2017-2021. 
+   - Ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]] mellan 2017-2021.
 
      Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med främsta
      syfte att främja öl-kultur. Vi annordnar provningar, studieresor och
@@ -155,7 +155,7 @@ Beräkningar på hur länge jag jobbat.
    - 2018 och 2019 revisor i Västerbackens samfällighetsförening
 
  #+LaTeX: \pagebreak
-   
+
 ** Nuvarande anställning
    :PROPERTIES:
    :CUSTOM_ID: h:22921615-ef13-48d3-965a-d74661f16611
@@ -167,7 +167,7 @@ Beräkningar på hur länge jag jobbat.
    | Förvaltare/vidareutvecklare    | Systemutvecklare     |
    | Teknisk konsult i "testfabrik" | Programmerare        |
    | Deployer/Integrerare           | Databasmigrerare     |
- 
+
 * Utbildningar och kurser
 :PROPERTIES:
 :CUSTOM_ID: lblkurser
@@ -179,8 +179,8 @@ Beräkningar på hur länge jag jobbat.
    | Regi          | Tid       | Plats     | Diplom      |
    |---------------+-----------+-----------+-------------|
    | [[https://www.learningtree.se/][Learning Tree]] | Juni 2017 | Stockholm | [[http://www.hoahoa.se/cv/learningtree_diplom_pm3_itil.pdf][PDF]]         |
- 
-** Kurs/Certifiering: [[https://www.prince2.com/eur][PRINCE2®]] 
+
+** Kurs/Certifiering: [[https://www.prince2.com/eur][PRINCE2®]]
    :PROPERTIES:
    :CUSTOM_ID: h:567af795-b508-46ee-afe9-d10f3f9f1dfe
    :END:
@@ -203,7 +203,7 @@ Beräkningar på hur länge jag jobbat.
    | Regi    | Tid          | Plats   | Diplom |
    |---------+--------------+---------+--------|
    | [[http://www.citerus.se/][Citerus]] | Januari 2009 | Uppsala | [[http://www.hoahoa.se/cv/johansanden_csm_cert_a4.pdf][PDF]]    |
- 
+
 ** [[http://www.learningtree.se/cert/direct/cert1.htm][Kurs/Certifiering: Projekledning]]
    :PROPERTIES:
    :CUSTOM_ID: h:fb5ad144-354b-416c-9f76-c0b9e55a3e76
@@ -211,10 +211,10 @@ Beräkningar på hur länge jag jobbat.
    | Regi          | Tid      | Plats     | Diplom       |
    |---------------+----------+-----------+--------------|
    | [[https://www.learningtree.se/][Learning Tree]] | Maj 2012 | Stockholm | [[http://www.hoahoa.se/cv/learningtree_diplom.pdf][PDF/Diplom]]   |
- 
-   
-  
-*** Ingående kurser 
+
+
+
+*** Ingående kurser
     :PROPERTIES:
     :CUSTOM_ID: h:0e99fa60-a35a-4253-a393-551257cdabc3
     :END:
@@ -242,25 +242,25 @@ Beräkningar på hur länge jag jobbat.
 | Högskola   | Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG) | 1992 - 1994 |
 | Gymnasium  | Naturvetenskaplig Linje, Vasaskolan i Gävle    | 1989 - 1992 |
 | Grundskola | Storhags- och Lillhagsskolan i Gävle           | 1980 - 1989 |
-     
+
 * Kompetenser
   :PROPERTIES:
   :CUSTOM_ID: h:8c20cf7d-6eed-4d9a-8ba4-e96e36f3a54a
   :END:
-** Branscher 
+** Branscher
    :PROPERTIES:
    :CUSTOM_ID: h:7fccea77-1506-44bb-b513-0e622f059e71
    :END:
    1. Konsult: Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och
        uppdrag][Arbetsgivare]]
-   2. Fastighet: på Lantmäteriet via [[#knowit][Knowit]] 
+   2. Fastighet: på Lantmäteriet via [[#knowit][Knowit]]
    3. TeleCom (Produktions test): Ericsson AB via [[#syntronic][Syntronic]] [[#mandator-cellnetwork][Mandator]]
       [[#itgdata][ITG]]
    4. Test: "Testfabrik" på Lantmäteriet via [[#mandator-fujitsu][Fujitzu]]
    5. 3D/Grafik/Realtid: [[#kenvision][KenVision]]
    6. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
       [[#knowit][Knowit]], *Java* - intern utbildning på [[#mandator-cellnetwork][Mandator]], *IT-handledning*
-      på [[#datorteket][Datorteket (Gävle Kommun)]]  
+      på [[#datorteket][Datorteket (Gävle Kommun)]]
    7. Smarta Hem: [[#utilator][Utilator]]
 
 ** Programmeringsspråk
@@ -277,7 +277,7 @@ Beräkningar på hur länge jag jobbat.
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
    Jag sköter det mesta från Emacs[fn:emacs] oavsett språk.
- 
+
    - Emacs[fn:emacs]
      - Emacs[fn:emacs:https://www.gnu.org/software/emacs/]
      - Org-mode[fn:orgmode]
@@ -289,12 +289,12 @@ Beräkningar på hur länge jag jobbat.
      - JetBrains Intellij[fn:jetbrains:https://www.jetbrains.com/toolbox-app/]
      - Eclips-STS[fn:sts:https://spring.io/tools]
      - Android Studio[fn:androidstudio:https://developer.android.com/studio]
-     - Ant[fn:ant:https://ant.apache.org/], Maven[fn:maven:https://maven.apache.org/]   
+     - Ant[fn:ant:https://ant.apache.org/], Maven[fn:maven:https://maven.apache.org/]
 
 
  #+LaTeX: \pagebreak
 
-* Arbetsgivare och uppdrag 
+* Arbetsgivare och uppdrag
   :PROPERTIES:
   :CUSTOM_ID: h:53cca876-30a7-4b82-bdec-9edfd9c27aa9
   :END:
@@ -304,7 +304,7 @@ Beräkningar på hur länge jag jobbat.
   mot *Lantmäteriet* och *Ericsson*. Hos dessa kunder har jag jobbat i flera
   större och mindre projekt. Men jag har även gjort inhopp på bland annat, Gävle
   Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
-  
+
 #+LaTeX: \pagebreak
 ** One Group[fn:onegroup:http://one-group.se/]
 
@@ -312,7 +312,7 @@ Beräkningar på hur länge jag jobbat.
 :CUSTOM_ID: onegroup
 :END:
 
-   Ett svenskt konsultbolag med Specialistkompetens inom IT. 
+   Ett svenskt konsultbolag med Specialistkompetens inom IT.
 
    1. Period: September 2022 - Nuvarande
    2. Titel/Roller: Systemutvecklare, It-Konsult
@@ -323,7 +323,7 @@ Beräkningar på hur länge jag jobbat.
    4. Plattformar: Linux[fn:linux] (Redhat, Ubuntu, Mint)
    5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker/Podman,
       OpenShift, Oracle, PostgreSQL, Sqlite, Vitrualenv, Git, Emacs[fn:emacs]
-      
+
 ** Knowit[fn:knowit:http://:www.knowit.se]
 :PROPERTIES:
 :CUSTOM_ID: knowit
@@ -356,7 +356,7 @@ Ett nordiskt konsultföretag med lokal närvaro.
       Spring Framework, Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[fn:git],
       Hybernate ,Jira, Fitnesse
 
-** Mandator/Fujitsu 
+** Mandator/Fujitsu
 :PROPERTIES:
 :CUSTOM_ID: mandator-fujitsu
 :END:
@@ -395,8 +395,8 @@ Ett nordiskt konsultföretag med lokal närvaro.
       systemtester för produktion.
    4) Plattformar: Windows, Solaris
    5) Teknik: Microsoft Visual C ++, MFC
- 
-** Utilator 
+
+** Utilator
 :PROPERTIES:
 :CUSTOM_ID: utilator
 :END:
@@ -425,13 +425,13 @@ Ett nordiskt konsultföretag med lokal närvaro.
       - Affiliate web
       - Resebyrå
    5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
- 
+
 ** Mandator/CellNetwork
 :PROPERTIES:
 :CUSTOM_ID: mandator-cellnetwork
 :END:
    Mandator var ett nationellt konsultföretag.
-   
+
    1) Period: April 1999 - Maj 2000
    2) Titel: It-konsult.
    3) Uppdrag: Ericsson AB
@@ -441,7 +441,7 @@ Ett nordiskt konsultföretag med lokal närvaro.
    5) Tekniker: C++, MFC, Idefix
 
 #+LaTeX: \pagebreak
-** Syntronic 
+** Syntronic
 :PROPERTIES:
 :CUSTOM_ID: syntronic
 :END:
@@ -459,7 +459,7 @@ Ett nordiskt konsultföretag med lokal närvaro.
    4) Plattform: Windows NT, Windows 3.11, Hårdvarunära programmering
    5) Tekniker: Borland Pascal, Java, JBuilder, c/C++ Visual Studio,
       MFC, ASP, Assembler, Idefix
-	
+
 ** KenVision
 :PROPERTIES:
 :CUSTOM_ID: kenvision
@@ -482,7 +482,7 @@ Ett nordiskt konsultföretag med lokal närvaro.
 :CUSTOM_ID: datorteket
 :END:
    Kommunalt projekt för att höja den allmänna datorvanan hos
-   ungdomar 
+   ungdomar
    och arbetslösas.
 
    1. Period: Oktober 1995 - Mars 1996
