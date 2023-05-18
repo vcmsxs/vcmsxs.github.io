@@ -270,7 +270,7 @@ Beräkningar på hur länge jag jobbat.
    - Python[fn:python:https://www.python.org/], PHP, Perl
    - Java[fn:java], c/C++
    - html/css, Javascript, TypeScript (Angular)
-   - Sql, Bash
+   - Sql, Bash, Ansible
 
 ** Utvecklingsmiljöer och Verktyg
    :PROPERTIES:
@@ -317,130 +317,10 @@ Beräkningar på hur länge jag jobbat.
    1. Period: September 2022 - Nuvarande
    2. Titel/Roller: Systemutvecklare, It-Konsult
    3. Uppdrag:
-      1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
-         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
-         grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
+      - Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
+        leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
+        grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
    4. Plattformar: Linux[fn:linux] (Redhat, Ubuntu, Mint)
-   5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker/Podman,
-      OpenShift, Oracle, PostgreSQL, Sqlite, Vitrualenv, Git, Emacs[fn:emacs]
-
-** Knowit[fn:knowit:http://:www.knowit.se]
-:PROPERTIES:
-:CUSTOM_ID: knowit
-:END:
-
-Ett nordiskt konsultföretag med lokal närvaro.
-
-   1) Period: Oktober 2008 - September 2022
-   2) Titel/Roller: Projektledare, Gruppledare, Scrum-master, Mentor,
-      Applikationsansvarig, Lärare, Systemutvecklare, Konsult
-   3) Uppdrag:
-      1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
-         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
-         grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
-      2. Lantmäteriet - TeamArken. Arkivregister, Akter, Dokument, Historiska
-         kartor, sökningar och metadata.
-      3. Gefle Ölsellskap - Utveckling av information/röstsystem inför
-         Finölsfestivalen
-      4. Lantmäteriet - Leveranssystemet (FinfoLev)
-      5. Korsnäs - Ubildning i scrum och agila metoder
-      6. Lantmäteriet - förvaltning av Externt Beställningssytem (EBS)
-      7. Lantmäteriet - Projekt: Milins/Mulligan (delprojekt/migrering) i
-         Mulligan projektet. Grundatalager för Inskrivning, Tomträttsupplåtelse,
-         IR-fastighet, Inteckningar, Inskrivet ägande mm
-   4) Plattformar: Gnu/Linux[fn:linux] (Redhat, Ubuntu, Mint), Unix (Solaris),
-      Windows XP, Windows 10
-   5) Teknik: Python[fn:python] (pip/setuptools, flask, bottle, virtualenv,
-      click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker/Docker,
-      Java[fn:java], Ant[fn:ant], Maven[fn:maven], Eclipse/STS, JBuilder, JSF,
-      Spring Framework, Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[fn:git],
-      Hybernate ,Jira, Fitnesse
-
-** Mandator/Fujitsu
-:PROPERTIES:
-:CUSTOM_ID: mandator-fujitsu
-:END:
-   Fujitsu[fn:fujitsu:www.fujitsu.com/se/], ett internationellt
-   konsultföretag [fn:cell].
-
-   1) Plattformar: Solaris, Windows XP
-   2) Period: Januari 2003 - September 2008
-   3) Titel: Teknisk rådgivare i test., Arkitekt, Systemutvecklare,
-      Konsult
-   4) Uppdrag:
-      1. Sandvik AB - Div. mindre projekt, REXX, ASP (IIS, SQLServer).
-      2. Lantmäteriet - förvaltning och vidare uteckling av Externt
-         Beställningssytem (EBS)
-      3. Lantmäteriet - Alp projektet. Nationellt system för nytt
-         adress register.
-      4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
-         fastigheter.
-   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:https://orgmode.org/], BEA WLS, Tibco RDV, Fujitzu iFlow.,
-      XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
-      JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
-      Proffessionell),senare HP QC, Tomcat
-
-[fn:cell] Företaget bytte namn 3 gånger under min anställning.
-
-** ITG Data
-:PROPERTIES:
-:CUSTOM_ID: itgdata
-:END:
-   ITGData[fn:itgdata:Såldes till BIS industriteknik 2006].
-   Dataavdelningen/dotterföretag på ett industriteknik företag.
-
-   1) Period: Februari 2001 - December 2002
-   2) Titel: Systemutvecklare, Konsult.
-   3) Uppdrag: Ericsson AB, WCDMA Radiobas, Utvecklande av
-      systemtester för produktion.
-   4) Plattformar: Windows, Solaris
-   5) Teknik: Microsoft Visual C ++, MFC
-
-** Utilator
-:PROPERTIES:
-:CUSTOM_ID: utilator
-:END:
-   Utilator[fn:utilator] var ett litet it-företag med inriktning mot "smarta
-   hem".
-
-   1) Period: November 2000 - Februari 2001[fn:utilator:Anställd 3 månader på
-      utilator innan konkurs]
-   2) Titel: Systemutvecklare.
-   3) Plattform: Gnu/Linux[fn:linux] Redhat
-   4) Uppdrag: "Smarta hem"
-      + Elektroniskt bokningssystem (garage, tvättstuga osv.)
-   5) Tekniker: Java, c, Gnu/Linux
-
-** Mind
-   :PROPERTIES:
-   :CUSTOM_ID: mind
-   :END:
-   Mind[fn:mind] Var ett Stockholmsbaserat konsultföretag med inriktning på web.
-
-   1) Period: Maj 2000 - November 2000[fn:mind:Mind gick in konkurs under
-      it-bubblan 2000]
-   2) Titel: Java Expert, It-konsult.
-   3) Plattformar: Windows 2000, Solaris
-   4) Uppdrag: Portaler
-      - Affiliate web
-      - Resebyrå
-   5) Tekniker: Javascript, HTML, Servlets, JBuilder, BEA WLS.
-
-** Mandator/CellNetwork
-:PROPERTIES:
-:CUSTOM_ID: mandator-cellnetwork
-:END:
-   Mandator var ett nationellt konsultföretag.
-
-   1) Period: April 1999 - Maj 2000
-   2) Titel: It-konsult.
-   3) Uppdrag: Ericsson AB
-      - CDMA, Produktionstester av kretskort
-      - CDMA, Utvecklande av Radiobastester.
-   4) Plattform: Windows NT
-   5) Tekniker: C++, MFC, Idefix
-
-#+LaTeX: \pagebreak
 ** Syntronic
 :PROPERTIES:
 :CUSTOM_ID: syntronic

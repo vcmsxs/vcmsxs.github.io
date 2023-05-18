@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2023-03-28 tis 07:14>
+                         <2023-05-02 tis 08:55>
 
 
                         <file:handsome_dude.jpg>
@@ -168,10 +168,10 @@ _________________
   One-Group som arbetsgivare. Den senaste tiden har jag främst arbetat
   inom fastighetsdata mot Lantmäteriet. Rollerna och projekten har
   varierat.
-   Gruppledare                     Applikationsansvarig 
-   Förvaltare/vidareutvecklare     Systemutvecklare     
-   Teknisk konsult i "testfabrik"  Programmerare        
-   Deployer/Integrerare            Databasmigrerare     
+   Gruppledare                     Applikationsansvarig
+   Förvaltare/vidareutvecklare     Systemutvecklare
+   Teknisk konsult i "testfabrik"  Programmerare
+   Deployer/Integrerare            Databasmigrerare
 
 
 2 Utbildningar och kurser
@@ -180,9 +180,9 @@ _________________
 2.1 Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi             Tid        Plats      Diplom 
+   Regi             Tid        Plats      Diplom
   -----------------------------------------------
-   [Learning Tree]  Juni 2017  Stockholm  [PDF]  
+   [Learning Tree]  Juni 2017  Stockholm  [PDF]
 
 
 [Learning Tree] <https://www.learningtree.se/>
@@ -193,9 +193,9 @@ _________________
 2.2 Kurs/Certifiering: [PRINCE2®]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi      Tid             Plats      Diplom 
+   Regi      Tid             Plats      Diplom
   ---------------------------------------------
-   [Metier]  September 2016  Stockholm  [PDF]  
+   [Metier]  September 2016  Stockholm  [PDF]
 
 
 [PRINCE2®] <https://www.prince2.com/eur>
@@ -208,9 +208,9 @@ _________________
 2.3 [Kurs/Certifiering: Produktägare]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi       Tid            Plats      Diplom 
+   Regi       Tid            Plats      Diplom
   ---------------------------------------------
-   [Citerus]  December 2014  Stockholm  [PDF]  
+   [Citerus]  December 2014  Stockholm  [PDF]
 
 
 [Kurs/Certifiering: Produktägare]
@@ -224,9 +224,9 @@ _________________
 2.4 [Kurs/Certifiering: Scrum Master]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi       Tid           Plats    Diplom 
+   Regi       Tid           Plats    Diplom
   ------------------------------------------
-   [Citerus]  Januari 2009  Uppsala  [PDF]  
+   [Citerus]  Januari 2009  Uppsala  [PDF]
 
 
 [Kurs/Certifiering: Scrum Master]
@@ -240,9 +240,9 @@ _________________
 2.5 [Kurs/Certifiering: Projekledning]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi             Tid       Plats      Diplom       
+   Regi             Tid       Plats      Diplom
   ----------------------------------------------------
-   [Learning Tree]  Maj 2012  Stockholm  [PDF/Diplom] 
+   [Learning Tree]  Maj 2012  Stockholm  [PDF/Diplom]
 
 
 [Kurs/Certifiering: Projekledning]
@@ -255,12 +255,12 @@ _________________
 2.5.1 Ingående kurser
 ---------------------
 
-   Kurs                                                                   Tid          
+   Kurs                                                                   Tid
   -------------------------------------------------------------------------------------
-   [Projektledning (Kurs 296)]                                            Augusti 2011 
-   [Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]  Oktober 2011 
-   [Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]   Januari 2012 
-   [Ledarskap (Kurs 290)]                                                 Maj 2012     
+   [Projektledning (Kurs 296)]                                            Augusti 2011
+   [Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]  Oktober 2011
+   [Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]   Januari 2012
+   [Ledarskap (Kurs 290)]                                                 Maj 2012
 
 
 [Projektledning (Kurs 296)] <http://www.learningtree.se/courses/296.pdf>
@@ -277,9 +277,9 @@ _________________
 2.6 [Kurs: Praktisk Projektledning]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi        Tid            Plats     
+   Regi        Tid            Plats
   --------------------------------------
-   [Astrakan]  December 2006  Stockholm 
+   [Astrakan]  December 2006  Stockholm
 
 
 [Kurs: Praktisk Projektledning]
@@ -291,11 +291,11 @@ _________________
 2.7 Skolor
 ~~~~~~~~~~
 
-   Nivå        Skola                                           Period      
+   Nivå        Skola                                           Period
   -------------------------------------------------------------------------
-   Högskola    Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)  1992 - 1994 
-   Gymnasium   Naturvetenskaplig Linje, Vasaskolan i Gävle     1989 - 1992 
-   Grundskola  Storhags- och Lillhagsskolan i Gävle            1980 - 1989 
+   Högskola    Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)  1992 - 1994
+   Gymnasium   Naturvetenskaplig Linje, Vasaskolan i Gävle     1989 - 1992
+   Grundskola  Storhags- och Lillhagsskolan i Gävle            1980 - 1989
 
 
 3 Kompetenser
@@ -342,7 +342,7 @@ _________________
   - Python[4], PHP, Perl
   - Java[6], c/C++
   - html/css, Javascript, TypeScript (Angular)
-  - Sql, Bash
+  - Sql, Bash, Ansible
 
 
 3.3 Utvecklingsmiljöer och Verktyg
@@ -382,12 +382,12 @@ _________________
   1. Period: September 2022 - Nuvarande
   2. Titel/Roller: Systemutvecklare, It-Konsult
   3. Uppdrag:
-     1. Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
-        leveranslager mot fastighet, byggand/adresser och inskrivning.
-        Samt grunddatalager av bestämmelser/rättigheter och
-        samfällighetsföreningar.
+     - Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
+       leveranslager mot fastighet, byggand/adresser och inskrivning.
+       Samt grunddatalager av bestämmelser/rättigheter och
+       samfällighetsföreningar.
   4. Plattformar: Linux[2] (Redhat, Ubuntu, Mint)
-  5. Teknik: Java, Angular, Python, Spring, Spring-boot, Docker/Podman,
+  5. Teknik: Java, Ansibla, Python, Spring-boot, Docker/Podman,
      OpenShift, Oracle, PostgreSQL, Sqlite, Vitrualenv, Git, Emacs[1]
 
 
