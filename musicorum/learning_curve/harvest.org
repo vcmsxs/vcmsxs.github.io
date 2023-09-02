@@ -1,0 +1,61 @@
+#+TITLE:     Harvest
+#+SUBTITLE: Learning curve
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+#+BEGIN_CENTER
+[[file:../../index.org][Hjälp! - ta mig härifrån]]
+#+END_CENTER
+
+* Musik
+#+begin_export html
+  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1537965586&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/leaflard" title="leaflard" target="_blank" style="color: #cccccc; text-decoration: none;">leaflard</a> · <a href="https://soundcloud.com/leaflard/harvest" title="Harvest" target="_blank" style="color: #cccccc; text-decoration: none;">Harvest</a></div>
+#+end_export
+
+* Text
+  #+begin_verse
+    #1
+    In time she will loose it
+    She knows what's at stake
+    What is a promise
+    When everything is fake
+
+    She waits and she hopes
+    for better days ahead
+    Som music should been silence
+    some words never said
+
+    #ref
+    We where two friend
+    and a zoo on a boat
+    I still choosed to sleep with pigs
+    and to mindmeld with a goat
+
+    Some slave are put to use
+    others are sold
+    My brother harvet grain
+    My sister harvest gold
+
+    #2
+    There was this fine dinner
+    It must have been some wine
+    The music seemed okay
+    And I was feeling fine
+
+    But the lyrics become so bad
+    The sky was crying rain
+    My brain was crying NO!
+    My soul was crying pain
+
+#+end_verse

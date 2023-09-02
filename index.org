@@ -35,6 +35,15 @@
 * CV
 Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
 
+* Boktipps
+- [[file:studium/boktipps.org][Boktipps]]
+
+* Musik
+- Learning curve
+  1. [[file:musicorum/learning_curve/harvest.org][Harvest]]
+  2. [[file:musicorum/learning_curve/hearse.org][Hearse]]
+  3. [[file:musicorum/learning_curve/learning_curve.org][Learning curve]]
+
 * Social på nätet
   - På [[file:blog/blog.org][min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
   - [[https://www.instagram.com/vinihille/][Vin i hille]]
@@ -52,8 +61,8 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
     - Det här kanske kan ersätta twitter och facebook?
 
 * Underligheter
-  - [[file:./studium/studium.org][Studium]]
-  - [[file:./abrakadabra/abrakadabra.org][Abrakadabra]]
+  - [[file:studium/emacs.org][Emacs]]
+    - [[file:studium/orgmode.org][Org-Mode]]
   - [[./fun/tinafp.html][Piano - fråga inte]] ...😊
 
 * Kontakt

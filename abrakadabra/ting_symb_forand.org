@@ -8,7 +8,7 @@
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
 #+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
 #+OPTIONS:  texht:t
-#+STARTUP: hideblocks 
+#+STARTUP: hideblocks
 #+HTML_CONTAINER: div
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
@@ -18,6 +18,6 @@
 #+END_CENTER
 
 * I korthet.
-  Vi delar in världen i tingen, symbolerna och förändringarna. Tingen är
-  världen. Symbolerna är vad vi uppfattar. Förändring kan bara uppfattas med
-  tiden. Det beror på att vår uppfattning är en förändring i sig.
+Vi delar in världen i tingen, symbolerna och förändringarna. Tingen är
+världen. Symbolerna är vad vi uppfattar. Förändring kan bara uppfattas med
+tiden. Det beror på att vår uppfattning är en förändring i sig.

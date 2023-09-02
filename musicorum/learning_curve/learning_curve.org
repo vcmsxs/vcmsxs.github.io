@@ -1,0 +1,65 @@
+#+TITLE:     Learning Curve
+#+SUBTITLE: Learning curve
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+#+BEGIN_CENTER
+[[file:../../index.org][Hjälp! - ta mig härifrån]]
+#+END_CENTER
+
+* Text
+  #+begin_verse
+    #1
+    The body is old but the head is fine
+    The car reeks of tobacco and Spanish wine
+    It's eluding, why were they made?
+    And how far from the pack have I strayed
+    I stay up late, I need to observe
+    I am still, very much, on the learning curve
+    Their tantrums come and go, without warning
+    It's written, Joy cometh in the morning.
+
+    Ref(1):
+    Yes I am a fool of course I am a snob.
+    This is not the time to quit my day job.
+    Stuck on the freeway in a blue Range Rover.
+    My children drive me crazy. Please pull over.
+
+    #2
+    Lose some weight and cross that bridge
+    But the light is always on in my fridge.
+    Maybe it is time for a vacation.
+    Let my tallest finger give a standing ovation.
+    Most likely it is my fault, I got what I deserve
+    I am still, on the learning curve
+    This crying boy in the back is my son
+    Let your smile be your umbrella, little one
+
+    #3
+    They long for sky, I made them earth bound.
+    Sorry to say these things will never get off the ground
+    This globe was a perfect orbital station
+    And they fuck it up with their first generation
+    I try to shake it of, and show a little nerve
+    I am so very much stuck on the learning curve?
+    My angels are flying around, having fun.
+    But my children won't play nice under the sun.
+
+    Ref(2):
+    So here comes the fool and I am your snob.
+    This might be the right time to quit my day job.
+    My turn to find and pick the four leaf clover.
+    Childen, you're driving me crazy. Please pull over.
+
+  #+end_verse

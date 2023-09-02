@@ -31,11 +31,7 @@
 #+END_CENTER
 # #+toc: headlines 2
 -------
-* Abrakadabra.
-  - [[file:ting_symb_forand.org][Tingen, Symbolerna och förändringen.]]
-  - [[file:modus_vivendi.org][Att vara]]
-  - [[file:modus_operandi.org][Att göra]]
-
-
-
-
+* COMMENT Abrakadabra.
+  # - [[file:ting_symb_forand.org][Tingen, Symbolerna och förändringen.]]
+  # - [[file:modus_vivendi.org][Att vara]]
+  # - [[file:modus_operandi.org][Att göra]]

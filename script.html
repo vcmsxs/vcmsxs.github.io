@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
 <head>
-<!-- 2022-07-16 Sat 14:57 -->
+<!-- 2023-07-25 Tue 21:43 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>script.org</title>
@@ -191,7 +191,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { width: 90%; }
+  .org-svg { }
 </style>
 </head>
 <body>
@@ -203,77 +203,83 @@
 <h2 id="org13eb1c0"><span class="section-number-2">1.</span> Export</h2>
 <div class="outline-text-2" id="text-1">
 <div class="org-src-container">
-<pre class="src src-elisp" id="org6c69b04">(<span style="color: #5317ac;">defun</span> <span style="color: #721045;">jec-sitemap-format-entry</span> (entry style project)
-  <span style="color: #2a486a;">"Format sitemap ENTRY for PROJECT with the post date before the link, to generate a posts list.  STYLE is not used."</span>
-  (<span style="color: #5317ac;">let*</span> ((base-directory (plist-get (cdr project) <span style="color: #8f0075;">:base-directory</span>))
+<pre class="src src-elisp" id="org6c69b04">(<span style="color: #6f80ff; font-weight: bold;">defun</span> <span style="color: #0dafdf;">jec-sitemap-format-entry</span> (entry style project)
+  <span style="color: #8a9fdf; font-style: italic;">"Format sitemap ENTRY for PROJECT with the post date before the link, to generate a posts list.  STYLE is not used."</span>
+  (<span style="color: #6f80ff; font-weight: bold;">let*</span> ((base-directory (plist-get (cdr project) <span style="color: #5faaef; font-weight: bold;">:base-directory</span>))
          (filename (expand-file-name entry (expand-file-name base-directory (projectile-project-root))))
          )
-    (format <span style="color: #2544bb;">"%s [[file:%s][%s]]"</span>
-            (format-time-string <span style="color: #2544bb;">"&lt;%Y-%m-%d %R&gt;"</span> (org-publish-find-date entry project))
+    (format <span style="color: #df805f;">"%s [[file:%s][%s]]"</span>
+            (format-time-string <span style="color: #df805f;">"&lt;%Y-%m-%d %R&gt;"</span> (org-publish-find-date entry project))
             entry
             (org-publish-find-title entry project))))
-(<span style="color: #5317ac;">progn</span> 
-  (<span style="color: #5317ac;">setq</span> org-publish-project-alist
+(<span style="color: #6f80ff; font-weight: bold;">progn</span>
+  (<span style="color: #6f80ff; font-weight: bold;">setq</span> org-publish-project-alist
         '(
-          (<span style="color: #2544bb;">"index_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"."</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"."</span>
+          (<span style="color: #df805f;">"index_html"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"."</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"."</span>
            )
-          (<span style="color: #2544bb;">"index_pdf"</span>
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"."</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"."</span>
-           <span style="color: #8f0075;">:publishing-function</span> org-latex-publish-to-pdf
+          (<span style="color: #df805f;">"index_pdf"</span>
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"."</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"."</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span> org-latex-publish-to-pdf
            )
-          (<span style="color: #2544bb;">"meriter_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./cv"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./cv"</span>
+          (<span style="color: #df805f;">"meriter_html"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"./cv"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"./cv"</span>
            )
-          (<span style="color: #2544bb;">"meriter_txt"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-ascii-publish-to-ascii
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./cv"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./cv"</span>
+          (<span style="color: #df805f;">"meriter_txt"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span>  org-ascii-publish-to-ascii
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"./cv"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"./cv"</span>
            )
-          (<span style="color: #2544bb;">"meriter_pdf"</span>
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./cv/"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./cv/"</span>
-           <span style="color: #8f0075;">:publishing-function</span> org-latex-publish-to-pdf
+          (<span style="color: #df805f;">"meriter_pdf"</span>
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"./cv/"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"./cv/"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span> org-latex-publish-to-pdf
            )
-          (<span style="color: #2544bb;">"abrakadabra_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./abrakadabra"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./abrakadabra"</span>
+          (<span style="color: #df805f;">"abrakadabra_html"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"./abrakadabra"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"./abrakadabra"</span>
            )
-           (<span style="color: #2544bb;">"studium_html"</span>
-           <span style="color: #8f0075;">:publishing-function</span>  org-html-publish-to-html 
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"./studium"</span>
-           <span style="color: #8f0075;">:publishing-directory</span>  <span style="color: #2544bb;">"./studium"</span>
+           (<span style="color: #df805f;">"studium_html"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"./studium"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"./studium"</span>
            )
-           (<span style="color: #2544bb;">"blog"</span>
-           <span style="color: #8f0075;">:publishing-function</span> org-html-publish-to-html
-           <span style="color: #8f0075;">:base-extension</span> <span style="color: #2544bb;">"org"</span>
-           <span style="color: #8f0075;">:base-directory</span> <span style="color: #2544bb;">"blog/"</span>
-           <span style="color: #8f0075;">:publishing-directory</span> <span style="color: #2544bb;">"blog/"</span>
-           <span style="color: #8f0075;">:auto-sitemap</span> t
-           <span style="color: #8f0075;">:sitemap-filename</span> <span style="color: #2544bb;">"__bloglist.org"</span>
-           <span style="color: #8f0075;">:sitemap-style</span> list
-           <span style="color: #8f0075;">:sitemap-format-entry</span> jec-sitemap-format-entry
-           <span style="color: #8f0075;">:sitemap-file-entry-format</span> <span style="color: #2544bb;">"%d *%t*"</span>
-           <span style="color: #8f0075;">:sitemap-sort-files</span> anti-chronologically
-           <span style="color: #8f0075;">:author</span> <span style="color: #2544bb;">"Johan Sand&#233;n"</span>
-           <span style="color: #8f0075;">:email</span> <span style="color: #2544bb;">"johan.sanden@gmail.com"</span>
-           <span style="color: #8f0075;">:with-creator</span> t
-           <span style="color: #8f0075;">:recursive</span> t)
+           (<span style="color: #df805f;">"musicorum_learning_curve_html"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span>  org-html-publish-to-html
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"./musicorum/learning_curve"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span>  <span style="color: #df805f;">"./musicorum/learning_curve"</span>
+           )
+           (<span style="color: #df805f;">"blog"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-function</span> org-html-publish-to-html
+           <span style="color: #5faaef; font-weight: bold;">:base-extension</span> <span style="color: #df805f;">"org"</span>
+           <span style="color: #5faaef; font-weight: bold;">:base-directory</span> <span style="color: #df805f;">"blog/"</span>
+           <span style="color: #5faaef; font-weight: bold;">:publishing-directory</span> <span style="color: #df805f;">"blog/"</span>
+           <span style="color: #5faaef; font-weight: bold;">:auto-sitemap</span> t
+           <span style="color: #5faaef; font-weight: bold;">:sitemap-filename</span> <span style="color: #df805f;">"__bloglist.org"</span>
+           <span style="color: #5faaef; font-weight: bold;">:sitemap-style</span> list
+           <span style="color: #5faaef; font-weight: bold;">:sitemap-format-entry</span> jec-sitemap-format-entry
+           <span style="color: #5faaef; font-weight: bold;">:sitemap-file-entry-format</span> <span style="color: #df805f;">"%d *%t*"</span>
+           <span style="color: #5faaef; font-weight: bold;">:sitemap-sort-files</span> anti-chronologically
+           <span style="color: #5faaef; font-weight: bold;">:author</span> <span style="color: #df805f;">"Johan Sand&#233;n"</span>
+           <span style="color: #5faaef; font-weight: bold;">:email</span> <span style="color: #df805f;">"johan.sanden@gmail.com"</span>
+           <span style="color: #5faaef; font-weight: bold;">:with-creator</span> t
+           <span style="color: #5faaef; font-weight: bold;">:recursive</span> t)
            ))
-  (org-publish <span style="color: #2544bb;">"blog"</span>)
-  (org-publish <span style="color: #2544bb;">"index_html"</span>)
-  (org-publish <span style="color: #2544bb;">"index_pdf"</span>)
-  (org-publish <span style="color: #2544bb;">"meriter_html"</span>)
-  (org-publish <span style="color: #2544bb;">"meriter_pdf"</span>)
-  (org-publish <span style="color: #2544bb;">"meriter_txt"</span>)
-  (org-publish <span style="color: #2544bb;">"abrakadabra_html"</span>)
-  (org-publish <span style="color: #2544bb;">"studium_html"</span>)
+  (org-publish <span style="color: #df805f;">"blog"</span>)
+  (org-publish <span style="color: #df805f;">"index_html"</span>)
+  (org-publish <span style="color: #df805f;">"index_pdf"</span>)
+  (org-publish <span style="color: #df805f;">"meriter_html"</span>)
+  (org-publish <span style="color: #df805f;">"meriter_pdf"</span>)
+  (org-publish <span style="color: #df805f;">"meriter_txt"</span>)
+  (org-publish <span style="color: #df805f;">"abrakadabra_html"</span>)
+  (org-publish <span style="color: #df805f;">"studium_html"</span>)
+  (org-publish <span style="color: #df805f;">"musicorum_learning_curve_html"</span>)
   )
 </pre>
 </div>
@@ -283,7 +289,7 @@
 <div id="postamble" class="status">
 <p class="date">Datum: 2015-03-08 Sun 00:00</p>
 <p class="author">F&ouml;rfattare: Johan Sandén</p>
-<p class="date">Created: 2022-07-16 Sat 14:57</p>
+<p class="date">Created: 2023-07-25 Tue 21:43</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

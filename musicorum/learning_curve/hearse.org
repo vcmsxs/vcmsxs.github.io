@@ -1,0 +1,46 @@
+#+TITLE:     Hearse
+#+SUBTITLE: Learning curve
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+#+BEGIN_CENTER
+[[file:../../index.org][Hjälp! - ta mig härifrån]]
+#+END_CENTER
+
+* Text
+#+begin_verse
+     #1
+     You have not arrived, you are nowhere
+     Soon enough it will be over
+     Wasting away in slippers and a robe
+     This is the time on the globe
+
+     #REF:
+     No need for pennies in your purse
+     No need for a doctor or a nurse
+     It will disperse, not a blessing nor a curse
+     We all ride home in a hearse
+
+     #2
+     I tell everybody that I'm fine
+     A drop of water in a river of time
+     Listen to the roar of the Niagara Falls
+     And the crumbling of concrete walls
+
+     #3
+     Among my friends and their toys
+     Among these girls and boys.
+     Walking though a crowded avenue
+     Excuse me, just passing through.
+#+end_verse
