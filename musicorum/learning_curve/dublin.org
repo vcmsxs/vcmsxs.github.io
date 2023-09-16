@@ -1,0 +1,62 @@
+#+TITLE:    Dublin
+#+SUBTITLE: Learning curve
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+#+BEGIN_CENTER
+[[file:../../index.org][Gud Hjälp! - ta mig härifrån]]
+#+END_CENTER
+
+* Musik
+#+begin_export html
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1618071885&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/leaflard" title="leaflard" target="_blank" style="color: #cccccc; text-decoration: none;">leaflard</a> · <a href="https://soundcloud.com/leaflard/dublin" title="Dublin" target="_blank" style="color: #cccccc; text-decoration: none;">Dublin</a></div>
+#+end_export
+
+* Ackord
+- T1
+  | Am | C | E | Am |
+
+
+- T2
+  | C | G | Am | E |
+  | F | C | G  | G |
+
+
+- T1 * 8
+- T2 * 2
+* Text
+#+begin_verse
+/#1/
+Sailing around Denmark and the northen sea
+We are not here for the scones and the tea
+Facing death and demonds in the fog
+Going to Dubblin, to get us some grog.
+
+/#REF/
+I heard the seaguls and I learned how to fly
+Signed on a skipper and reached for the sky
+My parents where dead, left my home al alone
+Sailing into the ash, fire and brimstone
+
+/#2/
+Nobody can afford to draw a line in sand
+There skin in the game but not upper hand
+Lord grant me health and wind from the west
+Thats all I need, I can steal the rest.
+
+/# REF/
+
+/# REF/
+
+#+end_verse

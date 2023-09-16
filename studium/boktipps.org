@@ -17,6 +17,8 @@
 [[file:studium.org][Studium]] | [[file:../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
 
+-------
+
 - Det här är i princip alla böcker jag läst (okay då, oftast lyssnat på) de senaste 4 åren.
 
 | Betyg 1-10 | Boknamn                                                 | Författare                                                              |

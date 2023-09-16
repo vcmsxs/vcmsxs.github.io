@@ -20,8 +20,18 @@
 
 * Musik
 #+begin_export html
-  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1537965586&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/leaflard" title="leaflard" target="_blank" style="color: #cccccc; text-decoration: none;">leaflard</a> · <a href="https://soundcloud.com/leaflard/harvest" title="Harvest" target="_blank" style="color: #cccccc; text-decoration: none;">Harvest</a></div>
+  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1618071894&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/leaflard" title="leaflard" target="_blank" style="color: #cccccc; text-decoration: none;">leaflard</a> · <a href="https://soundcloud.com/leaflard/harvets" title="Harvets" target="_blank" style="color: #cccccc; text-decoration: none;">Harvets</a></div>
 #+end_export
+
+* Ackord
+
+/Vers:/
+| Am | Dm | C | E7 | *2 |
+
+/Ref:/
+| G  | C  | G  | C/E7 |
+| Am | Dm | F  | E    |
+| Am | Am | Am | Am   |
 
 * Text
   #+begin_verse

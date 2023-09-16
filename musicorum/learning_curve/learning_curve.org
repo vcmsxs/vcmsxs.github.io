@@ -18,9 +18,32 @@
 [[file:../../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
 
-* Text
-  #+begin_verse
-    #1
+* Musik
+#+begin_export html
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1618071876&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/leaflard" title="leaflard" target="_blank" style="color: #cccccc; text-decoration: none;">leaflard</a> · <a href="https://soundcloud.com/leaflard/learning-curve" title="Learning Curve" target="_blank" style="color: #cccccc; text-decoration: none;">Learning Curve</a></div>
+#+end_export
+
+* Ackord (tema: under the sun)
+  /Vers:/
+  | Am | G  | C  | C  |    |
+  | C  | E7 | Am | Am | *2 |
+  | G  | G  | C  | C  |    |
+  | G  | G  | C  | E7 |    |
+  | Am | G  | C  | C  |    |
+  | C  | E7 | Am | Am |    |
+
+  /Ref:/
+  | F | F | Fm | Fm |
+  | C | C | G  | G  |
+  | F | F | G# | G# |
+  | C | C | G  | G  |
+
+* Text - Arr
+
+#+begin_verse
+    /#Vers - Intro/
+
+    /#1/
     The body is old but the head is fine
     The car reeks of tobacco and Spanish wine
     It's eluding, why were they made?
@@ -30,13 +53,13 @@
     Their tantrums come and go, without warning
     It's written, Joy cometh in the morning.
 
-    Ref(1):
+    /Ref(1):/
     Yes I am a fool of course I am a snob.
     This is not the time to quit my day job.
     Stuck on the freeway in a blue Range Rover.
     My children drive me crazy. Please pull over.
 
-    #2
+    /#2/
     Lose some weight and cross that bridge
     But the light is always on in my fridge.
     Maybe it is time for a vacation.
@@ -46,7 +69,11 @@
     This crying boy in the back is my son
     Let your smile be your umbrella, little one
 
-    #3
+    /Vers: Solo/
+
+    /Ref(1):/
+
+    /#3/
     They long for sky, I made them earth bound.
     Sorry to say these things will never get off the ground
     This globe was a perfect orbital station
@@ -56,10 +83,11 @@
     My angels are flying around, having fun.
     But my children won't play nice under the sun.
 
-    Ref(2):
+    /Ref(2):/
     So here comes the fool and I am your snob.
     This might be the right time to quit my day job.
     My turn to find and pick the four leaf clover.
     Childen, you're driving me crazy. Please pull over.
 
+    /Vers - Utro - Solo/
   #+end_verse
