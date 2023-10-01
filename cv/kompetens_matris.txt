@@ -1,0 +1,108 @@
+                          ___________________
+
+                           KOMPETENSMATRISER
+
+                              Johan Sandén
+                          ___________________
+
+
+                            <2014-05-09 Fri>
+
+
+Table of Contents
+_________________
+
+1. Definitioner
+.. 1. Kunskapsnivå
+2. Projek/process
+3. Programmerinsspråk
+4. Utecklingsmiljöer
+5. Operativsystem
+
+
+
+
+
+1 Definitioner
+==============
+
+1.1 Kunskapsnivå
+~~~~~~~~~~~~~~~~
+
+  0. Ingen kunskap.
+  1. Små kunskaper.
+     - Namn, definitioner, grundläggande principer.
+  2. Vissa kunskaper.
+     - Kunskap i vissa avgränsade delar.
+     - Kan troligen sätta sig in i ämnet ganska lätt.
+     - Har helt förstått principerna.
+  3. Kunnig.
+     - Best practice.
+     - Kan de viktigaste delarna och har hört talas om det mesta.
+     - Kan undviker vanliga falluckor.
+  4. Goda kunskaper.
+     - Kan flera api:er
+     - Har djupgående kunskaper i principer
+     - Kan varianter deras styrkor
+     - Kan vidareutveckla och anpassa till sig själv
+  5. Expert.
+     - Kan utveckla/vidareutveckla för andra.
+
+
+2 Projek/process
+================
+
+   Begrepp         Nivå 
+  ----------------------
+   Projektledning     3 
+   Scrum              3 
+   Kanban             4 
+
+
+3 Programmerinsspråk
+====================
+
+   Språk        Kunskapsnivå 
+  ---------------------------
+   Python                  4 
+   Java                    4 
+   Bash                    4 
+   ELisp                   3 
+   SQL                     3 
+   c                       3 
+   C++                     3 
+   Perl                    2 
+   Common Lisp             2 
+   JavaScript              2 
+   Pascal                  3 
+   Basic                   2 
+   REXX                    1 
+
+
+4 Utecklingsmiljöer
+===================
+
+   Miljö             Kunskapsnivå 
+  --------------------------------
+   Emacs                        4 
+   Eclips/STS                   3 
+   Visual Studio                2 
+   Borland JBuilder             2 
+   InteliJ                      2 
+
+
+5 Operativsystem
+================
+
+   Operativ   Kunskapsnivå 
+  -------------------------
+   OS X                  1 
+   Windows               3 
+   Gnu/Linux             4 
+   Unix                  3 
+   Android               2 
+   iOS                   1 
+
+
+
+                                          Emacs 24.3.1 (Org mode 8.2.5h)

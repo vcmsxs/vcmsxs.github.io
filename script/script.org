@@ -25,49 +25,49 @@
         '(
           ("index_html"
            :publishing-function  org-html-publish-to-html
-           :base-directory "."
-           :publishing-directory  "."
+           :base-directory ".."
+           :publishing-directory  ".."
            )
           ("index_pdf"
-           :base-directory "."
-           :publishing-directory  "."
+           :base-directory ".."
+           :publishing-directory  ".."
            :publishing-function org-latex-publish-to-pdf
            )
           ("meriter_html"
            :publishing-function  org-html-publish-to-html
-           :base-directory "./cv"
-           :publishing-directory  "./cv"
+           :base-directory "../cv"
+           :publishing-directory  "../cv"
            )
           ("meriter_txt"
            :publishing-function  org-ascii-publish-to-ascii
-           :base-directory "./cv"
-           :publishing-directory  "./cv"
+           :base-directory "../cv"
+           :publishing-directory  "../cv"
            )
           ("meriter_pdf"
-           :base-directory "./cv/"
-           :publishing-directory  "./cv/"
+           :base-directory "../cv/"
+           :publishing-directory  "../cv/"
            :publishing-function org-latex-publish-to-pdf
            )
           ("abrakadabra_html"
            :publishing-function  org-html-publish-to-html
-           :base-directory "./abrakadabra"
-           :publishing-directory  "./abrakadabra"
+           :base-directory "../abrakadabra"
+           :publishing-directory  "../abrakadabra"
            )
            ("studium_html"
            :publishing-function  org-html-publish-to-html
-           :base-directory "./studium"
-           :publishing-directory  "./studium"
+           :base-directory "../studium"
+           :publishing-directory  "../studium"
            )
            ("musicorum_learning_curve_html"
            :publishing-function  org-html-publish-to-html
-           :base-directory "./musicorum/learning_curve"
-           :publishing-directory  "./musicorum/learning_curve"
+           :base-directory "../musicorum/learning_curve"
+           :publishing-directory  "../musicorum/learning_curve"
            )
            ("blog"
            :publishing-function org-html-publish-to-html
            :base-extension "org"
-           :base-directory "blog/"
-           :publishing-directory "blog/"
+           :base-directory "../blog/"
+           :publishing-directory "../blog/"
            :auto-sitemap t
            :sitemap-filename "__bloglist.org"
            :sitemap-style list

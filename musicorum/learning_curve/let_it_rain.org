@@ -1,0 +1,107 @@
+#+TITLE: Let it rain
+#+SUBTITLE: Learning Curve
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
+#+LANGUAGE:  sv
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-to
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+OPTIONS:   texht:t
+#+STARTUP: hideblocks
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+#+BEGIN_CENTER
+[[file:../../index.org][Hjälp! - ta mig härifrån]]
+#+END_CENTER
+
+  - Musik: Johan Sandén
+  - Text: Johan Sandén och Anna Sandén
+
+* Musik
+
+*Den kommer...*
+
+* Ackord
+    - Vers:
+      | Am | B  | Dm | Am | x2 |
+      | Fm | Em | Am | Am | x2 |
+    - Stick:
+      | C  | E7 | Am | F  | x3 |
+      | Fm | Em | Am | Am |    |
+
+* Text - Arr
+#+begin_verse
+      /#1/
+      The mandatory hand shake
+      he is standing a little too close
+      Nice to meet you, You must be
+      Mr Stand Up Steve, I suppose?
+      They force you to listen
+      And push needles through your skin
+      Be on your toes or they will suck you dry
+      of everything within
+
+      It's coming down in Tchad
+      There are cats and dogs over Maine
+      Let it rain
+      It pours down inside
+      with the roar of train.
+      Let it rain.
+
+
+      /#Stick/
+      All aboard, Mind the Gap
+      Come and sit, in my lap
+      Surely you can take some more
+      We have been here before
+      Now the train leaves the station
+      There is no known destination
+      But it's not a friendly nation
+      An air of desperation
+
+      Smile and nod when they brag
+      Laugh at jokes, salute their flag
+      The game is on, you can't abort
+      They will have their day in court
+      Swallow the pain, Let it rain
+      Let it rain
+
+      /#2/
+      Yes! let's rant and rave
+      over things that doesn't matter.
+      Nice to meet you, you must be
+      Miss Olivia the organizer, I gather?
+      If it had been a little bit colder in here
+      It would have come down as snow
+      Please stop shiver and shatter those teeth.
+      Now get in the boat and row!
+
+      There's flooding in Tokyo
+      A hurricane over Spain
+      Let it rain
+      It pours down inside
+      You buy umbrellas in vain
+      Let it rain.
+
+      /#3/
+      The smell is unbearable.
+      That is one unholy perfume
+      Hi, so nice to meet you
+      You are the devil himself, I presume.
+      Please turn this hall up side down
+      And shake it like a tambourine
+      They will rip us apart
+      And stitch us up, with a sewing machine
+
+      There is a downpour over Denver
+      And a tsunami over Bahrain
+      Let it rain
+      It pours down inside
+      It's washing through my brain
+      Let it rain.
+
+#+end_verse

@@ -1,0 +1,68 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: Learning Curve
+#+subtitle: Lite musik
+#+DATE: <2023-10-01 Sun>
+#+AUTHOR: Johan Sandén
+#+EMAIL: johan.sanden@gmail.com
+#+LANGUAGE: sv
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+DESCRIPTION:
+#+KEYWORDS:
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
+#+HTML_HEAD_EXTRA:
+#+SUBTITLE:
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> <a href="http://orgmode.org">Org-mode</a>
+#+LATEX_HEADER:
+
+#+BEGIN_CENTER
+[[file:../../img/lc.jpg]]
+#+END_CENTER
+
+
+-------
+* Learning Curve
+Våren 2023 började jag rusta upp min studio. Musikrummet hade genom åren, sen vi
+flyttade in i Hille, förfallit till ett förvaringsutrymme för allt jag för
+tillfället hade i händerna och inte visste var jag skulle lägga. Förutom att jag
+tog mig i kragen och röjde bort allt utom instrumenten och de möbler jag behövde
+så passade jag på att köpa lite nya utrustning.
+
+De låtar som hamnar i listan "learning curve" är främst för att påminna mig
+själv om hur man gör musik igen. Det var ett tag sedan. Förhoppningsvis kan jag
+lära mig tillräckligt för att göra något som låter lite bättre och seriösare i
+framtiden. Den som lever och hör får se.
+
+Jag lägger bara ut de här låtarna på SoundCloud. Men förhoppningsvis, när
+låtarna blir bättre lägger jag ut dem spotify e.d.
+
+Om det mot förmodan skulle finnas någon som vill haka på så har jag skrivit ner
+ackorden och texterna här. När jag skriver låtarna så blir i tonart C, för att
+det är lättast. Sen transponerar ofta låtarna till något annat innan jag spelar
+in dem. Texterna kan också variera från det nedskrivna då det händer att jag får
+lite fealing när jag står där och skrålar i mikrofonen.
+
+Jag har gjort musiken men Anna Sandén (min fru) hjälper mig med rättstavning och
+kommer med förslag på förbättringar på de flesta texterna.
+
+Lukas Sandén har gjort bilden med mig i förgrunden för den här listan.
+
+Kommentera gärna vad ni tycker på SoundCloud.
+
+* Låtar
+  1. [[file:harvest.org][Harvest]]
+  2. [[file:hearse.org][Hearse]]
+  3. [[file:dublin.org][Dublin]]
+  4. [[file:learning_curve.org][Learning curve]]
+  5. [[file:let_it_rain.org][Let it rain]]

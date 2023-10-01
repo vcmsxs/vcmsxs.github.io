@@ -39,11 +39,12 @@
 Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
 
 * Musik
-- [[https://on.soundcloud.com/VuJVV][Learning curve]]
+- [[file:musicorum/learning_curve/index_learning_curve.org][Learning curve]]
   1. [[file:musicorum/learning_curve/harvest.org][Harvest]]
   2. [[file:musicorum/learning_curve/hearse.org][Hearse]]
   3. [[file:musicorum/learning_curve/dublin.org][Dublin]]
   4. [[file:musicorum/learning_curve/learning_curve.org][Learning curve]]
+  5. [[file:musicorum/learning_curve/let_it_rain.org][Let it rain]]
 
 * Boktipps
 
