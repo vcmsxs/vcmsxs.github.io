@@ -30,6 +30,9 @@
 [[file:../../img/lc.jpg]]
 #+END_CENTER
 
+#+BEGIN_CENTER
+[[file:../../index.org][Hjälp! - ta mig härifrån]]
+#+END_CENTER
 
 -------
 * Learning Curve
