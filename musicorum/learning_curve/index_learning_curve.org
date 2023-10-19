@@ -36,20 +36,19 @@
 
 -------
 * Learning Curve
-Våren 2023 började jag rusta upp min studio. Det var länge sedan jag gjorde
-musik ni får ha lite överseende i början 😈
+Våren 2023 rustade jag upp min lilla studio. Det var länge sedan jag gjorde
+musik ni får ha lite överseende i början.
 
-Jag har skrivit allt själv men eftersom jag stavar som 5åring och inte kan
-engelska så har min Anna, min fru, hjälpt mig med stavning och grammatik. 😇
+Jag bär ensam ansvaret men eftersom jag stavar som en 5åring och inte kan
+engelska så har Anna, min fru, hjälpt mig med stavning och grammatik. 😇
 
-Bilden på mig i rött och en tuff bakgrund har Lukas, min yngsta pojk, gjort. 😍
+Bilden på mig i rött och en tuff bakgrund har Lukas Sandén gjort. 😍
 
 Om man vill haka på så har jag skrivit ner ackorden och texterna här. Jag
 skriver det mesta i C så det är det ni får se. När jag sen spelar in
-transponerar jag ofta till något annat...bara så att ni vet, det är inte Er
-gitarr som är ostämd. Texterna stämmer nog inte helt heller, när jag står där
-med micken får jag ofta fealing, känner mig som en rockstjärna och skiter vad
-det står på pappret.
+transponerar jag ofta till något annat, det är inte din gitarr som är ostämd.
+Texterna stämmer nog inte helt heller. För när jag står där med micken får jag
+ofta fealing, känner mig som en rockstjärna och skiter vad det står på pappret.
 
 Kommentera gärna vad ni tycker på SoundCloud.
 

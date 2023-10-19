@@ -36,6 +36,7 @@
 
 * Text - Arr
 #+begin_verse
+
       /#1/
       The mandatory hand shake
       he is standing a little too close
@@ -52,7 +53,6 @@
       It pours down inside
       with the roar of train.
       Let it rain.
-
 
       /#Stick/
       All aboard, Mind the Gap
@@ -74,9 +74,9 @@
       /#2/
       Yes! let's rant and rave
       over things that doesn't matter.
-      Nice to meet you, you must be
-      Miss Olivia the organizer, I gather?
-      If it had been a little bit colder in here
+      Nice to meet you Olivia
+      The organizer, I gather?
+      If it had been a little bit colder
       It would have come down as snow
       Please stop shiver and shatter those teeth.
       Now get in the boat and row!
@@ -90,7 +90,7 @@
 
       /#3/
       The smell is unbearable.
-      That is one unholy perfume
+      That's one unholy perfume
       Hi, so nice to meet you
       You are the devil himself, I presume.
       Please turn this hall up side down
