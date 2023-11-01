@@ -45,4 +45,4 @@ Idag är Peter egenföretagare.
 
 
 
-                                             Emacs 28.2 (Org mode 9.6.5)
+                                             Emacs 28.1 (Org mode 9.6.6)

@@ -24,7 +24,7 @@
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 25.3.2 (<a href="http://orgmode.org">Org</a> mode 9.1.1)
-
+#+OPTIONS: broken-links:mark
 
 #+BEGIN_COMMENT
 1. Ledarskap
@@ -52,18 +52,8 @@
 
 Oförändrat får dokumentet kopieras och distribueras.
 
-Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:meriter.txt][text]] eller [[file:meriter.pdf][som
-PDF]] för utskrift.
-
-# #+begin_latex
-# \pagebreak
-# #+end_latex
-
-# # #+LaTeX: \bigskip
-# #+LaTeX: \vspace*{70}
-
-# [[file:./jagbild_medium.png]]
-
+Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:meriter.txt][text]] eller
+[[file:meriter.pdf][som PDF]] för utskrift.
 
 #+LaTeX: \pagebreak
 
@@ -101,10 +91,10 @@ PDF]] för utskrift.
   + Föredrar att vara hemma på kvällar, helger och semester.
   + Hängiven förespråkare av GnuEmacs[fn:emacs]/-Gnu/Linux[fn:linux], Git[fn:git], Lisp, Python[fn:python] mm.
   + Vegetarian
-  + Ordförande i Gefle Ölsellskap[fn:gefleolsellskap:http://gefleolsellskap.com/].
+  + Ordförande i Gefle Ölsellskap[fn:gefleolsellskap:gefleolsellskap.com].
     - Åren 2017 - 2021
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till pianot.
-  + Tjatade till mig en dator i julklapp vid 8 års åldern. Det var då jag lärde
+  + Tjatade till mig en dator i julklapp vid 11 års åldern. Det var då jag lärde
     mig programmera.
   + Älskar katter.
   + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
@@ -120,7 +110,7 @@ PDF]] för utskrift.
    :END:
    - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
      automatisering.
-   - Jag jobbar i Gnu/Linux[fn:linux:https://en.wikipedia.org/wiki/Linux]-miljö
+   - Jag jobbar i Gnu/Linux[fn:linux:en.wikipedia.org/wiki/Linux]-miljö
    - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
    - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
 -------
@@ -251,8 +241,7 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:7fccea77-1506-44bb-b513-0e622f059e71
    :END:
-   1. Konsult: Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och
-       uppdrag][Arbetsgivare]]
+   1. Konsult: Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och uppdrag][Arbetsgivare]]
    2. Fastighet: på Lantmäteriet via [[#knowit][Knowit]]
    3. TeleCom (Produktions test): Ericsson AB via [[#syntronic][Syntronic]] [[#mandator-cellnetwork][Mandator]]
       [[#itgdata][ITG]]
@@ -267,7 +256,7 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
-   - Python[fn:python:https://www.python.org/], PHP, Perl
+   - Python[fn:python:www.python.org/], PHP, Perl
    - Java[fn:java], c/C++
    - html/css, Javascript, TypeScript (Angular)
    - Sql, Bash, Ansible
@@ -276,20 +265,20 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   Jag sköter det mesta från Emacs[fn:emacs] oavsett språk.
+   Jag sköter det mesta från Emacs[fn:emacs:www.gnu.org/software/emacs/] oavsett språk.
 
    - Emacs[fn:emacs]
-     - Emacs[fn:emacs:https://www.gnu.org/software/emacs/]
-     - Org-mode[fn:orgmode:https://orgmode.org/]
-     - Eglot [fn:eglot:https://github.com/joaotavora/eglot]
-     - LSP[fn:lsp1:https://langserver.org/] [fn:lsp2:https://microsoft.github.io/language-server-protocol/]
-     - Magit[fn:magit:https://magit.vc/][fn:git]
-   - Git[fn:git:https://git-scm.com/]
-   - Java[fn:java:https://openjdk.java.net/]
-     - JetBrains Intellij[fn:jetbrains:https://www.jetbrains.com/toolbox-app/]
-     - Eclips-STS[fn:sts:https://spring.io/tools]
-     - Android Studio[fn:androidstudio:https://developer.android.com/studio]
-     - Ant[fn:ant:https://ant.apache.org/], Maven[fn:maven:https://maven.apache.org/]
+     - Emacs[fn:emacs]
+     - Org-mode[fn:orgmode:orgmode.org/]
+     - Eglot [fn:eglot:github.com/joaotavora/eglot]
+     - LSP[fn:lsp1:langserver.org/] [fn:lsp2:microsoft.github.io/language-server-protocol/]
+     - Magit[fn:magit:magit.vc/][fn:git]
+   - Git[fn:git:git-scm.com/]
+   - Java[fn:java:openjdk.java.net/]
+     - JetBrains Intellij[fn:jetbrains:www.jetbrains.com/toolbox-app/]
+     - Eclips-STS[fn:sts:spring.io/tools]
+     - Android Studio[fn:androidstudio:developer.android.com/studio]
+     - Ant[fn:ant:ant.apache.org/], Maven[fn:maven:maven.apache.org/]
 
 
  #+LaTeX: \pagebreak
@@ -298,15 +287,14 @@ Beräkningar på hur länge jag jobbat.
   :PROPERTIES:
   :CUSTOM_ID: h:53cca876-30a7-4b82-bdec-9edfd9c27aa9
   :END:
-# <<lblArbetsgivare>>
 
   Större delen av mitt yrkesliv har varit som it-konsult. Främst har jag jobbat
   mot *Lantmäteriet* och *Ericsson*. Hos dessa kunder har jag jobbat i flera
   större och mindre projekt. Men jag har även gjort inhopp på bland annat, Gävle
-  Kommun, Sandvik, Korsnäs och Gävle Finölsfestival
+  Kommun, Sandvik, Korsnäs m.fl.
 
 #+LaTeX: \pagebreak
-** One Group[fn:onegroup:http://one-group.se/]
+** One Group
 
 :PROPERTIES:
 :CUSTOM_ID: onegroup
@@ -321,7 +309,7 @@ Beräkningar på hur länge jag jobbat.
         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
         grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
    4. Plattformar: Linux[fn:linux] (Redhat, Ubuntu, Mint)
-** Knowit[fn:knowit:http://:www.knowit.se]
+** Knowit
 :PROPERTIES:
 :CUSTOM_ID: knowit
 :END:
@@ -372,7 +360,7 @@ Ett nordiskt konsultföretag med lokal närvaro.
          adress register.
       4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
          fastigheter.
-   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:https://orgmode.org/], BEA WLS, Tibco RDV, Fujitzu iFlow.,
+   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:orgmode.org/], BEA WLS, Tibco RDV, Fujitzu iFlow.,
       XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
       JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
       Proffessionell),senare HP QC, Tomcat

@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2023-10-01 Sun 09:49>
+                         <2023-11-01 Wed 08:03>
 
 
                         <file:handsome_dude.jpg>
@@ -18,7 +18,6 @@ Oförändrat får dokumentet kopieras och distribueras.
 
 Förutom som websida (på <http://cv.hoahoa.se>) finns den även som [text]
 eller [som PDF] för utskrift.
-
 
 Table of Contents
 _________________
@@ -45,8 +44,8 @@ _________________
 .. 2. Programmeringsspråk
 .. 3. Utvecklingsmiljöer och Verktyg
 4. Arbetsgivare och uppdrag
-.. 1. One Group[17]
-.. 2. Knowit[18]
+.. 1. One Group
+.. 2. Knowit
 .. 3. Mandator/Fujitsu
 .. 4. ITG Data
 .. 5. Utilator
@@ -109,7 +108,7 @@ _________________
     - Åren 2017 - 2021
   + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till
     pianot.
-  + Tjatade till mig en dator i julklapp vid 8 års åldern. Det var då
+  + Tjatade till mig en dator i julklapp vid 11 års åldern. Det var då
     jag lärde mig programmera.
   + Älskar katter.
   + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
@@ -370,12 +369,11 @@ _________________
   Större delen av mitt yrkesliv har varit som it-konsult. Främst har jag
   jobbat mot *Lantmäteriet* och *Ericsson*. Hos dessa kunder har jag
   jobbat i flera större och mindre projekt. Men jag har även gjort
-  inhopp på bland annat, Gävle Kommun, Sandvik, Korsnäs och Gävle
-  Finölsfestival
+  inhopp på bland annat, Gävle Kommun, Sandvik, Korsnäs m.fl.
 
 
-4.1 One Group[17]
-~~~~~~~~~~~~~~~~~
+4.1 One Group
+~~~~~~~~~~~~~
 
   Ett svenskt konsultbolag med Specialistkompetens inom IT.
 
@@ -389,8 +387,8 @@ _________________
   4. Plattformar: Linux[2] (Redhat, Ubuntu, Mint)
 
 
-4.2 Knowit[18]
-~~~~~~~~~~~~~~
+4.2 Knowit
+~~~~~~~~~~
 
   Ett nordiskt konsultföretag med lokal närvaro.
 
@@ -425,7 +423,7 @@ _________________
 4.3 Mandator/Fujitsu
 ~~~~~~~~~~~~~~~~~~~~
 
-  Fujitsu[19], ett internationellt konsultföretag [20].
+  Fujitsu[17], ett internationellt konsultföretag [18].
 
   1) Plattformar: Solaris, Windows XP
   2) Period: Januari 2003 - September 2008
@@ -448,7 +446,7 @@ _________________
 4.4 ITG Data
 ~~~~~~~~~~~~
 
-  ITGData[21]. Dataavdelningen/dotterföretag på ett industriteknik
+  ITGData[19]. Dataavdelningen/dotterföretag på ett industriteknik
   företag.
 
   1) Period: Februari 2001 - December 2002
@@ -462,9 +460,9 @@ _________________
 4.5 Utilator
 ~~~~~~~~~~~~
 
-  Utilator[22] var ett litet it-företag med inriktning mot "smarta hem".
+  Utilator[20] var ett litet it-företag med inriktning mot "smarta hem".
 
-  1) Period: November 2000 - Februari 2001[22]
+  1) Period: November 2000 - Februari 2001[20]
   2) Titel: Systemutvecklare.
   3) Plattform: Gnu/Linux[2] Redhat
   4) Uppdrag: "Smarta hem"
@@ -475,10 +473,10 @@ _________________
 4.6 Mind
 ~~~~~~~~
 
-  Mind[23] Var ett Stockholmsbaserat konsultföretag med inriktning på
+  Mind[21] Var ett Stockholmsbaserat konsultföretag med inriktning på
   web.
 
-  1) Period: Maj 2000 - November 2000[23]
+  1) Period: Maj 2000 - November 2000[21]
   2) Titel: Java Expert, It-konsult.
   3) Plattformar: Windows 2000, Solaris
   4) Uppdrag: Portaler
@@ -504,7 +502,7 @@ _________________
 4.8 Syntronic
 ~~~~~~~~~~~~~
 
-  Syntronic[24] är Konsultföretag med inriktning på elektronik, radio
+  Syntronic[22] är Konsultföretag med inriktning på elektronik, radio
   och telecom.
 
   1) Period: September 1997 - April 1999
@@ -552,50 +550,46 @@ _________________
 Fotnoter
 ________
 
-[1] <https://www.gnu.org/software/emacs/>
+[1] www.gnu.org/software/emacs/
 
-[2] <https://en.wikipedia.org/wiki/Linux>
+[2] en.wikipedia.org/wiki/Linux
 
-[3] <https://git-scm.com/>
+[3] git-scm.com/
 
-[4] <https://www.python.org/>
+[4] www.python.org/
 
-[5] <http://gefleolsellskap.com/>
+[5] gefleolsellskap.com
 
-[6] <https://openjdk.java.net/>
+[6] openjdk.java.net/
 
-[7] <https://orgmode.org/>
+[7] orgmode.org/
 
-[8] <https://github.com/joaotavora/eglot>
+[8] github.com/joaotavora/eglot
 
-[9] <https://langserver.org/>
+[9] langserver.org/
 
-[10] <https://microsoft.github.io/language-server-protocol/>
+[10] microsoft.github.io/language-server-protocol/
 
-[11] <https://magit.vc/>
+[11] magit.vc/
 
-[12] <https://www.jetbrains.com/toolbox-app/>
+[12] www.jetbrains.com/toolbox-app/
 
-[13] <https://spring.io/tools>
+[13] spring.io/tools
 
-[14] <https://developer.android.com/studio>
+[14] developer.android.com/studio
 
-[15] <https://ant.apache.org/>
+[15] ant.apache.org/
 
-[16] <https://maven.apache.org/>
+[16] maven.apache.org/
 
-[17] <http://one-group.se/>
+[17] www.fujitsu.com/se/
 
-[18] <http://:www.knowit.se>
+[18] Företaget bytte namn 3 gånger under min anställning.
 
-[19] www.fujitsu.com/se/
+[19] Såldes till BIS industriteknik 2006
 
-[20] Företaget bytte namn 3 gånger under min anställning.
+[20] Anställd 3 månader på utilator innan konkurs
 
-[21] Såldes till BIS industriteknik 2006
+[21] Mind gick in konkurs under it-bubblan 2000
 
-[22] Anställd 3 månader på utilator innan konkurs
-
-[23] Mind gick in konkurs under it-bubblan 2000
-
-[24] www.syntronic.se
+[22] www.syntronic.se
