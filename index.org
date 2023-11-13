@@ -46,25 +46,17 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
   4. [[file:musicorum/learning_curve/learning_curve.org][Learning curve]]
   5. [[file:musicorum/learning_curve/let_it_rain.org][Let it rain]]
 
+* Social på nätet
+  - [[file:blog/blog.org][På min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
+  - [[https://www.instagram.com/vinihille/][Vin i hille]]
+    - Jag och frugan recenserar vin, drinkar och sushi-restauranger.
+  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]]
+  - [[https://www.instagram.com/vcmsxs/][Instagram]]
+  - [[https://www.facebook.com/johan.sanden][Facebook]]
+
 * Boktipps
 
 [[file:studium/boktipps.org][Boktipps]]
-
-* Social på nätet
-  - På [[file:blog/blog.org][min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
-  - [[https://www.instagram.com/vinihille/][Vin i hille]]
-    - Jag och frugan lägger ut drinkar och vin tillsammans.
-  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]]
-    - Om man undrar vad jag gjort på jobbet i alla dessa herrans år står det i
-      [[file:./cv/meriter.org][min cv]]. Här har nog bäst-före-datumet gått ut.
-  - [[https://twitter.com/vcmsxs][Twitter]]
-    - Jag läser och kommenterar, inte mycket eget.
-  - [[https://www.instagram.com/vcmsxs/][Jag på instagram]]
-    - Inläggen kommer i skov.
-  - [[https://www.facebook.com/johan.sanden][Facebook]]
-    - ...försöker jag undvika.
-  - [[https://mastodon.nu/@vcmsxs][Mastodon]]
-    - Det här kanske kan ersätta twitter och facebook?
 
 * Underligheter
   - [[file:studium/emacs.org][Emacs]]
