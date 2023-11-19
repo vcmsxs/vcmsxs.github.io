@@ -5,7 +5,6 @@
 - <2023-10-12 Thu 04:44>  [[file:2023/10/blog_2023-10-12__04:44:07.org][Sanningen i konsten.]]
 - <2023-05-17 Wed 12:15>  [[file:2023/05/blog_2023-05-17__12:14:59.org][Strålsäkerhetsmyndighetens generaldirektör slutar]]
 - <2023-05-02 Tue 08:51>  [[file:2023/05/blog_2023-05-02__08:51:10.org][Ärendehantering]]
-- <2023-04-04 Tue 08:45>  [[file:2023/04/blog_2023-04-04__08:45:31.org][Team]]
 - <2023-03-31 Fri 06:20>  [[file:2023/03/blog_2023-03-31__06:20:12.org][AI-hysteri]]
 - <2023-03-28 Tue 07:06>  [[file:2023/03/blog_2023-03-28__07:06:54.org][Tog ledigt på min 50års dag.]]
 - <2023-03-24 Fri 09:21>  [[file:2023/03/blog_2023-03-24__09:21:32.org][DevOps i Agila Team]]
