@@ -59,6 +59,7 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
 - [[file:studium/emacs.org][Emacs]]
   - [[file:studium/orgmode.org][Org-Mode]]
 - [[./fun/tinafp.html][Piano - fråga inte]] ...😊
+- [[file:./fun/josef.mp3][Josef]]
 
 * Kontakt
 #+INCLUDE: ./kontakt_upg_privat.org
