@@ -162,6 +162,11 @@ Beräkningar på hur länge jag jobbat.
 :PROPERTIES:
 :CUSTOM_ID: lblkurser
 :END:
+** [[https://www.redhat.com/en/services/training/do188-red-hat-open-shift-development-introduction-containers-with-podman/][Kurs: Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188)]]
+   | Regi   | Tid           | Plats     | Diplom |
+   |--------+---------------+-----------+--------|
+   | [[http://www.redhat.com][RedHat]] | Februari 2024 | Virtuellt | [[http://www.hoahoa.se/cv/johansanden_cert_rh_podman_do188.pdf][PDF]]    |
+    
 ** Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
    :PROPERTIES:
    :CUSTOM_ID: h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783

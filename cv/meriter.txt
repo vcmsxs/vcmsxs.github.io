@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2023-11-13 Mon 21:33>
+                         <2024-02-15 Thu 16:17>
 
 
                         <file:handsome_dude.jpg>
@@ -31,14 +31,15 @@ _________________
 .. 6. Förtroendeuppdrag.
 .. 7. Nuvarande anställning
 2. Utbildningar och kurser
-.. 1. Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
-.. 2. Kurs/Certifiering: [PRINCE2®]
-.. 3. [Kurs/Certifiering: Produktägare]
-.. 4. [Kurs/Certifiering: Scrum Master]
-.. 5. [Kurs/Certifiering: Projekledning]
+.. 1. [Kurs: Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188)]
+.. 2. Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
+.. 3. Kurs/Certifiering: [PRINCE2®]
+.. 4. [Kurs/Certifiering: Produktägare]
+.. 5. [Kurs/Certifiering: Scrum Master]
+.. 6. [Kurs/Certifiering: Projekledning]
 ..... 1. Ingående kurser
-.. 6. [Kurs: Praktisk Projektledning]
-.. 7. Skolor
+.. 7. [Kurs: Praktisk Projektledning]
+.. 8. Skolor
 3. Kompetenser
 .. 1. Branscher
 .. 2. Programmeringsspråk
@@ -167,21 +168,38 @@ _________________
   One-Group som arbetsgivare. Den senaste tiden har jag främst arbetat
   inom fastighetsdata mot Lantmäteriet. Rollerna och projekten har
   varierat.
-   Gruppledare                     Applikationsansvarig
-   Förvaltare/vidareutvecklare     Systemutvecklare
-   Teknisk konsult i "testfabrik"  Programmerare
-   Deployer/Integrerare            Databasmigrerare
+   Gruppledare                     Applikationsansvarig 
+   Förvaltare/vidareutvecklare     Systemutvecklare     
+   Teknisk konsult i "testfabrik"  Programmerare        
+   Deployer/Integrerare            Databasmigrerare     
 
 
 2 Utbildningar och kurser
 =========================
 
-2.1 Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
+2.1 [Kurs: Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188)]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Regi      Tid            Plats      Diplom 
+  --------------------------------------------
+   [RedHat]  Februari 2024  Virtuellt  [PDF]  
+
+
+[Kurs: Red Hat OpenShift Development I: Introduction to Containers with
+Podman (DO188)]
+<https://www.redhat.com/en/services/training/do188-red-hat-open-shift-development-introduction-containers-with-podman/>
+
+[RedHat] <http://www.redhat.com>
+
+[PDF] <http://www.hoahoa.se/cv/johansanden_cert_rh_podman_do188.pdf>
+
+
+2.2 Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi             Tid        Plats      Diplom
+   Regi             Tid        Plats      Diplom 
   -----------------------------------------------
-   [Learning Tree]  Juni 2017  Stockholm  [PDF]
+   [Learning Tree]  Juni 2017  Stockholm  [PDF]  
 
 
 [Learning Tree] <https://www.learningtree.se/>
@@ -189,12 +207,12 @@ _________________
 [PDF] <http://www.hoahoa.se/cv/learningtree_diplom_pm3_itil.pdf>
 
 
-2.2 Kurs/Certifiering: [PRINCE2®]
+2.3 Kurs/Certifiering: [PRINCE2®]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi      Tid             Plats      Diplom
+   Regi      Tid             Plats      Diplom 
   ---------------------------------------------
-   [Metier]  September 2016  Stockholm  [PDF]
+   [Metier]  September 2016  Stockholm  [PDF]  
 
 
 [PRINCE2®] <https://www.prince2.com/eur>
@@ -204,12 +222,12 @@ _________________
 [PDF] <http://www.hoahoa.se/cv/e-Cert-Prince2.pdf>
 
 
-2.3 [Kurs/Certifiering: Produktägare]
+2.4 [Kurs/Certifiering: Produktägare]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi       Tid            Plats      Diplom
+   Regi       Tid            Plats      Diplom 
   ---------------------------------------------
-   [Citerus]  December 2014  Stockholm  [PDF]
+   [Citerus]  December 2014  Stockholm  [PDF]  
 
 
 [Kurs/Certifiering: Produktägare]
@@ -220,12 +238,12 @@ _________________
 [PDF] <http://www.hoahoa.se/cv/johansanden_cspo_cert_a4.pdf>
 
 
-2.4 [Kurs/Certifiering: Scrum Master]
+2.5 [Kurs/Certifiering: Scrum Master]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi       Tid           Plats    Diplom
+   Regi       Tid           Plats    Diplom 
   ------------------------------------------
-   [Citerus]  Januari 2009  Uppsala  [PDF]
+   [Citerus]  Januari 2009  Uppsala  [PDF]  
 
 
 [Kurs/Certifiering: Scrum Master]
@@ -236,12 +254,12 @@ _________________
 [PDF] <http://www.hoahoa.se/cv/johansanden_csm_cert_a4.pdf>
 
 
-2.5 [Kurs/Certifiering: Projekledning]
+2.6 [Kurs/Certifiering: Projekledning]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi             Tid       Plats      Diplom
+   Regi             Tid       Plats      Diplom       
   ----------------------------------------------------
-   [Learning Tree]  Maj 2012  Stockholm  [PDF/Diplom]
+   [Learning Tree]  Maj 2012  Stockholm  [PDF/Diplom] 
 
 
 [Kurs/Certifiering: Projekledning]
@@ -251,15 +269,15 @@ _________________
 
 [PDF/Diplom] <http://www.hoahoa.se/cv/learningtree_diplom.pdf>
 
-2.5.1 Ingående kurser
+2.6.1 Ingående kurser
 ---------------------
 
-   Kurs                                                                   Tid
+   Kurs                                                                   Tid          
   -------------------------------------------------------------------------------------
-   [Projektledning (Kurs 296)]                                            Augusti 2011
-   [Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]  Oktober 2011
-   [Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]   Januari 2012
-   [Ledarskap (Kurs 290)]                                                 Maj 2012
+   [Projektledning (Kurs 296)]                                            Augusti 2011 
+   [Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]  Oktober 2011 
+   [Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]   Januari 2012 
+   [Ledarskap (Kurs 290)]                                                 Maj 2012     
 
 
 [Projektledning (Kurs 296)] <http://www.learningtree.se/courses/296.pdf>
@@ -273,12 +291,12 @@ _________________
 [Ledarskap (Kurs 290)] <http://www.learningtree.se/courses/290.pdf>
 
 
-2.6 [Kurs: Praktisk Projektledning]
+2.7 [Kurs: Praktisk Projektledning]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi        Tid            Plats
+   Regi        Tid            Plats     
   --------------------------------------
-   [Astrakan]  December 2006  Stockholm
+   [Astrakan]  December 2006  Stockholm 
 
 
 [Kurs: Praktisk Projektledning]
@@ -287,14 +305,14 @@ _________________
 [Astrakan] <http://www.astrakan.se/>
 
 
-2.7 Skolor
+2.8 Skolor
 ~~~~~~~~~~
 
-   Nivå        Skola                                           Period
+   Nivå        Skola                                           Period      
   -------------------------------------------------------------------------
-   Högskola    Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)  1992 - 1994
-   Gymnasium   Naturvetenskaplig Linje, Vasaskolan i Gävle     1989 - 1992
-   Grundskola  Storhags- och Lillhagsskolan i Gävle            1980 - 1989
+   Högskola    Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)  1992 - 1994 
+   Gymnasium   Naturvetenskaplig Linje, Vasaskolan i Gävle     1989 - 1992 
+   Grundskola  Storhags- och Lillhagsskolan i Gävle            1980 - 1989 
 
 
 3 Kompetenser
