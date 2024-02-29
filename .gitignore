@@ -1,4 +1,5 @@
 .projectile
 *.tex
-index.pdf    
+index.pdf
 links.pdf
+*~undo-tree~

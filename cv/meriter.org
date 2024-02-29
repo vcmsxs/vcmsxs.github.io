@@ -42,7 +42,8 @@
 
 #+BEGIN_CENTER
 #+ATTR_LATEX: :width 6cm
-[[file:handsome_dude.jpg]]
+#+ATTR_HTML: :width 200pix
+[[file:me_new.jpg]]
 #+END_CENTER
 
 #+LaTeX: \bigskip
@@ -117,10 +118,10 @@ Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:merite
    - Jag jobbar (kodar) helst hemifrån. Om det finns kontor i eller i närheten
      av Gävle kan jag resa någon gång i veckan.
 -------
-   - Jag har inga problem att hjälpa till med support på Microsoft Windows. Till
-     exempel installera program, sätta upp nätverk och felsöka i andras
-     Windows-miljöer. Men själv, jobbar jag i Gnu/Linux.
-   - Jag kodar inte C# och håller mig borta från "Dot-net-världen".
+   - Jag gärna till med problem och support i Microsoft Windows om jag kan;
+     installationer, nätverk och felsöka i kunder eller andras windows-miljöer.
+     Men själv, jobbar jag alltid i Gnu/Linux.
+   - Jag kodar /inte/ C# och har mycket begränsade .NET
 
 ** Kompetens och erfarenhet
 #+BEGIN_COMMENT
@@ -166,7 +167,7 @@ Beräkningar på hur länge jag jobbat.
    | Regi   | Tid           | Plats     | Diplom |
    |--------+---------------+-----------+--------|
    | [[http://www.redhat.com][RedHat]] | Februari 2024 | Virtuellt | [[http://www.hoahoa.se/cv/johansanden_cert_rh_podman_do188.pdf][PDF]]    |
-    
+
 ** Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
    :PROPERTIES:
    :CUSTOM_ID: h:2ebf26f3-f296-45a5-8c4a-29a1e7fcc783
@@ -261,10 +262,10 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
-   - Python[fn:python:www.python.org/], PHP, Perl
+   - Python[fn:python:www.python.org], PHP, Perl
    - Java[fn:java], c/C++
    - html/css, Javascript, TypeScript (Angular)
-   - Sql, Bash, Ansible
+   - Sql, Bash, Ansible, Podman, Docker
 
 ** Utvecklingsmiljöer och Verktyg
    :PROPERTIES:
@@ -299,13 +300,14 @@ Beräkningar på hur länge jag jobbat.
   Kommun, Sandvik, Korsnäs m.fl.
 
 #+LaTeX: \pagebreak
-** One Group
+** Visionite/One Group
 
 :PROPERTIES:
 :CUSTOM_ID: onegroup
 :END:
 
-   Ett svenskt konsultbolag med Specialistkompetens inom IT.
+   Visionite[fn:Visionite:www.visionite.se] - Ett svenskt konsultbolag med
+   Specialistkompetens inom IT.
 
    1. Period: September 2022 - Nuvarande
    2. Titel/Roller: Systemutvecklare, It-Konsult
@@ -314,6 +316,9 @@ Beräkningar på hur länge jag jobbat.
         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
         grunddatalager av bestämmelser/rättigheter och samfällighetsföreningar.
    4. Plattformar: Linux[fn:linux] (Redhat, Ubuntu, Mint)
+   5. Teknik: Python, Java/Kotlin, Podman, OpenShift, Intelij, Emacs,
+      Postgresql, Oracle
+
 ** Knowit
 :PROPERTIES:
 :CUSTOM_ID: knowit
@@ -365,10 +370,10 @@ Ett nordiskt konsultföretag med lokal närvaro.
          adress register.
       4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
          fastigheter.
-   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:orgmode.org/], BEA WLS, Tibco RDV, Fujitzu iFlow.,
-      XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle, Spring, Hybernate,
-      JBuilder, Ant, MercuryInteractive (TestDirector, Quick Test
-      Proffessionell),senare HP QC, Tomcat
+   5) Teknik: Java, Emacs[fn:emacs], Org-mode[fn:orgmode:orgmode.org/], BEA WLS,
+      Tibco RDV, Fujitzu iFlow., XML/Soup, NetBeans (Visual Web Pack), Eclips,
+      Oracle, Spring, Hybernate, JBuilder, Ant, MercuryInteractive
+      (TestDirector, Quick Test Proffessionell),senare HP QC, Tomcat
 
 [fn:cell] Företaget bytte namn 3 gånger under min anställning.
 
