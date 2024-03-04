@@ -1,0 +1,65 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: Johan Sandén
+#+DATE: {{{time(%F %T)}}}
+#+AUTHOR: Johan Sandén
+#+EMAIL: johan.sanden@gmail.com
+#+LANGUAGE: sv
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+DESCRIPTION:
+#+KEYWORDS:
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
+#+HTML_HEAD_EXTRA:
+#+SUBTITLE:
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> <a href="http://orgmode.org">Org-mode</a>
+#+LATEX_HEADER:
+
+#+BEGIN_CENTER
+--- *TBD - här ska drickas öl!* 😊
+#+END_CENTER
+
+#+BEGIN_CENTER
+[[file:../img/me_2016.jpg]]
+#+END_CENTER
+
+-------
+
+* CV
+Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
+
+* Musik
+- [[file:musicorum/learning_curve/index_learning_curve.org][Learning curve]]
+  1. [[file:musicorum/learning_curve/harvest.org][Harvest]]
+  2. [[file:musicorum/learning_curve/hearse.org][Hearse]]
+  3. [[file:musicorum/learning_curve/dublin.org][Dublin]]
+  4. [[file:musicorum/learning_curve/learning_curve.org][Learning curve]]
+  5. [[file:musicorum/learning_curve/let_it_rain.org][Let it rain]]
+
+* Social på nätet
+  - [[file:blog/blog.org][På min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
+  - [[https://www.instagram.com/vinihille/][Vin i hille]]
+    - Jag och frugan recenserar vin, drinkar och sushi-restauranger.
+  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]]
+  - [[https://www.instagram.com/vcmsxs/][Instagram]]
+  - [[https://www.facebook.com/johan.sanden][Facebook]]
+
+* Underligheter
+- [[file:studium/boktipps.org][Boktipps]]
+- [[file:studium/emacs.org][Emacs]]
+  - [[file:studium/orgmode.org][Org-Mode]]
+- [[./fun/tinafp.html][Piano - fråga inte]] ...😊
+- [[file:./fun/josef.mp3][Josef]], [[file:./fun/josefmix1.mp3][Josef2]]
+
+* Kontakt
+#+INCLUDE: ./kontakt_upg_privat.org
