@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2024-02-29 Thu 21:05>
+                         <2024-03-05 Tue 11:58>
 
 
                            <file:me_new.jpg>
@@ -168,10 +168,10 @@ _________________
   One-Group som arbetsgivare. Den senaste tiden har jag främst arbetat
   inom fastighetsdata mot Lantmäteriet. Rollerna och projekten har
   varierat.
-   Gruppledare                     Applikationsansvarig
-   Förvaltare/vidareutvecklare     Systemutvecklare
-   Teknisk konsult i "testfabrik"  Programmerare
-   Deployer/Integrerare            Databasmigrerare
+   Gruppledare                     Applikationsansvarig 
+   Förvaltare/vidareutvecklare     Systemutvecklare     
+   Teknisk konsult i "testfabrik"  Programmerare        
+   Deployer/Integrerare            Databasmigrerare     
 
 
 2 Utbildningar och kurser
@@ -180,9 +180,9 @@ _________________
 2.1 [Kurs: Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188)]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi      Tid            Plats      Diplom
+   Regi      Tid            Plats      Diplom 
   --------------------------------------------
-   [RedHat]  Februari 2024  Virtuellt  [PDF]
+   [RedHat]  Februari 2024  Virtuellt  [PDF]  
 
 
 [Kurs: Red Hat OpenShift Development I: Introduction to Containers with
@@ -197,9 +197,9 @@ Podman (DO188)]
 2.2 Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi             Tid        Plats      Diplom
+   Regi             Tid        Plats      Diplom 
   -----------------------------------------------
-   [Learning Tree]  Juni 2017  Stockholm  [PDF]
+   [Learning Tree]  Juni 2017  Stockholm  [PDF]  
 
 
 [Learning Tree] <https://www.learningtree.se/>
@@ -210,9 +210,9 @@ Podman (DO188)]
 2.3 Kurs/Certifiering: [PRINCE2®]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi      Tid             Plats      Diplom
+   Regi      Tid             Plats      Diplom 
   ---------------------------------------------
-   [Metier]  September 2016  Stockholm  [PDF]
+   [Metier]  September 2016  Stockholm  [PDF]  
 
 
 [PRINCE2®] <https://www.prince2.com/eur>
@@ -225,9 +225,9 @@ Podman (DO188)]
 2.4 [Kurs/Certifiering: Produktägare]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi       Tid            Plats      Diplom
+   Regi       Tid            Plats      Diplom 
   ---------------------------------------------
-   [Citerus]  December 2014  Stockholm  [PDF]
+   [Citerus]  December 2014  Stockholm  [PDF]  
 
 
 [Kurs/Certifiering: Produktägare]
@@ -241,9 +241,9 @@ Podman (DO188)]
 2.5 [Kurs/Certifiering: Scrum Master]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi       Tid           Plats    Diplom
+   Regi       Tid           Plats    Diplom 
   ------------------------------------------
-   [Citerus]  Januari 2009  Uppsala  [PDF]
+   [Citerus]  Januari 2009  Uppsala  [PDF]  
 
 
 [Kurs/Certifiering: Scrum Master]
@@ -257,9 +257,9 @@ Podman (DO188)]
 2.6 [Kurs/Certifiering: Projekledning]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi             Tid       Plats      Diplom
+   Regi             Tid       Plats      Diplom       
   ----------------------------------------------------
-   [Learning Tree]  Maj 2012  Stockholm  [PDF/Diplom]
+   [Learning Tree]  Maj 2012  Stockholm  [PDF/Diplom] 
 
 
 [Kurs/Certifiering: Projekledning]
@@ -272,12 +272,12 @@ Podman (DO188)]
 2.6.1 Ingående kurser
 ---------------------
 
-   Kurs                                                                   Tid
+   Kurs                                                                   Tid          
   -------------------------------------------------------------------------------------
-   [Projektledning (Kurs 296)]                                            Augusti 2011
-   [Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]  Oktober 2011
-   [Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]   Januari 2012
-   [Ledarskap (Kurs 290)]                                                 Maj 2012
+   [Projektledning (Kurs 296)]                                            Augusti 2011 
+   [Utveckla användarkrav nyckeln till framgångsrika projekt (Kurs 315)]  Oktober 2011 
+   [Ledarskap i projekt skapa ett framgångsrikt projektteam (Kurs 346)]   Januari 2012 
+   [Ledarskap (Kurs 290)]                                                 Maj 2012     
 
 
 [Projektledning (Kurs 296)] <http://www.learningtree.se/courses/296.pdf>
@@ -294,9 +294,9 @@ Podman (DO188)]
 2.7 [Kurs: Praktisk Projektledning]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   Regi        Tid            Plats
+   Regi        Tid            Plats     
   --------------------------------------
-   [Astrakan]  December 2006  Stockholm
+   [Astrakan]  December 2006  Stockholm 
 
 
 [Kurs: Praktisk Projektledning]
@@ -308,11 +308,11 @@ Podman (DO188)]
 2.8 Skolor
 ~~~~~~~~~~
 
-   Nivå        Skola                                           Period
+   Nivå        Skola                                           Period      
   -------------------------------------------------------------------------
-   Högskola    Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)  1992 - 1994
-   Gymnasium   Naturvetenskaplig Linje, Vasaskolan i Gävle     1989 - 1992
-   Grundskola  Storhags- och Lillhagsskolan i Gävle            1980 - 1989
+   Högskola    Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)  1992 - 1994 
+   Gymnasium   Naturvetenskaplig Linje, Vasaskolan i Gävle     1989 - 1992 
+   Grundskola  Storhags- och Lillhagsskolan i Gävle            1980 - 1989 
 
 
 3 Kompetenser
