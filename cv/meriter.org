@@ -118,10 +118,12 @@ Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:merite
    - Jag jobbar (kodar) helst hemifrån. Om det finns kontor i eller i närheten
      av Gävle kan jag resa någon gång i veckan.
 -------
-   - Jag gärna till med problem och support i Microsoft Windows om jag kan;
-     installationer, nätverk och felsöka i kunder eller andras windows-miljöer.
-     Men själv, jobbar jag alltid i Gnu/Linux.
-   - Jag kodar /inte/ C# och har mycket begränsade .NET
+   - Jag hjälper gärna till med problem och support i Microsoft Windows om jag
+     kan. Installationer, konfigurerar mjukvaru och nätverk eller felsökning hos
+     kunder eller andras windows-miljöer hjälper jag mer än gärna till med; men
+     själv, jobbar jag alltid i någon distribution av Gnu/Linux eller Unix.
+   - Jag kodar /inte/ C# och har mycket begränsade kunskaper och erfarneheter av
+     .NET (Dot Net), Azure. 
 
 ** Kompetens och erfarenhet
 #+BEGIN_COMMENT
@@ -151,13 +153,15 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:22921615-ef13-48d3-965a-d74661f16611
    :END:
-   Sedan September 2022 har jag arbetat som It-konsult i Gävle med One-Group som
-   arbetsgivare. Den senaste tiden har jag främst arbetat inom fastighetsdata
-   mot Lantmäteriet. Rollerna och projekten har varierat.
-   | Gruppledare                    | Applikationsansvarig |
-   | Förvaltare/vidareutvecklare    | Systemutvecklare     |
-   | Teknisk konsult i "testfabrik" | Programmerare        |
-   | Deployer/Integrerare           | Databasmigrerare     |
+   Sedan September 2022 har jag arbetat som It-konsult i Gävle med Visionite
+   (tidigare One Group) som arbetsgivare. Den senaste tiden har jag främst
+   arbetat inom fastighetsdata mot Lantmäteriet. Projekt, roller, team och
+   arbetsuppgfiter har varierat genom åren.
+   
+   | Applikationsansvarig | Gruppledare                    |
+   | Systemutvecklare     | Förvaltare                     |
+   | Konfiguration        | Teknisk konsult i "testfabrik" |
+   | Databasmigrering     | Deployer/Integratör            |
 
 * Utbildningar och kurser
 :PROPERTIES:
@@ -207,7 +211,6 @@ Beräkningar på hur länge jag jobbat.
    | Regi          | Tid      | Plats     | Diplom       |
    |---------------+----------+-----------+--------------|
    | [[https://www.learningtree.se/][Learning Tree]] | Maj 2012 | Stockholm | [[http://www.hoahoa.se/cv/learningtree_diplom.pdf][PDF/Diplom]]   |
-
 
 
 *** Ingående kurser
@@ -263,32 +266,56 @@ Beräkningar på hur länge jag jobbat.
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
    - Python[fn:python:www.python.org], PHP, Perl
-   - Java[fn:java], c/C++
+   - Java/Kotlin[fn:java], c/C++
    - html/css, Javascript, TypeScript (Angular)
-   - Sql, Bash, Ansible, Podman, Docker
+   - Sql, Bash, Ansible, Podman, OpenShift, Docker
 
-** Utvecklingsmiljöer och Verktyg
+** Databaser
+- Oracle
+- Postgresql
+- Sqlite
+- MySQL/MariDB
+  
+** Utvecklingsmiljöer
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
    Jag sköter det mesta från Emacs[fn:emacs:www.gnu.org/software/emacs/] oavsett språk.
 
    - Emacs[fn:emacs]
-     - Emacs[fn:emacs]
      - Org-mode[fn:orgmode:orgmode.org/]
      - Eglot [fn:eglot:github.com/joaotavora/eglot]
      - LSP[fn:lsp1:langserver.org/] [fn:lsp2:microsoft.github.io/language-server-protocol/]
      - Magit[fn:magit:magit.vc/][fn:git]
    - Git[fn:git:git-scm.com/]
-   - Java[fn:java:openjdk.java.net/]
+   - Python[fn:python]
+   - Java/Kotlin[fn:java:openjdk.java.net/]
      - JetBrains Intellij[fn:jetbrains:www.jetbrains.com/toolbox-app/]
      - Eclips-STS[fn:sts:spring.io/tools]
      - Android Studio[fn:androidstudio:developer.android.com/studio]
-     - Ant[fn:ant:ant.apache.org/], Maven[fn:maven:maven.apache.org/]
+     - Ant[fn:ant:ant.apache.org/]
+     - Maven[fn:maven:maven.apache.org/]
 
 
  #+LaTeX: \pagebreak
 
+** Verktyg
+- Atlassian
+  1. Confluence (Wiki)
+  2. Bamoo
+  3. BitBucket
+  4. Jira
+- Mattermost
+- Gems (ems-buss)
+- Control-m
+- Fitnesse
+- Node.js/Nvm
+- PgAdmin
+- SqlDevloper
+- DBeaver
+- Vinagre/Remmina (virtuell desktop)
+- Seriöst de här listorna är lite fåniga. jag använder och har använt 100-tals
+  program. Det är nog bättre att ni frågar. 😃
 * Arbetsgivare och uppdrag
   :PROPERTIES:
   :CUSTOM_ID: h:53cca876-30a7-4b82-bdec-9edfd9c27aa9
@@ -307,7 +334,7 @@ Beräkningar på hur länge jag jobbat.
 :END:
 
    Visionite[fn:Visionite:www.visionite.se] - Ett svenskt konsultbolag med
-   Specialistkompetens inom IT.
+   Specialistkompetens inom IT. 2024 bytte One Group namn till Visionite
 
    1. Period: September 2022 - Nuvarande
    2. Titel/Roller: Systemutvecklare, It-Konsult
