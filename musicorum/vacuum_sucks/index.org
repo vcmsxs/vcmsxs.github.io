@@ -1,0 +1,24 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:t ^:t arch:headline author:nil
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:nil
+#+options: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:nil tags:nil
+#+options: tasks:nil tex:nil timestamp:nil title:t toc:nil todo:nil |:nil
+#+title: VACUUM SUCKS
+#+date: <2024-03-08 Fri>
+#+language: en
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./style.css" />
+#+OPTIONS: html-postamble:nil
+# #+select_tags: export
+# #+exclude_tags: noexport
+# #+creator: Emacs 29.1 (Org mode 9.4.6)
+# #+cite_export:
+
+#+begin_center
+👾
+\\
+\\
+\\
+\\
+[[file:bleach_sc.ogg][Bleach]]
+#+end_center

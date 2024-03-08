@@ -63,6 +63,11 @@
            :base-directory "../musicorum/learning_curve"
            :publishing-directory  "../musicorum/learning_curve"
            )
+           ("musicorum_vcmsxs_html"
+           :publishing-function  org-html-publish-to-html
+           :base-directory "../musicorum/vacuum_sucks"
+           :publishing-directory  "../musicorum/vacuum_sucks"
+           )
            ("bertz_html"
            :publishing-function  org-html-publish-to-html
            :base-directory "../bertz"
@@ -94,5 +99,6 @@
   (org-publish "abrakadabra_html")
   (org-publish "studium_html")
   (org-publish "musicorum_learning_curve_html")
+  (org-publish "musicorum_vcmsxs_html")
   )
   #+end_src
