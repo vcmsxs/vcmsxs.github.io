@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2024-02-29 Thu 21:05>
+                         <2024-03-08 Fri 21:01>
 
 
                            <file:me_new.jpg>
@@ -43,7 +43,9 @@ _________________
 3. Kompetenser
 .. 1. Branscher
 .. 2. Programmeringsspråk
-.. 3. Utvecklingsmiljöer och Verktyg
+.. 3. Databaser
+.. 4. Utvecklingsmiljöer
+.. 5. Verktyg
 4. Arbetsgivare och uppdrag
 .. 1. Visionite/One Group
 .. 2. Knowit
@@ -131,10 +133,13 @@ _________________
   - Jag jobbar (kodar) helst hemifrån. Om det finns kontor i eller i
     närheten av Gävle kan jag resa någon gång i veckan.
   ----------------------------------------------------------------------
-  - Jag gärna till med problem och support i Microsoft Windows om jag
-    kan; installationer, nätverk och felsöka i kunder eller andras
-    windows-miljöer. Men själv, jobbar jag alltid i Gnu/Linux.
-  - Jag kodar /inte/ C# och har mycket begränsade .NET
+  - Jag hjälper gärna till med problem och support i Microsoft Windows
+    om jag kan. Installationer, konfigurerar mjukvaru och nätverk eller
+    felsökning hos kunder eller andras windows-miljöer hjälper jag mer
+    än gärna till med; men själv, jobbar jag alltid i någon distribution
+    av Gnu/Linux eller Unix.
+  - Jag kodar /inte/ C# och har mycket begränsade kunskaper och
+    erfarneheter av .NET (Dot Net), Azure.
 
 
 1.5 Kompetens och erfarenhet
@@ -165,13 +170,14 @@ _________________
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
   Sedan September 2022 har jag arbetat som It-konsult i Gävle med
-  One-Group som arbetsgivare. Den senaste tiden har jag främst arbetat
-  inom fastighetsdata mot Lantmäteriet. Rollerna och projekten har
-  varierat.
-   Gruppledare                     Applikationsansvarig
-   Förvaltare/vidareutvecklare     Systemutvecklare
-   Teknisk konsult i "testfabrik"  Programmerare
-   Deployer/Integrerare            Databasmigrerare
+  Visionite (tidigare One Group) som arbetsgivare. Den senaste tiden har
+  jag främst arbetat inom fastighetsdata mot Lantmäteriet. Projekt,
+  roller, team och arbetsuppgfiter har varierat genom åren.
+
+   Applikationsansvarig  Gruppledare
+   Systemutvecklare      Förvaltare
+   Konfiguration         Teknisk konsult i "testfabrik"
+   Databasmigrering      Deployer/Integratör
 
 
 2 Utbildningar och kurser
@@ -357,28 +363,59 @@ Podman (DO188)]
 ~~~~~~~~~~~~~~~~~~~~~~~
 
   - Python[4], PHP, Perl
-  - Java[6], c/C++
+  - Java/Kotlin[6], c/C++
   - html/css, Javascript, TypeScript (Angular)
-  - Sql, Bash, Ansible, Podman, Docker
+  - Sql, Bash, Ansible, Podman, OpenShift, Docker
 
 
-3.3 Utvecklingsmiljöer och Verktyg
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3.3 Databaser
+~~~~~~~~~~~~~
+
+  - Oracle
+  - Postgresql
+  - Sqlite
+  - MySQL/MariDB
+
+
+3.4 Utvecklingsmiljöer
+~~~~~~~~~~~~~~~~~~~~~~
 
   Jag sköter det mesta från Emacs[1] oavsett språk.
 
   - Emacs[1]
-    - Emacs[1]
     - Org-mode[7]
     - Eglot [8]
     - LSP[9] [10]
     - Magit[11][3]
   - Git[3]
-  - Java[6]
+  - Python[4]
+  - Java/Kotlin[6]
     - JetBrains Intellij[12]
     - Eclips-STS[13]
     - Android Studio[14]
-    - Ant[15], Maven[16]
+    - Ant[15]
+    - Maven[16]
+
+
+3.5 Verktyg
+~~~~~~~~~~~
+
+  - Atlassian
+    1. Confluence (Wiki)
+    2. Bamoo
+    3. BitBucket
+    4. Jira
+  - Mattermost
+  - Gems (ems-buss)
+  - Control-m
+  - Fitnesse
+  - Node.js/Nvm
+  - PgAdmin
+  - SqlDevloper
+  - DBeaver
+  - Vinagre/Remmina (virtuell desktop)
+  - Seriöst de här listorna är lite fåniga. jag använder och har använt
+    100-tals program. Det är nog bättre att ni frågar. 😃
 
 
 4 Arbetsgivare och uppdrag
@@ -394,7 +431,7 @@ Podman (DO188)]
 ~~~~~~~~~~~~~~~~~~~~~~~
 
   Visionite[17] - Ett svenskt konsultbolag med Specialistkompetens inom
-  IT.
+  IT. 2024 bytte One Group namn till Visionite
 
   1. Period: September 2022 - Nuvarande
   2. Titel/Roller: Systemutvecklare, It-Konsult

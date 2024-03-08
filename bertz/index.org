@@ -2,7 +2,8 @@
 #+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
-#+TITLE: Johan Sandén
+#+TITLE: Bertz 🍺
+#+SUBTITLE: En applikation för ölprovning.
 #+DATE: {{{time(%F %T)}}}
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
@@ -26,7 +27,7 @@
 #+LATEX_HEADER:
 
 #+BEGIN_CENTER
---- *TBD - här ska drickas öl!* 😊
+*Här ska det drickas öl!* 😊
 #+END_CENTER
 
 #+BEGIN_CENTER
@@ -38,5 +39,8 @@
 -------
 
 * Bertz
-Det här blir navet för mitt nya öl-provar-program...vi får väl se om det blir
-något också 😊
+Den här sidan är navet för min öl-provarapplikation. 
+
+Stay tuned och SKÅL!! 😊🍺
+
+------
