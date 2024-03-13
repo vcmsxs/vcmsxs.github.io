@@ -1,0 +1,56 @@
+#+title: Agilt arbete, en gång till.
+#+subtitle: <2024-03-11 08:04>
+#+date: <2024-03-11 08:04:29>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+Intressegruppen för agila metoder har funnits i minst 9 år hos min
+uppdragsgivare. Agila metoder är enkla att förstå och använda. Man kan lära sig
+precis allt om en viss metod på någon timme och efter några dagar är det rutin.
+
+Nu har det kommit en inbjudan och ämnet är:
+#+begin_quote
+  Vad kan gå rätt och vad kan gå snett? Kan alla jobba agilt? Vill alla?. Vad
+  menar vi med agilt arbete? Strukturerna i organisationen i förhållande till de
+  agila värderingarna och principerna? Utveckla våra arbetssätt rent generellt
+  inom organisationen? ... många frågor till kan säkert komma upp.
+#+end_quote
+
+Det finns mycket fel här att jag inte vet var jag ska börja. Att fylla ett rum
+med 20+ personer och planlöst blabba är inte agilt och dessutom borde vi väl
+efter 9 år vara överens om vad agilt betyder?
+
+Av någon anledning glider tankarna iväg och jag kom att tänka på när Kjell Olof
+Feldt satt i riksdagen och skrev en dikt:
+\\
+#+begin_verse
+  Löntagarfonder är ett jävla skit,
+  men nu har vi baxat dem ända hit.
+  Sen ska de fyllas med varenda pamp,
+  som stött oss så starkt i våran kamp.
+  Nu behöver vi inte gå flera ronder,
+  förrän hela Sverige är fullt av fonder.
+#+end_verse
+\\
+Så jag gör en egen:
+\\
+#+begin_verse
+  Agilt ältande är ett jävla skit
+  nu har vi baxat det ända hit
+  Sen ska de fyllas upp med varenda pamp
+  som stött oss utvecklare i vår kamp
+  Kanske ska man dessa möten nobba
+  bara köra agilt och jobba
+#+end_verse
+\\
+\\
+Min gissning är att någon fått gå grundkursen i scrum och sen fick "fealing".
+
+\\
+
+Jag gissar också att det här är ännu ett sätt att försöka visa för en ledning
+eller chef att man gör vad man kan för att sänka kostnader eller dylikt. Att det
+är bisart kontraproduktivt spelar ingen roll.
+------------
