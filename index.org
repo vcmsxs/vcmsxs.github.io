@@ -26,7 +26,7 @@
 #+LATEX_HEADER:
 
 #+BEGIN_CENTER
---- *ännu en onödig websida* 😊
+--- *ännu en onödig websida*
 #+END_CENTER
 
 #+BEGIN_CENTER
@@ -39,8 +39,8 @@
 Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][TEXT]]
 
 * Musik
+- [[file:./musicorum/vacuum_sucks/index.org][Vacuum sucks]] 👾
 - [[file:musicorum/learning_curve/index_learning_curve.org][Learning curve]]
-- [[file:musicorum/vacuum_sucks/index.org][Vacuum sucks]]
 
 * Social på nätet
   - [[file:blog/blog.org][På min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
@@ -51,10 +51,10 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
   - [[https://www.facebook.com/johan.sanden][Facebook]]
 
 * Underligheter
-- [[file:studium/boktipps.org][Boktipps]]
 - [[file:studium/emacs.org][Emacs]]
   - [[file:studium/orgmode.org][Org-Mode]]
-- [[./fun/tinafp.html][Piano - fråga inte]] ...😊
+- [[file:studium/boktipps.org][Boktipps]]
+- [[./fun/tinafp.html]["Piano" - fråga inte]]
 - [[file:./fun/josef.mp3][Josef]], [[file:./fun/josefmix1.mp3][Josef2]]
 
 * Kontakt

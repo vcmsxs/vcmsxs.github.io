@@ -23,144 +23,173 @@
 #+END_QUOTE  
 
 Emacs är en textredigeriare. Den är gjord av och för programmerare som vill
-kunna påverka nästan alla asspekter av det verktyg de jobbar i. 
-
-Emacs kan ta lite tid att lära sig. Öppnar man en textfil eller om dagen så är
-det mer än väl värt besväret.
+kunna påverka nästan alla asspekter av det verktyg de jobbar i.
 
 En av anledningarna till Emacs kan ta lite längre tid att lära sig är att några
 av de ord som normalt används för att beskriva Emacs skiljer sig från andra
 program. Det i sin tur beror på att Emacs har sina rötter i det tidiga 70-talet,
-långt innan persondatorn blev vanlig och grafiska gränssnitt var vanliga.
+långt innan persondatorn och grafiska gränssnitt var vanliga.
 
 * Ladda ner och installera Emacs
-    - Emacs kan hämtas på: http://www.gnu.org/software/emacs/
-    - Kör du linux rekommenderar jag att du tar emacs från din normala
-      pakethanterare.
-    - Installera Emacs som vilket program som helst.
-    - I home (windows %userprofile%) kommer Emacs att leta efter en fil som
-      heter ".emacs". Där konfigurationen ligger.
+- Emacs kan hämtas på: http://www.gnu.org/software/emacs/
+- Kör du linux rekommenderar jag att du tar emacs från din normala
+  pakethanterare.
+- Installera Emacs som vilket program som helst.
+- I home (windows %userprofile%) kommer Emacs att leta efter en fil som
+  heter ".emacs". Där konfigurationen ligger.
 
 * Start och stoppa Emacs
-    - Emacs startas som alla andra program. I ett fönstersystem (Windows, IOS
-      eller X) kommer Emacs att startas som alla andra program, i ett fönster.
-      Står man i en terminal kan man starta med flaggan "-nw" (no window).
-    - Man avslutar emacs med kommandot ~C-x C-c~. Det innebär att man håller
-      inne ~Ctrl~-knappen och trycker ~x~, man fortsätter hålla ~Ctrl~-knappen
-      nedtryckt och trycker ~c~.
+- Emacs startas som alla andra program. I ett fönstersystem (Windows, IOS eller
+  X) kommer Emacs att startas som alla andra program, i ett fönster. Står man i
+  en terminal kan man starta med flaggan "-nw" (no window).
+- Man avslutar emacs med kommandot ~C-x C-c~. Det innebär att man håller
+  inne ~Ctrl~-knappen och trycker ~x~, man fortsätter hålla ~Ctrl~-knappen
+  nedtryckt och trycker ~c~.
 
 * Grundläggande definitioner
 
-   - Buffer (sv. buffert):: Innehållet i ett "window" (ofta en textfil) kallas
+- Buffer (sv. buffert):: Innehållet i ett "window" (ofta en textfil) kallas
      för "buffer". En buffer kan också innehålla text som inte ligger på en fil,
-     en terminal eller output från ett program som en webläsare e.d.
-   - Frame (sv. Ram) :: Rutan som kommer upp på skärmen, som innehåller hela
-     programmet när man startar Emacs, kallas för "Frame" (inte Window, som är
-     vanligt).
-   - Window (sv. fönster) :: Om man delar en Frame i två eller tre delar, så
-     kallas varje del en "window" (man kan dela av en frame hur många gånger man
-     vill)
-   - POINT :: Markörens position i en buffer. 
+     en terminal eller output från ett program som en webläsare e.d. Varje
+     buffer har ett namn. När du öppnar en fil så får din buffer samma namn som
+     filen men det får man ändra om man vill.
+- Frame (sv. Ram) :: Rutan som kommer upp på skärmen, som innehåller hela
+  programmet när man startar Emacs, kallas för "Frame" (inte Window, som är
+  vanligt).
+- Window (sv. fönster) :: Om man delar en Frame i två eller tre delar, så
+  kallas varje del en "window" (man kan dela av en frame hur många gånger man
+  vill)
+- POINT :: Markörens position i en buffer. 
 
 * Några grundläggande kommandon
-
-  - ~M-x~ (Meta-x) betyder att man ska hålla ner ~Alt~-knappen (eller
-    ~Esc~-knappen) och sedan trycka ~x~.
-    - Just kommandot ~M-x~ används för att exekvera den interaktiva funktionen
-      execute-extended-command som kör alla andra interaktiva funktioner.
-  - ~C-x~ betyder att man ska hålla ner ~Ctrl~-knappen, hålla den nedtryckt
-    medans man trycker ~x~.
-    - Just kommandot ~C-x~ används för att köra många olika övergripande
-      kommandon.
-  - ~C-x h~. Betyder att man ska Hålla ner ~Ctrl~ och trycka ~x~, släppa ~Ctrl~
-    och trycker ner ~h~ ensamt.
-  - ~C-x C-m~ betyder betyder att man först håller ner ~Ctrl~ och sedan trycker
-    ~x~, fortsätter hålla ~Ctrl~-knappen nedtryckt och sedan trycker ~m~. Man
-    behöver alltså inte släppa Ctrl-knappen mellan tryckningarna.
+- ~M-x~ (Meta-x) betyder att man _håller ner_ ~Alt~-knappen (eller
+  ~Esc~-knappen) och trycker ~x~.
+  - Just kommandot ~M-x~ används för att exekvera den interaktiva funktionen
+    execute-extended-command som kör alla andra interaktiva funktioner.
+- ~C-x~ betyder att man ska hålla ner ~Ctrl~-knappen och hålla den nedtryckt
+  medans man trycker ~x~.
+  - Just kommandot ~C-x~ används för att köra många olika övergripande
+    kommandon.
+- ~C-x h~. Betyder att man ska Hålla ner ~Ctrl~ och trycka ~x~, släppa ~Ctrl~
+  och trycker ner ~h~ ensamt.
+- ~C-x C-m~ betyder betyder att man först håller ner ~Ctrl~ och sedan trycker
+  ~x~, fortsätter hålla ~Ctrl~-knappen nedtryckt och sedan trycker ~m~. Man
+  behöver alltså inte släppa Ctrl-knappen mellan tryckningarna. Ibland skrivs
+  kommandot ~C-x-m~
 
 ** Filer
- - ~C-x C-f~ :: find-file - läsa in en fil i Emacs
- - ~C-x C-s~ :: save-buffer - spara en fil på skivminne
- - ~C-x C-w~ :: write-file - skriv buffertens innehåll på en namngiven fil
- - ~C-x i~ :: insert-file - sätt in innehållet från en annan fil i bufferten
- - ~C-x C-v~ :: find-alternate-file - läs in en ny fil i bufferten
- - ~C-x d~ :: list-directory - starta Dired, katalogeditorn
+- ~C-x C-f~ :: find-file - läsa in en fil i Emacs
+- ~C-x C-s~ :: save-buffer - spara en fil på skivminne
+- ~C-x C-w~ :: write-file - skriv buffertens innehåll på en namngiven fil
+- ~C-x i~ :: insert-file - sätt in innehållet från en annan fil i bufferten
+- ~C-x C-v~ :: find-alternate-file - läs in en ny fil i bufferten
+- ~C-x d~ :: list-directory - starta Dired, katalogeditorn
 
 ** Hjälp!
- Hjälpsystemet är mycket enkelt. Tryck på ~C-h~ och följ instruktionerna. Om du är
- nybörjare, tryck ~C-h t~ för att få en demonstration. Alla hjälptexter är på
- engelska.
+Hjälpsystemet är mycket enkelt. Tryck på ~C-h~ och följ instruktionerna. Om du är
+nybörjare, tryck ~C-h t~ för att få en demonstration. Alla hjälptexter är på
+engelska.
 
-   - ~C-x 1~ :: ta bort hjälpfönstret
-   - ~ESC C-v~ :: bläddra i hjälpfönstret
-   - ~C-h a~ :: apropos: sök med hjälp av text
-   - ~C-h c~ :: visa en tangents funktion
-   - ~C-h f~ :: beskriv en funktion
-   - ~C-h m~ :: få information om den aktuella moden
+- ~C-x 1~ :: ta bort hjälpfönstret
+- ~ESC C-v~ :: bläddra i hjälpfönstret
+- ~C-h a~ :: apropos: sök med hjälp av text
+- ~C-h c~ :: visa en tangents funktion
+- ~C-h f~ :: beskriv en funktion
+- ~C-h m~ :: få information om den aktuella moden
 
 ** Let's panic!!
-
-     - ~C-g~ :: avbryt delvis angivet kommando
-     - ~M-x recover-file~ :: rädda en fil efter en krasch
-     - ~C-x u~ eller ~C-_~ :: ångra en oönskad ändring
-     - ~M-x revert-buffer~ :: återgå till senaste sparade versionen
-     - ~C-l~ :: rita om skärmen
+- ~C-g~ :: avbryt delvis angivet kommando
+- ~M-x recover-file~ :: rädda en fil efter en krasch
+- ~C-x u~ eller ~C-_~ :: ångra en oönskad ändring
+- ~M-x revert-buffer~ :: återgå till senaste sparade versionen
+- ~C-l~ :: rita om skärmen
 
 ** Sökning
-     - ~C-s~ :: sökning framåt
-     - ~C-r~ :: sökning bakåt
-     - ~C-M-s~ :: sökning med hjälp av reguljära uttryck
+- ~C-s~ :: sökning framåt
+- ~C-r~ :: sökning bakåt
+- ~C-M-s~ :: sökning med hjälp av reguljära uttryck
 
-     Använd ~C-s~ eller ~C-r~ upprepade gånger för att upprepa sökningen eller
-     upprepa den i någon riktning. ~ESC~ avsluta sökningen DEL ångra senaste
-     tangenttryckningen ~C-g~ avbryt sökningen
+Använd ~C-s~ eller ~C-r~ upprepade gånger för att upprepa sökningen eller
+upprepa den i någon riktning. ~ESC~ avsluta sökningen DEL ångra senaste
+tangenttryckningen ~C-g~ avbryt sökningen
 
-     Om Emacs fortfarande söker så avslutar ~C-g~ den sökning Emacs just då håller
-     på med, i annat fall avbryts hela sökningen.
+Om Emacs fortfarande söker så avslutar ~C-g~ den sökning Emacs just då håller
+på med, i annat fall avbryts hela sökningen.
 
 ** Redigering
-   Copy/Paste fungerar lite annorlunda i Emacs jämfört med windows och andra
-   system. Man markerar med ~C-<space>~. Kopierar med ~M-w~ (kill-ring-save),
-   klipper ut med ~C-w~ (kill-region) och klistrar in med ~C-y~ (yank). Det som
-   klipps ut eller raderas läggs in i "kill-ring", ett minne med urklipp.
-   Eftersom killring kan inehålla äldre urklipp så når man dem med ~M-y~ efter
-   en den första ~C-y~.
+Copy/Paste fungerar lite annorlunda i Emacs jämfört med windows och andra
+system. Man markerar med ~C-<space>~. Kopierar med ~M-w~ (kill-ring-save),
+klipper ut med ~C-w~ (kill-region) och klistrar in med ~C-y~ (yank). Det som
+klipps ut eller raderas läggs in i "kill-ring", ett minne med urklipp. Eftersom
+killring kan inehålla äldre urklipp så når man dem med ~M-y~ efter en den första
+~C-y~.
 
-     - ~C-SPACE~ :: markera (sätt märket här)
-     - ~C-k~ :: raderar raden.
-     - ~C-w~ :: klipp ut. (radera och spara i kill-ring)
-     - ~M-w~ :: kopiera (spara i kill-ring)
-     - ~M-y~ :: ersätt senast raderade text med ännu äldre
-     - ~C-x h~ :: Markerar hela buffer.
-     - ~M-q~ :: jämna till stycket
-
-** Flera fönster
-     - ~C-x 1~ :: göm alla fönster utom det du står i.
-     - ~C-x 0~ :: gömmer fönstret du står i.
-     - ~C-x 2~ :: dela fönstret i två delar, horisontellt
-     - ~C-x 3~ :: dela fönstret i två delar, vertikalt
-     - ~C-x o~ :: flytta markören till ett annat fönster
-     - ~C-x ^~ :: gör fönstret längre
-     - ~C-x {~ :: gör fönstret smalare
-     - ~C-x }~ :: gör fönstret bredare
-
-** Undo/Upprepa 
-   - ~C-x u~ :: ångra.
-   - ~C-x z~ :: upprepa (~C-z~ ~z~ ~z~ ~z~) för att upprepar 3 gånger.
-     - Nästan alla kommandon kan upperpas, inte bara undo.
+- ~C-SPACE~ :: markera (sätt märket här)
+- ~C-k~ :: raderar raden.
+- ~C-w~ :: klipp ut. (radera och spara i kill-ring)
+- ~M-w~ :: kopiera (spara i kill-ring)
+- ~M-y~ :: ersätt senast raderade text med ännu äldre
+- ~C-x h~ :: Markerar hela buffer.
+- ~M-q~ :: jämna till stycket
 
 ** Buffertar
-   - ~C-x b~ :: gå till en annan buffert
-   - ~C-x C-b~ :: lista alla buffertar
-   - ~C-x k~ :: ta bort en buffert
+- ~C-x b~ :: gå till en annan buffert
+- ~C-x C-b~ :: lista alla buffertar
+- ~C-x k~ :: ta bort en buffert
+
+** Flera fönster
+- ~C-x 1~ :: göm alla fönster utom det du står i.
+- ~C-x 0~ :: gömmer fönstret du står i.
+- ~C-x 2~ :: dela fönstret i två delar, horisontellt
+- ~C-x 3~ :: dela fönstret i två delar, vertikalt
+- ~C-x o~ :: flytta markören till ett annat fönster
+- ~C-x ^~ :: gör fönstret längre
+- ~C-x {~ :: gör fönstret smalare
+- ~C-x }~ :: gör fönstret bredare
+
+** Undo/Upprepa 
+- ~C-x u~ :: ångra.
+- ~C-x z~ :: upprepa (~C-z~ ~z~ ~z~ ~z~) för att upprepar 3 gånger.
+  - Nästan alla kommandon kan upperpas, inte bara undo.
 
 ** Stavningskontroll
-   - ~M-$~ :: kontrollera stavningen av ett ord
-   - ~M-x~ spell-region :: kontrollera stavningen av området
-   - ~M-x~ spell-buffer :: kontrollera stavningen i bufferten
+- ~M-$~ :: kontrollera stavningen av ett ord
+- ~M-x~ spell-region :: kontrollera stavningen av området
+- ~M-x~ spell-buffer :: kontrollera stavningen i bufferten
 
-* Länkar och mer läsning
-  
-  - GnuEmacs Officiella Websida :: https://www.gnu.org/software/emacs/ 
-  - GnuEmacs Engelsk Wiki :: https://en.wikipedia.org/wiki/GNU_Emacs
-  - Emacs Engelska Wiki :: https://en.wikipedia.org/wiki/Emacs 
+* Länkar och mer läsning  
+- GnuEmacs Officiella Websida :: https://www.gnu.org/software/emacs/ 
+- GnuEmacs Engelsk Wiki :: https://en.wikipedia.org/wiki/GNU_Emacs
+- Emacs Engelska Wiki :: https://en.wikipedia.org/wiki/Emacs
+* Modes
+- Emacs har tusentals modes som andra skrivit och med en vanlig
+  standard-installation får du många på köpet.
+- Det finns pakethanterare som du når via ~M-x package-list~
+- Några medföljande modes jag kan rekommendera är:
+  - Magit
+    - En helt fantastisk git-klient.
+  - Org-mode
+    - Hantera text, dokument, websidor och kod.
+  - Eglot
+    - Programmera (java, python mm)
+  - Tramp
+    - Öppna filer på andra datorer i nätverket.
+  - term, shell och eshell
+    - för att jag i terminal/console/tty 
+- Några paket jag alltid tankar ner när jag installerar emacs.
+  - multiple-cursurs
+    - Redigera/skriva på flera rader samtidig.
+  - undo-tree
+    - En bättre undo.
+  - scratch-pop
+    - Öppna temporära buffers.
+  - git-timemachine
+    - Titta på äldre git-commits av filen jag jobbar i.
+  - ido/ido-vertical-mode
+    - Vertikala förslag i sökningar efter filer.
+  - elfeed
+    - Läsa rss/atom.
+
+* Några avslutande tankar.
+- Alla kan lära sig Emacs, Emacs är inte svårt. Bara lite anorludna.
+- Emacs är inte för alla.
