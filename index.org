@@ -40,11 +40,7 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
 
 * Musik
 - [[file:musicorum/learning_curve/index_learning_curve.org][Learning curve]]
-  1. [[file:musicorum/learning_curve/harvest.org][Harvest]]
-  2. [[file:musicorum/learning_curve/hearse.org][Hearse]]
-  3. [[file:musicorum/learning_curve/dublin.org][Dublin]]
-  4. [[file:musicorum/learning_curve/learning_curve.org][Learning curve]]
-  5. [[file:musicorum/learning_curve/let_it_rain.org][Let it rain]]
+- [[file:musicorum/vacuum_sucks/index.org][Vacuum sucks]]
 
 * Social på nätet
   - [[file:blog/blog.org][På min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
