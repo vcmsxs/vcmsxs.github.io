@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
 <head>
-<!-- 2023-11-01 Wed 08:03 -->
+<!-- 2024-05-12 Sun 10:09 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Gnu-Emacs</title>
@@ -191,7 +191,7 @@
     { font-size: 10px; font-weight: bold; white-space: nowrap; }
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { }
+  .org-svg { width: 90%; }
 </style>
 <link rel="stylesheet" type="text/css" href="../css/style.css" />
 <script>
@@ -224,9 +224,9 @@
 </p>
 </div>
 
-<div id="outline-container-orgf24408d" class="outline-2">
-<h2 id="orgf24408d">Introduktion</h2>
-<div class="outline-text-2" id="text-orgf24408d">
+<div id="outline-container-org8d5ac6d" class="outline-2">
+<h2 id="org8d5ac6d">Introduktion</h2>
+<div class="outline-text-2" id="text-org8d5ac6d">
 <blockquote>
 <p>
 "Emacs is the extensible, customizable, self-documenting real-time display editor."
@@ -235,26 +235,21 @@
 
 <p>
 Emacs är en textredigeriare. Den är gjord av och för programmerare som vill
-kunna påverka nästan alla asspekter av det verktyg de jobbar i. 
-</p>
-
-<p>
-Emacs kan ta lite tid att lära sig. Öppnar man en textfil eller om dagen så är
-det mer än väl värt besväret.
+kunna påverka nästan alla asspekter av det verktyg de jobbar i.
 </p>
 
 <p>
 En av anledningarna till Emacs kan ta lite längre tid att lära sig är att några
 av de ord som normalt används för att beskriva Emacs skiljer sig från andra
 program. Det i sin tur beror på att Emacs har sina rötter i det tidiga 70-talet,
-långt innan persondatorn blev vanlig och grafiska gränssnitt var vanliga.
+långt innan persondatorn och grafiska gränssnitt var vanliga.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org7c4e8d3" class="outline-2">
-<h2 id="org7c4e8d3">Ladda ner och installera Emacs</h2>
-<div class="outline-text-2" id="text-org7c4e8d3">
+<div id="outline-container-org4a49e2d" class="outline-2">
+<h2 id="org4a49e2d">Ladda ner och installera Emacs</h2>
+<div class="outline-text-2" id="text-org4a49e2d">
 <ul class="org-ul">
 <li>Emacs kan hämtas på: <a href="http://www.gnu.org/software/emacs/">http://www.gnu.org/software/emacs/</a></li>
 <li>Kör du linux rekommenderar jag att du tar emacs från din normala
@@ -266,13 +261,13 @@ heter ".emacs". Där konfigurationen ligger.</li>
 </div>
 </div>
 
-<div id="outline-container-org1458de8" class="outline-2">
-<h2 id="org1458de8">Start och stoppa Emacs</h2>
-<div class="outline-text-2" id="text-org1458de8">
+<div id="outline-container-org36263f4" class="outline-2">
+<h2 id="org36263f4">Start och stoppa Emacs</h2>
+<div class="outline-text-2" id="text-org36263f4">
 <ul class="org-ul">
-<li>Emacs startas som alla andra program. I ett fönstersystem (Windows, IOS
-eller X) kommer Emacs att startas som alla andra program, i ett fönster.
-Står man i en terminal kan man starta med flaggan "-nw" (no window).</li>
+<li>Emacs startas som alla andra program. I ett fönstersystem (Windows, IOS eller
+X) kommer Emacs att startas som alla andra program, i ett fönster. Står man i
+en terminal kan man starta med flaggan "-nw" (no window).</li>
 <li>Man avslutar emacs med kommandot <code>C-x C-c</code>. Det innebär att man håller
 inne <code>Ctrl</code>-knappen och trycker <code>x</code>, man fortsätter hålla <code>Ctrl</code>-knappen
 nedtryckt och trycker <code>c</code>.</li>
@@ -280,13 +275,15 @@ nedtryckt och trycker <code>c</code>.</li>
 </div>
 </div>
 
-<div id="outline-container-org93af59b" class="outline-2">
-<h2 id="org93af59b">Grundläggande definitioner</h2>
-<div class="outline-text-2" id="text-org93af59b">
+<div id="outline-container-org29c8810" class="outline-2">
+<h2 id="org29c8810">Grundläggande definitioner</h2>
+<div class="outline-text-2" id="text-org29c8810">
 <ul class="org-ul">
 <li>Buffer (sv. buffert):: Innehållet i ett "window" (ofta en textfil) kallas
 för "buffer". En buffer kan också innehålla text som inte ligger på en fil,
-en terminal eller output från ett program som en webläsare e.d.</li>
+en terminal eller output från ett program som en webläsare e.d. Varje
+buffer har ett namn. När du öppnar en fil så får din buffer samma namn som
+filen men det får man ändra om man vill.</li>
 <li id="Frame (sv. Ram)">Rutan som kommer upp på skärmen, som innehåller hela
 programmet när man startar Emacs, kallas för "Frame" (inte Window, som är
 vanligt).</li>
@@ -298,17 +295,17 @@ vill)</li>
 </div>
 </div>
 
-<div id="outline-container-org406bae2" class="outline-2">
-<h2 id="org406bae2">Några grundläggande kommandon</h2>
-<div class="outline-text-2" id="text-org406bae2">
+<div id="outline-container-org25f3179" class="outline-2">
+<h2 id="org25f3179">Några grundläggande kommandon</h2>
+<div class="outline-text-2" id="text-org25f3179">
 <ul class="org-ul">
-<li><code>M-x</code> (Meta-x) betyder att man ska hålla ner <code>Alt</code>-knappen (eller
-<code>Esc</code>-knappen) och sedan trycka <code>x</code>.
+<li><code>M-x</code> (Meta-x) betyder att man <span class="underline">håller ner</span> <code>Alt</code>-knappen (eller
+<code>Esc</code>-knappen) och trycker <code>x</code>.
 <ul class="org-ul">
 <li>Just kommandot <code>M-x</code> används för att exekvera den interaktiva funktionen
 execute-extended-command som kör alla andra interaktiva funktioner.</li>
 </ul></li>
-<li><code>C-x</code> betyder att man ska hålla ner <code>Ctrl</code>-knappen, hålla den nedtryckt
+<li><code>C-x</code> betyder att man ska hålla ner <code>Ctrl</code>-knappen och hålla den nedtryckt
 medans man trycker <code>x</code>.
 <ul class="org-ul">
 <li>Just kommandot <code>C-x</code> används för att köra många olika övergripande
@@ -318,13 +315,14 @@ kommandon.</li>
 och trycker ner <code>h</code> ensamt.</li>
 <li><code>C-x C-m</code> betyder betyder att man först håller ner <code>Ctrl</code> och sedan trycker
 <code>x</code>, fortsätter hålla <code>Ctrl</code>-knappen nedtryckt och sedan trycker <code>m</code>. Man
-behöver alltså inte släppa Ctrl-knappen mellan tryckningarna.</li>
+behöver alltså inte släppa Ctrl-knappen mellan tryckningarna. Ibland skrivs
+kommandot <code>C-x-m</code></li>
 </ul>
 </div>
 
-<div id="outline-container-orgac37e8a" class="outline-3">
-<h3 id="orgac37e8a">Filer</h3>
-<div class="outline-text-3" id="text-orgac37e8a">
+<div id="outline-container-org592e657" class="outline-3">
+<h3 id="org592e657">Filer</h3>
+<div class="outline-text-3" id="text-org592e657">
 <dl class="org-dl">
 <dt><code>C-x C-f</code></dt><dd>find-file - läsa in en fil i Emacs</dd>
 <dt><code>C-x C-s</code></dt><dd>save-buffer - spara en fil på skivminne</dd>
@@ -336,9 +334,9 @@ behöver alltså inte släppa Ctrl-knappen mellan tryckningarna.</li>
 </div>
 </div>
 
-<div id="outline-container-orgad4cc12" class="outline-3">
-<h3 id="orgad4cc12">Hjälp!</h3>
-<div class="outline-text-3" id="text-orgad4cc12">
+<div id="outline-container-org577e7e5" class="outline-3">
+<h3 id="org577e7e5">Hjälp!</h3>
+<div class="outline-text-3" id="text-org577e7e5">
 <p>
 Hjälpsystemet är mycket enkelt. Tryck på <code>C-h</code> och följ instruktionerna. Om du är
 nybörjare, tryck <code>C-h t</code> för att få en demonstration. Alla hjälptexter är på
@@ -356,9 +354,9 @@ engelska.
 </div>
 </div>
 
-<div id="outline-container-orgdec6e49" class="outline-3">
-<h3 id="orgdec6e49">Let's panic!!</h3>
-<div class="outline-text-3" id="text-orgdec6e49">
+<div id="outline-container-orgcaa6137" class="outline-3">
+<h3 id="orgcaa6137">Let's panic!!</h3>
+<div class="outline-text-3" id="text-orgcaa6137">
 <dl class="org-dl">
 <dt><code>C-g</code></dt><dd>avbryt delvis angivet kommando</dd>
 <dt><code>M-x recover-file</code></dt><dd>rädda en fil efter en krasch</dd>
@@ -369,9 +367,9 @@ engelska.
 </div>
 </div>
 
-<div id="outline-container-org03dc37d" class="outline-3">
-<h3 id="org03dc37d">Sökning</h3>
-<div class="outline-text-3" id="text-org03dc37d">
+<div id="outline-container-orgfffe1d5" class="outline-3">
+<h3 id="orgfffe1d5">Sökning</h3>
+<div class="outline-text-3" id="text-orgfffe1d5">
 <dl class="org-dl">
 <dt><code>C-s</code></dt><dd>sökning framåt</dd>
 <dt><code>C-r</code></dt><dd>sökning bakåt</dd>
@@ -391,16 +389,16 @@ på med, i annat fall avbryts hela sökningen.
 </div>
 </div>
 
-<div id="outline-container-org522d9a0" class="outline-3">
-<h3 id="org522d9a0">Redigering</h3>
-<div class="outline-text-3" id="text-org522d9a0">
+<div id="outline-container-orgcd91d2a" class="outline-3">
+<h3 id="orgcd91d2a">Redigering</h3>
+<div class="outline-text-3" id="text-orgcd91d2a">
 <p>
 Copy/Paste fungerar lite annorlunda i Emacs jämfört med windows och andra
 system. Man markerar med <code>C-&lt;space&gt;</code>. Kopierar med <code>M-w</code> (kill-ring-save),
 klipper ut med <code>C-w</code> (kill-region) och klistrar in med <code>C-y</code> (yank). Det som
-klipps ut eller raderas läggs in i "kill-ring", ett minne med urklipp.
-Eftersom killring kan inehålla äldre urklipp så når man dem med <code>M-y</code> efter
-en den första <code>C-y</code>.
+klipps ut eller raderas läggs in i "kill-ring", ett minne med urklipp. Eftersom
+killring kan inehålla äldre urklipp så når man dem med <code>M-y</code> efter en den första
+<code>C-y</code>.
 </p>
 
 <dl class="org-dl">
@@ -415,9 +413,20 @@ en den första <code>C-y</code>.
 </div>
 </div>
 
-<div id="outline-container-org4324728" class="outline-3">
-<h3 id="org4324728">Flera fönster</h3>
-<div class="outline-text-3" id="text-org4324728">
+<div id="outline-container-org6cb1f22" class="outline-3">
+<h3 id="org6cb1f22">Buffertar</h3>
+<div class="outline-text-3" id="text-org6cb1f22">
+<dl class="org-dl">
+<dt><code>C-x b</code></dt><dd>gå till en annan buffert</dd>
+<dt><code>C-x C-b</code></dt><dd>lista alla buffertar</dd>
+<dt><code>C-x k</code></dt><dd>ta bort en buffert</dd>
+</dl>
+</div>
+</div>
+
+<div id="outline-container-orgfd2de20" class="outline-3">
+<h3 id="orgfd2de20">Flera fönster</h3>
+<div class="outline-text-3" id="text-orgfd2de20">
 <dl class="org-dl">
 <dt><code>C-x 1</code></dt><dd>göm alla fönster utom det du står i.</dd>
 <dt><code>C-x 0</code></dt><dd>gömmer fönstret du står i.</dd>
@@ -431,9 +440,9 @@ en den första <code>C-y</code>.
 </div>
 </div>
 
-<div id="outline-container-org0451dce" class="outline-3">
-<h3 id="org0451dce">Undo/Upprepa</h3>
-<div class="outline-text-3" id="text-org0451dce">
+<div id="outline-container-org00fd19e" class="outline-3">
+<h3 id="org00fd19e">Undo/Upprepa</h3>
+<div class="outline-text-3" id="text-org00fd19e">
 <dl class="org-dl">
 <dt><code>C-x u</code></dt><dd>ångra.</dd>
 <dt><code>C-x z</code></dt><dd>upprepa (<code>C-z</code> <code>z</code> <code>z</code> <code>z</code>) för att upprepar 3 gånger.
@@ -444,20 +453,9 @@ en den första <code>C-y</code>.
 </div>
 </div>
 
-<div id="outline-container-org7e2ec58" class="outline-3">
-<h3 id="org7e2ec58">Buffertar</h3>
-<div class="outline-text-3" id="text-org7e2ec58">
-<dl class="org-dl">
-<dt><code>C-x b</code></dt><dd>gå till en annan buffert</dd>
-<dt><code>C-x C-b</code></dt><dd>lista alla buffertar</dd>
-<dt><code>C-x k</code></dt><dd>ta bort en buffert</dd>
-</dl>
-</div>
-</div>
-
-<div id="outline-container-org7b86e13" class="outline-3">
-<h3 id="org7b86e13">Stavningskontroll</h3>
-<div class="outline-text-3" id="text-org7b86e13">
+<div id="outline-container-org2e4c603" class="outline-3">
+<h3 id="org2e4c603">Stavningskontroll</h3>
+<div class="outline-text-3" id="text-org2e4c603">
 <dl class="org-dl">
 <dt><code>M-$</code></dt><dd>kontrollera stavningen av ett ord</dd>
 <dt><code>M-x</code> spell-region</dt><dd>kontrollera stavningen av området</dd>
@@ -467,9 +465,9 @@ en den första <code>C-y</code>.
 </div>
 </div>
 
-<div id="outline-container-orgdbfad11" class="outline-2">
-<h2 id="orgdbfad11">Länkar och mer läsning</h2>
-<div class="outline-text-2" id="text-orgdbfad11">
+<div id="outline-container-org3ceb875" class="outline-2">
+<h2 id="org3ceb875">Länkar och mer läsning</h2>
+<div class="outline-text-2" id="text-org3ceb875">
 <dl class="org-dl">
 <dt>GnuEmacs Officiella Websida</dt><dd><a href="https://www.gnu.org/software/emacs/">https://www.gnu.org/software/emacs/</a></dd>
 <dt>GnuEmacs Engelsk Wiki</dt><dd><a href="https://en.wikipedia.org/wiki/GNU_Emacs">https://en.wikipedia.org/wiki/GNU_Emacs</a></dd>
@@ -477,11 +475,81 @@ en den första <code>C-y</code>.
 </dl>
 </div>
 </div>
+<div id="outline-container-org816983f" class="outline-2">
+<h2 id="org816983f">Modes</h2>
+<div class="outline-text-2" id="text-org816983f">
+<ul class="org-ul">
+<li>Emacs har tusentals modes som andra skrivit och med en vanlig
+standard-installation får du många på köpet.</li>
+<li>Det finns pakethanterare som du når via <code>M-x package-list</code></li>
+<li>Några medföljande modes jag kan rekommendera är:
+<ul class="org-ul">
+<li>Magit
+<ul class="org-ul">
+<li>En helt fantastisk git-klient.</li>
+</ul></li>
+<li>Org-mode
+<ul class="org-ul">
+<li>Hantera text, dokument, websidor och kod.</li>
+</ul></li>
+<li>Eglot
+<ul class="org-ul">
+<li>Programmera (java, python mm)</li>
+</ul></li>
+<li>Tramp
+<ul class="org-ul">
+<li>Öppna filer på andra datorer i nätverket.</li>
+</ul></li>
+<li>term, shell och eshell
+<ul class="org-ul">
+<li>för att jag i terminal/console/tty</li>
+</ul></li>
+</ul></li>
+<li>Några paket jag alltid tankar ner när jag installerar emacs.
+<ul class="org-ul">
+<li>multiple-cursurs
+<ul class="org-ul">
+<li>Redigera/skriva på flera rader samtidig.</li>
+</ul></li>
+<li>undo-tree
+<ul class="org-ul">
+<li>En bättre undo.</li>
+</ul></li>
+<li>scratch-pop
+<ul class="org-ul">
+<li>Öppna temporära buffers.</li>
+</ul></li>
+<li>git-timemachine
+<ul class="org-ul">
+<li>Titta på äldre git-commits av filen jag jobbar i.</li>
+</ul></li>
+<li>ido/ido-vertical-mode
+<ul class="org-ul">
+<li>Vertikala förslag i sökningar efter filer.</li>
+</ul></li>
+<li>elfeed
+<ul class="org-ul">
+<li>Läsa rss/atom.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orga534f27" class="outline-2">
+<h2 id="orga534f27">Några avslutande tankar.</h2>
+<div class="outline-text-2" id="text-orga534f27">
+<ul class="org-ul">
+<li>Alla kan lära sig Emacs, Emacs är inte svårt. Bara lite anorludna.</li>
+<li>Emacs är inte för alla.</li>
+</ul>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Datum: 2023-11-01 Wed 08:03</p>
+<p class="date">Datum: 2024-05-12 Sun 10:09</p>
 <p class="author">F&ouml;rfattare: Johan Sandén</p>
-<p class="date">Created: 2023-11-01 Wed 08:03</p>
+<p class="date">Created: 2024-05-12 Sun 10:09</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

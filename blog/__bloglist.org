@@ -1,5 +1,6 @@
 #+TITLE: Sitemap for project blog
 
+- <2024-03-11 Mon 08:04>  [[file:2024/03/blog_2024-03-11__08:04:19.org][Agilt arbete, en gång till.]]
 - <2023-11-13 Mon 21:35>  [[file:2023/11/blog_2023-11-13__21:35:37.org][För nu]]
 - <2023-11-01 Wed 06:12>  [[file:2023/11/blog_2023-11-01__06:12:49.org][Normalviktig]]
 - <2023-10-12 Thu 04:44>  [[file:2023/10/blog_2023-10-12__04:44:07.org][Sanningen i konsten.]]
