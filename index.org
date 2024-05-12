@@ -30,7 +30,9 @@
 #+END_CENTER
 
 #+BEGIN_CENTER
-[[file:./img/me_2016.jpg]]
+#+ATTR_LATEX: :width 6cm
+#+ATTR_HTML: :width 200pix
+[[file:./img/ego2025.jpg]]
 #+END_CENTER
 
 -------
