@@ -1,7 +1,7 @@
-#+TITLE:    jolifanto
-# #+AUTHOR:    Johan Sandén
-# #+EMAIL:     johan.sanden@gmail.com
-# #+DATE: <{{{time(%F %b %T)}}}>
+#+TITLE:
+#+AUTHOR:    Johan Sandén
+#+EMAIL:     johan.sanden@gmail.com
+#+DATE: <{{{time(%F %b %T)}}}>
 #+LANGUAGE:  en
 #+OPTIONS:   H:1 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:nil pri:nil tags:not-in-to
@@ -18,7 +18,7 @@
 #+BEGIN_CENTER
 #+ATTR_LATEX: :width 8cm
 #+ATTR_HTML: :width 250pix
-[[file:./hasciicam_face.png]]
+[[file:./leaflard.png]]
 #+END_CENTER
 
 
