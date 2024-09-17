@@ -1,9 +1,9 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
-#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:nil e:t
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:nil title:t toc:nil todo:t |:t
 #+TITLE: Systemutvecklare
-#+subtitle: Johan Sandén
+# #+subtitle: Johan Sandén
 #+DATE: {{{time(%F %T)}}}
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
@@ -26,8 +26,12 @@
 #+LATEX_HEADER:
 
 #+begin_center
-📧 johan.sanden@gmail.com   📞 +46 (0) 79 333 94 03   🏡 Hattmursvägen 5, 80648, Gävle
+*E-post:* johan.sanden@gmail.com *Tele:* +46 (0) 79 333 94 03 *Adress:*
+Hattmursvägen 5, 80648, Gävle
 #+end_center
+-------
+Detta är kort version av min fullständiga cv. För mer information läs den på
+[[https://meriter.hoahoa.se][meriter.hoahoa.se]] eller fråga.
 
 * Önskade uppdrag
 Jag jobbar helst hemifrån med systemutveckling. Jag använder Gnu/Linux och helst
@@ -46,29 +50,32 @@ Jag kodar inte C#/.Net (Dot Net) och har aldrig pysslat med Azure.
 - *Andra verktyg:* Git, Atlassian (Jira, Wiki, Bamboo...)
   
 * Utbildning
-- Grundskola: Storhagen och Lillhagen i Gävle.
-- Gymnasium: Naturvetenskaplig Linje, Vasaskolan i Gävle 
-- Högskola: Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)
-- Kurser i Ledarskap, Kravställning, Projektledning, PRINCE2®, PM3/ITIL,
-  Containers med podman, Scrum master och agil produktägare.
+*Grundskolan* gick jag på Storhagen och Lillhagen i Gävle. I *Gymnasiet* gick
+jag Naturvetenskaplig Linje, Vasaskolan i Gävle. *Högskola* blev 80p
+Energi-/Dataingenjörsutbildningen i Gävle(HIG) och Forsmark.
+
+Sen har jag gått lite strökurser i bland annat Ledarskap, Kravställning,
+Projektledning, PRINCE2®, PM3/ITIL, Containers med podman, Scrum master och agil
+produktägare.
 
 * Brancher:
 Jag har främst jobbat som *Konsult* i *Fastighetsbranchen* men jag har även
 jobbat med TeleCom, Automattester, 3D/Grafik och utbildning.
 
 * Arbetsgivare
-Jag har främst olika konsultföreta som OneGroup/Visionite (nuvarande) Knowit,
-Mandator/CellNetwork/Fujitzu, Mind, ITG-Data och Syntronic
+Jag har främst arbetat som konsult på företagen Visionite/OneGroup (nuvarande)
 
-Några fasta anställningar har jag haft på KenVision, Utilator, Datorteket (Gävle
-Kommun
+Knowit, Mandator/CellNetwork/Fujitzu, Mind, ITG-Data och Syntronic.
+
+Jag har även haft fasta anställningar på KenVision, Utilator, Ericsson och
+Datorteket (Gävle Kommun)
 
 Flera av ovanstående företag är nerlagda eller har gått i konkurs (om de är
 svåra att hitta).
 
 * Kunder
 Min främsta kund de senaste åren har varit *Lantmäteriet* i Gävle. Andra kunder
-är bl.a. Ericsson, Sandvik, Korsnäs och Gävle Kommun.
+är bland annat Ericsson, Sandvik, Korsnäs och Gävle Kommun.
 
 * Förtroendeuppdrag
 - Ordförande och valberedare i Gävle Ölsellskap
