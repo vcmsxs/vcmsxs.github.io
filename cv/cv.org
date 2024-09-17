@@ -1,0 +1,75 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Systemutvecklare
+#+subtitle: Johan Sandén
+#+DATE: {{{time(%F %T)}}}
+#+AUTHOR: Johan Sandén
+#+EMAIL: johan.sanden@gmail.com
+#+LANGUAGE: sv
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+DESCRIPTION:
+#+KEYWORDS:
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="./css/style.css" />
+#+HTML_HEAD_EXTRA:
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> <a href="http://orgmode.org">Org-mode</a>
+#+LATEX_HEADER:
+
+#+begin_center
+📧 johan.sanden@gmail.com   📞 +46 (0) 79 333 94 03   🏡 Hattmursvägen 5, 80648, Gävle
+#+end_center
+
+* Önskade uppdrag
+Jag jobbar helst hemifrån med systemutveckling. Jag använder Gnu/Linux och helst
+kodar jag i Python. Min styrka ligger snarare på backend och api:er än websidor
+och grafisk design.
+
+Jag kodar inte C#/.Net (Dot Net) och har aldrig pysslat med Azure.
+
+* Kunskaper
+- *OS:* GNU/Linux
+- *Språk:* Java/Kotlin (Spring/Spring-boot), Python, Bash, Sql, Html/css, PHP,
+  Perl, c/C++, Javascript, TypeScript (Angular)
+- *Java-verktyg:* Maven, GnuEmacs, JetBrain (Intellij). Eclipse-STS, Android Studio
+- *SQL Databaser*: Oracle (SqlDeveloper), PostGreSQL (PgAdmin), SQLite
+- *Container teknologi:* Docker/Podman, OpenShift
+- *Andra verktyg:* Git, Atlassian (Jira, Wiki, Bamboo...)
+  
+* Utbildning
+- Grundskola: Storhagen och Lillhagen i Gävle.
+- Gymnasium: Naturvetenskaplig Linje, Vasaskolan i Gävle 
+- Högskola: Energi-/Dataingenjörsutb. Gävle/Forsmark (HIG)
+- Kurser i Ledarskap, Kravställning, Projektledning, PRINCE2®, PM3/ITIL,
+  Containers med podman, Scrum master och agil produktägare.
+
+* Brancher:
+Jag har främst jobbat som *Konsult* i *Fastighetsbranchen* men jag har även
+jobbat med TeleCom, Automattester, 3D/Grafik och utbildning.
+
+* Arbetsgivare
+Jag har främst olika konsultföreta som OneGroup/Visionite (nuvarande) Knowit,
+Mandator/CellNetwork/Fujitzu, Mind, ITG-Data och Syntronic
+
+Några fasta anställningar har jag haft på KenVision, Utilator, Datorteket (Gävle
+Kommun
+
+Flera av ovanstående företag är nerlagda eller har gått i konkurs (om de är
+svåra att hitta).
+
+* Kunder
+Min främsta kund de senaste åren har varit *Lantmäteriet* i Gävle. Andra kunder
+är bl.a. Ericsson, Sandvik, Korsnäs och Gävle Kommun.
+
+* Förtroendeuppdrag
+- Ordförande och valberedare i Gävle Ölsellskap
+- Revisor i Västerbackens samfällighetsförening
