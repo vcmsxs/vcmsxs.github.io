@@ -32,7 +32,7 @@
 #+BEGIN_CENTER
 #+ATTR_LATEX: :width 6cm
 #+ATTR_HTML: :width 200pix
-[[file:./img/ego2025.jpg]]
+[[file:./img/matteus.jpg]]
 #+END_CENTER
 
 -------
