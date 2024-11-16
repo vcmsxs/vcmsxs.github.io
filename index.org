@@ -46,15 +46,20 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
 
 * Social på nätet
   - [[file:blog/blog.org][På min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
-  - [[https://www.instagram.com/vinihille/][Vin i hille]]
-    - Jag och frugan recenserar vin, drinkar och sushi-restauranger.
-  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]]
-  - [[https://www.instagram.com/vcmsxs/][Instagram]]
+  - [[https://www.instagram.com/vinihille/][Vin i hille]] - Frugan och mina recenserar.
+  - [[https://bsky.app/profile/vcmsxs.bsky.social][Bluesky]] - Gamla twitter suger och ägs av en dåre.
+  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]] - Kolla in min cv.
+  - [[https://www.instagram.com/vcmsxs/][Instagram]] - Lite fotton.
   - [[https://www.facebook.com/johan.sanden][Facebook]]
 
-* Underligheter
-- [[file:studium/emacs.org][Emacs]]
-  - [[file:studium/orgmode.org][Org-Mode]]
+* Emacs
+- [[file:studium/emacs.org][Emacs]] - The extensible, customizable, self-documenting real-time display editor.
+- [[file:studium/orgmode.org][Org-Mode]] - GNU Emacs mode för anteckningar, författande, beräkningar,
+  programmering, planering och projekt i ett snabbt och effektivt textsystem.
+  Tillsammans med Git (GnuEmacs/magit) är det ett bra sätt tillhandahålla och
+  underhålla all information som är värt något.
+
+* Lite annat.
 - [[file:studium/boktipps.org][Boktipps]]
 - [[./fun/tinafp.html]["Piano" - fråga inte]]
 - [[file:./fun/josef.mp3][Josef]], [[file:./fun/josefmix1.mp3][Josef2]]
