@@ -1,0 +1,89 @@
+                           __________________
+
+                            SYSTEMUTVECKLARE
+
+                              Johan Sandén
+                           __________________
+
+
+*E-post:* johan.sanden@gmail.com *Tele:* +46 (0) 79 333 94 03 *Adress:*
+                     Hattmursvägen 5, 80648, Gävle
+------------------------------------------------------------------------
+Detta är kort version av min fullständiga cv. För mer information läs
+den på [meriter.hoahoa.se] eller fråga.
+
+
+[meriter.hoahoa.se] <https://meriter.hoahoa.se>
+
+
+Önskade uppdrag
+===============
+
+  Jag jobbar helst hemifrån med systemutveckling. Jag använder Gnu/Linux
+  och helst kodar jag i Python. Min styrka ligger snarare på backend och
+  api:er än websidor och grafisk design.
+
+  Jag kodar inte C#/.Net (Dot Net) och har aldrig pysslat med Azure.
+
+
+Kunskaper
+=========
+
+  - *OS:* GNU/Linux
+  - *Språk:* Java/Kotlin (Spring/Spring-boot), Python, Bash, Sql,
+    Html/css, PHP, Perl, c/C++, Javascript, TypeScript (Angular)
+  - *Java-verktyg:* Maven, GnuEmacs, JetBrain (Intellij). Eclipse-STS,
+     Android Studio
+  - *SQL Databaser*: Oracle (SqlDeveloper), PostGreSQL (PgAdmin), SQLite
+  - *Container teknologi:* Docker/Podman, OpenShift
+  - *Andra verktyg:* Git, Atlassian (Jira, Wiki, Bamboo...)
+
+
+Utbildning
+==========
+
+  *Grundskolan* gick jag på Storhagen och Lillhagen i Gävle. I
+  *Gymnasiet* gick jag Naturvetenskaplig Linje, Vasaskolan i Gävle.
+  *Högskola* blev 80p Energi-/Dataingenjörsutbildningen i Gävle(HIG) och
+  Forsmark.
+
+  Sen har jag gått lite strökurser i bland annat Ledarskap,
+  Kravställning, Projektledning, PRINCE2®, PM3/ITIL, Containers med
+  podman, Scrum master och agil produktägare.
+
+
+Brancher:
+=========
+
+  Jag har främst jobbat som *Konsult* i *Fastighetsbranchen* men jag har
+  även jobbat med TeleCom, Automattester, 3D/Grafik och utbildning.
+
+
+Arbetsgivare
+============
+
+  Jag har främst arbetat som konsult på företagen Visionite/OneGroup
+  (nuvarande)
+
+  Knowit, Mandator/CellNetwork/Fujitzu, Mind, ITG-Data och Syntronic.
+
+  Jag har även haft fasta anställningar på KenVision, Utilator, Ericsson
+  och Datorteket (Gävle Kommun)
+
+  Flera av ovanstående företag är nerlagda eller har gått i konkurs (om
+  de är svåra att hitta).
+
+
+Kunder
+======
+
+  Min främsta kund de senaste åren har varit *Lantmäteriet* i Gävle.
+  Andra kunder är bland annat Ericsson, Sandvik, Korsnäs och Gävle
+  Kommun.
+
+
+Förtroendeuppdrag
+=================
+
+  - Ordförande och valberedare i Gävle Ölsellskap
+  - Revisor i Västerbackens samfällighetsförening
