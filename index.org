@@ -48,7 +48,7 @@ Som [[./cv/meriter.org][HTML]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/merite
   - [[file:blog/blog.org][På min BLOGG]] skriver jag lite [[file:blog/blog.org][blandade tankar]].
   - [[https://www.instagram.com/vinihille/][Vin i hille]] - Frugan och mina recenserar.
   - [[https://bsky.app/profile/vcmsxs.bsky.social][Bluesky]] - Gamla twitter suger och ägs av en dåre.
-  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]] - Kolla in min cv.
+  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]] - Jag finns på LinkIn men kolla in [[./cv/meriter.org][min cv istället]].
   - [[https://www.instagram.com/vcmsxs/][Instagram]] - Lite fotton.
   - [[https://www.facebook.com/johan.sanden][Facebook]]
 
