@@ -39,11 +39,10 @@
 10. Bred erfarenhet
 #+END_COMMENT
 
-
 #+BEGIN_CENTER
 #+ATTR_LATEX: :width 6cm
 #+ATTR_HTML: :width 200pix
-[[file:me_new.jpg]]
+[[file:../img/matteus.jpg]]
 #+END_CENTER
 
 #+LaTeX: \bigskip
@@ -123,7 +122,7 @@ Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:merite
      kunder eller andras windows-miljöer hjälper jag mer än gärna till med; men
      själv, jobbar jag alltid i någon distribution av Gnu/Linux eller Unix.
    - Jag kodar /inte/ C# och har mycket begränsade kunskaper och erfarneheter av
-     .NET (Dot Net), Azure. 
+     .NET (Dot Net), Azure.
 
 ** Kompetens och erfarenhet
 #+BEGIN_COMMENT
@@ -157,7 +156,7 @@ Beräkningar på hur länge jag jobbat.
    (tidigare One Group) som arbetsgivare. Den senaste tiden har jag främst
    arbetat inom fastighetsdata mot Lantmäteriet. Projekt, roller, team och
    arbetsuppgfiter har varierat genom åren.
-   
+
    | Applikationsansvarig | Gruppledare                    |
    | Systemutvecklare     | Förvaltare                     |
    | Konfiguration        | Teknisk konsult i "testfabrik" |
@@ -275,7 +274,7 @@ Beräkningar på hur länge jag jobbat.
 - Postgresql
 - Sqlite
 - MySQL/MariDB
-  
+
 ** Utvecklingsmiljöer
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
