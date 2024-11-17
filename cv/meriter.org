@@ -298,23 +298,6 @@ Beräkningar på hur länge jag jobbat.
 
  #+LaTeX: \pagebreak
 
-** Verktyg
-- Atlassian
-  1. Confluence (Wiki)
-  2. Bamoo
-  3. BitBucket
-  4. Jira
-- Mattermost
-- Gems (ems-buss)
-- Control-m
-- Fitnesse
-- Node.js/Nvm
-- PgAdmin
-- SqlDevloper
-- DBeaver
-- Vinagre/Remmina (virtuell desktop)
-- Seriöst de här listorna är lite fåniga. jag använder och har använt 100-tals
-  program. Det är nog bättre att ni frågar. 😃
 * Arbetsgivare och uppdrag
   :PROPERTIES:
   :CUSTOM_ID: h:53cca876-30a7-4b82-bdec-9edfd9c27aa9

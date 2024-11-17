@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2024-11-16 Sat 17:32>
+                         <2024-11-17 Sun 09:22>
 
 
                        <file:../img/matteus.jpg>
@@ -45,7 +45,6 @@ _________________
 .. 2. Programmeringsspråk
 .. 3. Databaser
 .. 4. Utvecklingsmiljöer
-.. 5. Verktyg
 4. Arbetsgivare och uppdrag
 .. 1. Visionite/One Group
 .. 2. Knowit
@@ -395,27 +394,6 @@ Podman (DO188)]
     - Android Studio[14]
     - Ant[15]
     - Maven[16]
-
-
-3.5 Verktyg
-~~~~~~~~~~~
-
-  - Atlassian
-    1. Confluence (Wiki)
-    2. Bamoo
-    3. BitBucket
-    4. Jira
-  - Mattermost
-  - Gems (ems-buss)
-  - Control-m
-  - Fitnesse
-  - Node.js/Nvm
-  - PgAdmin
-  - SqlDevloper
-  - DBeaver
-  - Vinagre/Remmina (virtuell desktop)
-  - Seriöst de här listorna är lite fåniga. jag använder och har använt
-    100-tals program. Det är nog bättre att ni frågar. 😃
 
 
 4 Arbetsgivare och uppdrag
