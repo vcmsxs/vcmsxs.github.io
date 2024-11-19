@@ -1,0 +1,14 @@
+#+title: Tidredovisningssystem
+#+subtitle: <2024-11-19 09:05>
+#+date: <2024-11-19 09:05:07>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+På 90-talet hade jag ett tidredovisningssystem. Idag har jag fyra om man räknar
+mitt egna som jag behöver för att hålla reda på de andra tre.
+
+Ibland får IT-utvecklingen själva utvecklingen att gå baklänges.
+
+------------
