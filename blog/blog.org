@@ -10,7 +10,7 @@
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
 
 #+BEGIN_CENTER
-[[file:../index.org][Hemsida]]
+[[file:../index.org][Websida]]
 #+END_CENTER
 -----------
 
