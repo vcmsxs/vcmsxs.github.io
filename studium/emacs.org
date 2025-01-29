@@ -8,19 +8,19 @@
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
 #+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t
 #+OPTIONS:  texht:t
-#+STARTUP: hideblocks 
+#+STARTUP: hideblocks
 #+HTML_CONTAINER: div
 #+HTML_DOCTYPE: xhtml-strict
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../css/style.css" />
 
 #+BEGIN_CENTER
-[[file:studium.org][Studium]] | [[file:../index.org][Hjälp! - ta mig härifrån]]
+[[file:../index.org][Hjälp! - ta mig härifrån]]
 #+END_CENTER
 
 * Introduktion
 #+BEGIN_QUOTE
 "Emacs is the extensible, customizable, self-documenting real-time display editor."
-#+END_QUOTE  
+#+END_QUOTE
 
 Emacs är en textredigeriare. Den är gjord av och för programmerare som vill
 kunna påverka nästan alla asspekter av det verktyg de jobbar i.
@@ -59,7 +59,7 @@ långt innan persondatorn och grafiska gränssnitt var vanliga.
 - Window (sv. fönster) :: Om man delar en Frame i två eller tre delar, så
   kallas varje del en "window" (man kan dela av en frame hur många gånger man
   vill)
-- POINT :: Markörens position i en buffer. 
+- POINT :: Markörens position i en buffer.
 
 * Några grundläggande kommandon
 - ~M-x~ (Meta-x) betyder att man _håller ner_ ~Alt~-knappen (eller
@@ -147,7 +147,7 @@ killring kan inehålla äldre urklipp så når man dem med ~M-y~ efter en den f�
 - ~C-x {~ :: gör fönstret smalare
 - ~C-x }~ :: gör fönstret bredare
 
-** Undo/Upprepa 
+** Undo/Upprepa
 - ~C-x u~ :: ångra.
 - ~C-x z~ :: upprepa (~C-z~ ~z~ ~z~ ~z~) för att upprepar 3 gånger.
   - Nästan alla kommandon kan upperpas, inte bara undo.
@@ -157,8 +157,8 @@ killring kan inehålla äldre urklipp så når man dem med ~M-y~ efter en den f�
 - ~M-x~ spell-region :: kontrollera stavningen av området
 - ~M-x~ spell-buffer :: kontrollera stavningen i bufferten
 
-* Länkar och mer läsning  
-- GnuEmacs Officiella Websida :: https://www.gnu.org/software/emacs/ 
+* Länkar och mer läsning
+- GnuEmacs Officiella Websida :: https://www.gnu.org/software/emacs/
 - GnuEmacs Engelsk Wiki :: https://en.wikipedia.org/wiki/GNU_Emacs
 - Emacs Engelska Wiki :: https://en.wikipedia.org/wiki/Emacs
 * Modes
@@ -175,7 +175,7 @@ killring kan inehålla äldre urklipp så når man dem med ~M-y~ efter en den f�
   - Tramp
     - Öppna filer på andra datorer i nätverket.
   - term, shell och eshell
-    - för att jag i terminal/console/tty 
+    - för att jag i terminal/console/tty
 - Några paket jag alltid tankar ner när jag installerar emacs.
   - multiple-cursurs
     - Redigera/skriva på flera rader samtidig.

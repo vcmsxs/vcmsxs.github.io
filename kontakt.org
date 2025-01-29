@@ -3,6 +3,7 @@
 #+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
 #+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
 #+TITLE: Johan Sandén
+#+SUBTITLE: Socialt och kontakt
 #+DATE: {{{time(%F %T)}}}
 #+AUTHOR: Johan Sandén
 #+EMAIL: johan.sanden@gmail.com
@@ -25,9 +26,6 @@
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> <a href="http://orgmode.org">Org-mode</a>
 #+LATEX_HEADER:
 
-#+BEGIN_CENTER
---- *ännu en onödig websida*
-#+END_CENTER
 
 #+BEGIN_CENTER
 #+ATTR_LATEX: :width 6cm
@@ -35,24 +33,19 @@
 [[file:./img/matteus.jpg]]
 #+END_CENTER
 
+#+BEGIN_CENTER
+[[file:index.org][Hjälp! - ta mig härifrån]]
+#+END_CENTER
+
 -------
 
-* Om mig
-- CV: [[./cv/meriter.org][på webben]], [[./cv/meriter.pdf][PDF]] eller [[file:cv/meriter.txt][text]].
-- BLOGG: [[file:blog/blog.org][blandade tankar]].
-- Kontakt: [[file:./kontakt.org][kontaktuppgifter]]
+* Kontakt
+#+INCLUDE: ./kontakt_upg_privat.org
 
-* Musik
-- [[file:./musicorum/vacuum_sucks/index.org][Vacuum sucks]] 👾
-- [[file:musicorum/learning_curve/index_learning_curve.org][Learning curve]]
-- Green Bullet Sessions...
-
-* Lite annat
-- [[file:studium/emacs.org][Emacs]] - The extensible, customizable, self-documenting real-time display editor.
-- [[file:studium/orgmode.org][Org-Mode]] - GNU Emacs mode för anteckningar, författande, beräkningar,
-  programmering, planering och projekt i ett snabbt och effektivt textsystem.
-  Tillsammans med Git (GnuEmacs/magit) är det ett bra sätt tillhandahålla och
-  underhålla all information som är värt något.
-- [[file:studium/boktipps.org][Boktipps]]
-- [[./fun/tinafp.html]["Piano" - fråga inte]]
-- [[file:./fun/josef.mp3][Josef]], [[file:./fun/josefmix1.mp3][Josef2]]
+* Social på nätet
+  - [[file:blog/blog.org][På min BLOGG]] skriver jag lite  blandade tankar.
+  - [[https://www.instagram.com/vinihille/][Vin i hille]] - Frugan och mina recenserar.
+  - [[https://bsky.app/profile/vcmsxs.bsky.social][Bluesky]] - Gamla twitter suger och ägs av en dåre.
+  - [[https://www.linkedin.com/in/johansanden/][LinkeIn]] - Jag finns på LinkIn men kolla in [[./cv/meriter.org][min cv istället]].
+  - [[https://www.instagram.com/vcmsxs/][Instagram]] - Lite fotton.
+  - [[https://www.facebook.com/johan.sanden][Facebook]]
