@@ -26,9 +26,9 @@
 #+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> <a href="http://orgmode.org">Org-mode</a>
 #+LATEX_HEADER:
 
-#+BEGIN_CENTER
+#+ATTR_HTML: :align center
+#+CAPTION: Bild tagen och redigerad av Lukas Sandén.
 [[file:../../img/lc.jpg]]
-#+END_CENTER
 
 #+BEGIN_CENTER
 [[file:../../index.org][Hjälp! - ta mig härifrån]]
@@ -37,21 +37,7 @@
 -------
 * Learning Curve
 Våren 2023 rustade jag upp min lilla studio. Det var länge sedan jag gjorde
-musik ni får ha lite överseende i början.
-
-Jag bär ensam ansvaret för text och musik men eftersom jag stavar som en 5åring
-och inte kan engelska så har Anna, min fru, hjälpt mig med stavning och
-grammatik.
-
-Bilden på mig i rött och en tuff bakgrund har Lukas Sandén gjort.
-
-Om man vill haka på så har jag skrivit ner ackorden och texterna här. Jag
-skriver det mesta i C så det är det ni får se. När jag sen spelar in
-transponerar jag ofta till något annat, det är inte din gitarr som är ostämd.
-Texterna stämmer nog inte helt heller. För när jag står där med micken får jag
-ofta fealing, känner mig som en rockstjärna och skiter vad det står på pappret.
-
-Kommentera gärna vad ni tycker på SoundCloud.
+musik så man får ha lite överseende i början.
 
 * Låtar
   1. [[file:harvest.org][Harvest]]
