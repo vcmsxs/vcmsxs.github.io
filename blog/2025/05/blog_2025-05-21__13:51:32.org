@@ -1,0 +1,25 @@
+#+title: AI-Uppföljning
+#+subtitle: <2025-05-21 13:52>
+#+date: <2025-05-21 13:52:40>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+Okay, så det har gått drygt två år sedan jag lade in mitt första blogginlägg om AI här. Ahh, den underbara "AI" som ska
+förändra världen på bara några få år. Så vad har hänt sen sist? Vad har hänt på det spännaden AI-området sedan
+[2023-03-31 Fri] ?
+
+Jo nu ska ni få höra: Nästan ingenting!
+
+De finns inga fler självkörande bilar. Inga programmerare har blivit av med sina jobb (inte på grund av AI). När jag
+ringer till 1177 för att få hjälp eller SJ:s telefon för att köpa en biljett så är telefonsvararen lika värdelös som
+2023. Region Gävleborg kämpar just nu med IT-system som är dåligt och avancerat att patientsäkerheten äventyras.
+
+I mitt dagliga arbete och även privat tar jag, nu precis som då, hjälp av chatgpt för söka ut information om hur saker
+och ting fungerar. Men nästan INGENTING i samhället har blivit bättre eller annorlunda.
+
+Men AI-hysterin däremot är väl ungefär som förut, den kommer nog att avta snart. Det måste vara  dyrt att elda på en
+AI-hysteri när den aldrig ger något tillbaka.
+
+------------
