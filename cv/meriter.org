@@ -88,79 +88,71 @@ Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:merite
 
 ** Vem är Johan?
   + Mina vänner beskriver mig som tankfull och lugn.
-  + Föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs[fn:emacs]/-Gnu/Linux[fn:linux], Git[fn:git], Lisp, Python[fn:python] mm.
+  + Föredrar alltid att vara hemma. Jag tycker inte om att resa varken i jobbet
+    eller på semester.
   + Vegetarian
-  + Ordförande i Gefle Ölsellskap[fn:gefleolsellskap:gefleolsellskap.com].
-    - Åren 2017 - 2021
-  + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till pianot.
-  + Tjatade till mig en dator i julklapp vid 11 års åldern. Det var då jag lärde
-    mig programmera.
-  + Älskar katter.
-  + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
+  + Favoritmat: Ost.
+  + Favoritdjur: katter
+  + Hängiven förespråkare av GnuEmacs[fn:emacs]/ och Gnu/Linux[fn:linux] och
+    Python[fn:python].
+  + Hedersmedlem i Gefle Ölsellskap[fn:gefleolsellskap:gefleolsellskap.com].
+    - Ordförande 2017 - 2021
+  + Göra musik. Har spelat sedan jag kunde nådde upp till pianot.
+  + Fick en dator i julklapp i 11 års åldern och det var då jag lärde mig
+    programmera.
+  + Bor i villa en mil norr om Gävle centrum
   + Två barn. Lukas 2012 och Dante 2006
   + Gift med Anna Sandén.
   + Född och uppväxt i Gävle.
-
  #+LaTeX: \pagebreak
 
 ** Önskemål på arbeten och arbetsuppgifter.
-   :PROPERTIES:
-   :CUSTOM_ID: h:f825a259-9bd6-4a12-913e-5af786ccbce0
-   :END:
-   - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
-     automatisering.
-   - Jag jobbar i Gnu/Linux[fn:linux:en.wikipedia.org/wiki/Linux]-miljö
-   - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
-   - Jag håller gärna föredrag och utbildning oavsett vilken roll jag har.
--------
-   - Jag jobbar (kodar) helst hemifrån. Om det finns kontor i eller i närheten
-     av Gävle kan jag resa någon gång i veckan.
--------
-   - Jag hjälper gärna till med problem och support i Microsoft Windows om jag
-     kan. Installationer, konfigurerar mjukvaru och nätverk eller felsökning hos
-     kunder eller andras windows-miljöer hjälper jag mer än gärna till med; men
-     själv, jobbar jag alltid i någon distribution av Gnu/Linux eller Unix.
-   - Jag kodar /inte/ C# och har mycket begränsade kunskaper och erfarneheter av
-     .NET (Dot Net), Azure.
+- Systemutveckling, Fullstack/DevOps med tyngdpunkt på backend och
+  automatisering.
+- Jag kan ta uppdrag som teknisk projektledare, teamledare och scrum-master.
+- Jobbar främst i Gnu/Linux[fn:linux:en.wikipedia.org/wiki/Linux]-miljö
+- Har inga problem att komma in till kontor för möten men kodar helt hemifrån.
+
+** Svaga sidor.
+- Att bedöma människors personligheter (gruppdynamik och "mjuka värderingar")
+- Stavar som en kratta, på gränsen till dyslexi.
+- Introvert, vilket kanske inte är en svaghet i sig men jag får ingen
+  energi/inspiration i grupp-miljö.
+- Har mycket begränsade kunskaper och erfarenheter av Microsoft.
+  - Microsoft teknikstack (.NET, Azure, SQL Server, Visual Studio osv)
+    intresserar mig inte alls.
 
 ** Kompetens och erfarenhet
 #+BEGIN_COMMENT
 Beräkningar på hur länge jag jobbat.
 (- 2019 1997) = 22
 (- 2019 1995) = 24
-(- 2021 1995) = 26
+(- 2025 1995) = 30
 #+END_COMMENT
 
-  1. 25+ års erfarenhet i IT-branschen främst som it-konsult och
+  1. 30+ års erfarenhet i IT-branschen främst som it-konsult och
      systemutvecklare.
   2. Certifierad *Prince2® Projektledare* och ledarskap.
   3. Certifierad Scrum-master (och Produktägare).
 
 ** Förtroendeuppdrag.
-   - Ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]] mellan 2017-2021.
-
-     Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med främsta
-     syfte att främja öl-kultur. Vi annordnar provningar, studieresor och
-     fester. Vi delar även ut ett årligt stipendium och har väldigt roligt
-     tillsammans.
+   - Ordförande i [[http://www.gefleolsellskap.com][Gefle Ölsellskap]] mellan 2017 - 2021.
+     #+begin_quote
+       Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med
+       främsta syfte att främja öl-kultur. Vi annordnar provningar, studieresor
+       och fester. Vi delar även ut ett årligt stipendium och har väldigt roligt
+       tillsammans.
+     #+end_quote
    - 2018 och 2019 revisor i Västerbackens samfällighetsförening
+   - Är valberedare i Gefle Ölsellskap sedan 2021
 
  #+LaTeX: \pagebreak
 
 ** Nuvarande anställning
-   :PROPERTIES:
-   :CUSTOM_ID: h:22921615-ef13-48d3-965a-d74661f16611
-   :END:
-   Sedan September 2022 har jag arbetat som It-konsult i Gävle med Visionite
-   (tidigare One Group) som arbetsgivare. Den senaste tiden har jag främst
-   arbetat inom fastighetsdata mot Lantmäteriet. Projekt, roller, team och
-   arbetsuppgfiter har varierat genom åren.
-
-   | Applikationsansvarig | Gruppledare                    |
-   | Systemutvecklare     | Förvaltare                     |
-   | Konfiguration        | Teknisk konsult i "testfabrik" |
-   | Databasmigrering     | Deployer/Integratör            |
+Sedan September 2022 har jag arbetat som It-konsult i Gävle med Visionite
+(tidigare One Group) som arbetsgivare. Min nuvarande uppdrag är systemutvecklare
+på Lantmäteriet i TeamCobra. TeamCobra är ett it-leverans Team som utvecklar,
+förvaltar och driftar ett 30-tal system inom fastighetsdataområdet.
 
 * Utbildningar och kurser
 :PROPERTIES:
@@ -249,25 +241,25 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:7fccea77-1506-44bb-b513-0e622f059e71
    :END:
-   1. Konsult: Jag har jobbat som konsult hos de flesta av mina [[*Arbetsgivare och uppdrag][Arbetsgivare]]
-   2. Fastighet: på Lantmäteriet via [[#knowit][Knowit]]
-   3. TeleCom (Produktions test): Ericsson AB via [[#syntronic][Syntronic]] [[#mandator-cellnetwork][Mandator]]
-      [[#itgdata][ITG]]
+   1. Konsult/Systemutvecklare: Jag har jobbat som konsult och systemutvecklare
+      hos de flesta av mina [[*Arbetsgivare och uppdrag][Arbetsgivare]]
+   2. Fastighetsdata ([[#onegroup][Visionite]] [[#knowit][Knowit]] [[#mandator-fujitsu][Fujizu/Mandator]])
+   3. TeleCom (Produktions test): Ericsson AB via [[#syntronic][Syntronic]] [[#mandator-cellnetwork][Mandator]] [[#itgdata][ITG]]
    4. Test: "Testfabrik" på Lantmäteriet via [[#mandator-fujitsu][Fujitzu]]
    5. 3D/Grafik/Realtid: [[#kenvision][KenVision]]
-   6. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
-      [[#knowit][Knowit]], *Java* - intern utbildning på [[#mandator-cellnetwork][Mandator]], *IT-handledning*
-      på [[#datorteket][Datorteket (Gävle Kommun)]]
-   7. Smarta Hem: [[#utilator][Utilator]]
+   6. Smarta Hem: [[#utilator][Utilator]]
+   7. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via [[#knowit][Knowit]],
+      *Java* - intern utbildning på [[#mandator-cellnetwork][Mandator]], *IT-handledning* på [[#datorteket][Datorteket]]
+      (Gävle Kommun)
 
 ** Programmeringsspråk
    :PROPERTIES:
    :CUSTOM_ID: h:35829770-ec7c-4538-939c-2c4f3a2b66c2
    :END:
+   - Java/Kotlin[fn:java:openjdk.org], c/C++
    - Python[fn:python:www.python.org], PHP, Perl
-   - Java/Kotlin[fn:java], c/C++
-   - html/css, Javascript, TypeScript (Angular)
-   - Sql, Bash, Ansible, Podman, OpenShift, Docker
+   - html/css, Javascript/TypeScript (Angular/Vue)
+   - Sql, Bash, Ansible, Docker/Podman
 
 ** Databaser
 - Oracle
@@ -279,22 +271,19 @@ Beräkningar på hur länge jag jobbat.
    :PROPERTIES:
    :CUSTOM_ID: h:cf918f3b-60af-4ed6-a281-af17fced6ca2
    :END:
-   Jag sköter det mesta från Emacs[fn:emacs:www.gnu.org/software/emacs/] oavsett språk.
-
-   - Emacs[fn:emacs]
+   Jag sköter det mesta från Emacs[fn:emacs:www.gnu.org/software/emacs/] oavsett
+   språk.
+   + Emacs[fn:emacs]
      - Org-mode[fn:orgmode:orgmode.org/]
      - Eglot [fn:eglot:github.com/joaotavora/eglot]
      - LSP[fn:lsp1:langserver.org/] [fn:lsp2:microsoft.github.io/language-server-protocol/]
      - Magit[fn:magit:magit.vc/][fn:git]
-   - Git[fn:git:git-scm.com/]
-   - Python[fn:python]
-   - Java/Kotlin[fn:java:openjdk.java.net/]
-     - JetBrains Intellij[fn:jetbrains:www.jetbrains.com/toolbox-app/]
-     - Eclips-STS[fn:sts:spring.io/tools]
-     - Android Studio[fn:androidstudio:developer.android.com/studio]
-     - Ant[fn:ant:ant.apache.org/]
-     - Maven[fn:maven:maven.apache.org/]
-
+   + JetBrains Intellij[fn:jetbrains:www.jetbrains.com/toolbox-app/]
+   + Eclips-STS[fn:sts:spring.io/tools]
+   + Android Studio[fn:androidstudio:developer.android.com/studio]
+   + NetBeans [fn:netbeans:netbeans.apache.org]
+   + Ant[fn:ant:ant.apache.org/]
+   + Maven[fn:maven:maven.apache.org/]
 
  #+LaTeX: \pagebreak
 
@@ -310,7 +299,6 @@ Beräkningar på hur länge jag jobbat.
 
 #+LaTeX: \pagebreak
 ** Visionite/One Group
-
 :PROPERTIES:
 :CUSTOM_ID: onegroup
 :END:
@@ -357,7 +345,7 @@ Ett nordiskt konsultföretag med lokal närvaro.
    5) Teknik: Python[fn:python] (pip/setuptools, flask, bottle, virtualenv,
       click, tox, pex), Emacs[fn:emacs]/Org-mode[fn:orgmode], Docker/Docker,
       Java[fn:java], Ant[fn:ant], Maven[fn:maven], Eclipse/STS, JBuilder, JSF,
-      Spring Framework, Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[fn:git],
+      Spring Framework, Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[fn:git:git-scm.com],
       Hybernate ,Jira, Fitnesse
 
 ** Mandator/Fujitsu
@@ -420,6 +408,7 @@ Ett nordiskt konsultföretag med lokal närvaro.
    :CUSTOM_ID: mind
    :END:
    Mind[fn:mind] Var ett Stockholmsbaserat konsultföretag med inriktning på web.
+   Mitt kontor var placerat i uppsala.
 
    1) Period: Maj 2000 - November 2000[fn:mind:Mind gick in konkurs under
       it-bubblan 2000]

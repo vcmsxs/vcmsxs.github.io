@@ -7,7 +7,7 @@
                         _______________________
 
 
-                         <2024-11-17 Sun 09:22>
+                         <2025-03-25 Tue 20:49>
 
 
                        <file:../img/matteus.jpg>
@@ -27,9 +27,10 @@ _________________
 .. 2. Kontaktuppgifter
 .. 3. Vem är Johan?
 .. 4. Önskemål på arbeten och arbetsuppgifter.
-.. 5. Kompetens och erfarenhet
-.. 6. Förtroendeuppdrag.
-.. 7. Nuvarande anställning
+.. 5. Svaga sidor.
+.. 6. Kompetens och erfarenhet
+.. 7. Förtroendeuppdrag.
+.. 8. Nuvarande anställning
 2. Utbildningar och kurser
 .. 1. [Kurs: Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188)]
 .. 2. Kurs: Systemförvaltning med PM3 och ITIL i samverkan.
@@ -102,18 +103,19 @@ _________________
 ~~~~~~~~~~~~~~~~~
 
   + Mina vänner beskriver mig som tankfull och lugn.
-  + Föredrar att vara hemma på kvällar, helger och semester.
-  + Hängiven förespråkare av GnuEmacs[1]/-Gnu/Linux[2], Git[3], Lisp,
-    Python[4] mm.
+  + Föredrar alltid att vara hemma. Jag tycker inte om att resa varken i
+    jobbet eller på semester.
   + Vegetarian
-  + Ordförande i Gefle Ölsellskap[5].
-    - Åren 2017 - 2021
-  + Tycker om att göra musik. Har spelat sedan jag kunde nå upp till
-    pianot.
-  + Tjatade till mig en dator i julklapp vid 11 års åldern. Det var då
-    jag lärde mig programmera.
-  + Älskar katter.
-  + Bor lantligt i en gammal villa, en mil norr om Gävle centrum
+  + Favoritmat: Ost.
+  + Favoritdjur: katter
+  + Hängiven förespråkare av GnuEmacs[1]/ och Gnu/Linux[2] och
+    Python[3].
+  + Hedersmedlem i Gefle Ölsellskap[4].
+    - Ordförande 2017 - 2021
+  + Göra musik. Har spelat sedan jag kunde nådde upp till pianot.
+  + Fick en dator i julklapp i 11 års åldern och det var då jag lärde
+    mig programmera.
+  + Bor i villa en mil norr om Gävle centrum
   + Två barn. Lukas 2012 och Dante 2006
   + Gift med Anna Sandén.
   + Född och uppväxt i Gävle.
@@ -122,61 +124,61 @@ _________________
 1.4 Önskemål på arbeten och arbetsuppgifter.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  - Systemutvecklare Fullstack/DevOps med tyngdpunkt på backend och
+  - Systemutveckling, Fullstack/DevOps med tyngdpunkt på backend och
     automatisering.
-  - Jag jobbar i Gnu/Linux[2]-miljö
-  - Teknisk projektledare, scrum-master, arkitektuppdrag/it-strategi.
-  - Jag håller gärna föredrag och utbildning oavsett vilken roll jag
-    har.
-  ----------------------------------------------------------------------
-  - Jag jobbar (kodar) helst hemifrån. Om det finns kontor i eller i
-    närheten av Gävle kan jag resa någon gång i veckan.
-  ----------------------------------------------------------------------
-  - Jag hjälper gärna till med problem och support i Microsoft Windows
-    om jag kan. Installationer, konfigurerar mjukvaru och nätverk eller
-    felsökning hos kunder eller andras windows-miljöer hjälper jag mer
-    än gärna till med; men själv, jobbar jag alltid i någon distribution
-    av Gnu/Linux eller Unix.
-  - Jag kodar /inte/ C# och har mycket begränsade kunskaper och
-    erfarneheter av .NET (Dot Net), Azure.
+  - Jag kan ta uppdrag som teknisk projektledare, teamledare och
+    scrum-master.
+  - Jobbar främst i Gnu/Linux[2]-miljö
+  - Har inga problem att komma in till kontor för möten men kodar helt
+    hemifrån.
 
 
-1.5 Kompetens och erfarenhet
+1.5 Svaga sidor.
+~~~~~~~~~~~~~~~~
+
+  - Att bedöma människors personligheter (gruppdynamik och "mjuka
+    värderingar")
+  - Stavar som en kratta, på gränsen till dyslexi.
+  - Introvert, vilket kanske inte är en svaghet i sig men jag får ingen
+    energi/inspiration i grupp-miljö.
+  - Har mycket begränsade kunskaper och erfarenheter av Microsoft.
+    - Microsoft teknikstack (.NET, Azure, SQL Server, Visual Studio osv)
+      intresserar mig inte alls.
+
+
+1.6 Kompetens och erfarenhet
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1. 25+ års erfarenhet i IT-branschen främst som it-konsult och
+  1. 30+ års erfarenhet i IT-branschen främst som it-konsult och
      systemutvecklare.
   2. Certifierad *Prince2® Projektledare* och ledarskap.
   3. Certifierad Scrum-master (och Produktägare).
 
 
-1.6 Förtroendeuppdrag.
+1.7 Förtroendeuppdrag.
 ~~~~~~~~~~~~~~~~~~~~~~
 
-  - Ordförande i [Gefle Ölsellskap] mellan 2017-2021.
-
-    Gefle Ölsellskap är en ideell förening med drygt 100 medlemmar med
-    främsta syfte att främja öl-kultur. Vi annordnar provningar,
-    studieresor och fester. Vi delar även ut ett årligt stipendium och
-    har väldigt roligt tillsammans.
+  - Ordförande i [Gefle Ölsellskap] mellan 2017 - 2021.
+          Gefle Ölsellskap är en ideell förening med drygt 100
+          medlemmar med främsta syfte att främja öl-kultur. Vi
+          annordnar provningar, studieresor och fester. Vi delar
+          även ut ett årligt stipendium och har väldigt roligt
+          tillsammans.
   - 2018 och 2019 revisor i Västerbackens samfällighetsförening
+  - Är valberedare i Gefle Ölsellskap sedan 2021
 
 
 [Gefle Ölsellskap] <http://www.gefleolsellskap.com>
 
 
-1.7 Nuvarande anställning
+1.8 Nuvarande anställning
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
   Sedan September 2022 har jag arbetat som It-konsult i Gävle med
-  Visionite (tidigare One Group) som arbetsgivare. Den senaste tiden har
-  jag främst arbetat inom fastighetsdata mot Lantmäteriet. Projekt,
-  roller, team och arbetsuppgfiter har varierat genom åren.
-
-   Applikationsansvarig  Gruppledare
-   Systemutvecklare      Förvaltare
-   Konfiguration         Teknisk konsult i "testfabrik"
-   Databasmigrering      Deployer/Integratör
+  Visionite (tidigare One Group) som arbetsgivare. Min nuvarande uppdrag
+  är systemutvecklare på Lantmäteriet i TeamCobra. TeamCobra är ett
+  it-leverans Team som utvecklar, förvaltar och driftar ett 30-tal
+  system inom fastighetsdataområdet.
 
 
 2 Utbildningar och kurser
@@ -326,22 +328,26 @@ Podman (DO188)]
 3.1 Branscher
 ~~~~~~~~~~~~~
 
-  1. Konsult: Jag har jobbat som konsult hos de flesta av mina
-     [Arbetsgivare]
-  2. Fastighet: på Lantmäteriet via [Knowit]
+  1. Konsult/Systemutvecklare: Jag har jobbat som konsult och
+     systemutvecklare hos de flesta av mina [Arbetsgivare]
+  2. Fastighetsdata ([Visionite] [Knowit] [Fujizu/Mandator])
   3. TeleCom (Produktions test): Ericsson AB via [Syntronic] [Mandator]
      [ITG]
   4. Test: "Testfabrik" på Lantmäteriet via [Fujitzu]
   5. 3D/Grafik/Realtid: [KenVision]
-  6. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
+  6. Smarta Hem: [Utilator]
+  7. Utbildning: *Agil utveckling* - som konsult mot Korsnäs via
      [Knowit], *Java* - intern utbildning på [Mandator],
-     *IT-handledning* på [Datorteket (Gävle Kommun)]
-  7. Smarta Hem: [Utilator]
+     *IT-handledning* på [Datorteket] (Gävle Kommun)
 
 
 [Arbetsgivare] See section 4
 
+[Visionite] See section 4.1
+
 [Knowit] See section 4.2
+
+[Fujizu/Mandator] See section 4.3
 
 [Syntronic] See section 4.8
 
@@ -353,18 +359,18 @@ Podman (DO188)]
 
 [KenVision] See section 4.9
 
-[Datorteket (Gävle Kommun)] See section 4.10
-
 [Utilator] See section 4.5
+
+[Datorteket] See section 4.10
 
 
 3.2 Programmeringsspråk
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-  - Python[4], PHP, Perl
-  - Java/Kotlin[6], c/C++
-  - html/css, Javascript, TypeScript (Angular)
-  - Sql, Bash, Ansible, Podman, OpenShift, Docker
+  - Java/Kotlin[5], c/C++
+  - Python[3], PHP, Perl
+  - html/css, Javascript/TypeScript (Angular/Vue)
+  - Sql, Bash, Ansible, Docker/Podman
 
 
 3.3 Databaser
@@ -380,20 +386,17 @@ Podman (DO188)]
 ~~~~~~~~~~~~~~~~~~~~~~
 
   Jag sköter det mesta från Emacs[1] oavsett språk.
-
-  - Emacs[1]
-    - Org-mode[7]
-    - Eglot [8]
-    - LSP[9] [10]
-    - Magit[11][3]
-  - Git[3]
-  - Python[4]
-  - Java/Kotlin[6]
-    - JetBrains Intellij[12]
-    - Eclips-STS[13]
-    - Android Studio[14]
-    - Ant[15]
-    - Maven[16]
+  + Emacs[1]
+    - Org-mode[6]
+    - Eglot [7]
+    - LSP[8] [9]
+    - Magit[10][11]
+  + JetBrains Intellij[12]
+  + Eclips-STS[13]
+  + Android Studio[14]
+  + NetBeans [15]
+  + Ant[16]
+  + Maven[17]
 
 
 4 Arbetsgivare och uppdrag
@@ -408,7 +411,7 @@ Podman (DO188)]
 4.1 Visionite/One Group
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-  Visionite[17] - Ett svenskt konsultbolag med Specialistkompetens inom
+  Visionite[18] - Ett svenskt konsultbolag med Specialistkompetens inom
   IT. 2024 bytte One Group namn till Visionite
 
   1. Period: September 2022 - Nuvarande
@@ -449,17 +452,17 @@ Podman (DO188)]
         ägande mm
   4) Plattformar: Gnu/Linux[2] (Redhat, Ubuntu, Mint), Unix (Solaris),
      Windows XP, Windows 10
-  5) Teknik: Python[4] (pip/setuptools, flask, bottle, virtualenv,
-     click, tox, pex), Emacs[1]/Org-mode[7], Docker/Docker, Java[6],
-     Ant[15], Maven[16], Eclipse/STS, JBuilder, JSF, Spring Framework,
-     Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[3], Hybernate ,Jira,
+  5) Teknik: Python[3] (pip/setuptools, flask, bottle, virtualenv,
+     click, tox, pex), Emacs[1]/Org-mode[6], Docker/Docker, Java[5],
+     Ant[16], Maven[17], Eclipse/STS, JBuilder, JSF, Spring Framework,
+     Oracle, SQLite, PostgreSQL ,SVN, CVS, GIT[11], Hybernate ,Jira,
      Fitnesse
 
 
 4.3 Mandator/Fujitsu
 ~~~~~~~~~~~~~~~~~~~~
 
-  Fujitsu[18], ett internationellt konsultföretag [19].
+  Fujitsu[19], ett internationellt konsultföretag [20].
 
   1) Plattformar: Solaris, Windows XP
   2) Period: Januari 2003 - September 2008
@@ -473,7 +476,7 @@ Podman (DO188)]
         register.
      4. Lantmäteriet - Iris programmet. Nytt inskrivningssystem för
         fastigheter.
-  5) Teknik: Java, Emacs[1], Org-mode[7], BEA WLS, Tibco RDV, Fujitzu
+  5) Teknik: Java, Emacs[1], Org-mode[6], BEA WLS, Tibco RDV, Fujitzu
      iFlow., XML/Soup, NetBeans (Visual Web Pack), Eclips, Oracle,
      Spring, Hybernate, JBuilder, Ant, MercuryInteractive (TestDirector,
      Quick Test Proffessionell),senare HP QC, Tomcat
@@ -482,7 +485,7 @@ Podman (DO188)]
 4.4 ITG Data
 ~~~~~~~~~~~~
 
-  ITGData[20]. Dataavdelningen/dotterföretag på ett industriteknik
+  ITGData[21]. Dataavdelningen/dotterföretag på ett industriteknik
   företag.
 
   1) Period: Februari 2001 - December 2002
@@ -496,9 +499,9 @@ Podman (DO188)]
 4.5 Utilator
 ~~~~~~~~~~~~
 
-  Utilator[21] var ett litet it-företag med inriktning mot "smarta hem".
+  Utilator[22] var ett litet it-företag med inriktning mot "smarta hem".
 
-  1) Period: November 2000 - Februari 2001[21]
+  1) Period: November 2000 - Februari 2001[22]
   2) Titel: Systemutvecklare.
   3) Plattform: Gnu/Linux[2] Redhat
   4) Uppdrag: "Smarta hem"
@@ -509,10 +512,10 @@ Podman (DO188)]
 4.6 Mind
 ~~~~~~~~
 
-  Mind[22] Var ett Stockholmsbaserat konsultföretag med inriktning på
-  web.
+  Mind[23] Var ett Stockholmsbaserat konsultföretag med inriktning på
+  web. Mitt kontor var placerat i uppsala.
 
-  1) Period: Maj 2000 - November 2000[22]
+  1) Period: Maj 2000 - November 2000[23]
   2) Titel: Java Expert, It-konsult.
   3) Plattformar: Windows 2000, Solaris
   4) Uppdrag: Portaler
@@ -538,7 +541,7 @@ Podman (DO188)]
 4.8 Syntronic
 ~~~~~~~~~~~~~
 
-  Syntronic[23] är Konsultföretag med inriktning på elektronik, radio
+  Syntronic[24] är Konsultföretag med inriktning på elektronik, radio
   och telecom.
 
   1) Period: September 1997 - April 1999
@@ -590,23 +593,23 @@ ________
 
 [2] en.wikipedia.org/wiki/Linux
 
-[3] git-scm.com/
+[3] www.python.org
 
-[4] www.python.org
+[4] gefleolsellskap.com
 
-[5] gefleolsellskap.com
+[5] openjdk.org
 
-[6] openjdk.java.net/
+[6] orgmode.org/
 
-[7] orgmode.org/
+[7] github.com/joaotavora/eglot
 
-[8] github.com/joaotavora/eglot
+[8] langserver.org/
 
-[9] langserver.org/
+[9] microsoft.github.io/language-server-protocol/
 
-[10] microsoft.github.io/language-server-protocol/
+[10] magit.vc/
 
-[11] magit.vc/
+[11] git-scm.com
 
 [12] www.jetbrains.com/toolbox-app/
 
@@ -614,20 +617,22 @@ ________
 
 [14] developer.android.com/studio
 
-[15] ant.apache.org/
+[15] netbeans.apache.org
 
-[16] maven.apache.org/
+[16] ant.apache.org/
 
-[17] www.visionite.se
+[17] maven.apache.org/
 
-[18] www.fujitsu.com/se/
+[18] www.visionite.se
 
-[19] Företaget bytte namn 3 gånger under min anställning.
+[19] www.fujitsu.com/se/
 
-[20] Såldes till BIS industriteknik 2006
+[20] Företaget bytte namn 3 gånger under min anställning.
 
-[21] Anställd 3 månader på utilator innan konkurs
+[21] Såldes till BIS industriteknik 2006
 
-[22] Mind gick in konkurs under it-bubblan 2000
+[22] Anställd 3 månader på utilator innan konkurs
 
-[23] www.syntronic.se
+[23] Mind gick in konkurs under it-bubblan 2000
+
+[24] www.syntronic.se
