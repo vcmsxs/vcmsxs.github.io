@@ -91,8 +91,6 @@ Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:merite
   + Föredrar alltid att vara hemma. Jag tycker inte om att resa varken i jobbet
     eller på semester.
   + Vegetarian
-  + Favoritmat: Ost.
-  + Favoritdjur: katter
   + Hängiven förespråkare av GnuEmacs[fn:emacs]/ och Gnu/Linux[fn:linux] och
     Python[fn:python].
   + Hedersmedlem i Gefle Ölsellskap[fn:gefleolsellskap:gefleolsellskap.com].
@@ -107,20 +105,19 @@ Förutom som websida (på http://cv.hoahoa.se) finns den även som [[file:merite
  #+LaTeX: \pagebreak
 
 ** Önskemål på arbeten och arbetsuppgifter.
+- Teknisk projektledare, teamledare och scrum-master.
 - Systemutveckling, Fullstack/DevOps med tyngdpunkt på backend och
   automatisering.
-- Jag kan ta uppdrag som teknisk projektledare, teamledare och scrum-master.
 - Jobbar främst i Gnu/Linux[fn:linux:en.wikipedia.org/wiki/Linux]-miljö
 - Har inga problem att komma in till kontor för möten men kodar helt hemifrån.
 
 ** Svaga sidor.
-- Att bedöma människors personligheter (gruppdynamik och "mjuka värderingar")
+- Att bedöma människors personligheter, gruppdynamik och mjuka värderingar"
 - Stavar som en kratta, på gränsen till dyslexi.
-- Introvert, vilket kanske inte är en svaghet i sig men jag får ingen
-  energi/inspiration i grupp-miljö.
 - Har mycket begränsade kunskaper och erfarenheter av Microsoft.
   - Microsoft teknikstack (.NET, Azure, SQL Server, Visual Studio osv)
     intresserar mig inte alls.
+- Introvert
 
 ** Kompetens och erfarenhet
 #+BEGIN_COMMENT
@@ -150,9 +147,10 @@ Beräkningar på hur länge jag jobbat.
 
 ** Nuvarande anställning
 Sedan September 2022 har jag arbetat som It-konsult i Gävle med Visionite
-(tidigare One Group) som arbetsgivare. Min nuvarande uppdrag är systemutvecklare
-på Lantmäteriet i TeamCobra. TeamCobra är ett it-leverans Team som utvecklar,
-förvaltar och driftar ett 30-tal system inom fastighetsdataområdet.
+(tidigare One Group) som arbetsgivare. Min nuvarande uppdrag är Teamledare och
+systemutvecklare på Lantmäteriet i TeamCobra. TeamCobra är ett it-leverans Team
+som utvecklar, förvaltar och driftar ett 30-tal system inom
+fastighetsdataområdet.
 
 * Utbildningar och kurser
 :PROPERTIES:
@@ -307,7 +305,7 @@ förvaltar och driftar ett 30-tal system inom fastighetsdataområdet.
    Specialistkompetens inom IT. 2024 bytte One Group namn till Visionite
 
    1. Period: September 2022 - Nuvarande
-   2. Titel/Roller: Systemutvecklare, It-Konsult
+   2. Titel/Roller: Teamledare, Systemutvecklare, It-Konsult
    3. Uppdrag:
       - Lantmäteriet - TeamCobra. Underhåll och vidareutveckling av
         leveranslager mot fastighet, byggand/adresser och inskrivning. Samt
