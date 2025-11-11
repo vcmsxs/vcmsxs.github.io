@@ -1,0 +1,24 @@
+#+title: Teknik i kulturen
+#+subtitle: <2025-11-11 07:56>
+#+date: <2025-11-11 07:56:46>
+#+author: Johan Sandén
+#+email: johan.sanden@gmail.com
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="../../../css/style.css" />
+#+INCLUDE: ../../../__blog_meny.org
+
+Kultur och konst handlar om våra sinnen – syn, hörsel, smak, doft och känsel –
+allt som människor hittar på för att förstå, uttrycka och förvirra sig själva.
+Ämnet är tvärvetenskapligt och rör sig ledigt mellan estetik, historia,
+samhällsförändringar, vetenskap och teknik.
+
+Kulturutövare har alltid kastat sig över ny teknik: teaterns ljus gick från eld
+till elektricitet, ljudet fick högtalare, filmen gav oss Buster Keaton och
+Chaplin, som så småningom ledde till Bergman och Scorsese. Datorn gav oss spel,
+animationer och bildförbättringar – och nu står AI för dörren.
+
+Skillnaden är bara att denna gång verkar många kulturutövare ha glömt sin
+historia och ropar att tekniken hotar konsten. En märklig oro, med tanke på att
+kultur alltid överlevt värre saker än en algoritm. Teknikrädsla är för visso en
+gammal tradition i sig - fast en ganska ointressant sådan.
+
+------------
