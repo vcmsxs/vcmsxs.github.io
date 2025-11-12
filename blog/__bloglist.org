@@ -1,5 +1,6 @@
 #+TITLE: Sitemap for project blog
 
+- <2025-11-12 Wed 10:20>  [[file:2025/11/blog_2025-11-12__20:20:02.org][Var är valfläsket?]]
 - <2025-11-11 Tue 07:56>  [[file:2025/11/blog_2025-11-11__07:56:40.org][Teknik i kulturen]]
 - <2025-09-30 Tue 14:38>  [[file:2025/09/blog_2025-09-30__14:37:55.org][Religion och sagor]]
 - <2025-05-21 Wed 13:52>  [[file:2025/05/blog_2025-05-21__13:51:32.org][AI-Uppföljning]]
