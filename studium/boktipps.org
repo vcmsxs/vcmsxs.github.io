@@ -19,94 +19,96 @@
 
 -------
 
-- Det här är i princip alla böcker jag läst (okay då, oftast lyssnat på) sen 2019 åren.
+Det här är några av de böcker jag läste eller lyssnade på mellan 2019 - 2021.
+Sen dess har jag inte orkat skriva upp dem. De med fet stil kan jag varmt
+rekommendera.
 
-| Betyg 1-10 | Boknamn                                                 | Författare                                                              |
-|------------+---------------------------------------------------------+-------------------------------------------------------------------------|
-|          8 | En gentleman i Moskva                                   | Amor Towles                                                             |
-|          5 | Artemis                                                 | Andy Weir                                                               |
-|          7 | Uppdrag Hail Marry - Ensam i rymden                     | Andy Weir                                                               |
-|          4 | Rödarummet                                              | August Strindberg                                                       |
-|          3 | Den förlorade symbolen                                  | Dan Brown                                                               |
-|          5 | Väktare                                                 | Dean Koontz                                                             |
-|          4 | Utpost E2                                               | Dimitry Glukhovsky                                                      |
-|          4 | Utpost E1                                               | Dimitry Glukhovsky                                                      |
-|          5 | Minnet av vatten                                        | Emmi Itäranta                                                           |
-|          5 | Candide                                                 | François-Marie Arouet Voltaire                                          |
-|          8 | Röde Orm                                                | Frans G. Bengtsson                                                      |
-|          4 | Förvandlingen                                           | Franz Kafka                                                             |
-|          3 | Processen                                               | Franz Kafka                                                             |
-|          2 | Brott och Straff                                        | Fyodor Dostoevsky                                                       |
-|          8 | Hur jag lärde mig förstå världen                        | Hans Rosling                                                            |
-|          6 | Aniara                                                  | Harry Martinson                                                         |
-|          5 | Sputnikälskling                                         | Haruki Murakami                                                         |
-|          8 | 1Q84 : Tredje boken                                     | Haruki Murakami                                                         |
-|          7 | 1Q84 : Andra boken                                      | Haruki Murakami                                                         |
-|          8 | 1Q84 : Första boken                                     | Haruki Murakami                                                         |
-|          8 | Harry Potter 7. Harry Potter och Dödsrelikerna          | Joanne Kathleen (J.K.) Rowling                                          |
-|          7 | Harry Potter 6. Harry Potter och Halvblodsprinsen       | Joanne Kathleen (J.K.) Rowling                                          |
-|          7 | Harry Potter 5. Harry Potter och Fenixordern            | Joanne Kathleen (J.K.) Rowling                                          |
-|          6 | Harry Potter 4. Harry Potter och den flammande bägaren  | Joanne Kathleen (J.K.) Rowling                                          |
-|          6 | Harry Potter 3. Harry Potter och fången från Azkaban    | Joanne Kathleen (J.K.) Rowling                                          |
-|          5 | Harry Potter 2. Harry Potter och hemligheternas kammare | Joanne Kathleen (J.K.) Rowling                                          |
-|          7 | Harry Potter 1. Harry Potter och de vises sten          | Joanne Kathleen (J.K.) Rowling                                          |
-|          5 | Sommaren 1985                                           | John Ajvide Lindqvist                                                   |
-|          7 | Skriften i vattnet                                      | John Ajvide Lindqvist                                                   |
-|          6 | Lilla stjäna                                            | John Ajvide Lindqvist                                                   |
-|          5 | Låt den rätte komma in                                  | John Ajvide Lindqvist                                                   |
-|          7 | Vänligheten                                             | John Ajvide Lindqvist                                                   |
-|          6 | Konungens återkomst (Ringarnas herre 3)                 | John Ronald Reuel (J.R.R.) Tolkien                                      |
-|          6 | De två tornen (Ringarnas herre 2)                       | John Ronald Reuel (J.R.R.) Tolkien                                      |
-|          5 | Ringens brödraskap (Ringarnas herre 1)                  | John Ronald Reuel (J.R.R.) Tolkien                                      |
-|          6 | Hobbiten - bort och hem igen                            | John Ronald Reuel (J.R.R.) Tolkien                                      |
-|          4 | Kallocain                                               | Karin Boye                                                              |
-|          5 | Minnesteatern                                           | Karin Tidbeck                                                           |
-|          4 | Smaragdeld                                              | Karl Kjellin                                                            |
-|          6 | Tritonus                                                | Kjell Westö                                                             |
-|          5 | En biodlares död                                        | Lars Gustafsson                                                         |
-|          4 | Magikerna                                               | Lev Grossman                                                            |
-|          3 | Den ädla konsten of not giving a f*ck                   | Mark Manson                                                             |
-|          4 | Kalldrag                                                | Markus Sköld                                                            |
-|          8 | Landsförädare - En berättelse inifrån Moderaterna       | Moa Berglöf                                                             |
-|          5 | Coraline                                                | Neil Gaiman                                                             |
-|          8 | Kyrkogårdsboken                                         | Neil Gaiman                                                             |
-|          3 | Nordiska myter: från Yggdrasil till Ragnarrök           | Neil Gaiman                                                             |
-|          7 | Oceanen vid vägens slut                                 | Neil Gaiman                                                             |
-|          6 | Goda Omen                                               | Neil Gaiman, Terry Pratchett                                            |
-|          3 | Fursten                                                 | Niccolò Machiavelli                                                     |
-|          8 | American Gods                                           | Niel Gaiman                                                             |
-|          6 | 1795                                                    | Niklas Natt Och Dag                                                     |
-|          6 | 1794                                                    | Niklas Natt Och Dag                                                     |
-|          7 | 1793                                                    | Niklas Natt Och Dag                                                     |
-|          7 | Det                                                     | Stephen King                                                            |
-|          4 | Maratonmarchen                                          | Stephen King                                                            |
-|          7 | En saga                                                 | Stephen King                                                            |
-|          5 | Eldfödd                                                 | Stephen King                                                            |
-|          5 | Sommardåd                                               | Stephen King                                                            |
-|          7 | Vinterverk                                              | Stephen King                                                            |
-|          6 | Carrie                                                  | Stephen King                                                            |
-|          7 | Väckelse                                                | Stephen King                                                            |
-|          7 | Jurtjyrkogården                                         | Stephen King                                                            |
-|          6 | Sista Vakten (nr 3 i Mr Mercedes - serien)              | Stephen King                                                            |
-|          7 | Mr Mercedes (nr 1 i Mr Mercedes - serien)               | Stephen King                                                            |
-|          6 | Den som finner (nr 2 i Mr Mercedes - serien)            | Stephen King                                                            |
-|          5 | Billy Summers                                           | Stephen King                                                            |
-|          6 | Doktor sömn                                             | Stephen King                                                            |
-|          6 | Senare                                                  | Stephen King                                                            |
-|          6 | Institutet                                              | Stephen King                                                            |
-|          7 | Blod Säljer                                             | Stephen King                                                            |
-|          7 | Outsidern                                               | Stephen King                                                            |
-|            | Varsel i mörkret                                        | Stephen King, John Ajvide Lindqvist, Clive Barker, Edgar Allan Poe m.fl |
-|          2 | Upplysning.Nu (förkortning)                             | Stephen Pinker                                                          |
-|          5 | Cirkelns ände                                           | Tom Egeland                                                             |
-|          4 | Det snöar i mumindalen                                  | Tove Jansson                                                            |
-|          4 | Mumintrollet och prinsessan av Mumindalen               | Tove Jansson                                                            |
-|          4 | Mumin och Filifjonkan                                   | Tove Jansson                                                            |
-|          4 | Mumin och den lilla draken                              | Tove Jansson                                                            |
-|          4 | Mumin och den förtrollade hatten                        | Tove Jansson                                                            |
-|          4 | Mumintrollet och månskensäventyret                      | Tove Jansson                                                            |
-|          4 | Vem ska trösta kyttet.                                  | Tove Jansson                                                            |
-|          4 | Mumindalens alfabet                                     | Tove Jansson                                                            |
-|          3 | Gravkammrarna i atuan                                   | Ursula Kroeber (K.) Le Guin                                             |
-|          7 | Trollaren från övärlden                                 | Ursula Kroeber (K.) Le Guin                                             |
-|          8 | Sapiens : en kort historik över mänskligheten           | Yuval Noah Harari                                                       |
+| Boknamn                                                 | Författare                                                              |
+|---------------------------------------------------------+-------------------------------------------------------------------------|
+| *En gentleman i Moskva*                                 | Amor Towles                                                             |
+| *Artemis*                                               | Andy Weir                                                               |
+| *Uppdrag Hail Marry - Ensam i rymden*                   | Andy Weir                                                               |
+| Rödarummet                                              | August Strindberg                                                       |
+| Den förlorade symbolen                                  | Dan Brown                                                               |
+| Väktare                                                 | Dean Koontz                                                             |
+| Utpost E2                                               | Dimitry Glukhovsky                                                      |
+| Utpost E1                                               | Dimitry Glukhovsky                                                      |
+| Minnet av vatten                                        | Emmi Itäranta                                                           |
+| *Candide*                                               | François-Marie Arouet Voltaire                                          |
+| *Röde Orm*                                              | Frans G. Bengtsson                                                      |
+| Förvandlingen                                           | Franz Kafka                                                             |
+| Processen                                               | Franz Kafka                                                             |
+| Brott och Straff                                        | Fyodor Dostoevsky                                                       |
+| *Hur jag lärde mig förstå världen*                      | Hans Rosling                                                            |
+| Aniara                                                  | Harry Martinson                                                         |
+| Sputnikälskling                                         | Haruki Murakami                                                         |
+| *1Q84 : Tredje boken*                                   | Haruki Murakami                                                         |
+| *1Q84 : Andra boken*                                    | Haruki Murakami                                                         |
+| *1Q84 : Första boken*                                   | Haruki Murakami                                                         |
+| Harry Potter 7. Harry Potter och Dödsrelikerna          | Joanne Kathleen (J.K.) Rowling                                          |
+| Harry Potter 6. Harry Potter och Halvblodsprinsen       | Joanne Kathleen (J.K.) Rowling                                          |
+| Harry Potter 5. Harry Potter och Fenixordern            | Joanne Kathleen (J.K.) Rowling                                          |
+| Harry Potter 4. Harry Potter och den flammande bägaren  | Joanne Kathleen (J.K.) Rowling                                          |
+| Harry Potter 3. Harry Potter och fången från Azkaban    | Joanne Kathleen (J.K.) Rowling                                          |
+| Harry Potter 2. Harry Potter och hemligheternas kammare | Joanne Kathleen (J.K.) Rowling                                          |
+| Harry Potter 1. Harry Potter och de vises sten          | Joanne Kathleen (J.K.) Rowling                                          |
+| Sommaren 1985                                           | John Ajvide Lindqvist                                                   |
+| Skriften i vattnet                                      | John Ajvide Lindqvist                                                   |
+| Lilla stjäna                                            | John Ajvide Lindqvist                                                   |
+| Låt den rätte komma in                                  | John Ajvide Lindqvist                                                   |
+| Vänligheten                                             | John Ajvide Lindqvist                                                   |
+| Konungens återkomst (Ringarnas herre 3)                 | John Ronald Reuel (J.R.R.) Tolkien                                      |
+| De två tornen (Ringarnas herre 2)                       | John Ronald Reuel (J.R.R.) Tolkien                                      |
+| Ringens brödraskap (Ringarnas herre 1)                  | John Ronald Reuel (J.R.R.) Tolkien                                      |
+| Hobbiten - bort och hem igen                            | John Ronald Reuel (J.R.R.) Tolkien                                      |
+| Kallocain                                               | Karin Boye                                                              |
+| Minnesteatern                                           | Karin Tidbeck                                                           |
+| Smaragdeld                                              | Karl Kjellin                                                            |
+| *Tritonus*                                              | Kjell Westö                                                             |
+| En biodlares död                                        | Lars Gustafsson                                                         |
+| Magikerna                                               | Lev Grossman                                                            |
+| Den ädla konsten of not giving a f*ck                   | Mark Manson                                                             |
+| Kalldrag                                                | Markus Sköld                                                            |
+| Landsförädare - En berättelse inifrån Moderaterna       | Moa Berglöf                                                             |
+| Coraline                                                | Neil Gaiman                                                             |
+| Kyrkogårdsboken                                         | Neil Gaiman                                                             |
+| Nordiska myter: från Yggdrasil till Ragnarrök           | Neil Gaiman                                                             |
+| Oceanen vid vägens slut                                 | Neil Gaiman                                                             |
+| Goda Omen                                               | Neil Gaiman, Terry Pratchett                                            |
+| Fursten                                                 | Niccolò Machiavelli                                                     |
+| *American Gods*                                         | Niel Gaiman                                                             |
+| *1795*                                                  | Niklas Natt Och Dag                                                     |
+| *1794*                                                  | Niklas Natt Och Dag                                                     |
+| *1793*                                                  | Niklas Natt Och Dag                                                     |
+| Det                                                     | Stephen King                                                            |
+| Maratonmarchen                                          | Stephen King                                                            |
+| *En saga*                                               | Stephen King                                                            |
+| Eldfödd                                                 | Stephen King                                                            |
+| Sommardåd                                               | Stephen King                                                            |
+| Vinterverk                                              | Stephen King                                                            |
+| Carrie                                                  | Stephen King                                                            |
+| Väckelse                                                | Stephen King                                                            |
+| Jurtjyrkogården                                         | Stephen King                                                            |
+| Sista Vakten (nr 3 i Mr Mercedes - serien)              | Stephen King                                                            |
+| Mr Mercedes (nr 1 i Mr Mercedes - serien)               | Stephen King                                                            |
+| Den som finner (nr 2 i Mr Mercedes - serien)            | Stephen King                                                            |
+| Billy Summers                                           | Stephen King                                                            |
+| Doktor sömn                                             | Stephen King                                                            |
+| Senare                                                  | Stephen King                                                            |
+| Institutet                                              | Stephen King                                                            |
+| Blod Säljer                                             | Stephen King                                                            |
+| Outsidern                                               | Stephen King                                                            |
+| Varsel i mörkret                                        | Stephen King, John Ajvide Lindqvist, Clive Barker, Edgar Allan Poe m.fl |
+| Upplysning.Nu (förkortning)                             | Stephen Pinker                                                          |
+| Cirkelns ände                                           | Tom Egeland                                                             |
+| Det snöar i mumindalen                                  | Tove Jansson                                                            |
+| Mumintrollet och prinsessan av Mumindalen               | Tove Jansson                                                            |
+| Mumin och Filifjonkan                                   | Tove Jansson                                                            |
+| Mumin och den lilla draken                              | Tove Jansson                                                            |
+| Mumin och den förtrollade hatten                        | Tove Jansson                                                            |
+| Mumintrollet och månskensäventyret                      | Tove Jansson                                                            |
+| Vem ska trösta kyttet.                                  | Tove Jansson                                                            |
+| Mumindalens alfabet                                     | Tove Jansson                                                            |
+| Gravkammrarna i atuan                                   | Ursula Kroeber (K.) Le Guin                                             |
+| *Trollaren från övärlden*                               | Ursula Kroeber (K.) Le Guin                                             |
+| Sapiens : en kort historik över mänskligheten           | Yuval Noah Harari                                                       |
